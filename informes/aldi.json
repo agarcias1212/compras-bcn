@@ -1,0 +1,577 @@
+{
+  "leche-entera": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "80000",
+        "name": "Leche entera",
+        "packaging": "1 l unidad",
+        "price": 0.96,
+        "ref_price": 0.96,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/leche-entera-80000.html"
+      }
+    ]
+  },
+  "huevos": {
+    "modo": "busqueda",
+    "query": "lacteos-y-huevos/huevos: huevos",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "arroz": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "768700",
+        "name": "Arroz redondo",
+        "packaging": "1 kg unidad",
+        "price": 1.09,
+        "ref_price": 1.09,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/arroz-redondo-768700.html"
+      }
+    ]
+  },
+  "azucar": {
+    "modo": "busqueda",
+    "query": "despensa/azucar-y-edulcorantes: azúcar",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "sal": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "250600",
+        "name": "Sal marina  fina yodada",
+        "packaging": "1 kg unidad",
+        "price": 0.38,
+        "ref_price": 0.38,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/sal-marina-fina-yodada-250600.html"
+      }
+    ]
+  },
+  "ternera": {
+    "modo": "busqueda",
+    "query": "carne/hamburguesas-y-carne-picada: picada vacuno -cerdo -pollo -ecologica",
+    "candidatos": [
+      {
+        "product_id": "601452700",
+        "name": "Burger meat picada de vacuno",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/burger-meat-picada-de-vacuno-601452700.html"
+      },
+      {
+        "product_id": "601491900",
+        "name": "Burger meat de vacuno",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/burger-meat-de-vacuno-601491900.html"
+      },
+      {
+        "product_id": "600463600",
+        "name": "Burger meat de vacuno angus",
+        "packaging": "300 g unidad",
+        "price": 4.89,
+        "ref_price": 16.3,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/burger-meat-de-vacuno-angus-600463600.html"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "pollo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "746800",
+        "name": "Pechuga de pollo formato familiar",
+        "packaging": "1 kg  aprox. / unidad",
+        "price": 5.55,
+        "ref_price": 5.55,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/pechuga-de-pollo-formato-familiar-746800.html"
+      }
+    ]
+  },
+  "cerdo": {
+    "modo": "busqueda",
+    "query": "carne/cerdo: lomo cerdo -iberico",
+    "candidatos": [
+      {
+        "product_id": "951400",
+        "name": "Cabeza de lomo de cerdo",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/cabeza-de-lomo-de-cerdo-951400.html"
+      },
+      {
+        "product_id": "744200",
+        "name": "Cinta de lomo de cerdo",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/cinta-de-lomo-de-cerdo-744200.html"
+      },
+      {
+        "product_id": "600728000",
+        "name": "Filete de lomo de cerdo corte fino",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/filete-de-lomo-de-cerdo-corte-fino-600728000.html"
+      },
+      {
+        "product_id": "600281600",
+        "name": "Filetes de lomo de cerdo",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/filetes-de-lomo-de-cerdo-600281600.html"
+      },
+      {
+        "product_id": "952300",
+        "name": "Secreto de cerdo blanco",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/secreto-de-cerdo-blanco-952300.html"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "leche-sin-lactosa": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "872200",
+        "name": "Leche entera sin lactosa",
+        "packaging": "1 l unidad",
+        "price": 1.03,
+        "ref_price": 1.03,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/leche-entera-sin-lactosa-872200.html"
+      }
+    ]
+  },
+  "patatas-fritas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "61700",
+        "name": "Patatas fritas al perol",
+        "packaging": "pack de 2 x 150 g",
+        "price": 1.8,
+        "ref_price": 6.0,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-fritas-al-perol-61700.html"
+      }
+    ]
+  },
+  "batido-chocolate": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "601202000",
+        "name": "Batido de chocolate",
+        "packaging": "pack de 6 x 200 ml",
+        "price": 1.55,
+        "ref_price": 1.29,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/batido-de-chocolate-601202000.html"
+      }
+    ]
+  },
+  "atun-natural": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "547100",
+        "name": "Atún claro al natural",
+        "packaging": "pack de 6 x 60 g peso esc.",
+        "price": 4.02,
+        "ref_price": 11.17,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/atun-claro-al-natural-547100.html"
+      }
+    ]
+  },
+  "nuez-moscada": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "601613500",
+        "name": "Nuez moscada",
+        "packaging": "50 g unidad",
+        "price": 1.25,
+        "ref_price": 25.0,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/nuez-moscada-601613500.html"
+      }
+    ]
+  },
+  "margarina": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "113000",
+        "name": "Margarina de girasol",
+        "packaging": "500 g unidad",
+        "price": 1.45,
+        "ref_price": 2.9,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/margarina-de-girasol-113000.html"
+      }
+    ]
+  },
+  "tortilla-patata": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "601832200",
+        "name": "Tortilla de patata con calabacín y cebolla caramelizada",
+        "packaging": "600 g unidad",
+        "price": 2.99,
+        "ref_price": 4.98,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/tortilla-de-patata-con-calabacin-y-cebolla-caramelizada-601832200.html"
+      }
+    ]
+  },
+  "aceite-girasol": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "111500",
+        "name": "Aceite de girasol",
+        "packaging": "1 l unidad",
+        "price": 1.84,
+        "ref_price": 1.84,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-girasol-111500.html"
+      }
+    ]
+  },
+  "vinagre-balsamico": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "136400",
+        "name": "Vinagre balsámico de Módena",
+        "packaging": "500 ml unidad",
+        "price": 2.15,
+        "ref_price": 4.3,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/vinagre-balsamico-de-modena-136400.html"
+      }
+    ]
+  },
+  "zumo-limon": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "601494603",
+        "name": "Zumo de limón concentrado",
+        "packaging": "200 ml unidad",
+        "price": 0.95,
+        "ref_price": 4.75,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/zumo-de-limon-concentrado-601494603.html"
+      }
+    ]
+  },
+  "servilletas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "410700",
+        "name": "Servilletas",
+        "packaging": "pack de 100 unidades",
+        "price": 1.55,
+        "ref_price": 0.015,
+        "ref_unit": "ud",
+        "url": "https://www.aldi.es/producto/servilletas-410700.html"
+      }
+    ]
+  },
+  "kefir": {
+    "modo": "busqueda",
+    "query": "lacteos-y-huevos/yogures-y-postres-lacteos: kefir natural",
+    "candidatos": [
+      {
+        "product_id": "882601",
+        "name": "Kéfir de cabra natural",
+        "packaging": "250 g unidad",
+        "price": 1.69,
+        "ref_price": 6.76,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/kefir-de-cabra-natural-882601.html"
+      }
+    ],
+    "elegido": "882601",
+    "nuevo_pin": "lacteos-y-huevos/yogures-y-postres-lacteos/882601"
+  },
+  "arroz-vaporizado": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "246500",
+        "name": "Arroz vaporizado",
+        "packaging": "1 kg unidad",
+        "price": 1.39,
+        "ref_price": 1.39,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/arroz-vaporizado-246500.html"
+      }
+    ]
+  },
+  "alubias-blancas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "500400",
+        "name": "Alubias blancas extra",
+        "packaging": "1 kg unidad",
+        "price": 2.39,
+        "ref_price": 2.39,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/alubias-blancas-extra-500400.html"
+      }
+    ]
+  },
+  "yogur-liquido-0": {
+    "modo": "busqueda",
+    "query": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur liquido",
+    "candidatos": [
+      {
+        "product_id": "952000",
+        "name": "Yogur natural",
+        "packaging": "pack de 8 x 125 g",
+        "price": 1.29,
+        "ref_price": 1.29,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-natural-952000.html"
+      },
+      {
+        "product_id": "84300",
+        "name": "Yogur estilo griego con azúcar de caña",
+        "packaging": "pack de 6 x 125 g",
+        "price": 1.45,
+        "ref_price": 1.93,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-estilo-griego-con-azucar-de-cana-84300.html"
+      },
+      {
+        "product_id": "84200",
+        "name": "Yogur al estilo griego natural",
+        "packaging": "pack de 6 x 125 g",
+        "price": 1.39,
+        "ref_price": 1.85,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-al-estilo-griego-natural-84200.html"
+      },
+      {
+        "product_id": "816501",
+        "name": "Yogur natural al estilo griego",
+        "packaging": "1 kg unidad",
+        "price": 1.79,
+        "ref_price": 1.79,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-natural-al-estilo-griego-816501.html"
+      },
+      {
+        "product_id": "75902",
+        "name": "Yogur al estilo griego con melocotón",
+        "packaging": "pack de 4 x 125 g",
+        "price": 1.65,
+        "ref_price": 3.3,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-al-estilo-griego-con-melocoton-75902.html"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "mostaza-dijon": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "256301",
+        "name": "Mostaza de dijon",
+        "packaging": "200 g unidad",
+        "price": 1.09,
+        "ref_price": 5.45,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/mostaza-de-dijon-256301.html"
+      }
+    ]
+  },
+  "jengibre-molido": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "601613200",
+        "name": "Jengibre",
+        "packaging": "35 g unidad",
+        "price": 1.15,
+        "ref_price": 32.86,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/jengibre-601613200.html"
+      }
+    ]
+  },
+  "canela-molida": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "125700",
+        "name": "Canela molida",
+        "packaging": "40 g unidad",
+        "price": 0.69,
+        "ref_price": 17.25,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/canela-molida-125700.html"
+      }
+    ]
+  },
+  "queso-brie": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "740400",
+        "name": "Queso brie",
+        "packaging": "200 g unidad",
+        "price": 1.59,
+        "ref_price": 7.95,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/queso-brie-740400.html"
+      }
+    ]
+  },
+  "leche-evaporada": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "828100",
+        "name": "Leche evaporada",
+        "packaging": "340 g unidad",
+        "price": 0.92,
+        "ref_price": 2.71,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/leche-evaporada-828100.html"
+      }
+    ]
+  },
+  "patatas": {
+    "modo": "busqueda",
+    "query": "fruta-y-verdura/verduras-y-hortalizas: patatas",
+    "candidatos": [
+      {
+        "product_id": "993500",
+        "name": "Patatas ecológicas",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-ecologicas-993500.html"
+      },
+      {
+        "product_id": "990900",
+        "name": "Patata especial para freír",
+        "packaging": "3 kg unidad",
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patata-especial-para-freir-990900.html"
+      },
+      {
+        "product_id": "988000",
+        "name": "Patatas",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-988000.html"
+      },
+      {
+        "product_id": "987900",
+        "name": "Patatas",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-987900.html"
+      },
+      {
+        "product_id": "980100",
+        "name": "Patatas",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-980100.html"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "detergente-marsella": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "602140700",
+        "name": "Detergente líquido Marsella",
+        "packaging": "66 lavados unidad",
+        "price": 3.99,
+        "ref_price": 0.06,
+        "ref_unit": "lavado",
+        "url": "https://www.aldi.es/producto/detergente-liquido-marsella-602140700.html"
+      }
+    ]
+  },
+  "cappuccino": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "411603",
+        "name": "Café soluble cappuccino con cacao",
+        "packaging": "250 g unidad",
+        "price": 2.15,
+        "ref_price": 8.6,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/cafe-soluble-cappuccino-con-cacao-411603.html"
+      }
+    ]
+  },
+  "salchichas-frankfurt": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "800800",
+        "name": "Salchichas frankfurt",
+        "packaging": "pack de 4 x 170 g",
+        "price": 1.73,
+        "ref_price": 2.54,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/salchichas-frankfurt-800800.html"
+      }
+    ]
+  }
+}

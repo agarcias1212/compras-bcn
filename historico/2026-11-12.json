@@ -1,0 +1,809 @@
+{
+  "products": {
+    "leche-entera": {
+      "name": "Leche entera",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "10380",
+          "name": "Leche entera Hacendado",
+          "packaging": "Brik",
+          "price": 0.96,
+          "ref_price": 0.96,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/10380/leche-entera-hacendado-brick",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "bonpreu": {
+          "product_id": "81177",
+          "name": "BONPREU Llet sencera en cartró",
+          "packaging": null,
+          "price": 0.96,
+          "ref_price": 0.96,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81177",
+          "fetched": "2026-11-12T17:57:43+01:00"
+        },
+        "aldi": {
+          "product_id": "80000",
+          "name": "Leche entera",
+          "packaging": "1 l unidad",
+          "price": 0.96,
+          "ref_price": 0.96,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/leche-entera-80000.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "huevos": {
+      "name": "Huevos L",
+      "unit": "docena",
+      "stores": {
+        "mercadona": {
+          "product_id": "31504",
+          "name": "Huevos grandes L",
+          "packaging": "Paquete",
+          "price": 3.05,
+          "ref_price": 3.05,
+          "ref_unit": "docena",
+          "url": "https://tienda.mercadona.es/product/31504/huevos-grandes-l-paquete",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "bonpreu": {
+          "product_id": "38974",
+          "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
+          "packaging": null,
+          "price": 3.05,
+          "ref_price": 3.05,
+          "ref_unit": "docena",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38974",
+          "fetched": "2026-11-12T17:57:43+01:00"
+        },
+        "aldi": null
+      }
+    },
+    "arroz": {
+      "name": "Arroz redondo",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "5044",
+          "name": "Arroz redondo Hacendado",
+          "packaging": "Paquete",
+          "price": 1.15,
+          "ref_price": 1.15,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/5044/arroz-redondo-hacendado-paquete",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "bonpreu": {
+          "product_id": "00731",
+          "name": "NOMEN Arròs rodó",
+          "packaging": null,
+          "price": 1.89,
+          "ref_price": 1.89,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00731",
+          "fetched": "2026-11-12T17:57:43+01:00"
+        },
+        "aldi": {
+          "product_id": "768700",
+          "name": "Arroz redondo",
+          "packaging": "1 kg unidad",
+          "price": 1.09,
+          "ref_price": 1.09,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/arroz-redondo-768700.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "azucar": {
+      "name": "Azúcar blanco",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "19897",
+          "name": "Azúcar blanco Hacendado",
+          "packaging": "Paquete",
+          "price": 0.9,
+          "ref_price": 0.9,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/19897/azucar-blanco-hacendado-paquete",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "bonpreu": null,
+        "aldi": null
+      }
+    },
+    "sal": {
+      "name": "Sal fina",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "19731",
+          "name": "Sal fina Hacendado",
+          "packaging": "Paquete",
+          "price": 0.45,
+          "ref_price": 0.45,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/19731/sal-fina-hacendado-paquete",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "bonpreu": null,
+        "aldi": {
+          "product_id": "250600",
+          "name": "Sal marina  fina yodada",
+          "packaging": "1 kg unidad",
+          "price": 0.38,
+          "ref_price": 0.38,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/sal-marina-fina-yodada-250600.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "ternera": {
+      "name": "Ternera picada (vacuno)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "3454",
+          "name": "Preparado de carne picada vacuno",
+          "packaging": "Bandeja",
+          "price": 10.8,
+          "ref_price": 10.8,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/3454/preparado-carne-picada-vacuno-bandeja",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "bonpreu": null,
+        "aldi": null
+      }
+    },
+    "pollo": {
+      "name": "Pechuga de pollo",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "30006",
+          "name": "Pechugas de pollo enteras congeladas",
+          "packaging": "Paquete",
+          "price": 7.32,
+          "ref_price": 6.1,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/30006/pechugas-pollo-enteras-congeladas-paquete",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "bonpreu": null,
+        "aldi": {
+          "product_id": "746800",
+          "name": "Pechuga de pollo formato familiar",
+          "packaging": "1 kg  aprox. / unidad",
+          "price": 5.55,
+          "ref_price": 5.55,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/pechuga-de-pollo-formato-familiar-746800.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "cerdo": {
+      "name": "Lomo de cerdo",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "4590",
+          "name": "Lomo de cerdo trozo",
+          "packaging": "Pieza",
+          "price": 4.68,
+          "ref_price": 4.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/4590/lomo-cerdo-trozo-pieza",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "bonpreu": null,
+        "aldi": null
+      }
+    },
+    "leche-sin-lactosa": {
+      "name": "Leche entera sin lactosa",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "10699",
+          "name": "Leche entera sin lactosa Hacendado",
+          "packaging": "Brik",
+          "price": 1.03,
+          "ref_price": 1.03,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/10699/leche-entera-sin-lactosa-hacendado-brick",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "872200",
+          "name": "Leche entera sin lactosa",
+          "packaging": "1 l unidad",
+          "price": 1.03,
+          "ref_price": 1.03,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/leche-entera-sin-lactosa-872200.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "patatas-fritas": {
+      "name": "Patatas fritas (bolsa)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "22245",
+          "name": "Patatas fritas clásicas Hacendado",
+          "packaging": "Paquete",
+          "price": 1.8,
+          "ref_price": 6.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/22245/patatas-fritas-clasicas-hacendado-pack-2",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "61700",
+          "name": "Patatas fritas al perol",
+          "packaging": "pack de 2 x 150 g",
+          "price": 1.8,
+          "ref_price": 6.0,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/patatas-fritas-al-perol-61700.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "batido-chocolate": {
+      "name": "Batido de chocolate",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "10050",
+          "name": "Batido de chocolate Hacendado",
+          "packaging": "Pack-6",
+          "price": 1.66,
+          "ref_price": 1.38,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/10050/batido-chocolate-hacendado-pack-6",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "601202000",
+          "name": "Batido de chocolate",
+          "packaging": "pack de 6 x 200 ml",
+          "price": 1.55,
+          "ref_price": 1.29,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/batido-de-chocolate-601202000.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "atun-natural": {
+      "name": "Atún claro al natural",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "18018",
+          "name": "Atún claro al natural Hacendado",
+          "packaging": null,
+          "price": 4.2,
+          "ref_price": 11.67,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/18018/atun-claro-natural-hacendado",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "547100",
+          "name": "Atún claro al natural",
+          "packaging": "pack de 6 x 60 g peso esc.",
+          "price": 4.02,
+          "ref_price": 11.17,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/atun-claro-al-natural-547100.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "nuez-moscada": {
+      "name": "Nuez moscada molida",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "34173",
+          "name": "Nuez moscada molida Hacendado",
+          "packaging": "Bote",
+          "price": 1.65,
+          "ref_price": 28.45,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/34173/nuez-moscada-molida-hacendado-bote",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "601613500",
+          "name": "Nuez moscada",
+          "packaging": "50 g unidad",
+          "price": 1.25,
+          "ref_price": 25.0,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/nuez-moscada-601613500.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "margarina": {
+      "name": "Margarina",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "20846",
+          "name": "Margarina Hacendado",
+          "packaging": "Tarrina",
+          "price": 1.5,
+          "ref_price": 3.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/20846/margarina-hacendado-tarrina",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "113000",
+          "name": "Margarina de girasol",
+          "packaging": "500 g unidad",
+          "price": 1.45,
+          "ref_price": 2.9,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/margarina-de-girasol-113000.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "tortilla-patata": {
+      "name": "Tortilla de patata (refrigerada)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "80895",
+          "name": "Tortilla de patata y cebolla Hacendado",
+          "packaging": "Bandeja",
+          "price": 2.7,
+          "ref_price": 4.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/80895/tortilla-patata-cebolla-hacendado-con-aceite-oliva-bandeja",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "601832200",
+          "name": "Tortilla de patata con calabacín y cebolla caramelizada",
+          "packaging": "600 g unidad",
+          "price": 2.99,
+          "ref_price": 4.98,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/tortilla-de-patata-con-calabacin-y-cebolla-caramelizada-601832200.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "aceite-girasol": {
+      "name": "Aceite de girasol",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "4041",
+          "name": "Aceite de girasol refinado 0,2º Hacendado",
+          "packaging": "Garrafa",
+          "price": 8.6,
+          "ref_price": 1.72,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/4041/aceite-girasol-refinado-02o-hacendado-garrafa",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "111500",
+          "name": "Aceite de girasol",
+          "packaging": "1 l unidad",
+          "price": 1.84,
+          "ref_price": 1.84,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/aceite-de-girasol-111500.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "vinagre-balsamico": {
+      "name": "Vinagre balsámico de Módena",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "26496",
+          "name": "Vinagre balsámico de Módena Hacendado",
+          "packaging": "Botella",
+          "price": 2.3,
+          "ref_price": 4.6,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/26496/vinagre-balsamico-modena-hacendado-botella",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "136400",
+          "name": "Vinagre balsámico de Módena",
+          "packaging": "500 ml unidad",
+          "price": 2.15,
+          "ref_price": 4.3,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/vinagre-balsamico-de-modena-136400.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "zumo-limon": {
+      "name": "Zumo de limón",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "4903",
+          "name": "Limón exprimido Hacendado",
+          "packaging": "Botella",
+          "price": 1.4,
+          "ref_price": 5.0,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/4903/limon-exprimido-hacendado-botella",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "601494603",
+          "name": "Zumo de limón concentrado",
+          "packaging": "200 ml unidad",
+          "price": 0.95,
+          "ref_price": 4.75,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/zumo-de-limon-concentrado-601494603.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "servilletas": {
+      "name": "Servilletas de papel",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "49544",
+          "name": "Servilleta papel Bosque Verde",
+          "packaging": "Paquete",
+          "price": 1.2,
+          "ref_price": 0.006,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/49544/servilleta-papel-bosque-verde-1-capa-30-x-30-cm-paquete",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "410700",
+          "name": "Servilletas",
+          "packaging": "pack de 100 unidades",
+          "price": 1.55,
+          "ref_price": 0.015,
+          "ref_unit": "ud",
+          "url": "https://www.aldi.es/producto/servilletas-410700.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "kefir": {
+      "name": "Kéfir natural",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "20029",
+          "name": "Kéfir natural Hacendado sabor suave",
+          "packaging": "Bote",
+          "price": 1.1,
+          "ref_price": 2.2,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/20029/kefir-natural-sabor-suave-bote",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "882601",
+          "name": "Kéfir de cabra natural",
+          "packaging": "250 g unidad",
+          "price": 1.69,
+          "ref_price": 6.76,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/kefir-de-cabra-natural-882601.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "arroz-vaporizado": {
+      "name": "Arroz vaporizado",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "5020",
+          "name": "Arroz vaporizado Hacendado",
+          "packaging": "Paquete",
+          "price": 1.55,
+          "ref_price": 1.55,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/5020/arroz-vaporizado-hacendado-paquete",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "246500",
+          "name": "Arroz vaporizado",
+          "packaging": "1 kg unidad",
+          "price": 1.39,
+          "ref_price": 1.39,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/arroz-vaporizado-246500.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "alubias-blancas": {
+      "name": "Alubias blancas (secas)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "5124",
+          "name": "Alubia blanca Hacendado",
+          "packaging": "Paquete",
+          "price": 2.45,
+          "ref_price": 2.45,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/5124/alubia-blanca-hacendado-categoria-extra-paquete",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "500400",
+          "name": "Alubias blancas extra",
+          "packaging": "1 kg unidad",
+          "price": 2.39,
+          "ref_price": 2.39,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/alubias-blancas-extra-500400.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "yogur-liquido-0": {
+      "name": "Yogur líquido 0 %",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "15660",
+          "name": "Yogur líquido piña y coco Hacendado 0% MG 0% azúcares añadidos",
+          "packaging": "Botella",
+          "price": 1.5,
+          "ref_price": 1.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/15660/yogur-liquido-desnatado-pina-coco-hacendado-0-mg-0-sin-azucares-anadidos-botella",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": null
+      }
+    },
+    "mostaza-dijon": {
+      "name": "Mostaza de Dijon",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "17228",
+          "name": "Mostaza de Dijon Hacendado",
+          "packaging": "Tarro",
+          "price": 1.25,
+          "ref_price": 6.25,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/17228/mostaza-dijon-hacendado-tarro",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "256301",
+          "name": "Mostaza de dijon",
+          "packaging": "200 g unidad",
+          "price": 1.09,
+          "ref_price": 5.45,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/mostaza-de-dijon-256301.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "jengibre-molido": {
+      "name": "Jengibre molido",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "34149",
+          "name": "Jengibre molido Hacendado",
+          "packaging": "Bote",
+          "price": 1.6,
+          "ref_price": 32.66,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/34149/jengibre-molido-hacendado-bote",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "601613200",
+          "name": "Jengibre",
+          "packaging": "35 g unidad",
+          "price": 1.15,
+          "ref_price": 32.86,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/jengibre-601613200.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "canela-molida": {
+      "name": "Canela molida",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "34177",
+          "name": "Canela molida Hacendado",
+          "packaging": "Bote",
+          "price": 1.0,
+          "ref_price": 19.23,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/34177/canela-molida-hacendado-bote",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "125700",
+          "name": "Canela molida",
+          "packaging": "40 g unidad",
+          "price": 0.69,
+          "ref_price": 17.25,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/canela-molida-125700.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "queso-brie": {
+      "name": "Queso brie",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "50619",
+          "name": "Queso brie marcillat de vaca Plaisir de Roy",
+          "packaging": "Pieza",
+          "price": 1.65,
+          "ref_price": 8.25,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/50619/queso-brie-marcillat-vaca-plaisir-roy-pieza",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "740400",
+          "name": "Queso brie",
+          "packaging": "200 g unidad",
+          "price": 1.59,
+          "ref_price": 7.95,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/queso-brie-740400.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "leche-evaporada": {
+      "name": "Leche evaporada",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "15599",
+          "name": "Leche evaporada Hacendado",
+          "packaging": null,
+          "price": 1.66,
+          "ref_price": 2.77,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/15599/leche-evaporada-hacendado-pack-3",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "828100",
+          "name": "Leche evaporada",
+          "packaging": "340 g unidad",
+          "price": 0.92,
+          "ref_price": 2.71,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/leche-evaporada-828100.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "patatas": {
+      "name": "Patatas (malla)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": null,
+        "aldi": null
+      }
+    },
+    "detergente-marsella": {
+      "name": "Detergente líquido Marsella",
+      "unit": "lavado",
+      "stores": {
+        "mercadona": {
+          "product_id": "86397",
+          "name": "Detergente ropa jabón natural de Marsella Bosque Verde líquido",
+          "packaging": "Botella",
+          "price": 3.5,
+          "ref_price": 0.07,
+          "ref_unit": "lavado",
+          "url": "https://tienda.mercadona.es/product/86397/detergente-ropa-jabon-natural-marsella-bosque-verde-liquido-botella",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "602140700",
+          "name": "Detergente líquido Marsella",
+          "packaging": "66 lavados unidad",
+          "price": 3.99,
+          "ref_price": 0.06,
+          "ref_unit": "lavado",
+          "url": "https://www.aldi.es/producto/detergente-liquido-marsella-602140700.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "cappuccino": {
+      "name": "Café soluble cappuccino",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "23406",
+          "name": "Café soluble cappuccino Hacendado",
+          "packaging": "Bote",
+          "price": 2.75,
+          "ref_price": 11.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/23406/cafe-soluble-cappuccino-hacendado-bote",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "411603",
+          "name": "Café soluble cappuccino con cacao",
+          "packaging": "250 g unidad",
+          "price": 2.15,
+          "ref_price": 8.6,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/cafe-soluble-cappuccino-con-cacao-411603.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    },
+    "salchichas-frankfurt": {
+      "name": "Salchichas Frankfurt",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "53141",
+          "name": "Salchichas cocidas estilo Frankfurt Hacendado de pollo y cerdo sabor ahumado",
+          "packaging": null,
+          "price": 1.8,
+          "ref_price": 2.56,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/53141/salchichas-cocidas-estilo-frankfurt-hacendado-pollo-cerdo-sabor-ahumado-pack-4",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "aldi": {
+          "product_id": "800800",
+          "name": "Salchichas frankfurt",
+          "packaging": "pack de 4 x 170 g",
+          "price": 1.73,
+          "ref_price": 2.54,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/salchichas-frankfurt-800800.html",
+          "fetched": "2026-11-12T19:22:50+01:00"
+        }
+      }
+    }
+  },
+  "updated": "2026-11-12T19:22:50+01:00"
+}

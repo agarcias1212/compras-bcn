@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Compras">
+<meta name="theme-color" content="#F3F5F2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121614" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<title>Compras BCN</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #F3F5F2;
+  --surface: #FFFFFF;
+  --ink: #1C2321;
+  --muted: #5E6763;
+  --line: #DDE2DE;
+  --tag: #FFD23F;
+  --tag-ink: #1C2321;
+  --mercadona: #0F8A4A;
+  --bonpreu: #C8102E;
+  --aldi: #1B4F9C;
+  --focus: #1B4F9C;
+  --radius-row: 14px;
+  --radius-tag: 4px;
+  --num: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --text: "Barlow", -apple-system, system-ui, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121614; --surface: #1B201D; --ink: #E9EDEA; --muted: #9AA39E; --line: #2B322E;
+    --tag: #F2C230; --tag-ink: #1C2321; --mercadona: #3DBB78; --bonpreu: #F0555B; --aldi: #6E9BE0; --focus: #6E9BE0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121614; --surface: #1B201D; --ink: #E9EDEA; --muted: #9AA39E; --line: #2B322E;
+  --tag: #F2C230; --tag-ink: #1C2321; --mercadona: #3DBB78; --bonpreu: #F0555B; --aldi: #6E9BE0; --focus: #6E9BE0;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 400 16px/1.45 var(--text);
+  padding: env(safe-area-inset-top) 0 calc(76px + env(safe-area-inset-bottom));
+}
+button, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.wrap { max-width: 640px; margin: 0 auto; padding: 0 16px; }
+
+/* Cabecera */
+header { padding: 18px 0 6px; display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+h1 { margin: 0; font: 700 30px/1 var(--num); letter-spacing: .01em; }
+.updated { color: var(--muted); font-size: 13px; text-align: right; }
+
+/* Barra inferior de vistas */
+nav.views {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px);
+  border-top: 1px solid var(--line);
+  padding: 8px 16px calc(8px + env(safe-area-inset-bottom));
+}
+nav.views .inner { max-width: 640px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+nav.views button {
+  border: 0; background: transparent; padding: 10px 8px; border-radius: 10px;
+  font-weight: 600; color: var(--muted); cursor: pointer;
+}
+nav.views button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+
+/* Buscador */
+.search { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 10px 0 12px; }
+.search input {
+  width: 100%; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--line);
+  background: var(--surface); font-size: 17px;
+}
+.search input::placeholder { color: var(--muted); }
+
+/* Cabecera de columnas de súper */
+.cols { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; padding: 0 12px 6px; font-size: 13px; color: var(--muted); }
+.store-name { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; color: var(--ink); }
+.dot { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+.dot.mercadona { background: var(--mercadona); }
+.dot.bonpreu { background: var(--bonpreu); }
+.dot.aldi { background: var(--aldi); }
+
+/* Filas de producto */
+ul.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.row { background: var(--surface); border-radius: var(--radius-row); border: 1px solid var(--line); }
+.row > button { width: 100%; border: 0; background: transparent; text-align: left; padding: 12px 12px 10px; cursor: pointer; border-radius: var(--radius-row); }
+.row-top { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin-bottom: 8px; }
+.pname { font-weight: 600; font-size: 17px; line-height: 1.25; }
+.verdict { font-size: 13px; color: var(--muted); white-space: nowrap; }
+.prices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+
+/* La etiqueta de precio: el elemento protagonista */
+.tag {
+  border-radius: var(--radius-tag); padding: 4px 6px 3px; min-height: 44px;
+  display: flex; flex-direction: column; justify-content: center;
+  border: 1px solid var(--line);
+}
+.tag .v { font: 700 24px/1 var(--num); font-variant-numeric: tabular-nums; letter-spacing: -.005em; }
+.tag .u { font: 500 12px/1.1 var(--num); color: var(--muted); letter-spacing: .02em; }
+.tag.none .v { font-size: 15px; font-weight: 500; color: var(--muted); }
+/* El más barato se pinta con el color de su súper (mismo tono en modo claro y oscuro, texto blanco) */
+.tag.best { color: #fff; }
+.tag.best .u { color: rgba(255, 255, 255, .85); }
+.tag.best.mercadona { background: #0F8A4A; border-color: #0F8A4A; }
+.tag.best.bonpreu { background: #C8102E; border-color: #C8102E; }
+.tag.best.aldi { background: #1B4F9C; border-color: #1B4F9C; }
+.tag .s { display: none; }
+
+/* Detalle desplegado */
+.detail { display: none; padding: 0 12px 12px; }
+.row.open .detail { display: block; }
+.detail dl { margin: 0; display: grid; gap: 10px; border-top: 1px solid var(--line); padding-top: 10px; }
+.detail .item { display: grid; grid-template-columns: auto 1fr; gap: 2px 8px; align-items: start; }
+.detail .item .dot { margin-top: 7px; }
+.detail dt { font-weight: 600; }
+.detail dd { margin: 0; grid-column: 2; color: var(--muted); font-size: 15px; }
+.detail a { color: inherit; }
+
+/* Vista por súper */
+.pick { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; padding: 10px 0 14px; position: sticky; top: 0; background: var(--bg); z-index: 5; }
+.pick button {
+  border: 1px solid var(--line); background: var(--surface); border-radius: 12px; padding: 12px 6px;
+  font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 7px;
+}
+.pick button[aria-pressed="true"] { border-color: currentColor; box-shadow: inset 0 0 0 1px currentColor; }
+.pick button.mercadona[aria-pressed="true"] { color: var(--mercadona); }
+.pick button.bonpreu[aria-pressed="true"] { color: var(--bonpreu); }
+.pick button.aldi[aria-pressed="true"] { color: var(--aldi); }
+section.group { margin-bottom: 22px; }
+section.group h2 { font: 700 21px/1.1 var(--num); margin: 0 0 4px; }
+section.group p.hint { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
+.srow { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-row); padding: 10px 12px; display: grid; grid-template-columns: 1fr auto; gap: 2px 12px; align-items: center; }
+.srow .pname { font-size: 16px; }
+.srow .sub { color: var(--muted); font-size: 14px; grid-column: 1; }
+.srow .tag { grid-row: 1 / span 2; grid-column: 2; min-width: 86px; text-align: right; align-items: flex-end; }
+
+.empty, .error { color: var(--muted); padding: 28px 4px; text-align: center; }
+.error strong { color: var(--ink); display: block; margin-bottom: 6px; }
+[hidden] { display: none !important; }
+@media (prefers-reduced-motion: no-preference) {
+  .row.open .detail { animation: open .18s ease-out; }
+  @keyframes open { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: none; } }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Compras</h1>
+    <div class="updated" id="updated"></div>
+  </header>
+
+  <main id="view-products">
+    <div class="search">
+      <input id="q" type="search" placeholder="Buscar producto" autocomplete="off" aria-label="Buscar producto">
+    </div>
+    <div class="cols" aria-hidden="true">
+      <span class="store-name"><span class="dot mercadona"></span>Mercadona</span>
+      <span class="store-name"><span class="dot bonpreu"></span>Bonpreu</span>
+      <span class="store-name"><span class="dot aldi"></span>Aldi</span>
+    </div>
+    <ul class="list" id="list"></ul>
+    <div class="empty" id="empty" hidden></div>
+  </main>
+
+  <main id="view-stores" hidden>
+    <div class="pick" role="group" aria-label="Elegir supermercado">
+      <button class="mercadona" data-store="mercadona" aria-pressed="true"><span class="dot mercadona"></span>Mercadona</button>
+      <button class="bonpreu" data-store="bonpreu" aria-pressed="false"><span class="dot bonpreu"></span>Bonpreu</button>
+      <button class="aldi" data-store="aldi" aria-pressed="false"><span class="dot aldi"></span>Aldi</button>
+    </div>
+    <div id="groups"></div>
+  </main>
+
+  <div class="error" id="error" hidden></div>
+</div>
+
+<nav class="views" aria-label="Vistas">
+  <div class="inner">
+    <button data-view="products" aria-pressed="true">Productos</button>
+    <button data-view="stores" aria-pressed="false">Por súper</button>
+  </div>
+</nav>
+
+<script>
+"use strict";
+const STORES = [
+  { id: "mercadona", name: "Mercadona" },
+  { id: "bonpreu", name: "Bonpreu" },
+  { id: "aldi", name: "Aldi" },
+];
+const STORE_NAME = Object.fromEntries(STORES.map(s => [s.id, s.name]));
+// Diferencia máxima para considerar que "da igual" (3 %).
+const TIE = 0.03;
+const UNIT_LABEL = { kg: "€/kg", L: "€/L", docena: "€/docena", ud: "€/unidad", lavado: "€/lavado" };
+
+const el = (tag, cls, text) => {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+};
+const fmt = (v, unit) => {
+  const dec = unit === "ud" || unit === "lavado" ? 3 : 2;
+  return v.toLocaleString("es-ES", { minimumFractionDigits: dec, maximumFractionDigits: dec });
+};
+const fmtEur = v => v.toLocaleString("es-ES", { style: "currency", currency: "EUR" });
+const norm = t => (t || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+let PRODUCTS = [];
+let currentStore = "mercadona";
+try { currentStore = localStorage.getItem("store") || currentStore; } catch (e) {}
+
+// Analiza un producto: precios por súper, mínimo y ganadores.
+function analyse(id, p) {
+  const prices = {};
+  for (const s of STORES) {
+    const d = p.stores && p.stores[s.id];
+    prices[s.id] = d && typeof d.ref_price === "number" && d.ref_unit === p.unit ? d : null;
+  }
+  const vals = Object.values(prices).filter(Boolean).map(d => d.ref_price);
+  const min = vals.length ? Math.min(...vals) : null;
+  const winners = new Set(STORES.map(s => s.id).filter(s => prices[s] && prices[s].ref_price <= min * (1 + TIE) + 1e-9));
+  const available = vals.length;
+  const tie = available >= 2 && winners.size === available;
+  return { id, name: p.name, unit: p.unit, prices, min, winners, available, tie };
+}
+
+function verdict(a) {
+  if (a.available === 0) return "Sin precios";
+  if (a.available === 1) return "Solo en " + STORE_NAME[[...a.winners][0]];
+  if (a.tie) return "Da igual";
+  if (a.winners.size === 1) return "Mejor en " + STORE_NAME[[...a.winners][0]];
+  return "Mejor en " + [...a.winners].map(s => STORE_NAME[s]).join(" o ");
+}
+
+function priceTag(a, storeId, opts = {}) {
+  const d = a.prices[storeId];
+  const tag = el("div", "tag " + storeId);
+  if (!d) {
+    tag.classList.add("none");
+    tag.append(el("span", "v", "—"), el("span", "u", "sin precio"));
+    tag.setAttribute("aria-label", STORE_NAME[storeId] + ": sin precio");
+    return tag;
+  }
+  if (a.winners.has(storeId) && a.available >= 2 && !opts.plain) tag.classList.add("best");
+  tag.append(el("span", "v", fmt(d.ref_price, a.unit)), el("span", "u", UNIT_LABEL[a.unit] || a.unit));
+  tag.setAttribute("aria-label", `${STORE_NAME[storeId]}: ${fmt(d.ref_price, a.unit)} ${UNIT_LABEL[a.unit] || a.unit}${tag.classList.contains("best") ? ", el más barato" : ""}`);
+  return tag;
+}
+
+function renderProducts() {
+  const q = norm(document.getElementById("q").value.trim());
+  const list = document.getElementById("list");
+  list.replaceChildren();
+  const shown = PRODUCTS.filter(a => !q || norm(a.name).includes(q));
+  for (const a of shown) {
+    const li = el("li", "row");
+    const btn = el("button");
+    btn.setAttribute("aria-expanded", "false");
+    const top = el("div", "row-top");
+    top.append(el("span", "pname", a.name), el("span", "verdict", verdict(a)));
+    const prices = el("div", "prices");
+    for (const s of STORES) prices.append(priceTag(a, s.id));
+    btn.append(top, prices);
+
+    const detail = el("div", "detail");
+    const dl = el("dl");
+    for (const s of STORES) {
+      const d = a.prices[s.id];
+      const item = el("div", "item");
+      item.append(el("span", "dot " + s.id));
+      item.append(el("dt", null, s.name));
+      const dd = el("dd");
+      if (d) {
+        dd.append(el("div", null, d.name));
+        const envase = [d.packaging, d.price != null ? fmtEur(d.price) + " el envase" : null].filter(Boolean).join(", ");
+        if (envase) dd.append(el("div", null, envase));
+        if (d.url) {
+          const link = el("a", null, "Ver en la web");
+          link.href = d.url; link.target = "_blank"; link.rel = "noopener";
+          dd.append(link);
+        }
+      } else {
+        dd.textContent = "Sin precio en la web";
+      }
+      item.append(dd);
+      dl.append(item);
+    }
+    detail.append(dl);
+    btn.addEventListener("click", () => {
+      const open = li.classList.toggle("open");
+      btn.setAttribute("aria-expanded", String(open));
+    });
+    li.append(btn, detail);
+    list.append(li);
+  }
+  const empty = document.getElementById("empty");
+  empty.hidden = shown.length > 0;
+  empty.textContent = q ? `No hay ningún producto que contenga "${document.getElementById("q").value.trim()}". Añádelo a la lista maestra en la Mac.` : "Todavía no hay productos.";
+}
+
+function renderStores() {
+  const s = currentStore;
+  document.querySelectorAll(".pick button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.store === s)));
+  const here = [], same = [], elsewhere = [], missing = [];
+  for (const a of PRODUCTS) {
+    const d = a.prices[s];
+    if (!d) { missing.push(a); continue; }
+    if (a.available < 2) { here.push({ a, note: "Solo hay precio aquí" }); continue; }
+    if (a.tie) { same.push({ a }); continue; }
+    if (a.winners.has(s)) {
+      const others = STORES.filter(o => o.id !== s && a.prices[o.id]).map(o => a.prices[o.id].ref_price);
+      const next = Math.min(...others);
+      here.push({ a, save: (next - d.ref_price) / next });
+    } else {
+      const best = [...a.winners][0];
+      elsewhere.push({ a, best, extra: (d.ref_price - a.min) / a.min });
+    }
+  }
+  here.sort((x, y) => (y.save || 0) - (x.save || 0));
+  elsewhere.sort((x, y) => y.extra - x.extra);
+  same.sort((x, y) => x.a.name.localeCompare(y.a.name, "es"));
+  missing.sort((x, y) => x.name.localeCompare(y.name, "es"));
+
+  const pct = v => Math.round(v * 100) + " %";
+  const groups = document.getElementById("groups");
+  groups.replaceChildren();
+  const section = (title, hint, items, row) => {
+    if (!items.length) return;
+    const sec = el("section", "group");
+    sec.append(el("h2", null, title));
+    if (hint) sec.append(el("p", "hint", hint));
+    const ul = el("ul", "list");
+    for (const it of items) ul.append(row(it));
+    sec.append(ul);
+    groups.append(sec);
+  };
+  const srow = (a, sub, storeForTag) => {
+    const li = el("li", "srow");
+    li.append(el("span", "pname", a.name), el("span", "sub", sub), priceTag(a, storeForTag));
+    return li;
+  };
+  const name = STORE_NAME[s];
+  section(`Cómpralo en ${name}`, `Aquí es donde sale más barato.`, here,
+    it => srow(it.a, it.note || `${pct(it.save)} más barato que en el siguiente`, s));
+  section("Da igual", "Mismo precio en todos (diferencia de un 3 % o menos).", same,
+    it => srow(it.a, STORES.filter(o => it.a.prices[o.id]).map(o => o.name).join(", "), s));
+  section("Mejor en otro súper", `Cuánto más caro está en ${name}.`, elsewhere,
+    it => srow(it.a, `En ${STORE_NAME[it.best]} a ${fmt(it.a.min, it.a.unit)} ${UNIT_LABEL[it.a.unit]}; aquí un ${pct(it.extra)} más`, s));
+  section(`Sin precio en ${name}`, "La web de este súper no lo publica o no tiene equivalente.", missing,
+    a => { const li = el("li", "srow"); li.append(el("span", "pname", a.name), el("span", "sub", verdict(a))); return li; });
+}
+
+function setView(v) {
+  document.querySelectorAll("nav.views button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.view === v)));
+  document.getElementById("view-products").hidden = v !== "products";
+  document.getElementById("view-stores").hidden = v !== "stores";
+  if (v === "stores") renderStores();
+  try { localStorage.setItem("view", v); } catch (e) {}
+  window.scrollTo(0, 0);
+}
+
+async function load() {
+  try {
+    const res = await fetch("prices.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    PRODUCTS = Object.entries(data.products || {})
+      .map(([id, p]) => analyse(id, p))
+      .sort((x, y) => x.name.localeCompare(y.name, "es"));
+    if (data.updated) {
+      const d = new Date(data.updated);
+      document.getElementById("updated").textContent = "Precios del " +
+        d.toLocaleDateString("es-ES", { day: "numeric", month: "long" });
+    }
+    renderProducts();
+    let v = "products";
+    try { v = localStorage.getItem("view") || v; } catch (e) {}
+    setView(v);
+  } catch (e) {
+    const err = document.getElementById("error");
+    err.hidden = false;
+    err.replaceChildren(el("strong", null, "No se pudieron cargar los precios."),
+      document.createTextNode("Comprueba la conexión y vuelve a abrir la app. (" + e.message + ")"));
+    document.getElementById("view-products").hidden = true;
+  }
+}
+
+document.getElementById("q").addEventListener("input", renderProducts);
+document.querySelectorAll("nav.views button").forEach(b => b.addEventListener("click", () => setView(b.dataset.view)));
+document.querySelectorAll(".pick button").forEach(b => b.addEventListener("click", () => {
+  currentStore = b.dataset.store;
+  try { localStorage.setItem("store", currentStore); } catch (e) {}
+  renderStores();
+}));
+load();
+</script>
+</body>
+</html>

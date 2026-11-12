@@ -1,0 +1,468 @@
+{
+  "version": 1,
+  "nota": "Lista maestra, se edita a mano en la Mac. 'unit': kg, L, docena, ud (por unidad) o lavado. 'queries': palabras que deben aparecer en el nombre (una palabra con '-' delante se excluye). En Aldi va 'subcategoria: palabras' (la subcategoría es la ruta de aldi.es/productos/...). 'pinned': ID fijado por cadena; el script lo rellena solo (en Aldi, 'subcategoria/ID').",
+  "products": [
+    {
+      "id": "leche-entera",
+      "name": "Leche entera",
+      "unit": "L",
+      "queries": {
+        "mercadona": "leche entera",
+        "bonpreu": "llet sencera -sense",
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche entera -sin"
+      },
+      "pinned": {
+        "mercadona": "10380",
+        "bonpreu": "81177",
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/80000"
+      }
+    },
+    {
+      "id": "huevos",
+      "name": "Huevos L",
+      "unit": "docena",
+      "queries": {
+        "mercadona": "huevos grandes L",
+        "bonpreu": "ous L -ecologics",
+        "aldi": "lacteos-y-huevos/huevos: huevos"
+      },
+      "pinned": {
+        "mercadona": "31504",
+        "bonpreu": "38974"
+      }
+    },
+    {
+      "id": "arroz",
+      "name": "Arroz redondo",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "arroz redondo",
+        "bonpreu": "arròs rodó",
+        "aldi": "despensa/arroz: arroz redondo -tarrina"
+      },
+      "pinned": {
+        "mercadona": "5044",
+        "bonpreu": "00731",
+        "aldi": "despensa/arroz/768700"
+      }
+    },
+    {
+      "id": "azucar",
+      "name": "Azúcar blanco",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "azúcar blanco",
+        "bonpreu": "sucre blanc",
+        "aldi": "despensa/azucar-y-edulcorantes: azúcar"
+      },
+      "pinned": {
+        "mercadona": "19897",
+        "bonpreu": "37758"
+      }
+    },
+    {
+      "id": "sal",
+      "name": "Sal fina",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "sal fina",
+        "bonpreu": "sal fina",
+        "aldi": "despensa/especias-y-condimentos: sal fina"
+      },
+      "pinned": {
+        "mercadona": "19731",
+        "aldi": "despensa/especias-y-condimentos/250600",
+        "bonpreu": "00079"
+      }
+    },
+    {
+      "id": "ternera",
+      "name": "Ternera picada (vacuno)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "carne picada vacuno -cerdo",
+        "bonpreu": "picada vedella -porc -ecologica",
+        "aldi": "carne/hamburguesas-y-carne-picada: picada vacuno -cerdo -pollo -ecologica"
+      },
+      "pinned": {
+        "mercadona": "3454",
+        "bonpreu": "37398"
+      }
+    },
+    {
+      "id": "pollo",
+      "name": "Pechuga de pollo",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "pechuga de pollo",
+        "bonpreu": "pit pollastre -marinat -arrebossat",
+        "aldi": "carne/pollo-y-pavo: pechuga pollo"
+      },
+      "pinned": {
+        "mercadona": "30006",
+        "aldi": "carne/pollo-y-pavo/746800",
+        "bonpreu": "81579"
+      }
+    },
+    {
+      "id": "cerdo",
+      "name": "Lomo de cerdo",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "lomo de cerdo",
+        "bonpreu": "llom porc -marinat -adobat",
+        "aldi": "carne/cerdo: lomo cerdo -iberico"
+      },
+      "pinned": {
+        "mercadona": "4590",
+        "bonpreu": "54981"
+      }
+    },
+    {
+      "id": "leche-sin-lactosa",
+      "name": "Leche entera sin lactosa",
+      "unit": "L",
+      "queries": {
+        "mercadona": "leche entera sin lactosa",
+        "bonpreu": "llet sencera sense lactosa",
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche entera sin lactosa"
+      },
+      "pinned": {
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/872200",
+        "bonpreu": "13326",
+        "mercadona": "10699"
+      }
+    },
+    {
+      "id": "patatas-fritas",
+      "name": "Patatas fritas (bolsa)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "patatas fritas clasicas",
+        "bonpreu": "patates fregides paella",
+        "aldi": "aperitivos/patatas-fritas-y-snacks: patatas fritas perol -oliva"
+      },
+      "pinned": {
+        "aldi": "aperitivos/patatas-fritas-y-snacks/61700",
+        "bonpreu": "77957",
+        "mercadona": "22245"
+      }
+    },
+    {
+      "id": "batido-chocolate",
+      "name": "Batido de chocolate",
+      "unit": "L",
+      "queries": {
+        "mercadona": "batido chocolate -proteinas -90 -0",
+        "bonpreu": "batut cacau",
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: batido chocolate"
+      },
+      "pinned": {
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/601202000",
+        "bonpreu": "85644",
+        "mercadona": "10050"
+      }
+    },
+    {
+      "id": "atun-natural",
+      "name": "Atún claro al natural",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "atun claro natural",
+        "bonpreu": "tonyina clara natural",
+        "aldi": "despensa/conservas-de-pescado: atun claro natural"
+      },
+      "pinned": {
+        "aldi": "despensa/conservas-de-pescado/547100",
+        "bonpreu": "63001",
+        "mercadona": "18018"
+      }
+    },
+    {
+      "id": "nuez-moscada",
+      "name": "Nuez moscada molida",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "nuez moscada molida",
+        "bonpreu": "nou moscada molta",
+        "aldi": "despensa/especias-y-condimentos: nuez moscada"
+      },
+      "pinned": {
+        "aldi": "despensa/especias-y-condimentos/601613500",
+        "mercadona": "34173"
+      }
+    },
+    {
+      "id": "margarina",
+      "name": "Margarina",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "margarina -ligera -tulipan -vegetal",
+        "bonpreu": "margarina -lleugera",
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: margarina girasol"
+      },
+      "pinned": {
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/113000",
+        "bonpreu": "87807",
+        "mercadona": "20846"
+      }
+    },
+    {
+      "id": "tortilla-patata",
+      "name": "Tortilla de patata (refrigerada)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "tortilla patata -chorizo -media -pincho",
+        "bonpreu": "truita patata",
+        "aldi": "platos-preparados-y-pizza/platos-preparados-calientes: tortilla patata -preparado"
+      },
+      "pinned": {
+        "aldi": "platos-preparados-y-pizza/platos-preparados-calientes/601832200",
+        "bonpreu": "24288",
+        "mercadona": "80895"
+      }
+    },
+    {
+      "id": "aceite-girasol",
+      "name": "Aceite de girasol",
+      "unit": "L",
+      "queries": {
+        "mercadona": "aceite girasol refinado",
+        "bonpreu": "oli refinat gira-sol -fregir",
+        "aldi": "despensa/aceites-y-vinagres: aceite girasol"
+      },
+      "pinned": {
+        "aldi": "despensa/aceites-y-vinagres/111500",
+        "bonpreu": "72143",
+        "mercadona": "4041"
+      }
+    },
+    {
+      "id": "vinagre-balsamico",
+      "name": "Vinagre balsámico de Módena",
+      "unit": "L",
+      "queries": {
+        "mercadona": "vinagre balsamico modena -crema",
+        "bonpreu": "vinagre balsamic modena -crema",
+        "aldi": "despensa/aceites-y-vinagres: vinagre balsamico"
+      },
+      "pinned": {
+        "aldi": "despensa/aceites-y-vinagres/136400",
+        "bonpreu": "80290",
+        "mercadona": "26496"
+      }
+    },
+    {
+      "id": "zumo-limon",
+      "name": "Zumo de limón",
+      "unit": "L",
+      "queries": {
+        "mercadona": "limon exprimido",
+        "bonpreu": "suc llimona -llimonada -aigua",
+        "aldi": "despensa/aceites-y-vinagres: zumo limon"
+      },
+      "pinned": {
+        "aldi": "despensa/aceites-y-vinagres/601494603",
+        "bonpreu": "08907",
+        "mercadona": "4903"
+      }
+    },
+    {
+      "id": "servilletas",
+      "name": "Servilletas de papel",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "servilleta papel -decorada -cocktail",
+        "bonpreu": "tovallons paper blancs",
+        "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: servilletas"
+      },
+      "pinned": {
+        "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa/410700",
+        "bonpreu": "68635",
+        "mercadona": "49544"
+      }
+    },
+    {
+      "id": "kefir",
+      "name": "Kéfir natural",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "kefir natural",
+        "bonpreu": "quefir natural",
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: kefir natural"
+      },
+      "pinned": {
+        "bonpreu": "67546",
+        "mercadona": "20029",
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos/882601"
+      }
+    },
+    {
+      "id": "arroz-vaporizado",
+      "name": "Arroz vaporizado",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "arroz vaporizado",
+        "bonpreu": "arros vaporitzat",
+        "aldi": "despensa/arroz: arroz vaporizado"
+      },
+      "pinned": {
+        "aldi": "despensa/arroz/246500",
+        "bonpreu": "14393",
+        "mercadona": "5020"
+      }
+    },
+    {
+      "id": "alubias-blancas",
+      "name": "Alubias blancas (secas)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "alubia blanca -cocida",
+        "bonpreu": "mongetes blanques -cuites",
+        "aldi": "despensa/legumbres-y-cereales: alubias blancas extra"
+      },
+      "pinned": {
+        "aldi": "despensa/legumbres-y-cereales/500400",
+        "bonpreu": "75912",
+        "mercadona": "5124"
+      }
+    },
+    {
+      "id": "yogur-liquido-0",
+      "name": "Yogur líquido 0 %",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "yogur liquido 0",
+        "bonpreu": "iogurt liquid desnatat",
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur liquido"
+      },
+      "pinned": {
+        "bonpreu": "87173",
+        "mercadona": "15660"
+      }
+    },
+    {
+      "id": "mostaza-dijon",
+      "name": "Mostaza de Dijon",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "mostaza dijon",
+        "bonpreu": "mostassa dijon",
+        "aldi": "despensa/tomates-y-salsas: mostaza dijon"
+      },
+      "pinned": {
+        "aldi": "despensa/tomates-y-salsas/256301",
+        "mercadona": "17228"
+      }
+    },
+    {
+      "id": "jengibre-molido",
+      "name": "Jengibre molido",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "jengibre molido",
+        "bonpreu": "gingebre molt",
+        "aldi": "despensa/especias-y-condimentos: jengibre -ecologico"
+      },
+      "pinned": {
+        "aldi": "despensa/especias-y-condimentos/601613200",
+        "mercadona": "34149"
+      }
+    },
+    {
+      "id": "canela-molida",
+      "name": "Canela molida",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "canela molida",
+        "bonpreu": "canyella molta",
+        "aldi": "despensa/especias-y-condimentos: canela molida"
+      },
+      "pinned": {
+        "aldi": "despensa/especias-y-condimentos/125700",
+        "mercadona": "34177"
+      }
+    },
+    {
+      "id": "queso-brie",
+      "name": "Queso brie",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "queso brie",
+        "bonpreu": "formatge brie",
+        "aldi": "quesos/queso-fresco-y-blando: queso brie"
+      },
+      "pinned": {
+        "aldi": "quesos/queso-fresco-y-blando/740400",
+        "mercadona": "50619"
+      }
+    },
+    {
+      "id": "leche-evaporada",
+      "name": "Leche evaporada",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "leche evaporada",
+        "bonpreu": "llet evaporada -lactosa",
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche evaporada"
+      },
+      "pinned": {
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/828100",
+        "mercadona": "15599"
+      }
+    },
+    {
+      "id": "patatas",
+      "name": "Patatas (malla)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "patatas malla -rojas -freir",
+        "bonpreu": "patates -fregides -palla -xips -braves",
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: patatas"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "detergente-marsella",
+      "name": "Detergente líquido Marsella",
+      "unit": "lavado",
+      "queries": {
+        "mercadona": "detergente marsella",
+        "bonpreu": "detergent liquid marsella -capsules",
+        "aldi": "limpieza-y-hogar/cuidado-de-la-ropa: detergente marsella"
+      },
+      "pinned": {
+        "aldi": "limpieza-y-hogar/cuidado-de-la-ropa/602140700",
+        "mercadona": "86397"
+      }
+    },
+    {
+      "id": "cappuccino",
+      "name": "Café soluble cappuccino",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "cafe soluble cappuccino -caramelo",
+        "bonpreu": "cafe soluble capuccino",
+        "aldi": "cafe-cacao-e-infusiones/cafe: cappuccino"
+      },
+      "pinned": {
+        "aldi": "cafe-cacao-e-infusiones/cafe/411603",
+        "mercadona": "23406"
+      }
+    },
+    {
+      "id": "salchichas-frankfurt",
+      "name": "Salchichas Frankfurt",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "salchichas frankfurt -queso -salteado",
+        "bonpreu": "salsitxes frankfurt",
+        "aldi": "charcuteria/bacon-y-salchichas: salchichas frankfurt"
+      },
+      "pinned": {
+        "aldi": "charcuteria/bacon-y-salchichas/800800",
+        "mercadona": "53141"
+      }
+    }
+  ]
+}

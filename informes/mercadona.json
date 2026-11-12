@@ -1,0 +1,711 @@
+{
+  "leche-entera": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "10380",
+        "name": "Leche entera Hacendado",
+        "packaging": "Brik",
+        "price": 0.96,
+        "ref_price": 0.96,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/10380/leche-entera-hacendado-brick"
+      }
+    ]
+  },
+  "huevos": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "31504",
+        "name": "Huevos grandes L",
+        "packaging": "Paquete",
+        "price": 3.05,
+        "ref_price": 3.05,
+        "ref_unit": "docena",
+        "url": "https://tienda.mercadona.es/product/31504/huevos-grandes-l-paquete"
+      }
+    ]
+  },
+  "arroz": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "5044",
+        "name": "Arroz redondo Hacendado",
+        "packaging": "Paquete",
+        "price": 1.15,
+        "ref_price": 1.15,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/5044/arroz-redondo-hacendado-paquete"
+      }
+    ]
+  },
+  "azucar": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19897",
+        "name": "Azúcar blanco Hacendado",
+        "packaging": "Paquete",
+        "price": 0.9,
+        "ref_price": 0.9,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/19897/azucar-blanco-hacendado-paquete"
+      }
+    ]
+  },
+  "sal": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19731",
+        "name": "Sal fina Hacendado",
+        "packaging": "Paquete",
+        "price": 0.45,
+        "ref_price": 0.45,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/19731/sal-fina-hacendado-paquete"
+      }
+    ]
+  },
+  "ternera": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "3454",
+        "name": "Preparado de carne picada vacuno",
+        "packaging": "Bandeja",
+        "price": 10.8,
+        "ref_price": 10.8,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/3454/preparado-carne-picada-vacuno-bandeja"
+      }
+    ]
+  },
+  "pollo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "30006",
+        "name": "Pechugas de pollo enteras congeladas",
+        "packaging": "Paquete",
+        "price": 7.32,
+        "ref_price": 6.1,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/30006/pechugas-pollo-enteras-congeladas-paquete"
+      }
+    ]
+  },
+  "cerdo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "4590",
+        "name": "Lomo de cerdo trozo",
+        "packaging": "Pieza",
+        "price": 4.68,
+        "ref_price": 4.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/4590/lomo-cerdo-trozo-pieza"
+      }
+    ]
+  },
+  "leche-sin-lactosa": {
+    "modo": "busqueda",
+    "query": "leche entera sin lactosa",
+    "candidatos": [
+      {
+        "product_id": "10699",
+        "name": "Leche entera sin lactosa Hacendado",
+        "packaging": "Brik",
+        "price": 1.03,
+        "ref_price": 1.03,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/10699/leche-entera-sin-lactosa-hacendado-brick"
+      },
+      {
+        "product_id": "10698",
+        "name": "Leche entera sin lactosa Hacendado",
+        "packaging": "Pack-6",
+        "price": 6.18,
+        "ref_price": 1.03,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/10698/leche-entera-sin-lactosa-hacendado-pack-6"
+      }
+    ],
+    "elegido": "10699",
+    "nuevo_pin": "10699"
+  },
+  "patatas-fritas": {
+    "modo": "busqueda",
+    "query": "patatas fritas clasicas",
+    "candidatos": [
+      {
+        "product_id": "22245",
+        "name": "Patatas fritas clásicas Hacendado",
+        "packaging": "Paquete",
+        "price": 1.8,
+        "ref_price": 6.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/22245/patatas-fritas-clasicas-hacendado-pack-2"
+      }
+    ],
+    "elegido": "22245",
+    "nuevo_pin": "22245"
+  },
+  "batido-chocolate": {
+    "modo": "busqueda",
+    "query": "batido chocolate -proteinas -90 -0",
+    "candidatos": [
+      {
+        "product_id": "10050",
+        "name": "Batido de chocolate Hacendado",
+        "packaging": "Pack-6",
+        "price": 1.66,
+        "ref_price": 1.38,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/10050/batido-chocolate-hacendado-pack-6"
+      },
+      {
+        "product_id": "23049",
+        "name": "Batido de chocolate Hacendado",
+        "packaging": "Botella",
+        "price": 1.4,
+        "ref_price": 1.4,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/23049/batido-chocolate-hacendado-botella"
+      },
+      {
+        "product_id": "10066",
+        "name": "Batido de chocolate ColaCao Energy",
+        "packaging": "Pack-4",
+        "price": 2.95,
+        "ref_price": 3.92,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/10066/batido-chocolate-colacao-energy-pack-4"
+      }
+    ],
+    "elegido": "10050",
+    "nuevo_pin": "10050"
+  },
+  "atun-natural": {
+    "modo": "busqueda",
+    "query": "atun claro natural",
+    "candidatos": [
+      {
+        "product_id": "18018",
+        "name": "Atún claro al natural Hacendado",
+        "packaging": null,
+        "price": 4.2,
+        "ref_price": 11.67,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/18018/atun-claro-natural-hacendado"
+      }
+    ],
+    "elegido": "18018",
+    "nuevo_pin": "18018"
+  },
+  "nuez-moscada": {
+    "modo": "busqueda",
+    "query": "nuez moscada molida",
+    "candidatos": [
+      {
+        "product_id": "34173",
+        "name": "Nuez moscada molida Hacendado",
+        "packaging": "Bote",
+        "price": 1.65,
+        "ref_price": 28.45,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/34173/nuez-moscada-molida-hacendado-bote"
+      }
+    ],
+    "elegido": "34173",
+    "nuevo_pin": "34173"
+  },
+  "margarina": {
+    "modo": "busqueda",
+    "query": "margarina -ligera -tulipan -vegetal",
+    "candidatos": [
+      {
+        "product_id": "20846",
+        "name": "Margarina Hacendado",
+        "packaging": "Tarrina",
+        "price": 1.5,
+        "ref_price": 3.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/20846/margarina-hacendado-tarrina"
+      },
+      {
+        "product_id": "60307",
+        "name": "Margarina con sal Hacendado",
+        "packaging": "Tarrina",
+        "price": 1.5,
+        "ref_price": 3.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/60307/margarina-con-sal-hacendado-tarrina"
+      },
+      {
+        "product_id": "86503",
+        "name": "Margarina Flora Original",
+        "packaging": "Tarrina",
+        "price": 3.19,
+        "ref_price": 7.97,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/86503/margarina-flora-original-tarrina"
+      },
+      {
+        "product_id": "15909",
+        "name": "Margarina Flora Proactiv",
+        "packaging": "Tarrina",
+        "price": 2.69,
+        "ref_price": 11.96,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/15909/margarina-flora-proactiv-tarrina"
+      }
+    ],
+    "elegido": "20846",
+    "nuevo_pin": "20846"
+  },
+  "tortilla-patata": {
+    "modo": "busqueda",
+    "query": "tortilla patata -chorizo -media -pincho",
+    "candidatos": [
+      {
+        "product_id": "80895",
+        "name": "Tortilla de patata y cebolla Hacendado",
+        "packaging": "Bandeja",
+        "price": 2.7,
+        "ref_price": 4.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/80895/tortilla-patata-cebolla-hacendado-con-aceite-oliva-bandeja"
+      },
+      {
+        "product_id": "80771",
+        "name": "Tortilla de patata Hacendado",
+        "packaging": "Bandeja",
+        "price": 2.7,
+        "ref_price": 4.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/80771/tortilla-patata-hacendado-bandeja"
+      },
+      {
+        "product_id": "60091",
+        "name": "Tortilla de patata con calabacín Listo para Comer",
+        "packaging": null,
+        "price": 8.5,
+        "ref_price": 6.54,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/60091/tortilla-patata-con-calabacin-listo-comer"
+      },
+      {
+        "product_id": "60089",
+        "name": "Tortilla de patata con cebolla Listo para Comer",
+        "packaging": null,
+        "price": 8.5,
+        "ref_price": 6.54,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/60089/tortilla-patata-con-cebolla-listo-comer"
+      }
+    ],
+    "elegido": "80895",
+    "nuevo_pin": "80895"
+  },
+  "aceite-girasol": {
+    "modo": "busqueda",
+    "query": "aceite girasol refinado",
+    "candidatos": [
+      {
+        "product_id": "4041",
+        "name": "Aceite de girasol refinado 0,2º Hacendado",
+        "packaging": "Garrafa",
+        "price": 8.6,
+        "ref_price": 1.72,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4041/aceite-girasol-refinado-02o-hacendado-garrafa"
+      },
+      {
+        "product_id": "4040",
+        "name": "Aceite de girasol refinado 0,2º Hacendado",
+        "packaging": "Botella",
+        "price": 1.85,
+        "ref_price": 1.85,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4040/aceite-girasol-refinado-02o-hacendado-botella"
+      }
+    ],
+    "elegido": "4041",
+    "nuevo_pin": "4041"
+  },
+  "vinagre-balsamico": {
+    "modo": "busqueda",
+    "query": "vinagre balsamico modena -crema",
+    "candidatos": [
+      {
+        "product_id": "26496",
+        "name": "Vinagre balsámico de Módena Hacendado",
+        "packaging": "Botella",
+        "price": 2.3,
+        "ref_price": 4.6,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/26496/vinagre-balsamico-modena-hacendado-botella"
+      }
+    ],
+    "elegido": "26496",
+    "nuevo_pin": "26496"
+  },
+  "zumo-limon": {
+    "modo": "busqueda",
+    "query": "limon exprimido",
+    "candidatos": [
+      {
+        "product_id": "4903",
+        "name": "Limón exprimido Hacendado",
+        "packaging": "Botella",
+        "price": 1.4,
+        "ref_price": 5.0,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4903/limon-exprimido-hacendado-botella"
+      }
+    ],
+    "elegido": "4903",
+    "nuevo_pin": "4903"
+  },
+  "servilletas": {
+    "modo": "busqueda",
+    "query": "servilleta papel -decorada -cocktail",
+    "candidatos": [
+      {
+        "product_id": "49544",
+        "name": "Servilleta papel Bosque Verde",
+        "packaging": "Paquete",
+        "price": 1.2,
+        "ref_price": 0.006,
+        "ref_unit": "ud",
+        "url": "https://tienda.mercadona.es/product/49544/servilleta-papel-bosque-verde-1-capa-30-x-30-cm-paquete"
+      },
+      {
+        "product_id": "49589",
+        "name": "Servilleta papel suave Bosque Verde",
+        "packaging": "Paquete",
+        "price": 1.65,
+        "ref_price": 0.017,
+        "ref_unit": "ud",
+        "url": "https://tienda.mercadona.es/product/49589/servilleta-papel-suave-bosque-verde-2-capas-33-x-32-cm-paquete"
+      }
+    ],
+    "elegido": "49544",
+    "nuevo_pin": "49544"
+  },
+  "kefir": {
+    "modo": "busqueda",
+    "query": "kefir natural",
+    "candidatos": [
+      {
+        "product_id": "20029",
+        "name": "Kéfir natural Hacendado sabor suave",
+        "packaging": "Bote",
+        "price": 1.1,
+        "ref_price": 2.2,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/20029/kefir-natural-sabor-suave-bote"
+      },
+      {
+        "product_id": "15662",
+        "name": "Bebida Kéfir natural Hacendado 0% MG",
+        "packaging": "Botella",
+        "price": 0.9,
+        "ref_price": 3.6,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/15662/bebida-kefir-natural-hacendado-0-mg-botella"
+      }
+    ],
+    "elegido": "20029",
+    "nuevo_pin": "20029"
+  },
+  "arroz-vaporizado": {
+    "modo": "busqueda",
+    "query": "arroz vaporizado",
+    "candidatos": [
+      {
+        "product_id": "5020",
+        "name": "Arroz vaporizado Hacendado",
+        "packaging": "Paquete",
+        "price": 1.55,
+        "ref_price": 1.55,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/5020/arroz-vaporizado-hacendado-paquete"
+      }
+    ],
+    "elegido": "5020",
+    "nuevo_pin": "5020"
+  },
+  "alubias-blancas": {
+    "modo": "busqueda",
+    "query": "alubia blanca -cocida",
+    "candidatos": [
+      {
+        "product_id": "5124",
+        "name": "Alubia blanca Hacendado",
+        "packaging": "Paquete",
+        "price": 2.45,
+        "ref_price": 2.45,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/5124/alubia-blanca-hacendado-categoria-extra-paquete"
+      }
+    ],
+    "elegido": "5124",
+    "nuevo_pin": "5124"
+  },
+  "yogur-liquido-0": {
+    "modo": "busqueda",
+    "query": "yogur liquido 0",
+    "candidatos": [
+      {
+        "product_id": "15660",
+        "name": "Yogur líquido piña y coco Hacendado 0% MG 0% azúcares añadidos",
+        "packaging": "Botella",
+        "price": 1.5,
+        "ref_price": 1.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/15660/yogur-liquido-desnatado-pina-coco-hacendado-0-mg-0-sin-azucares-anadidos-botella"
+      },
+      {
+        "product_id": "15661",
+        "name": "Yogur líquido frutos silvestres Hacendado 0% MG 0% azúcares añadidos",
+        "packaging": "Botella",
+        "price": 1.5,
+        "ref_price": 1.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/15661/yogur-liquido-desnatado-frutos-silvestres-hacendado-0-mg-0-sin-azucares-anadidos-botella"
+      }
+    ],
+    "elegido": "15660",
+    "nuevo_pin": "15660"
+  },
+  "mostaza-dijon": {
+    "modo": "busqueda",
+    "query": "mostaza dijon",
+    "candidatos": [
+      {
+        "product_id": "17228",
+        "name": "Mostaza de Dijon Hacendado",
+        "packaging": "Tarro",
+        "price": 1.25,
+        "ref_price": 6.25,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/17228/mostaza-dijon-hacendado-tarro"
+      }
+    ],
+    "elegido": "17228",
+    "nuevo_pin": "17228"
+  },
+  "jengibre-molido": {
+    "modo": "busqueda",
+    "query": "jengibre molido",
+    "candidatos": [
+      {
+        "product_id": "34149",
+        "name": "Jengibre molido Hacendado",
+        "packaging": "Bote",
+        "price": 1.6,
+        "ref_price": 32.66,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/34149/jengibre-molido-hacendado-bote"
+      }
+    ],
+    "elegido": "34149",
+    "nuevo_pin": "34149"
+  },
+  "canela-molida": {
+    "modo": "busqueda",
+    "query": "canela molida",
+    "candidatos": [
+      {
+        "product_id": "34177",
+        "name": "Canela molida Hacendado",
+        "packaging": "Bote",
+        "price": 1.0,
+        "ref_price": 19.23,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/34177/canela-molida-hacendado-bote"
+      }
+    ],
+    "elegido": "34177",
+    "nuevo_pin": "34177"
+  },
+  "queso-brie": {
+    "modo": "busqueda",
+    "query": "queso brie",
+    "candidatos": [
+      {
+        "product_id": "50619",
+        "name": "Queso brie marcillat de vaca Plaisir de Roy",
+        "packaging": "Pieza",
+        "price": 1.65,
+        "ref_price": 8.25,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/50619/queso-brie-marcillat-vaca-plaisir-roy-pieza"
+      }
+    ],
+    "elegido": "50619",
+    "nuevo_pin": "50619"
+  },
+  "leche-evaporada": {
+    "modo": "busqueda",
+    "query": "leche evaporada",
+    "candidatos": [
+      {
+        "product_id": "15599",
+        "name": "Leche evaporada Hacendado",
+        "packaging": null,
+        "price": 1.66,
+        "ref_price": 2.77,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/15599/leche-evaporada-hacendado-pack-3"
+      }
+    ],
+    "elegido": "15599",
+    "nuevo_pin": "15599"
+  },
+  "patatas": {
+    "modo": "busqueda",
+    "query": "patatas malla -rojas -freir",
+    "candidatos": [
+      {
+        "product_id": "86146",
+        "name": "Patatas fritas extra crujientes Hacendado",
+        "packaging": "Paquete",
+        "price": 1.35,
+        "ref_price": 9.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/86146/patatas-fritas-extra-crujientes-hacendado-paquete"
+      },
+      {
+        "product_id": "22245",
+        "name": "Patatas fritas clásicas Hacendado",
+        "packaging": "Paquete",
+        "price": 1.8,
+        "ref_price": 6.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/22245/patatas-fritas-clasicas-hacendado-pack-2"
+      },
+      {
+        "product_id": "86145",
+        "name": "Patatas fritas onduladas sabor jamón serrano Hacendado",
+        "packaging": "Paquete",
+        "price": 1.25,
+        "ref_price": 8.33,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/86145/patatas-fritas-onduladas-hacendado-sabor-jamon-serrano-paquete"
+      },
+      {
+        "product_id": "15589",
+        "name": "Patatas fritas onduladas Hacendado",
+        "packaging": "Paquete",
+        "price": 1.15,
+        "ref_price": 7.67,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/15589/patatas-fritas-corte-ondulado-hacendado-paquete"
+      },
+      {
+        "product_id": "15810",
+        "name": "Patatas light Hacendado",
+        "packaging": "Paquete",
+        "price": 1.35,
+        "ref_price": 9.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/15810/patatas-light-hacendado-paquete"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "detergente-marsella": {
+    "modo": "busqueda",
+    "query": "detergente marsella",
+    "candidatos": [
+      {
+        "product_id": "86397",
+        "name": "Detergente ropa jabón natural de Marsella Bosque Verde líquido",
+        "packaging": "Botella",
+        "price": 3.5,
+        "ref_price": 0.07,
+        "ref_unit": "lavado",
+        "url": "https://tienda.mercadona.es/product/86397/detergente-ropa-jabon-natural-marsella-bosque-verde-liquido-botella"
+      },
+      {
+        "product_id": "14271",
+        "name": "Detergente ropa jabón de Marsella Bosque Verde en polvo",
+        "packaging": "Caja",
+        "price": 5.9,
+        "ref_price": 0.118,
+        "ref_unit": "lavado",
+        "url": "https://tienda.mercadona.es/product/14271/detergente-ropa-jabon-marsella-bosque-verde-polvo-contiene-dosificador-caja"
+      }
+    ],
+    "elegido": "86397",
+    "nuevo_pin": "86397"
+  },
+  "cappuccino": {
+    "modo": "busqueda",
+    "query": "cafe soluble cappuccino -caramelo",
+    "candidatos": [
+      {
+        "product_id": "23406",
+        "name": "Café soluble cappuccino Hacendado",
+        "packaging": "Bote",
+        "price": 2.75,
+        "ref_price": 11.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/23406/cafe-soluble-cappuccino-hacendado-bote"
+      }
+    ],
+    "elegido": "23406",
+    "nuevo_pin": "23406"
+  },
+  "salchichas-frankfurt": {
+    "modo": "busqueda",
+    "query": "salchichas frankfurt -queso -salteado",
+    "candidatos": [
+      {
+        "product_id": "53141",
+        "name": "Salchichas cocidas estilo Frankfurt Hacendado de pollo y cerdo sabor ahumado",
+        "packaging": null,
+        "price": 1.8,
+        "ref_price": 2.56,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/53141/salchichas-cocidas-estilo-frankfurt-hacendado-pollo-cerdo-sabor-ahumado-pack-4"
+      },
+      {
+        "product_id": "53007",
+        "name": "Salchichas cocidas estilo Frankfurt Campofrío sabor ahumado",
+        "packaging": null,
+        "price": 2.45,
+        "ref_price": 4.38,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/53007/salchichas-cocidas-estilo-frankfurt-campofrio-sabor-ahumado-pack-4"
+      },
+      {
+        "product_id": "17569",
+        "name": "Salchichas estilo Frankfurt Serrana Hacendado de cerdo y pollo",
+        "packaging": null,
+        "price": 1.8,
+        "ref_price": 4.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/17569/salchichas-estilo-frankfurt-serrana-hacendado-cerdo-pollo"
+      },
+      {
+        "product_id": "53041",
+        "name": "Salchichas cocidas Frankfurt La Selva",
+        "packaging": "Tarro",
+        "price": 2.4,
+        "ref_price": 8.57,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/53041/salchichas-cocidas-frankfurt-selva-tarro"
+      }
+    ],
+    "elegido": "53141",
+    "nuevo_pin": "53141"
+  }
+}

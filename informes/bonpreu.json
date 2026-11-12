@@ -1,0 +1,196 @@
+{
+  "leche-entera": {
+    "modo": "busqueda",
+    "query": "llet sencera -sense",
+    "candidatos": [
+      {
+        "product_id": "81177",
+        "name": "BONPREU Llet sencera en cartró",
+        "packaging": null,
+        "price": 0.96,
+        "ref_price": 0.96,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81177"
+      },
+      {
+        "product_id": "23597",
+        "name": "BONPREU Llet sencera 6x1L en cartró",
+        "packaging": null,
+        "price": 5.76,
+        "ref_price": 0.96,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/23597"
+      },
+      {
+        "product_id": "85792",
+        "name": "BONPREU Llet sencera esterilitzada",
+        "packaging": null,
+        "price": 1.56,
+        "ref_price": 1.04,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85792"
+      },
+      {
+        "product_id": "77766",
+        "name": "BONPREU Llet sencera 6x1,5L en ampolla",
+        "packaging": null,
+        "price": 9.36,
+        "ref_price": 1.04,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/77766"
+      },
+      {
+        "product_id": "02103",
+        "name": "EL CASTILLO Llet sencera en ampolla",
+        "packaging": null,
+        "price": 1.69,
+        "ref_price": 1.13,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02103"
+      }
+    ],
+    "elegido": "81177",
+    "nuevo_pin": "81177"
+  },
+  "huevos": {
+    "modo": "busqueda",
+    "query": "ous L -ecologics",
+    "candidatos": [
+      {
+        "product_id": "38974",
+        "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
+        "packaging": null,
+        "price": 3.05,
+        "ref_price": 3.05,
+        "ref_unit": "docena",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38974"
+      },
+      {
+        "product_id": "22148",
+        "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
+        "packaging": null,
+        "price": 3.05,
+        "ref_price": 3.05,
+        "ref_unit": "docena",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/22148"
+      },
+      {
+        "product_id": "33515",
+        "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
+        "packaging": null,
+        "price": 3.05,
+        "ref_price": 3.05,
+        "ref_unit": "docena",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/33515"
+      },
+      {
+        "product_id": "38870",
+        "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
+        "packaging": null,
+        "price": 1.8,
+        "ref_price": 3.6,
+        "ref_unit": "docena",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38870"
+      },
+      {
+        "product_id": "22150",
+        "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
+        "packaging": null,
+        "price": 1.8,
+        "ref_price": 3.6,
+        "ref_unit": "docena",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/22150"
+      }
+    ],
+    "elegido": "38974",
+    "nuevo_pin": "38974"
+  },
+  "arroz": {
+    "modo": "busqueda",
+    "query": "arròs rodó",
+    "candidatos": [
+      {
+        "product_id": "00731",
+        "name": "NOMEN Arròs rodó",
+        "packaging": null,
+        "price": 1.89,
+        "ref_price": 1.89,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00731"
+      },
+      {
+        "product_id": "00732",
+        "name": "MONTSIA Arròs rodó extra",
+        "packaging": null,
+        "price": 1.93,
+        "ref_price": 1.93,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00732"
+      },
+      {
+        "product_id": "00730",
+        "name": "NOMEN Arròs rodó",
+        "packaging": null,
+        "price": 1.15,
+        "ref_price": 2.3,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00730"
+      },
+      {
+        "product_id": "63145",
+        "name": "SABROZ Arròs rodó",
+        "packaging": null,
+        "price": 2.79,
+        "ref_price": 2.79,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/63145"
+      },
+      {
+        "product_id": "77462",
+        "name": "NOMEN Arròs rodó ecològic",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": 2.99,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/77462"
+      }
+    ],
+    "elegido": "00731",
+    "nuevo_pin": "00731"
+  },
+  "azucar": {
+    "modo": "busqueda",
+    "query": "sucre blanc",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "sal": {
+    "modo": "busqueda",
+    "query": "sal fina",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "ternera": {
+    "modo": "busqueda",
+    "query": "picada vedella -porc -ecologica",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "pollo": {
+    "modo": "busqueda",
+    "query": "pit pollastre -marinat -arrebossat",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "cerdo": {
+    "modo": "busqueda",
+    "query": "llom porc -marinat -adobat",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  }
+}
