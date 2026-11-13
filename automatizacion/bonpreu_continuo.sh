@@ -4,12 +4,14 @@
 # (hasta 120) y se reduce a la mitad cuando responde bien (mínimo 20).
 #
 # Uso (desde la carpeta del proyecto, con la Mac enchufada):
-#   caffeinate -i bash automatizacion/bonpreu_continuo.sh
+#   caffeinate -i bash automatizacion/bonpreu_continuo.sh            (20 min, 3 productos)
+#   caffeinate -i bash automatizacion/bonpreu_continuo.sh 5 4        (5 min, 4 productos por ciclo)
 # Para pararlo: Ctrl+C
 set -u
 CARPETA="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$CARPETA" || exit 1
-ESPERA_MIN=20; ESPERA_MAX=120; ESPERA=$ESPERA_MIN
+ESPERA_MIN=${1:-20}; ESPERA_MAX=120;
+export BONPREU_MAX=${2:-3} ESPERA=$ESPERA_MIN
 MAX_CICLOS=120
 
 estado() {  # imprime: productos_con_precio total consultados_en_este_ciclo

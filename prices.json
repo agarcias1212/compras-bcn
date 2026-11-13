@@ -1121,7 +1121,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/882601.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "67546",
+          "name": "UBACH Quefir natural Km0",
+          "packaging": "0.5kg",
+          "price": 1.1,
+          "ref_price": 2.2,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/67546",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/f98784ce-4a34-4766-9c04-7fc1453990b4/150x150.webp",
+          "fetched": "2026-11-14T00:27:11+01:00",
+          "image": "img/bonpreu/67546.webp"
+        },
         "dia": {
           "product_id": "307309",
           "name": "Kéfir natural desnatado Dia Láctea 4 x 180 g",
@@ -1172,7 +1183,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/246500.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "14393",
+          "name": "BONPREU Arròs llarg vaporitzat",
+          "packaging": "1kg",
+          "price": 1.55,
+          "ref_price": 1.55,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14393",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/fa9c7a80-51a4-49ef-976c-874d4f0e59dc/150x150.webp",
+          "fetched": "2026-11-14T00:27:11+01:00",
+          "image": "img/bonpreu/14393.webp"
+        },
         "dia": {
           "product_id": "28809",
           "name": "Arroz vaporizado Dia Arrozona 1 Kg",
@@ -1223,7 +1245,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/500400.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "75912",
+          "name": "BONPREU Mongetes blanques",
+          "packaging": "1kg",
+          "price": 2.45,
+          "ref_price": 2.45,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75912",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/cdacd45c-cc95-4bb4-aee8-98ba3cd85680/150x150.webp",
+          "fetched": "2026-11-14T00:27:11+01:00",
+          "image": "img/bonpreu/75912.webp"
+        },
         "dia": {
           "product_id": "154",
           "name": "Alubias blancas Dia Vegecampo 1 Kg",
@@ -4527,5 +4560,5 @@
       }
     }
   },
-  "updated": "2026-11-14T00:19:13+01:00"
+  "updated": "2026-11-14T00:27:11+01:00"
 }

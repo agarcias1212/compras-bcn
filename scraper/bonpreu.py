@@ -1,3 +1,4 @@
+import os
 """Bonpreu Esclat (plataforma Ocado). Verificado desde la Mac el 12-11-2026.
 
 - Producto por ID: GET /api/webproductpagews/v5/products/bop?retailerProductId={id}  (JSON)
@@ -54,7 +55,7 @@ ESPERA_BLOQUEO = 90  # si nos bloquea (error HTTP o búsqueda vacía), se espera
 _jar = http.cookiejar.CookieJar()
 _opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(_jar))
 _sesion_iniciada = False
-MAX_PETICIONES = 3      # Bonpreu bloquea a partir de ~4 peticiones seguidas: 3 por ejecución, en rotación
+MAX_PETICIONES = int(os.environ.get("BONPREU_MAX", 3))     # Bonpreu bloquea a partir de ~4 peticiones seguidas: 3 por ejecución, en rotación
 _peticiones = 0
 FALLOS_PARA_PARAR = 3   # tras 3 fallos seguidos se da Bonpreu por bloqueado en esta ejecución
 _fallos_seguidos = 0
