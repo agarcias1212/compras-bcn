@@ -1797,14 +1797,14 @@
           "fetched": "2026-11-13T07:52:30+00:00"
         },
         "consum": {
-          "product_id": "21343",
-          "name": "Provolone Dolce Oregano 150 Gr",
+          "product_id": "35919",
+          "name": "Orégano 18 Gr",
           "packaging": null,
-          "price": 1.99,
-          "ref_price": 13.27,
+          "price": 0.75,
+          "ref_price": 41.67,
           "ref_unit": "kg",
-          "url": "https://tienda.consum.es/es/p/provolone-dolce-oregano/7333342",
-          "fetched": "2026-11-13T08:57:26+01:00"
+          "url": "https://tienda.consum.es/es/p/oregano/7435865",
+          "fetched": "2026-11-13T08:02:10+00:00"
         }
       }
     },
@@ -1871,14 +1871,14 @@
           "fetched": "2026-11-13T07:52:30+00:00"
         },
         "consum": {
-          "product_id": "29453",
-          "name": "Queso Oveja Romero Leche Pasteurizada",
+          "product_id": "35874",
+          "name": "Romero 35 Gr",
           "packaging": null,
-          "price": 24.5,
-          "ref_price": 24.5,
+          "price": 1.35,
+          "ref_price": 38.57,
           "ref_unit": "kg",
-          "url": "https://tienda.consum.es/es/p/queso-oveja-romero-leche-pasteurizada/7199516",
-          "fetched": "2026-11-13T08:57:26+01:00"
+          "url": "https://tienda.consum.es/es/p/romero/7435886",
+          "fetched": "2026-11-13T08:02:10+00:00"
         }
       }
     },
@@ -1998,14 +1998,14 @@
       "unit": "kg",
       "stores": {
         "mercadona": {
-          "product_id": "17995",
-          "name": "Baguette ajo y finas hierbas Hacendado ultracongeladas",
-          "packaging": "Paquete",
-          "price": 2.0,
-          "ref_price": 5.71,
+          "product_id": "69297",
+          "name": "Ajos morados",
+          "packaging": null,
+          "price": 1.85,
+          "ref_price": 7.4,
           "ref_unit": "kg",
-          "url": "https://tienda.mercadona.es/product/17995/baguette-ajo-finas-hierbas-hacendado-ultracongeladas-paquete",
-          "fetched": "2026-11-13T08:57:26+01:00"
+          "url": "https://tienda.mercadona.es/product/69297/ajos-morados-malla",
+          "fetched": "2026-11-13T08:02:10+00:00"
         },
         "aldi": null,
         "dia": {
@@ -2019,14 +2019,14 @@
           "fetched": "2026-11-13T07:52:30+00:00"
         },
         "consum": {
-          "product_id": "7236",
-          "name": "Ajos Tiernos 300 Gr",
+          "product_id": "5251",
+          "name": "Ajos Secos Malla 250 Gr",
           "packaging": null,
-          "price": 1.99,
-          "ref_price": 6.63,
+          "price": 1.85,
+          "ref_price": 7.4,
           "ref_unit": "kg",
-          "url": "https://tienda.consum.es/es/p/ajos-tiernos/7203297",
-          "fetched": "2026-11-13T08:57:26+01:00"
+          "url": "https://tienda.consum.es/es/p/ajos-secos-malla/2600815",
+          "fetched": "2026-11-13T08:02:10+00:00"
         }
       }
     },
@@ -2465,14 +2465,14 @@
           "fetched": "2026-11-13T07:52:30+00:00"
         },
         "consum": {
-          "product_id": "44269",
-          "name": "Grissini Sesamo 2 Bolsitas 120 Gr",
+          "product_id": "39675",
+          "name": "Semillas De Sésamo Tostado 250 Gr",
           "packaging": null,
-          "price": 1.0,
-          "ref_price": 8.33,
+          "price": 2.49,
+          "ref_price": 9.96,
           "ref_unit": "kg",
-          "url": "https://tienda.consum.es/es/p/grissini-sesamo-2-bolsitas/7464068",
-          "fetched": "2026-11-13T08:57:26+01:00"
+          "url": "https://tienda.consum.es/es/p/semillas-de-sesamo-tostado/7452337",
+          "fetched": "2026-11-13T08:02:10+00:00"
         }
       }
     },
@@ -3075,14 +3075,14 @@
           "fetched": "2026-11-13T07:52:30+00:00"
         },
         "consum": {
-          "product_id": "12784",
-          "name": "Plátano de Freír",
+          "product_id": "4687",
+          "name": "Plátano Canario IGP",
           "packaging": null,
-          "price": 1.06,
-          "ref_price": 2.99,
+          "price": 0.59,
+          "ref_price": 3.2,
           "ref_unit": "kg",
-          "url": "https://tienda.consum.es/es/p/platano-de-freir/961375",
-          "fetched": "2026-11-13T08:57:26+01:00"
+          "url": "https://tienda.consum.es/es/p/platano-canario-igp/26104",
+          "fetched": "2026-11-13T08:02:10+00:00"
         }
       }
     },
@@ -3137,25 +3137,16 @@
       "unit": "kg",
       "stores": {
         "mercadona": {
-          "product_id": "18145",
-          "name": "Rosquillas de mantequilla Hacendado",
-          "packaging": "Caja",
+          "product_id": "20722",
+          "name": "Mantequilla con sal Hacendado",
+          "packaging": null,
           "price": 2.05,
-          "ref_price": 6.83,
+          "ref_price": 8.2,
           "ref_unit": "kg",
-          "url": "https://tienda.mercadona.es/product/18145/rosquillas-mantequilla-hacendado-caja",
-          "fetched": "2026-11-13T08:57:26+01:00"
+          "url": "https://tienda.mercadona.es/product/20722/mantequilla-con-sal-hacendado-pastilla",
+          "fetched": "2026-11-13T08:02:10+00:00"
         },
-        "aldi": {
-          "product_id": "733100",
-          "name": "Mantequilla ecológica",
-          "packaging": "250 g unidad",
-          "price": 3.39,
-          "ref_price": 13.56,
-          "ref_unit": "kg",
-          "url": "https://www.aldi.es/producto/mantequilla-ecologica-733100.html",
-          "fetched": "2026-11-13T08:57:26+01:00"
-        },
+        "aldi": null,
         "dia": {
           "product_id": "268201",
           "name": "Mantequilla sin sal Dia Láctea 250 g",

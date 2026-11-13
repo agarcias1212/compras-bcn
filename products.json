@@ -702,17 +702,17 @@
       "name": "Orégano",
       "unit": "kg",
       "queries": {
-        "mercadona": "oregano",
+        "mercadona": "oregano -provolone -queso",
         "bonpreu": "orenga",
-        "aldi": "despensa/especias-y-condimentos: oregano",
-        "dia": "oregano",
-        "consum": "oregano"
+        "aldi": "despensa/especias-y-condimentos: oregano -provolone -queso",
+        "dia": "oregano -provolone -queso",
+        "consum": "oregano -provolone -queso"
       },
       "pinned": {
         "dia": "1293",
         "mercadona": "5598",
         "aldi": "despensa/especias-y-condimentos/600719200",
-        "consum": "21343"
+        "consum": "35919"
       }
     },
     {
@@ -737,16 +737,16 @@
       "name": "Romero",
       "unit": "kg",
       "queries": {
-        "mercadona": "romero -focaccia -crackers -pan -miel",
+        "mercadona": "romero -focaccia -crackers -pan -miel -queso",
         "bonpreu": "romani",
-        "aldi": "despensa/especias-y-condimentos: romero -focaccia -crackers -pan -miel",
-        "dia": "romero -focaccia -crackers -pan -miel",
-        "consum": "romero -focaccia -crackers -pan -miel"
+        "aldi": "despensa/especias-y-condimentos: romero -focaccia -crackers -pan -miel -queso",
+        "dia": "romero -focaccia -crackers -pan -miel -queso",
+        "consum": "romero -focaccia -crackers -pan -miel -queso"
       },
       "pinned": {
         "dia": "305818",
         "mercadona": "14981",
-        "consum": "29453"
+        "consum": "35874"
       }
     },
     {
@@ -805,16 +805,16 @@
       "name": "Ajo entero",
       "unit": "kg",
       "queries": {
-        "mercadona": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado",
+        "mercadona": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado -baguette -tierno",
         "bonpreu": "all -pols -negre -julivert -salsa -oli",
-        "aldi": "fruta-y-verdura/verduras-y-hortalizas: ajo -troceado",
-        "dia": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado",
-        "consum": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado"
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: ajo -troceado -baguette -tierno",
+        "dia": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado -baguette -tierno",
+        "consum": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado -baguette -tierno"
       },
       "pinned": {
         "dia": "15437",
-        "mercadona": "17995",
-        "consum": "7236"
+        "mercadona": "69297",
+        "consum": "5251"
       }
     },
     {
@@ -1033,16 +1033,16 @@
       "name": "Semillas de sésamo",
       "unit": "kg",
       "queries": {
-        "mercadona": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza",
+        "mercadona": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza -grissini",
         "bonpreu": "sesam -oli -pa -galeta",
-        "aldi": "aperitivos/frutos-secos-y-semillas: sesamo -aceite -crackers -fibra -hogaza",
-        "dia": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza",
-        "consum": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza"
+        "aldi": "aperitivos/frutos-secos-y-semillas: sesamo -aceite -crackers -fibra -hogaza -grissini",
+        "dia": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza -grissini",
+        "consum": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza -grissini"
       },
       "pinned": {
         "dia": "284859",
         "mercadona": "34964",
-        "consum": "44269"
+        "consum": "39675"
       }
     },
     {
@@ -1306,16 +1306,16 @@
       "name": "Plátanos",
       "unit": "kg",
       "queries": {
-        "mercadona": "platano -chips -batido -zumo -macho -yogur -casei -bebida",
+        "mercadona": "platano -chips -batido -zumo -macho -yogur -casei -bebida -freir",
         "bonpreu": "platan -xips -batut -suc",
-        "aldi": "fruta-y-verdura/fruta: platano -casei -bebida",
-        "dia": "platano -chips -batido -zumo -macho -yogur -casei -bebida",
-        "consum": "platano -chips -batido -zumo -macho -yogur -casei -bebida"
+        "aldi": "fruta-y-verdura/fruta: platano -casei -bebida -freir",
+        "dia": "platano -chips -batido -zumo -macho -yogur -casei -bebida -freir",
+        "consum": "platano -chips -batido -zumo -macho -yogur -casei -bebida -freir"
       },
       "pinned": {
         "dia": "11468",
         "mercadona": "3819",
-        "consum": "12784"
+        "consum": "4687"
       }
     },
     {
@@ -1341,16 +1341,15 @@
       "name": "Mantequilla",
       "unit": "kg",
       "queries": {
-        "mercadona": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera",
+        "mercadona": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera -rosquilla -ecologica",
         "bonpreu": "mantega -cacauet -galeta",
-        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla -pan -brioche -ligera",
-        "dia": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera",
-        "consum": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera"
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla -pan -brioche -ligera -rosquilla -ecologica",
+        "dia": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera -rosquilla -ecologica",
+        "consum": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera -rosquilla -ecologica"
       },
       "pinned": {
         "dia": "268201",
-        "mercadona": "18145",
-        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/733100",
+        "mercadona": "20722",
         "consum": "6163"
       }
     },

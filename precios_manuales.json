@@ -232,6 +232,1126 @@
       "precio_unidad": null,
       "unidad": "kg",
       "fecha": null
+    },
+    "clavo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "canela-rama": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "comino": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "pimienta-negra": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "pimenton-picante": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "cilantro": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "oregano": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "ajo-polvo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "romero": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "miel-flores": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "aceite-sesamo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "salsa-soja": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "ajo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "espaguetis": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "fideos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "copos-avena": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "lentejas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "manzanilla": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "infusion-manzana-canela": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "poleo-menta": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "tila": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "te-verde": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "rooibos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "infusion-frutos-rojos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "maiz-palomitas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "chia": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "sesamo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "alubia-roja": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "alubia-pinta": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "alubia-negra": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "jamon-iberico": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "tomate-frito": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "ketchup-sin-azucar": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "tomate": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "zanahoria": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "lechuga": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "calabacin": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "uva": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "mandarina": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "lima": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "pera": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "manzana": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "platano": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "guacamole": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "mantequilla": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "zumo-lima": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "mayonesa-light": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "mostaza": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "salsa-barbacoa": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "lavavajillas-mano": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "bolsas-basura": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "bolsas-reutilizables": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "bolsas-cierre": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "film": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "m",
+      "fecha": null
+    },
+    "aluminio": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "m",
+      "fecha": null
+    },
+    "bayetas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "panos-absorbentes": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "papel-cocina": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "papel-higienico": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    }
+  },
+  "mercadona": {
+    "patatas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "aceite-sesamo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "espaguetis": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "manzanilla": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "infusion-manzana-canela": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "poleo-menta": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "tila": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "te-verde": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "rooibos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "infusion-frutos-rojos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "ketchup-sin-azucar": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "zumo-lima": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "mayonesa-light": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "bolsas-reutilizables": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "bolsas-cierre": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "panos-absorbentes": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "papel-cocina": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    }
+  },
+  "aldi": {
+    "huevos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "docena",
+      "fecha": null
+    },
+    "azucar": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "ternera": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "cerdo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "yogur-liquido-0": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "clavo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "cilantro": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "romero": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "aceite-sesamo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "ajo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "espaguetis": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "infusion-manzana-canela": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "poleo-menta": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "tila": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "rooibos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "infusion-frutos-rojos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "maiz-palomitas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "chia": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "sesamo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "alubia-roja": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "alubia-pinta": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "alubia-negra": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "ketchup-sin-azucar": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "tomate": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "lechuga": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "calabacin": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "uva": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "platano": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "mantequilla": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "mayonesa-light": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "mostaza": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "salsa-barbacoa": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "bolsas-reutilizables": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "bolsas-cierre": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "film": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "m",
+      "fecha": null
+    },
+    "panos-absorbentes": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "papel-cocina": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "papel-higienico": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    }
+  },
+  "dia": {
+    "zumo-limon": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "aceite-sesamo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "infusion-manzana-canela": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "rooibos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "infusion-frutos-rojos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "alubia-roja": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "ketchup-sin-azucar": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "zumo-lima": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "mayonesa-light": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "bolsas-reutilizables": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "bolsas-cierre": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "panos-absorbentes": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    }
+  },
+  "consum": {
+    "jengibre-molido": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "cappuccino": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "ajo-polvo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "infusion-manzana-canela": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "infusion-frutos-rojos": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "alubia-negra": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "ketchup-sin-azucar": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "zumo-lima": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "mayonesa-light": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "bolsas-reutilizables": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "bolsas-cierre": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "aluminio": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "m",
+      "fecha": null
+    },
+    "papel-higienico": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
     }
   }
 }
