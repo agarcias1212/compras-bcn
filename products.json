@@ -447,7 +447,8 @@
         "aldi": "despensa/tomates-y-salsas/256301",
         "mercadona": "17228",
         "dia": "139856",
-        "consum": "4963"
+        "consum": "4963",
+        "bonpreu": "02324"
       }
     },
     {
@@ -464,7 +465,8 @@
       "pinned": {
         "aldi": "despensa/especias-y-condimentos/601613200",
         "mercadona": "34149",
-        "dia": "299135"
+        "dia": "299135",
+        "bonpreu": "48893"
       }
     },
     {

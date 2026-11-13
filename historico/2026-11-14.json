@@ -1359,7 +1359,16 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/256301.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "02324",
+          "name": "MAILLE Mostassa de Dijón",
+          "packaging": null,
+          "price": 3.99,
+          "ref_price": 15.06,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02324",
+          "fetched": "2026-11-14T00:40:08+01:00"
+        },
         "dia": {
           "product_id": "139856",
           "name": "Mostaza Dijon original Maille 215 g",
@@ -1410,7 +1419,16 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/601613200.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "48893",
+          "name": "DANI Gingebre molt",
+          "packaging": null,
+          "price": 0.95,
+          "ref_price": 27.14,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48893",
+          "fetched": "2026-11-14T00:40:08+01:00"
+        },
         "dia": {
           "product_id": "299135",
           "name": "Jengibre molido Dia Vegecampo 50 g",
@@ -4571,5 +4589,5 @@
       }
     }
   },
-  "updated": "2026-11-14T00:34:48+01:00"
+  "updated": "2026-11-14T00:40:08+01:00"
 }

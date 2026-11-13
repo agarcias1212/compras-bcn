@@ -105,12 +105,38 @@
     "candidatos": []
   },
   "mostaza-dijon": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mostassa dijon",
+    "candidatos": [
+      {
+        "product_id": "02324",
+        "name": "MAILLE Mostassa de Dijón",
+        "packaging": null,
+        "price": 3.99,
+        "ref_price": 15.06,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02324"
+      }
+    ],
+    "elegido": "02324",
+    "nuevo_pin": "02324"
   },
   "jengibre-molido": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "gingebre molt",
+    "candidatos": [
+      {
+        "product_id": "48893",
+        "name": "DANI Gingebre molt",
+        "packaging": null,
+        "price": 0.95,
+        "ref_price": 27.14,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48893"
+      }
+    ],
+    "elegido": "48893",
+    "nuevo_pin": "48893"
   },
   "canela-molida": {
     "modo": "omitido",
