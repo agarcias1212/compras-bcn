@@ -24,58 +24,58 @@
     "candidatos": []
   },
   "pollo": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "81579",
-        "name": "BONPREU Pit de pollastre al buit",
-        "packaging": "800g - 1200g",
-        "price": 6.99,
-        "ref_price": 6.99,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81579"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "cerdo": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "54981",
-        "name": "BONPREU Tros de llom de porc",
-        "packaging": "950g - 1350g",
-        "price": 5.49,
-        "ref_price": 5.49,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/54981"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "leche-sin-lactosa": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "patatas-fritas": {
     "modo": "fijado",
     "candidatos": [
       {
-        "product_id": "13326",
-        "name": "BONPREU Llet sencera UHT sense lactosa",
-        "packaging": "1L",
-        "price": 1.03,
-        "ref_price": 1.03,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/13326"
+        "product_id": "77957",
+        "name": "BONPREU Patates fregides a la paella",
+        "packaging": "2 x 0.15kg",
+        "price": 1.8,
+        "ref_price": 6.0,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/77957"
       }
     ]
   },
-  "patatas-fritas": {
-    "modo": "omitido",
-    "candidatos": []
-  },
   "batido-chocolate": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "85644",
+        "name": "BONPREU Batut de cacau en cartró",
+        "packaging": "6 x 0.2L",
+        "price": 1.65,
+        "ref_price": 1.37,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85644"
+      }
+    ]
   },
   "atun-natural": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "63001",
+        "name": "BONPREU Tonyina clara al natural",
+        "packaging": "6 x 0.056kg",
+        "price": 4.2,
+        "ref_price": 12.5,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/63001"
+      }
+    ]
   },
   "nuez-moscada": {
     "modo": "omitido",
@@ -390,6 +390,58 @@
     "candidatos": []
   },
   "papel-higienico": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "hamburguesa-vacuno": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "hamburguesa-pollo": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "patatas-paja": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "aceite-oliva-virgen-extra": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "aceite-oliva-suave": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "curcuma": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "pan-barra": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "pan-molde": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "calamares-americana": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "nata-cocinar": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "nachos": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "garbanzos": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "yogur-natural": {
     "modo": "omitido",
     "candidatos": []
   }

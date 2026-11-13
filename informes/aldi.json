@@ -540,8 +540,7 @@
     "nuevo_pin": null
   },
   "canela-rama": {
-    "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: canela rama",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601612800",
@@ -552,13 +551,10 @@
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/canela-en-rama-601612800.html"
       }
-    ],
-    "elegido": "601612800",
-    "nuevo_pin": "despensa/especias-y-condimentos/601612800"
+    ]
   },
   "comino": {
-    "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: comino",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "897000",
@@ -569,13 +565,10 @@
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/comino-molido-897000.html"
       }
-    ],
-    "elegido": "897000",
-    "nuevo_pin": "despensa/especias-y-condimentos/897000"
+    ]
   },
   "pimienta-negra": {
-    "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: pimienta negra -mousse -pato -pate",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "870700",
@@ -585,23 +578,11 @@
         "ref_price": 15.0,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/pimienta-negra-molida-870700.html"
-      },
-      {
-        "product_id": "251301",
-        "name": "Molinillo de pimienta negra",
-        "packaging": "50 g unidad",
-        "price": 1.59,
-        "ref_price": 31.8,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/molinillo-de-pimienta-negra-251301.html"
       }
-    ],
-    "elegido": "870700",
-    "nuevo_pin": "despensa/especias-y-condimentos/870700"
+    ]
   },
   "pimenton-picante": {
-    "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: pimenton picante",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601613400",
@@ -612,9 +593,7 @@
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/pimenton-picante-601613400.html"
       }
-    ],
-    "elegido": "601613400",
-    "nuevo_pin": "despensa/especias-y-condimentos/601613400"
+    ]
   },
   "cilantro": {
     "modo": "busqueda",
@@ -624,8 +603,7 @@
     "nuevo_pin": null
   },
   "oregano": {
-    "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: oregano",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "600719200",
@@ -635,23 +613,11 @@
         "ref_price": 30.0,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/oregano-en-hoja-600719200.html"
-      },
-      {
-        "product_id": "601811701",
-        "name": "Orégano",
-        "packaging": "12 g unidad",
-        "price": 1.0,
-        "ref_price": 83.33,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/oregano-601811701.html"
       }
-    ],
-    "elegido": "600719200",
-    "nuevo_pin": "despensa/especias-y-condimentos/600719200"
+    ]
   },
   "ajo-polvo": {
-    "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: ajo polvo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "118800",
@@ -662,20 +628,17 @@
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/ajo-en-polvo-118800.html"
       }
-    ],
-    "elegido": "118800",
-    "nuevo_pin": "despensa/especias-y-condimentos/118800"
+    ]
   },
   "romero": {
     "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: romero -focaccia -crackers -pan -miel",
+    "query": "despensa/especias-y-condimentos: romero -focaccia -crackers -pan -miel -queso",
     "candidatos": [],
     "elegido": null,
     "nuevo_pin": null
   },
   "miel-flores": {
-    "modo": "busqueda",
-    "query": "desayuno/miel-y-sirope: miel flores",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "600985400",
@@ -685,19 +648,8 @@
         "ref_price": 4.89,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/miel-de-flores-600985400.html"
-      },
-      {
-        "product_id": "364100",
-        "name": "Miel de flores",
-        "packaging": "500 g unidad",
-        "price": 3.09,
-        "ref_price": 6.18,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/miel-de-flores-364100.html"
       }
-    ],
-    "elegido": "600985400",
-    "nuevo_pin": "desayuno/miel-y-sirope/600985400"
+    ]
   },
   "aceite-sesamo": {
     "modo": "busqueda",
@@ -753,8 +705,7 @@
     "nuevo_pin": null
   },
   "salsa-soja": {
-    "modo": "busqueda",
-    "query": "despensa/tomates-y-salsas: salsa soja",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "481500",
@@ -765,13 +716,11 @@
         "ref_unit": "L",
         "url": "https://www.aldi.es/producto/salsa-de-soja-481500.html"
       }
-    ],
-    "elegido": "481500",
-    "nuevo_pin": "despensa/tomates-y-salsas/481500"
+    ]
   },
   "ajo": {
     "modo": "busqueda",
-    "query": "fruta-y-verdura/verduras-y-hortalizas: ajo -troceado",
+    "query": "fruta-y-verdura/verduras-y-hortalizas: ajo -troceado -baguette -tierno",
     "candidatos": [
       {
         "product_id": "985300",
@@ -790,15 +739,6 @@
         "ref_price": null,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/ajo-blanco-250gr-602228200.html"
-      },
-      {
-        "product_id": "452300",
-        "name": "Ajo tierno",
-        "packaging": null,
-        "price": null,
-        "ref_price": null,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/ajo-tierno-452300.html"
       },
       {
         "product_id": "17000",
@@ -821,8 +761,7 @@
     "nuevo_pin": null
   },
   "fideos": {
-    "modo": "busqueda",
-    "query": "despensa/pasta: fideo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601230300",
@@ -832,50 +771,11 @@
         "ref_price": 1.7,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/fideo-mediano-601230300.html"
-      },
-      {
-        "product_id": "601338603",
-        "name": "Fideos instantáneos sabor verduras",
-        "packaging": "85 g unidad",
-        "price": 0.65,
-        "ref_price": 7.65,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/fideos-instantaneos-sabor-verduras-601338603.html"
-      },
-      {
-        "product_id": "601338601",
-        "name": "Fideos instantáneos sabor pollo",
-        "packaging": "85 g unidad",
-        "price": 0.65,
-        "ref_price": 7.65,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/fideos-instantaneos-sabor-pollo-601338601.html"
-      },
-      {
-        "product_id": "601745602",
-        "name": "Fideos de arroz  finos",
-        "packaging": "200 g unidad",
-        "price": 1.57,
-        "ref_price": 7.85,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/fideos-de-arroz-finos-601745602.html"
-      },
-      {
-        "product_id": "601745601",
-        "name": "Fideos de arroz anchos",
-        "packaging": "200 g unidad",
-        "price": 1.57,
-        "ref_price": 7.85,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/fideos-de-arroz-anchos-601745601.html"
       }
-    ],
-    "elegido": "601230300",
-    "nuevo_pin": "despensa/pasta/601230300"
+    ]
   },
   "copos-avena": {
-    "modo": "busqueda",
-    "query": "desayuno/cereales: copos avena",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601491500",
@@ -885,23 +785,11 @@
         "ref_price": 1.29,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/copos-de-avena-integral-601491500.html"
-      },
-      {
-        "product_id": "273600",
-        "name": "Copos de avena integral",
-        "packaging": "500 g unidad",
-        "price": 0.75,
-        "ref_price": 1.5,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/copos-de-avena-integral-273600.html"
       }
-    ],
-    "elegido": "601491500",
-    "nuevo_pin": "desayuno/cereales/601491500"
+    ]
   },
   "lentejas": {
-    "modo": "busqueda",
-    "query": "despensa/legumbres-y-cereales: lentejas -cocidas",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "500200",
@@ -911,23 +799,11 @@
         "ref_price": 1.45,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/lenteja-500200.html"
-      },
-      {
-        "product_id": "501300",
-        "name": "Lenteja castellana",
-        "packaging": "1 kg unidad",
-        "price": 2.02,
-        "ref_price": 2.02,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/lenteja-castellana-501300.html"
       }
-    ],
-    "elegido": "500200",
-    "nuevo_pin": "despensa/legumbres-y-cereales/500200"
+    ]
   },
   "manzanilla": {
-    "modo": "busqueda",
-    "query": "cafe-cacao-e-infusiones/tes-e-infusiones: manzanilla",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "420000",
@@ -938,9 +814,7 @@
         "ref_unit": "ud",
         "url": "https://www.aldi.es/producto/infusion-manzanilla-420000.html"
       }
-    ],
-    "elegido": "420000",
-    "nuevo_pin": "cafe-cacao-e-infusiones/tes-e-infusiones/420000"
+    ]
   },
   "infusion-manzana-canela": {
     "modo": "busqueda",
@@ -984,8 +858,7 @@
     "nuevo_pin": null
   },
   "te-verde": {
-    "modo": "busqueda",
-    "query": "cafe-cacao-e-infusiones/tes-e-infusiones: te verde",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "421903",
@@ -995,19 +868,8 @@
         "ref_price": 0.036,
         "ref_unit": "ud",
         "url": "https://www.aldi.es/producto/te-verde-limon-421903.html"
-      },
-      {
-        "product_id": "421901",
-        "name": "Té verde",
-        "packaging": "pack de 25 bolsitas",
-        "price": 0.89,
-        "ref_price": 0.036,
-        "ref_unit": "ud",
-        "url": "https://www.aldi.es/producto/te-verde-421901.html"
       }
-    ],
-    "elegido": "421903",
-    "nuevo_pin": "cafe-cacao-e-infusiones/tes-e-infusiones/421903"
+    ]
   },
   "rooibos": {
     "modo": "busqueda",
@@ -1076,7 +938,7 @@
   },
   "sesamo": {
     "modo": "busqueda",
-    "query": "aperitivos/frutos-secos-y-semillas: sesamo -aceite -crackers -fibra -hogaza",
+    "query": "aperitivos/frutos-secos-y-semillas: sesamo -aceite -crackers -fibra -hogaza -grissini",
     "candidatos": [],
     "elegido": null,
     "nuevo_pin": null
@@ -1133,18 +995,8 @@
     "nuevo_pin": null
   },
   "jamon-iberico": {
-    "modo": "busqueda",
-    "query": "charcuteria/embutidos-curados: jamon iberico -paleta",
+    "modo": "fijado",
     "candidatos": [
-      {
-        "product_id": "600152500",
-        "name": "Jamón de cebo ibérico 50% R.I.",
-        "packaging": "8 - 9 kg aprox. unidad",
-        "price": 149.0,
-        "ref_price": 17.53,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/jamon-de-cebo-iberico-50percent-ri-600152500.html"
-      },
       {
         "product_id": "601113700",
         "name": "Jamón de cebo ibérico 50% R.I.",
@@ -1153,41 +1005,11 @@
         "ref_price": 52.42,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/jamon-de-cebo-iberico-50percent-ri-601113700.html"
-      },
-      {
-        "product_id": "600114900",
-        "name": "Delicias de jamón de cebo ibérico 50% R.I.",
-        "packaging": "90 g unidad",
-        "price": 4.79,
-        "ref_price": 53.22,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/delicias-de-jamon-de-cebo-iberico-50percent-ri-600114900.html"
-      },
-      {
-        "product_id": "458100",
-        "name": "Maletín de jamón de cebo ibérico 50% R.I.",
-        "packaging": "15 x  50 g unidad",
-        "price": 49.0,
-        "ref_price": 65.33,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/maletin-de-jamon-de-cebo-iberico-50percent-ri-458100.html"
-      },
-      {
-        "product_id": "601051300",
-        "name": "Jamón de cebo ibérico 50% R.I.",
-        "packaging": "90 g unidad",
-        "price": 5.99,
-        "ref_price": 66.56,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/jamon-de-cebo-iberico-50percent-ri-601051300.html"
       }
-    ],
-    "elegido": "600152500",
-    "nuevo_pin": "charcuteria/embutidos-curados/600152500"
+    ]
   },
   "tomate-frito": {
-    "modo": "busqueda",
-    "query": "despensa/tomates-y-salsas: tomate frito -azucar",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "506400",
@@ -1197,46 +1019,8 @@
         "ref_price": 1.35,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/tomate-frito-506400.html"
-      },
-      {
-        "product_id": "601636900",
-        "name": "Tomate frito  con aceite de oliva",
-        "packaging": "pack de 3 x 215 g",
-        "price": 1.39,
-        "ref_price": 2.16,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/tomate-frito-con-aceite-de-oliva-601636900.html"
-      },
-      {
-        "product_id": "502500",
-        "name": "Tomate frito estilo casero",
-        "packaging": "350 g unidad",
-        "price": 0.99,
-        "ref_price": 2.83,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/tomate-frito-estilo-casero-502500.html"
-      },
-      {
-        "product_id": "601490800",
-        "name": "Tomate frito casero",
-        "packaging": "550 g unidad",
-        "price": 1.82,
-        "ref_price": 3.31,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/tomate-frito-casero-601490800.html"
-      },
-      {
-        "product_id": "600151700",
-        "name": "Tomate frito ecológico",
-        "packaging": "300 g unidad",
-        "price": 1.59,
-        "ref_price": 5.3,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/tomate-frito-ecologico-600151700.html"
       }
-    ],
-    "elegido": "506400",
-    "nuevo_pin": "despensa/tomates-y-salsas/506400"
+    ]
   },
   "ketchup-sin-azucar": {
     "modo": "busqueda",
@@ -1318,8 +1102,7 @@
     "nuevo_pin": null
   },
   "zanahoria": {
-    "modo": "busqueda",
-    "query": "fruta-y-verdura/verduras-y-hortalizas: zanahoria",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "981900",
@@ -1330,9 +1113,7 @@
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/zanahoria-981900.html"
       }
-    ],
-    "elegido": "981900",
-    "nuevo_pin": "fruta-y-verdura/verduras-y-hortalizas/981900"
+    ]
   },
   "lechuga": {
     "modo": "busqueda",
@@ -1449,8 +1230,7 @@
     "nuevo_pin": null
   },
   "mandarina": {
-    "modo": "busqueda",
-    "query": "fruta-y-verdura/fruta: mandarina",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "991000",
@@ -1460,32 +1240,11 @@
         "ref_price": 1.59,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/mandarina-991000.html"
-      },
-      {
-        "product_id": "991700",
-        "name": "Mandarina",
-        "packaging": "1 kg unidad",
-        "price": 1.79,
-        "ref_price": 1.79,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/mandarina-991700.html"
-      },
-      {
-        "product_id": "986200",
-        "name": "Mandarinas con hoja",
-        "packaging": "750 g unidad",
-        "price": 1.89,
-        "ref_price": 2.52,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/mandarinas-con-hoja-986200.html"
       }
-    ],
-    "elegido": "991000",
-    "nuevo_pin": "fruta-y-verdura/fruta/991000"
+    ]
   },
   "lima": {
-    "modo": "busqueda",
-    "query": "fruta-y-verdura/fruta: lima",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "215200",
@@ -1496,13 +1255,10 @@
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/limas-215200.html"
       }
-    ],
-    "elegido": "215200",
-    "nuevo_pin": "fruta-y-verdura/fruta/215200"
+    ]
   },
   "pera": {
-    "modo": "busqueda",
-    "query": "fruta-y-verdura/fruta: pera",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "984700",
@@ -1512,23 +1268,11 @@
         "ref_price": 1.59,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/pera-984700.html"
-      },
-      {
-        "product_id": "601346400",
-        "name": "Pera ercolina DOP Jumilla",
-        "packaging": "850 g unidad",
-        "price": 2.79,
-        "ref_price": 3.28,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/pera-ercolina-dop-jumilla-601346400.html"
       }
-    ],
-    "elegido": "984700",
-    "nuevo_pin": "fruta-y-verdura/fruta/984700"
+    ]
   },
   "manzana": {
-    "modo": "busqueda",
-    "query": "fruta-y-verdura/fruta: manzana",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "43000",
@@ -1538,23 +1282,12 @@
         "ref_price": 1.89,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/manzana-43000.html"
-      },
-      {
-        "product_id": "988500",
-        "name": "Manzana",
-        "packaging": "precio kg (a granel)",
-        "price": 1.99,
-        "ref_price": 1.99,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/manzana-988500.html"
       }
-    ],
-    "elegido": "43000",
-    "nuevo_pin": "fruta-y-verdura/fruta/43000"
+    ]
   },
   "platano": {
     "modo": "busqueda",
-    "query": "fruta-y-verdura/fruta: platano -casei -bebida",
+    "query": "fruta-y-verdura/fruta: platano -casei -bebida -freir",
     "candidatos": [
       {
         "product_id": "989800",
@@ -1570,8 +1303,7 @@
     "nuevo_pin": null
   },
   "guacamole": {
-    "modo": "busqueda",
-    "query": "platos-preparados-y-pizza/salsas-dips-y-untables: guacamole",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "298802",
@@ -1581,40 +1313,18 @@
         "ref_price": 8.45,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/guacamole-picante-298802.html"
-      },
-      {
-        "product_id": "298801",
-        "name": "Guacamole clásico",
-        "packaging": "200 g unidad",
-        "price": 1.69,
-        "ref_price": 8.45,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/guacamole-clasico-298801.html"
       }
-    ],
-    "elegido": "298802",
-    "nuevo_pin": "platos-preparados-y-pizza/salsas-dips-y-untables/298802"
+    ]
   },
   "mantequilla": {
     "modo": "busqueda",
-    "query": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla -pan -brioche -ligera",
-    "candidatos": [
-      {
-        "product_id": "733100",
-        "name": "Mantequilla ecológica",
-        "packaging": "250 g unidad",
-        "price": 3.39,
-        "ref_price": 13.56,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/mantequilla-ecologica-733100.html"
-      }
-    ],
-    "elegido": "733100",
-    "nuevo_pin": "lacteos-y-huevos/mantequilla-margarina-y-nata/733100"
+    "query": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla -pan -brioche -ligera -rosquilla -ecologica",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "zumo-lima": {
-    "modo": "busqueda",
-    "query": "despensa/aceites-y-vinagres: zumo lima -mango",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601494604",
@@ -1625,9 +1335,7 @@
         "ref_unit": "L",
         "url": "https://www.aldi.es/producto/zumo-de-lima-concentrado-601494604.html"
       }
-    ],
-    "elegido": "601494604",
-    "nuevo_pin": "despensa/aceites-y-vinagres/601494604"
+    ]
   },
   "mayonesa-light": {
     "modo": "busqueda",
@@ -1698,8 +1406,7 @@
     "nuevo_pin": null
   },
   "lavavajillas-mano": {
-    "modo": "busqueda",
-    "query": "limpieza-y-hogar/lavavajillas: lavavajillas mano",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601226000",
@@ -1709,32 +1416,11 @@
         "ref_price": 0.76,
         "ref_unit": "L",
         "url": "https://www.aldi.es/producto/lavavajillas-a-mano-601226000.html"
-      },
-      {
-        "product_id": "601168300",
-        "name": "Lavavajillas a mano",
-        "packaging": "1,3 l unidad",
-        "price": 1.74,
-        "ref_price": 1.34,
-        "ref_unit": "L",
-        "url": "https://www.aldi.es/producto/lavavajillas-a-mano-601168300.html"
-      },
-      {
-        "product_id": "301200",
-        "name": "Lavavajillas concentrado a mano",
-        "packaging": "500 ml unidad",
-        "price": 0.82,
-        "ref_price": 1.64,
-        "ref_unit": "L",
-        "url": "https://www.aldi.es/producto/lavavajillas-concentrado-a-mano-301200.html"
       }
-    ],
-    "elegido": "601226000",
-    "nuevo_pin": "limpieza-y-hogar/lavavajillas/601226000"
+    ]
   },
   "bolsas-basura": {
-    "modo": "busqueda",
-    "query": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas basura -perfumada -bano -mini -5l -cubo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601731100",
@@ -1744,19 +1430,8 @@
         "ref_price": 0.107,
         "ref_unit": "ud",
         "url": "https://www.aldi.es/producto/bolsa-de-basura-grande-50-l-601731100.html"
-      },
-      {
-        "product_id": "601307500",
-        "name": "Bolsa de basura",
-        "packaging": "pack de 10 unidades",
-        "price": 1.39,
-        "ref_price": 0.139,
-        "ref_unit": "ud",
-        "url": "https://www.aldi.es/producto/bolsa-de-basura-601307500.html"
       }
-    ],
-    "elegido": "601731100",
-    "nuevo_pin": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601731100"
+    ]
   },
   "bolsas-reutilizables": {
     "modo": "busqueda",
@@ -1872,8 +1547,7 @@
     "nuevo_pin": null
   },
   "aluminio": {
-    "modo": "busqueda",
-    "query": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: aluminio -bandeja",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601307700",
@@ -1884,13 +1558,10 @@
         "ref_unit": "m",
         "url": "https://www.aldi.es/producto/papel-de-aluminio-601307700.html"
       }
-    ],
-    "elegido": "601307700",
-    "nuevo_pin": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601307700"
+    ]
   },
   "bayetas": {
-    "modo": "busqueda",
-    "query": "limpieza-y-hogar/utensilios-de-limpieza: bayeta",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "601307300",
@@ -1900,28 +1571,8 @@
         "ref_price": 0.128,
         "ref_unit": "ud",
         "url": "https://www.aldi.es/producto/bayetas-multiusos-601307300.html"
-      },
-      {
-        "product_id": "601307100",
-        "name": "Bayeta pequeña de microfibra",
-        "packaging": "pack de 4 unidades",
-        "price": 1.85,
-        "ref_price": 0.463,
-        "ref_unit": "ud",
-        "url": "https://www.aldi.es/producto/bayeta-pequena-de-microfibra-601307100.html"
-      },
-      {
-        "product_id": "872600",
-        "name": "Bayeta grande de microfibra",
-        "packaging": "pack de 3 unidades",
-        "price": 1.55,
-        "ref_price": 0.517,
-        "ref_unit": "ud",
-        "url": "https://www.aldi.es/producto/bayeta-grande-de-microfibra-872600.html"
       }
-    ],
-    "elegido": "601307300",
-    "nuevo_pin": "limpieza-y-hogar/utensilios-de-limpieza/601307300"
+    ]
   },
   "panos-absorbentes": {
     "modo": "busqueda",
@@ -2063,5 +1714,532 @@
     ],
     "elegido": null,
     "nuevo_pin": null
+  },
+  "hamburguesa-vacuno": {
+    "modo": "busqueda",
+    "query": "carne/hamburguesas-y-carne-picada: hamburguesa vacuno -cerdo -pollo",
+    "candidatos": [
+      {
+        "product_id": "517400",
+        "name": "Hamburguesas de vacuno ecológicas",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/hamburguesas-de-vacuno-ecologicas-517400.html"
+      },
+      {
+        "product_id": "602103200",
+        "name": "Hamburguesa reducida en grasa eco",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/hamburguesa-reducida-en-grasa-eco-602103200.html"
+      },
+      {
+        "product_id": "601726900",
+        "name": "Hamburguesa de vaca madurada",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/hamburguesa-de-vaca-madurada-601726900.html"
+      },
+      {
+        "product_id": "601491900",
+        "name": "Burger meat de vacuno",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/burger-meat-de-vacuno-601491900.html"
+      },
+      {
+        "product_id": "601452700",
+        "name": "Burger meat picada de vacuno",
+        "packaging": null,
+        "price": null,
+        "ref_price": null,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/burger-meat-picada-de-vacuno-601452700.html"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "hamburguesa-pollo": {
+    "modo": "busqueda",
+    "query": "carne/hamburguesas-y-carne-picada: hamburguesa pollo",
+    "candidatos": [
+      {
+        "product_id": "600050900",
+        "name": "Hamburguesa de pollo",
+        "packaging": "540 g unidad",
+        "price": 3.75,
+        "ref_price": 6.94,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/hamburguesa-de-pollo-600050900.html"
+      },
+      {
+        "product_id": "601879600",
+        "name": "Hamburguesa de pollo y espinacas",
+        "packaging": "480 g unidad",
+        "price": 3.95,
+        "ref_price": 8.23,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/hamburguesa-de-pollo-y-espinacas-601879600.html"
+      }
+    ],
+    "elegido": "600050900",
+    "nuevo_pin": "carne/hamburguesas-y-carne-picada/600050900"
+  },
+  "patatas-paja": {
+    "modo": "busqueda",
+    "query": "aperitivos/patatas-fritas-y-snacks: patatas paja",
+    "candidatos": [
+      {
+        "product_id": "61700",
+        "name": "Patatas fritas al perol",
+        "packaging": "pack de 2 x 150 g",
+        "price": 1.8,
+        "ref_price": 6.0,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-fritas-al-perol-61700.html"
+      },
+      {
+        "product_id": "601939400",
+        "name": "Patatas fritas gourmet",
+        "packaging": "120 g unidad",
+        "price": 1.99,
+        "ref_price": 16.58,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-fritas-gourmet-601939400.html"
+      },
+      {
+        "product_id": "601916202",
+        "name": "Patatas fritas extraonduladas sabor jalapeño y queso",
+        "packaging": "150 g unidad",
+        "price": 1.39,
+        "ref_price": 9.27,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-fritas-extraonduladas-sabor-jalapeno-y-queso-601916202.html"
+      },
+      {
+        "product_id": "601916201",
+        "name": "Patatas fritas extraonduladas chorizo",
+        "packaging": "150 g unidad",
+        "price": 1.39,
+        "ref_price": 9.27,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-fritas-extraonduladas-chorizo-601916201.html"
+      },
+      {
+        "product_id": "601811000",
+        "name": "Patatas fritas onduladas",
+        "packaging": "250 g unidad",
+        "price": 1.79,
+        "ref_price": 7.16,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/patatas-fritas-onduladas-601811000.html"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "aceite-oliva-virgen-extra": {
+    "modo": "busqueda",
+    "query": "despensa/aceites-y-vinagres: aceite oliva virgen extra",
+    "candidatos": [
+      {
+        "product_id": "662500",
+        "name": "Aceite de oliva virgen extra",
+        "packaging": "3 l unidad",
+        "price": 12.13,
+        "ref_price": 4.04,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-virgen-extra-662500.html"
+      },
+      {
+        "product_id": "110100",
+        "name": "Aceite de oliva virgen extra",
+        "packaging": "1 l unidad",
+        "price": 4.34,
+        "ref_price": 4.34,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-virgen-extra-110100.html"
+      },
+      {
+        "product_id": "602031000",
+        "name": "Aceite de oliva virgen extra",
+        "packaging": "1 l unidad",
+        "price": 4.69,
+        "ref_price": 4.69,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-virgen-extra-602031000.html"
+      },
+      {
+        "product_id": "571000",
+        "name": "Aceite de oliva virgen extra",
+        "packaging": "750 ml unidad",
+        "price": 5.24,
+        "ref_price": 6.99,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-virgen-extra-571000.html"
+      },
+      {
+        "product_id": "589500",
+        "name": "Aceite de oliva virgen extra ecológico",
+        "packaging": "500 ml unidad",
+        "price": 6.19,
+        "ref_price": 12.38,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-virgen-extra-ecologico-589500.html"
+      }
+    ],
+    "elegido": "662500",
+    "nuevo_pin": "despensa/aceites-y-vinagres/662500"
+  },
+  "aceite-oliva-suave": {
+    "modo": "busqueda",
+    "query": "despensa/aceites-y-vinagres: aceite oliva -virgen -orujo",
+    "candidatos": [
+      {
+        "product_id": "601186400",
+        "name": "Aceite de oliva suave",
+        "packaging": "3 l unidad",
+        "price": 10.35,
+        "ref_price": 3.45,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-suave-601186400.html"
+      },
+      {
+        "product_id": "110700",
+        "name": "Aceite de oliva intenso",
+        "packaging": "3 l unidad",
+        "price": 10.65,
+        "ref_price": 3.55,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-intenso-110700.html"
+      },
+      {
+        "product_id": "110500",
+        "name": "Aceite de oliva suave",
+        "packaging": "1 l unidad",
+        "price": 3.59,
+        "ref_price": 3.59,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-suave-110500.html"
+      },
+      {
+        "product_id": "111000",
+        "name": "Aceite de oliva intenso",
+        "packaging": "1 l unidad",
+        "price": 3.79,
+        "ref_price": 3.79,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-intenso-111000.html"
+      },
+      {
+        "product_id": "602030900",
+        "name": "Aceite de oliva suave",
+        "packaging": "1 l unidad",
+        "price": 6.55,
+        "ref_price": 6.55,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/aceite-de-oliva-suave-602030900.html"
+      }
+    ],
+    "elegido": "601186400",
+    "nuevo_pin": "despensa/aceites-y-vinagres/601186400"
+  },
+  "curcuma": {
+    "modo": "busqueda",
+    "query": "despensa/especias-y-condimentos: curcuma",
+    "candidatos": [
+      {
+        "product_id": "601613100",
+        "name": "Cúrcuma",
+        "packaging": "50 g kilo",
+        "price": 0.99,
+        "ref_price": 19.8,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/curcuma-601613100.html"
+      }
+    ],
+    "elegido": "601613100",
+    "nuevo_pin": "despensa/especias-y-condimentos/601613100"
+  },
+  "pan-barra": {
+    "modo": "busqueda",
+    "query": "panaderia-y-bolleria/pan-de-horno: barra",
+    "candidatos": [
+      {
+        "product_id": "245300",
+        "name": "Barra de pan",
+        "packaging": "250 g aprox. unidad",
+        "price": 0.45,
+        "ref_price": 1.8,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/barra-de-pan-245300.html"
+      },
+      {
+        "product_id": "231200",
+        "name": "Barra campesina",
+        "packaging": "250 g aprox. unidad",
+        "price": 0.62,
+        "ref_price": 2.48,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/barra-campesina-231200.html"
+      },
+      {
+        "product_id": "601894800",
+        "name": "Barra rústica 100% integral",
+        "packaging": "210 g unidad",
+        "price": 0.65,
+        "ref_price": 3.1,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/barra-rustica-100percent-integral-601894800.html"
+      },
+      {
+        "product_id": "243500",
+        "name": "Barra con cereales",
+        "packaging": "250 g aprox. unidad",
+        "price": 0.99,
+        "ref_price": 3.96,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/barra-con-cereales-243500.html"
+      }
+    ],
+    "elegido": "245300",
+    "nuevo_pin": "panaderia-y-bolleria/pan-de-horno/245300"
+  },
+  "pan-molde": {
+    "modo": "busqueda",
+    "query": "panaderia-y-bolleria/pan-de-molde-y-otras-especialidades: pan molde -integral",
+    "candidatos": [
+      {
+        "product_id": "249200",
+        "name": "Pan de molde blanco",
+        "packaging": "820 g unidad",
+        "price": 1.09,
+        "ref_price": 1.33,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/pan-de-molde-blanco-249200.html"
+      },
+      {
+        "product_id": "230200",
+        "name": "Pan de molde 12 semillas y cereales",
+        "packaging": "450 g unidad",
+        "price": 0.93,
+        "ref_price": 2.07,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/pan-de-molde-12-semillas-y-cereales-230200.html"
+      },
+      {
+        "product_id": "233300",
+        "name": "Pan de molde sin corteza",
+        "packaging": "450 g unidad",
+        "price": 0.99,
+        "ref_price": 2.2,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/pan-de-molde-sin-corteza-233300.html"
+      },
+      {
+        "product_id": "601949000",
+        "name": "Pan de molde rústico",
+        "packaging": "650 g unidad",
+        "price": 1.69,
+        "ref_price": 2.6,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/pan-de-molde-rustico-601949000.html"
+      },
+      {
+        "product_id": "601635100",
+        "name": "Pan de molde de semillas y pipas",
+        "packaging": "675 g unidad",
+        "price": 1.79,
+        "ref_price": 2.65,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/pan-de-molde-de-semillas-y-pipas-601635100.html"
+      }
+    ],
+    "elegido": "249200",
+    "nuevo_pin": "panaderia-y-bolleria/pan-de-molde-y-otras-especialidades/249200"
+  },
+  "calamares-americana": {
+    "modo": "busqueda",
+    "query": "despensa/conservas-de-pescado: calamares salsa americana",
+    "candidatos": [
+      {
+        "product_id": "214000",
+        "name": "Potón en salsa americana",
+        "packaging": "pack de 3 x 80 g",
+        "price": 2.99,
+        "ref_price": 12.46,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/poton-en-salsa-americana-214000.html"
+      },
+      {
+        "product_id": "601796401",
+        "name": "Salmón en salsa teriyaki",
+        "packaging": "120 g unidad",
+        "price": 2.25,
+        "ref_price": 18.75,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/salmon-en-salsa-teriyaki-601796401.html"
+      },
+      {
+        "product_id": "210900",
+        "name": "Mejillones en salsa marinera",
+        "packaging": "69 g peso esc. unidad",
+        "price": 1.95,
+        "ref_price": 28.26,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/mejillones-en-salsa-marinera-210900.html"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "nata-cocinar": {
+    "modo": "busqueda",
+    "query": "lacteos-y-huevos/mantequilla-margarina-y-nata: nata cocinar",
+    "candidatos": [
+      {
+        "product_id": "809800",
+        "name": "Nata para cocinar",
+        "packaging": "pack de 3 x 200 ml",
+        "price": 1.49,
+        "ref_price": 2.48,
+        "ref_unit": "L",
+        "url": "https://www.aldi.es/producto/nata-para-cocinar-809800.html"
+      }
+    ],
+    "elegido": "809800",
+    "nuevo_pin": "lacteos-y-huevos/mantequilla-margarina-y-nata/809800"
+  },
+  "nachos": {
+    "modo": "busqueda",
+    "query": "aperitivos/patatas-fritas-y-snacks: nachos",
+    "candidatos": [
+      {
+        "product_id": "455800",
+        "name": "Nachos redondos",
+        "packaging": "450 g unidad",
+        "price": 2.55,
+        "ref_price": 5.67,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/nachos-redondos-455800.html"
+      },
+      {
+        "product_id": "601702600",
+        "name": "Nachos tex-mex",
+        "packaging": "300 g unidad",
+        "price": 1.78,
+        "ref_price": 5.93,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/nachos-tex-mex-601702600.html"
+      },
+      {
+        "product_id": "601109600",
+        "name": "Nachos ecológicos",
+        "packaging": "350 g unidad",
+        "price": 3.99,
+        "ref_price": 11.4,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/nachos-ecologicos-601109600.html"
+      },
+      {
+        "product_id": "601722800",
+        "name": "Nachos tex-mex",
+        "packaging": "225 g unidad",
+        "price": 2.99,
+        "ref_price": 13.29,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/nachos-tex-mex-601722800.html"
+      },
+      {
+        "product_id": "470600",
+        "name": "Nachos ecológicos",
+        "packaging": "125 g unidad",
+        "price": 1.79,
+        "ref_price": 14.32,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/nachos-ecologicos-470600.html"
+      }
+    ],
+    "elegido": "455800",
+    "nuevo_pin": "aperitivos/patatas-fritas-y-snacks/455800"
+  },
+  "garbanzos": {
+    "modo": "busqueda",
+    "query": "despensa/legumbres-y-cereales: garbanzos -cocidos",
+    "candidatos": [
+      {
+        "product_id": "500000",
+        "name": "Garbanzo extra",
+        "packaging": "1 kg unidad",
+        "price": 2.09,
+        "ref_price": 2.09,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/garbanzo-extra-500000.html"
+      }
+    ],
+    "elegido": "500000",
+    "nuevo_pin": "despensa/legumbres-y-cereales/500000"
+  },
+  "yogur-natural": {
+    "modo": "busqueda",
+    "query": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur natural -griego -ecologico",
+    "candidatos": [
+      {
+        "product_id": "952000",
+        "name": "Yogur natural",
+        "packaging": "pack de 8 x 125 g",
+        "price": 1.29,
+        "ref_price": 1.29,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-natural-952000.html"
+      },
+      {
+        "product_id": "600027900",
+        "name": "Yogur natural con azúcar moreno de caña",
+        "packaging": "pack de 8 x 125 g",
+        "price": 1.29,
+        "ref_price": 1.29,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-natural-con-azucar-moreno-de-cana-600027900.html"
+      },
+      {
+        "product_id": "682600",
+        "name": "Yogur natural 0% 0%",
+        "packaging": "pack de 6 x 125 g",
+        "price": 0.99,
+        "ref_price": 1.32,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-natural-0percent-0percent-682600.html"
+      },
+      {
+        "product_id": "689101",
+        "name": "Yogur natural con grageas de chocolate",
+        "packaging": "160 g unidad",
+        "price": 0.66,
+        "ref_price": 4.13,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-natural-con-grageas-de-chocolate-689101.html"
+      },
+      {
+        "product_id": "686604",
+        "name": "Yogur natural con mezcla de cereales con manzana y frambuesas",
+        "packaging": "150 g unidad",
+        "price": 0.99,
+        "ref_price": 6.6,
+        "ref_unit": "kg",
+        "url": "https://www.aldi.es/producto/yogur-natural-con-mezcla-de-cereales-con-manzana-y-frambuesas-686604.html"
+      }
+    ],
+    "elegido": "952000",
+    "nuevo_pin": "lacteos-y-huevos/yogures-y-postres-lacteos/952000"
   }
 }

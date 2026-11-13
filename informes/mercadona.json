@@ -487,8 +487,7 @@
     ]
   },
   "clavo": {
-    "modo": "busqueda",
-    "query": "clavo -tomillo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "34122",
@@ -499,13 +498,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/34122/clavo-grano-hacendado-bote"
       }
-    ],
-    "elegido": "34122",
-    "nuevo_pin": "34122"
+    ]
   },
   "canela-rama": {
-    "modo": "busqueda",
-    "query": "canela rama",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "52880",
@@ -516,13 +512,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/52880/canela-rama-hacendado-bote"
       }
-    ],
-    "elegido": "52880",
-    "nuevo_pin": "52880"
+    ]
   },
   "comino": {
-    "modo": "busqueda",
-    "query": "comino",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "34120",
@@ -532,23 +525,11 @@
         "ref_price": 19.83,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/34120/comino-molido-hacendado-bote"
-      },
-      {
-        "product_id": "34121",
-        "name": "Comino en grano Hacendado",
-        "packaging": "Bote",
-        "price": 1.95,
-        "ref_price": 34.82,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/34121/comino-grano-hacendado-bote"
       }
-    ],
-    "elegido": "34120",
-    "nuevo_pin": "34120"
+    ]
   },
   "pimienta-negra": {
-    "modo": "busqueda",
-    "query": "pimienta negra -blanca -mezcla -mousse -pato -pate",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "34171",
@@ -558,32 +539,11 @@
         "ref_price": 18.57,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/34171/pimienta-negra-molida-hacendado-bote"
-      },
-      {
-        "product_id": "34172",
-        "name": "Pimienta negra en grano Hacendado",
-        "packaging": "Bote",
-        "price": 1.7,
-        "ref_price": 24.29,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/34172/pimienta-negra-grano-hacendado-bote"
-      },
-      {
-        "product_id": "67693",
-        "name": "Molinillo pimienta negra Hacendado",
-        "packaging": "Bote",
-        "price": 1.85,
-        "ref_price": 28.46,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/67693/molinillo-pimienta-negra-hacendado-bote"
       }
-    ],
-    "elegido": "34171",
-    "nuevo_pin": "34171"
+    ]
   },
   "pimenton-picante": {
-    "modo": "busqueda",
-    "query": "pimenton picante",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "34183",
@@ -594,13 +554,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/34183/pimenton-picante-hacendado-bote"
       }
-    ],
-    "elegido": "34183",
-    "nuevo_pin": "34183"
+    ]
   },
   "cilantro": {
-    "modo": "busqueda",
-    "query": "cilantro -fresco",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "69690",
@@ -610,23 +567,11 @@
         "ref_price": 62.5,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/69690/cilantro-bandeja"
-      },
-      {
-        "product_id": "34721",
-        "name": "Cilantro Hacendado",
-        "packaging": "Bote",
-        "price": 1.85,
-        "ref_price": 154.17,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/34721/cilantro-hacendado-bote"
       }
-    ],
-    "elegido": "69690",
-    "nuevo_pin": "69690"
+    ]
   },
   "oregano": {
-    "modo": "busqueda",
-    "query": "oregano",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "5598",
@@ -637,13 +582,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/5598/oregano-hacendado-bote"
       }
-    ],
-    "elegido": "5598",
-    "nuevo_pin": "5598"
+    ]
   },
   "ajo-polvo": {
-    "modo": "busqueda",
-    "query": "ajo granulado",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "86656",
@@ -654,13 +596,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/86656/ajo-granulado-hacendado-bote"
       }
-    ],
-    "elegido": "86656",
-    "nuevo_pin": "86656"
+    ]
   },
   "romero": {
-    "modo": "busqueda",
-    "query": "romero -focaccia -crackers -pan -miel",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "14981",
@@ -671,13 +610,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/14981/romero-hacendado-bote"
       }
-    ],
-    "elegido": "14981",
-    "nuevo_pin": "14981"
+    ]
   },
   "miel-flores": {
-    "modo": "busqueda",
-    "query": "miel flores",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "15436",
@@ -687,28 +623,8 @@
         "ref_price": 5.0,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/15436/miel-flores-hacendado-tarro"
-      },
-      {
-        "product_id": "15430",
-        "name": "Miel de flores Hacendado",
-        "packaging": "Bote",
-        "price": 3.2,
-        "ref_price": 6.4,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/15430/miel-flores-hacendado-bote"
-      },
-      {
-        "product_id": "35843",
-        "name": "Miel de flores Hacendado",
-        "packaging": "Tarro",
-        "price": 5.35,
-        "ref_price": 10.7,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/35843/miel-cruda-hacendado-tarro"
       }
-    ],
-    "elegido": "15436",
-    "nuevo_pin": "15436"
+    ]
   },
   "aceite-sesamo": {
     "modo": "busqueda",
@@ -764,8 +680,7 @@
     "nuevo_pin": null
   },
   "salsa-soja": {
-    "modo": "busqueda",
-    "query": "salsa soja",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "17360",
@@ -775,42 +690,12 @@
         "ref_price": 4.8,
         "ref_unit": "L",
         "url": "https://tienda.mercadona.es/product/17360/salsa-soja-hacendado-botella"
-      },
-      {
-        "product_id": "17382",
-        "name": "Salsa de Soja sin gluten Hacendado",
-        "packaging": "Botella",
-        "price": 2.5,
-        "ref_price": 10.0,
-        "ref_unit": "L",
-        "url": "https://tienda.mercadona.es/product/17382/salsa-soja-sin-gluten-hacendado-botella"
       }
-    ],
-    "elegido": "17360",
-    "nuevo_pin": "17360"
+    ]
   },
   "ajo": {
-    "modo": "busqueda",
-    "query": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado",
+    "modo": "fijado",
     "candidatos": [
-      {
-        "product_id": "17995",
-        "name": "Baguette ajo y finas hierbas Hacendado ultracongeladas",
-        "packaging": "Paquete",
-        "price": 2.0,
-        "ref_price": 5.71,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/17995/baguette-ajo-finas-hierbas-hacendado-ultracongeladas-paquete"
-      },
-      {
-        "product_id": "61288",
-        "name": "Ajo tierno Hacendado ultracongelado",
-        "packaging": "Paquete",
-        "price": 2.05,
-        "ref_price": 6.83,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/61288/ajo-tierno-hacendado-ultracongelado-paquete"
-      },
       {
         "product_id": "69297",
         "name": "Ajos morados",
@@ -819,28 +704,8 @@
         "ref_price": 7.4,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/69297/ajos-morados-malla"
-      },
-      {
-        "product_id": "33022",
-        "name": "Ajos aliñados Hacendado",
-        "packaging": "Tarro",
-        "price": 2.6,
-        "ref_price": 11.06,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/33022/ajos-alinados-hacendado-tarro"
-      },
-      {
-        "product_id": "34130",
-        "name": "Sal de ajo Hacendado",
-        "packaging": "Bote",
-        "price": 1.8,
-        "ref_price": 13.85,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/34130/sal-ajo-hacendado-bote"
       }
-    ],
-    "elegido": "17995",
-    "nuevo_pin": "17995"
+    ]
   },
   "espaguetis": {
     "modo": "busqueda",
@@ -850,8 +715,7 @@
     "nuevo_pin": null
   },
   "fideos": {
-    "modo": "busqueda",
-    "query": "fideo -integral -oriental -arroz -sopa",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "13577",
@@ -861,50 +725,11 @@
         "ref_price": 1.7,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/13577/fideo-cabello-angel-hacendado-paquete"
-      },
-      {
-        "product_id": "6261",
-        "name": "Fideo grueso Hacendado",
-        "packaging": "Paquete",
-        "price": 0.85,
-        "ref_price": 1.7,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/6261/fideo-grueso-hacendado-paquete"
-      },
-      {
-        "product_id": "6256",
-        "name": "Fideo mediano Hacendado",
-        "packaging": "Paquete",
-        "price": 0.85,
-        "ref_price": 1.7,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/6256/fideo-mediano-hacendado-paquete"
-      },
-      {
-        "product_id": "35681",
-        "name": "Fideos orientales sabor pollo Hacendado",
-        "packaging": "Paquete",
-        "price": 0.55,
-        "ref_price": 8.46,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/35681/fideos-orientales-sabor-pollo-hacendado-paquete"
-      },
-      {
-        "product_id": "8730",
-        "name": "Fideos orientales Yakisoba sabor soja Hacendado",
-        "packaging": "Paquete",
-        "price": 0.9,
-        "ref_price": 10.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/8730/fideos-orientales-yakisoba-sabor-soja-hacendado-paquete"
       }
-    ],
-    "elegido": "13577",
-    "nuevo_pin": "13577"
+    ]
   },
   "copos-avena": {
-    "modo": "busqueda",
-    "query": "copos avena -chocolate -galleta",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "86341",
@@ -914,23 +739,11 @@
         "ref_price": 1.62,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/86341/copos-avena-bruggen-caja"
-      },
-      {
-        "product_id": "86368",
-        "name": "Copos de avena sin gluten Hacendado",
-        "packaging": "Paquete",
-        "price": 2.0,
-        "ref_price": 4.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/86368/copos-avena-hacendado-paquete"
       }
-    ],
-    "elegido": "86341",
-    "nuevo_pin": "86341"
+    ]
   },
   "lentejas": {
-    "modo": "busqueda",
-    "query": "lenteja -cocida -guisada -tarro -crema",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "5330",
@@ -940,46 +753,8 @@
         "ref_price": 1.85,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/5330/lenteja-pardina-hacendado-categoria-extra-paquete"
-      },
-      {
-        "product_id": "26116",
-        "name": "Lentejas a la jardinera Hacendado",
-        "packaging": "Bote",
-        "price": 1.2,
-        "ref_price": 2.86,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/26116/lentejas-jardinera-hacendado-bote"
-      },
-      {
-        "product_id": "26101",
-        "name": "Lentejas a la riojana Hacendado",
-        "packaging": "Bote",
-        "price": 1.35,
-        "ref_price": 3.21,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/26101/lentejas-riojana-hacendado-bote"
-      },
-      {
-        "product_id": "9298",
-        "name": "Papilla lentejas con verduritas y jamón Hero Solo recetas caseras +8 meses",
-        "packaging": null,
-        "price": 2.95,
-        "ref_price": 7.76,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/9298/papilla-lentejas-con-verduritas-hero-baby-recetas-caseras-8-meses-sabor-suave-pack-2"
-      },
-      {
-        "product_id": "16253",
-        "name": "Snack de lentejas horneado Lentils Hacendado",
-        "packaging": "Paquete",
-        "price": 1.25,
-        "ref_price": 12.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/16253/snack-horneado-lentils-hacendado-paquete"
       }
-    ],
-    "elegido": "5330",
-    "nuevo_pin": "5330"
+    ]
   },
   "manzanilla": {
     "modo": "busqueda",
@@ -1263,8 +1038,7 @@
     "nuevo_pin": null
   },
   "maiz-palomitas": {
-    "modo": "busqueda",
-    "query": "maiz palomitas -microondas -caramelo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "14347",
@@ -1275,13 +1049,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/14347/maiz-palomitas-hacendado-paquete"
       }
-    ],
-    "elegido": "14347",
-    "nuevo_pin": "14347"
+    ]
   },
   "chia": {
-    "modo": "busqueda",
-    "query": "chia -pan -yogur -bebida -galleta -arroz -muesli",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "24561",
@@ -1292,13 +1063,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/24561/semillas-chia-hacendado-paquete"
       }
-    ],
-    "elegido": "24561",
-    "nuevo_pin": "24561"
+    ]
   },
   "sesamo": {
-    "modo": "busqueda",
-    "query": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "34964",
@@ -1308,23 +1076,11 @@
         "ref_price": 10.0,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/34964/semillas-sesamo-tostado-hacendado-paquete"
-      },
-      {
-        "product_id": "17441",
-        "name": "Pasta de sésamo Tahini Hacendado",
-        "packaging": "Tarro",
-        "price": 2.95,
-        "ref_price": 14.75,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/17441/pasta-sesamo-tahini-hacendado-tarro"
       }
-    ],
-    "elegido": "34964",
-    "nuevo_pin": "34964"
+    ]
   },
   "alubia-roja": {
-    "modo": "busqueda",
-    "query": "alubia roja -cocida",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "67609",
@@ -1335,13 +1091,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/67609/alubia-roja-hacendado-categoria-extra-paquete"
       }
-    ],
-    "elegido": "67609",
-    "nuevo_pin": "67609"
+    ]
   },
   "alubia-pinta": {
-    "modo": "busqueda",
-    "query": "alubia pinta -cocida",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "23453",
@@ -1352,13 +1105,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/23453/alubia-pinta-hacendado-categoria-extra-paquete"
       }
-    ],
-    "elegido": "23453",
-    "nuevo_pin": "23453"
+    ]
   },
   "alubia-negra": {
-    "modo": "busqueda",
-    "query": "alubia negra -cocida",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "67608",
@@ -1369,32 +1119,11 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/67608/alubia-negra-hacendado-categoria-extra-paquete"
       }
-    ],
-    "elegido": "67608",
-    "nuevo_pin": "67608"
+    ]
   },
   "jamon-iberico": {
-    "modo": "busqueda",
-    "query": "jamon iberico -paleta -croqueta -taco -bocadillo",
+    "modo": "fijado",
     "candidatos": [
-      {
-        "product_id": "8566",
-        "name": "Jamón de cebo ibérico 50% La Hacienda del Ibérico",
-        "packaging": "Pieza",
-        "price": 153.0,
-        "ref_price": 18.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/8566/jamon-cebo-iberico-hacienda-iberico-pieza"
-      },
-      {
-        "product_id": "58286",
-        "name": "Jamón de bellota ibérico 50% La Hacienda del Ibérico",
-        "packaging": "Pieza",
-        "price": 368.0,
-        "ref_price": 46.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/58286/jamon-bellota-iberico-50-hacienda-iberico-pieza"
-      },
       {
         "product_id": "17798",
         "name": "Jamón de cebo ibérico 50% raza ibérica La Hacienda del Ibérico lonchas",
@@ -1403,32 +1132,11 @@
         "ref_price": 48.0,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/17798/jamon-cebo-iberico-50-raza-iberica-hacienda-iberico-lonchas-paquete"
-      },
-      {
-        "product_id": "58228",
-        "name": "Jamón de cebo ibérico 50% raza ibérica La Hacienda del Ibérico lonchas",
-        "packaging": "Paquete",
-        "price": 4.9,
-        "ref_price": 49.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/58228/jamon-cebo-iberico-50-raza-iberica-hacienda-iberico-paquete"
-      },
-      {
-        "product_id": "15472",
-        "name": "Jamón de cebo ibérico cortado a máquina",
-        "packaging": "Paquete",
-        "price": 10.26,
-        "ref_price": 54.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/15472/jamon-cebo-iberico-cortado-maquina-envasado-vacio-paquete"
       }
-    ],
-    "elegido": "8566",
-    "nuevo_pin": "8566"
+    ]
   },
   "tomate-frito": {
-    "modo": "busqueda",
-    "query": "tomate frito -azucar -picante",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "17132",
@@ -1438,46 +1146,8 @@
         "ref_price": 1.12,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/17132/tomate-frito-hacendado-pack-3"
-      },
-      {
-        "product_id": "17151",
-        "name": "Tomate frito Hacendado",
-        "packaging": "Pack-3",
-        "price": 0.95,
-        "ref_price": 1.51,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/17151/tomate-frito-hacendado-pack-3"
-      },
-      {
-        "product_id": "17108",
-        "name": "Tomate frito Hacendado",
-        "packaging": "Tarro",
-        "price": 0.9,
-        "ref_price": 1.61,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/17108/tomate-frito-hacendado-tarro"
-      },
-      {
-        "product_id": "17330",
-        "name": "Tomate frito sin azúcares añadidos Hacendado",
-        "packaging": "Tarro",
-        "price": 1.1,
-        "ref_price": 1.97,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/17330/tomate-frito-sin-azucares-anadidos-hacendado-tarro"
-      },
-      {
-        "product_id": "17128",
-        "name": "Tomate frito Hacendado con aceite de oliva",
-        "packaging": "Pack-3",
-        "price": 1.4,
-        "ref_price": 2.22,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/17128/tomate-frito-hacendado-con-aceite-oliva-pack-3"
       }
-    ],
-    "elegido": "17132",
-    "nuevo_pin": "17132"
+    ]
   },
   "ketchup-sin-azucar": {
     "modo": "busqueda",
@@ -1533,8 +1203,7 @@
     "nuevo_pin": null
   },
   "tomate": {
-    "modo": "busqueda",
-    "query": "tomate ensalada",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "69937",
@@ -1545,13 +1214,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
       }
-    ],
-    "elegido": "69937",
-    "nuevo_pin": "69937"
+    ]
   },
   "zanahoria": {
-    "modo": "busqueda",
-    "query": "zanahoria -rallada -baby -zumo -bebida -tarta",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "69586",
@@ -1561,50 +1227,11 @@
         "ref_price": 1.2,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/69586/zanahorias-paquete"
-      },
-      {
-        "product_id": "69669",
-        "name": "Zanahorias",
-        "packaging": "Paquete",
-        "price": 0.8,
-        "ref_price": 1.6,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/69669/zanahorias-paquete"
-      },
-      {
-        "product_id": "13328",
-        "name": "Zanahoria en tiras Hacendado",
-        "packaging": "Tarro",
-        "price": 1.3,
-        "ref_price": 5.53,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/13328/zanahoria-tiras-hacendado-tarro"
-      },
-      {
-        "product_id": "9259",
-        "name": "Papilla zanahorias con arroz en caldito de pollo Hero Solo +6 meses",
-        "packaging": "Tarrito",
-        "price": 1.8,
-        "ref_price": 7.66,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/9259/papilla-zanahorias-con-arroz-caldito-pollo-hero-baby-6-meses-tarrito"
-      },
-      {
-        "product_id": "69877",
-        "name": "Palitos de zanahoria",
-        "packaging": "Tarrina",
-        "price": 2.25,
-        "ref_price": 12.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/69877/palitos-zanahoria-tarrina"
       }
-    ],
-    "elegido": "69586",
-    "nuevo_pin": "69586"
+    ]
   },
   "lechuga": {
-    "modo": "busqueda",
-    "query": "lechuga iceberg",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "69670",
@@ -1615,13 +1242,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/69670/lechuga-iceberg-paquete"
       }
-    ],
-    "elegido": "69670",
-    "nuevo_pin": "69670"
+    ]
   },
   "calabacin": {
-    "modo": "busqueda",
-    "query": "calabacin -crema -espiral -tortilla -pure",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "69338",
@@ -1632,13 +1256,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
       }
-    ],
-    "elegido": "69338",
-    "nuevo_pin": "69338"
+    ]
   },
   "uva": {
-    "modo": "busqueda",
-    "query": "uva -pasa -zumo -mosto -gominola",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "3321",
@@ -1649,13 +1270,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/3321/uva-roja-sin-semillas-bandeja"
       }
-    ],
-    "elegido": "3321",
-    "nuevo_pin": "3321"
+    ]
   },
   "mandarina": {
-    "modo": "busqueda",
-    "query": "mandarina -zumo -gajos -yogur",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "5503",
@@ -1665,32 +1283,11 @@
         "ref_price": 1.95,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/5503/mandarina-malla"
-      },
-      {
-        "product_id": "3238",
-        "name": "Mandarina",
-        "packaging": "Pieza",
-        "price": 0.22,
-        "ref_price": 2.15,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/3238/mandarina-pieza"
-      },
-      {
-        "product_id": "30501",
-        "name": "Mandarinas",
-        "packaging": null,
-        "price": 3.53,
-        "ref_price": 2.35,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/30501/mandarinas-bandeja"
       }
-    ],
-    "elegido": "5503",
-    "nuevo_pin": "5503"
+    ]
   },
   "lima": {
-    "modo": "busqueda",
-    "query": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "3897",
@@ -1701,13 +1298,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/3897/lima-pieza"
       }
-    ],
-    "elegido": "3897",
-    "nuevo_pin": "3897"
+    ]
   },
   "pera": {
-    "modo": "busqueda",
-    "query": "pera -zumo -tomate -compota -cuajada -yogur",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "14470",
@@ -1717,50 +1311,11 @@
         "ref_price": 2.3,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/14470/peras-conferencia"
-      },
-      {
-        "product_id": "3119",
-        "name": "Pera Conferencia",
-        "packaging": "Pieza",
-        "price": 0.53,
-        "ref_price": 2.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/3119/pera-conferencia-pieza"
-      },
-      {
-        "product_id": "3172",
-        "name": "Pera Limonera",
-        "packaging": "Pieza",
-        "price": 0.67,
-        "ref_price": 2.8,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
-      },
-      {
-        "product_id": "3170",
-        "name": "Pera Ercolina",
-        "packaging": "Pieza",
-        "price": 0.29,
-        "ref_price": 2.9,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/3170/pera-ercolina-pieza"
-      },
-      {
-        "product_id": "22194",
-        "name": "Papilla pera y manzana Hacendado +4 meses",
-        "packaging": null,
-        "price": 2.9,
-        "ref_price": 5.58,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/22194/papilla-pera-manzana-4-meses-hacendado-pack-4"
       }
-    ],
-    "elegido": "14470",
-    "nuevo_pin": "14470"
+    ]
   },
   "manzana": {
-    "modo": "busqueda",
-    "query": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "8280",
@@ -1770,50 +1325,11 @@
         "ref_price": 1.8,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/8280/manzanas-rojas-dulces-bolsa"
-      },
-      {
-        "product_id": "3269",
-        "name": "Manzanas Golden",
-        "packaging": null,
-        "price": 2.84,
-        "ref_price": 1.8,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/3269/manzanas-golden-bolsa"
-      },
-      {
-        "product_id": "8177",
-        "name": "Manzana roja dulce",
-        "packaging": "Pieza",
-        "price": 0.38,
-        "ref_price": 2.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/8177/manzana-roja-dulce-pieza"
-      },
-      {
-        "product_id": "3028",
-        "name": "Manzana Golden",
-        "packaging": "Pieza",
-        "price": 0.42,
-        "ref_price": 2.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza"
-      },
-      {
-        "product_id": "8268",
-        "name": "Manzanas rojas acidulces",
-        "packaging": null,
-        "price": 3.3,
-        "ref_price": 2.1,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/8268/manzanas-rojas-acidulces-bolsa"
       }
-    ],
-    "elegido": "8280",
-    "nuevo_pin": "8280"
+    ]
   },
   "platano": {
-    "modo": "busqueda",
-    "query": "platano -chips -batido -zumo -macho -yogur -casei -bebida",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "3819",
@@ -1823,41 +1339,11 @@
         "ref_price": 3.2,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/3819/platano-canarias-igp-pieza"
-      },
-      {
-        "product_id": "22179",
-        "name": "Bolsita puré plátano y manzana Hacendado +6 meses",
-        "packaging": null,
-        "price": 0.85,
-        "ref_price": 7.08,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/22179/papilla-platano-manzana-6-meses-hacendado"
-      },
-      {
-        "product_id": "22182",
-        "name": "Bolsita puré plátano, fresa, arándanos y avena Hacendado +8 meses",
-        "packaging": null,
-        "price": 0.9,
-        "ref_price": 7.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/22182/papilla-platano-fresa-arandanos-avena-8-meses-hacendado"
-      },
-      {
-        "product_id": "21759",
-        "name": "Barritas de cereales plátano y cacao Hacendado 0% azúcares añadidos",
-        "packaging": "Caja",
-        "price": 1.65,
-        "ref_price": 13.75,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/21759/barritas-cereales-hacendado-sabor-platano-0-azucares-anadidos-caja"
       }
-    ],
-    "elegido": "3819",
-    "nuevo_pin": "3819"
+    ]
   },
   "guacamole": {
-    "modo": "busqueda",
-    "query": "guacamole -nachos",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "3840",
@@ -1867,42 +1353,12 @@
         "ref_price": 7.9,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/3840/guacamole-hacendado-95-aguacate-fresco-tarrina"
-      },
-      {
-        "product_id": "3852",
-        "name": "Guacamole Hacendado",
-        "packaging": "Tarrina",
-        "price": 1.8,
-        "ref_price": 9.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/3852/guacamole-hacendado-95-aguacate-fresco-tarrina"
       }
-    ],
-    "elegido": "3840",
-    "nuevo_pin": "3840"
+    ]
   },
   "mantequilla": {
-    "modo": "busqueda",
-    "query": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera",
+    "modo": "fijado",
     "candidatos": [
-      {
-        "product_id": "18145",
-        "name": "Rosquillas de mantequilla Hacendado",
-        "packaging": "Caja",
-        "price": 2.05,
-        "ref_price": 6.83,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/18145/rosquillas-mantequilla-hacendado-caja"
-      },
-      {
-        "product_id": "20716",
-        "name": "Mantequilla sin sal añadida Hacendado",
-        "packaging": "Pastilla",
-        "price": 2.05,
-        "ref_price": 8.2,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/20716/mantequilla-sin-sal-anadida-hacendado-pastilla"
-      },
       {
         "product_id": "20722",
         "name": "Mantequilla con sal Hacendado",
@@ -1911,28 +1367,8 @@
         "ref_price": 8.2,
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/20722/mantequilla-con-sal-hacendado-pastilla"
-      },
-      {
-        "product_id": "90933",
-        "name": "Mantequilla light Hacendado",
-        "packaging": "Tarrina",
-        "price": 2.1,
-        "ref_price": 8.4,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/90933/mantequilla-light-hacendado-tarrina"
-      },
-      {
-        "product_id": "60622",
-        "name": "Mantequilla sin sal añadida Hacendado",
-        "packaging": "Tarrina",
-        "price": 2.45,
-        "ref_price": 9.8,
-        "ref_unit": "kg",
-        "url": "https://tienda.mercadona.es/product/60622/mantequilla-sin-sal-anadida-hacendado-tarrina"
       }
-    ],
-    "elegido": "18145",
-    "nuevo_pin": "18145"
+    ]
   },
   "zumo-lima": {
     "modo": "busqueda",
@@ -2041,8 +1477,7 @@
     "nuevo_pin": null
   },
   "mostaza": {
-    "modo": "busqueda",
-    "query": "mostaza -dijon -miel -antigua",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "23410",
@@ -2053,13 +1488,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/23410/mostaza-clasica-hacendado-bote"
       }
-    ],
-    "elegido": "23410",
-    "nuevo_pin": "23410"
+    ]
   },
   "salsa-barbacoa": {
-    "modo": "busqueda",
-    "query": "salsa barbacoa",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "17346",
@@ -2070,13 +1502,10 @@
         "ref_unit": "kg",
         "url": "https://tienda.mercadona.es/product/17346/salsa-barbacoa-hacendado-bote"
       }
-    ],
-    "elegido": "17346",
-    "nuevo_pin": "17346"
+    ]
   },
   "lavavajillas-mano": {
-    "modo": "busqueda",
-    "query": "lavavajillas mano -maquina -pastilla -capsula",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "42441",
@@ -2087,13 +1516,10 @@
         "ref_unit": "L",
         "url": "https://tienda.mercadona.es/product/42441/lavavajillas-mano-bosque-verde-botella"
       }
-    ],
-    "elegido": "42441",
-    "nuevo_pin": "42441"
+    ]
   },
   "bolsas-basura": {
-    "modo": "busqueda",
-    "query": "bolsa basura -perfumada -bano -mini -5l -cubo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "14466",
@@ -2103,37 +1529,8 @@
         "ref_price": 0.058,
         "ref_unit": "ud",
         "url": "https://tienda.mercadona.es/product/14466/bolsa-basura-envases-bosque-verde-30l-cubo-mediano-paquete"
-      },
-      {
-        "product_id": "12895",
-        "name": "Bolsas de basura compost 10L Bosque Verde",
-        "packaging": "Paquete",
-        "price": 2.3,
-        "ref_price": 0.115,
-        "ref_unit": "ud",
-        "url": "https://tienda.mercadona.es/product/12895/bolsa-basura-compostables-bosque-verde-10l-cubo-pequeno-restos-organicos-paquete"
-      },
-      {
-        "product_id": "12897",
-        "name": "Bolsas de basura 100L Bosque Verde",
-        "packaging": "Paquete",
-        "price": 2.2,
-        "ref_price": 0.147,
-        "ref_unit": "ud",
-        "url": "https://tienda.mercadona.es/product/12897/bolsa-basura-saco-bosque-verde-100l-cubo-industrial-paquete"
-      },
-      {
-        "product_id": "49703",
-        "name": "Bolsas de basura jardín 100L Bosque Verde",
-        "packaging": "Paquete",
-        "price": 2.85,
-        "ref_price": 0.285,
-        "ref_unit": "ud",
-        "url": "https://tienda.mercadona.es/product/49703/bolsa-basura-jardin-bosque-verde-100l-cubo-industrial-paquete"
       }
-    ],
-    "elegido": "14466",
-    "nuevo_pin": "14466"
+    ]
   },
   "bolsas-reutilizables": {
     "modo": "busqueda",
@@ -2242,8 +1639,7 @@
     "nuevo_pin": null
   },
   "film": {
-    "modo": "busqueda",
-    "query": "film transparente",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "60294",
@@ -2254,13 +1650,10 @@
         "ref_unit": "m",
         "url": "https://tienda.mercadona.es/product/60294/film-transparente-bosque-verde-con-sierra-deslizante-caja"
       }
-    ],
-    "elegido": "60294",
-    "nuevo_pin": "60294"
+    ]
   },
   "aluminio": {
-    "modo": "busqueda",
-    "query": "papel aluminio -bandeja -recipiente",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "49000",
@@ -2271,13 +1664,10 @@
         "ref_unit": "m",
         "url": "https://tienda.mercadona.es/product/49000/papel-aluminio-bosque-verde-caja"
       }
-    ],
-    "elegido": "49000",
-    "nuevo_pin": "49000"
+    ]
   },
   "bayetas": {
-    "modo": "busqueda",
-    "query": "bayeta -microfibra -rollo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "71044",
@@ -2288,9 +1678,7 @@
         "ref_unit": "ud",
         "url": "https://tienda.mercadona.es/product/71044/bayeta-suave-multiusos-bosque-verde-paquete"
       }
-    ],
-    "elegido": "71044",
-    "nuevo_pin": "71044"
+    ]
   },
   "panos-absorbentes": {
     "modo": "busqueda",
@@ -2399,8 +1787,7 @@
     "nuevo_pin": null
   },
   "papel-higienico": {
-    "modo": "busqueda",
-    "query": "papel higienico -humedo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "47835",
@@ -2410,36 +1797,498 @@
         "ref_price": 0.2,
         "ref_unit": "ud",
         "url": "https://tienda.mercadona.es/product/47835/papel-higienico-doble-hoja-bosque-verde-paquete"
-      },
+      }
+    ]
+  },
+  "hamburguesa-vacuno": {
+    "modo": "busqueda",
+    "query": "hamburguesa vacuno -pollo -cerdo -vegetal -pan -mixta",
+    "candidatos": [
       {
-        "product_id": "47818",
-        "name": "Papel higiénico Doble Rollo Bosque Verde",
+        "product_id": "35884",
+        "name": "Hamburguesa de lomo de vacuno",
         "packaging": "Paquete",
-        "price": 4.6,
-        "ref_price": 0.384,
-        "ref_unit": "ud",
-        "url": "https://tienda.mercadona.es/product/47818/papel-higienico-doble-rollo-bosque-verde-paquete"
-      },
-      {
-        "product_id": "47819",
-        "name": "Papel higiénico Doble Rollo Bosque Verde",
-        "packaging": "Paquete",
-        "price": 2.4,
-        "ref_price": 0.4,
-        "ref_unit": "ud",
-        "url": "https://tienda.mercadona.es/product/47819/papel-higienico-doble-rollo-bosque-verde-paquete"
-      },
-      {
-        "product_id": "12912",
-        "name": "Papel higiénico Suave Bosque Verde",
-        "packaging": "Paquete",
-        "price": 3.7,
-        "ref_price": 0.463,
-        "ref_unit": "ud",
-        "url": "https://tienda.mercadona.es/product/12912/papel-higienico-suave-bosque-verde-4-capas-paquete"
+        "price": 4.0,
+        "ref_price": 16.67,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/35884/hamburguesa-lomo-vacuno-paquete"
       }
     ],
-    "elegido": "47835",
-    "nuevo_pin": "47835"
+    "elegido": "35884",
+    "nuevo_pin": "35884"
+  },
+  "hamburguesa-pollo": {
+    "modo": "busqueda",
+    "query": "hamburguesa pollo -vacuno -pan -cerdo",
+    "candidatos": [
+      {
+        "product_id": "11972",
+        "name": "Sazonador hierbas provenzales Hacendado para pollo y costillas",
+        "packaging": "Sobre",
+        "price": 1.05,
+        "ref_price": 43.75,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/11972/sazonador-hierbas-provenzales-hacendado-pollo-costillas-horno-microondas-con-bolsa"
+      },
+      {
+        "product_id": "86659",
+        "name": "Sazonador barbacoa Hacendado para pollo y costillas",
+        "packaging": "Sobre",
+        "price": 1.3,
+        "ref_price": 22.81,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/86659/sazonador-sabor-barbacoa-hacendado-carne"
+      },
+      {
+        "product_id": "86808",
+        "name": "Sazonador pollo y carne Hacendado",
+        "packaging": "Bote",
+        "price": 1.4,
+        "ref_price": 18.42,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/86808/sazonador-pollo-carne-hacendado-bote"
+      },
+      {
+        "product_id": "8645",
+        "name": "Fideos orientales Yatekomo sabor pollo Gallina Blanca",
+        "packaging": null,
+        "price": 4.1,
+        "ref_price": 22.78,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/8645/fideos-orientales-yatekomo-sabor-pollo-gallina-blanca-pack-3"
+      },
+      {
+        "product_id": "8618",
+        "name": "Fideos orientales Yatekomo sabor pollo Gallina Blanca",
+        "packaging": "Vaso",
+        "price": 1.65,
+        "ref_price": 27.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/8618/fideos-orientales-yatekomo-sabor-pollo-gallina-blanca-vaso"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "patatas-paja": {
+    "modo": "busqueda",
+    "query": "patatas paja",
+    "candidatos": [
+      {
+        "product_id": "24040",
+        "name": "Patatas fritas paja Hacendado",
+        "packaging": "Paquete",
+        "price": 1.35,
+        "ref_price": 9.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/24040/patatas-fritas-paja-hacendado-paquete"
+      }
+    ],
+    "elegido": "24040",
+    "nuevo_pin": "24040"
+  },
+  "aceite-oliva-virgen-extra": {
+    "modo": "busqueda",
+    "query": "aceite oliva virgen extra -spray -atun -sardina",
+    "candidatos": [
+      {
+        "product_id": "4717",
+        "name": "Aceite de oliva virgen extra Hacendado",
+        "packaging": "Garrafa",
+        "price": 11.25,
+        "ref_price": 3.75,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4717/aceite-oliva-virgen-extra-hacendado-garrafa"
+      },
+      {
+        "product_id": "4740",
+        "name": "Aceite de oliva virgen extra Hacendado",
+        "packaging": "Botella",
+        "price": 4.1,
+        "ref_price": 4.1,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4740/aceite-oliva-virgen-extra-hacendado-botella"
+      },
+      {
+        "product_id": "4706",
+        "name": "Aceite de oliva virgen extra Hacendado Gran Selección",
+        "packaging": "Botella",
+        "price": 5.25,
+        "ref_price": 7.0,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4706/aceite-oliva-virgen-extra-hacendado-gran-seleccion-botella"
+      },
+      {
+        "product_id": "4850",
+        "name": "Aceite de oliva virgen extra Picual Casa Juncal",
+        "packaging": "Botella",
+        "price": 4.85,
+        "ref_price": 9.7,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4850/aceite-oliva-virgen-extra-picual-casa-juncal-botella"
+      },
+      {
+        "product_id": "4718",
+        "name": "Aceite de oliva virgen extra Hacendado",
+        "packaging": "Spray",
+        "price": 2.6,
+        "ref_price": 13.0,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4718/aceite-oliva-virgen-extra-hacendado-spray"
+      }
+    ],
+    "elegido": "4717",
+    "nuevo_pin": "4717"
+  },
+  "aceite-oliva-suave": {
+    "modo": "busqueda",
+    "query": "aceite oliva -virgen -orujo -spray -atun -sardina -anchoa -bonito",
+    "candidatos": [
+      {
+        "product_id": "4241",
+        "name": "Aceite de oliva 0,4º Hacendado",
+        "packaging": "Garrafa",
+        "price": 16.75,
+        "ref_price": 3.35,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4241/aceite-oliva-04o-hacendado-garrafa"
+      },
+      {
+        "product_id": "4641",
+        "name": "Aceite de oliva 1º Hacendado",
+        "packaging": "Garrafa",
+        "price": 16.75,
+        "ref_price": 3.35,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4641/aceite-oliva-1o-hacendado-garrafa"
+      },
+      {
+        "product_id": "4240",
+        "name": "Aceite de oliva 0,4º Hacendado",
+        "packaging": "Botella",
+        "price": 3.6,
+        "ref_price": 3.6,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4240/aceite-oliva-04o-hacendado-botella"
+      },
+      {
+        "product_id": "4640",
+        "name": "Aceite de oliva 1º Hacendado",
+        "packaging": "Botella",
+        "price": 3.8,
+        "ref_price": 3.8,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/4640/aceite-oliva-1o-hacendado-botella"
+      }
+    ],
+    "elegido": "4241",
+    "nuevo_pin": "4241"
+  },
+  "curcuma": {
+    "modo": "busqueda",
+    "query": "curcuma -infusion -te -bebida",
+    "candidatos": [
+      {
+        "product_id": "34163",
+        "name": "Cúrcuma molida Hacendado",
+        "packaging": "Bote",
+        "price": 1.3,
+        "ref_price": 21.67,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/34163/curcuma-hacendado-bote"
+      }
+    ],
+    "elegido": "34163",
+    "nuevo_pin": "34163"
+  },
+  "pan-barra": {
+    "modo": "busqueda",
+    "query": "barra pan -integral -cereales -gluten -rallado",
+    "candidatos": [
+      {
+        "product_id": "83203.1",
+        "name": "3 Barras de pan",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": 1.59,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/83203.1/3-barras-pan"
+      },
+      {
+        "product_id": "83203.2",
+        "name": "3 Barras de pan rebanadas",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": 1.59,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/83203.2/3-barras-pan-rebanadas"
+      },
+      {
+        "product_id": "83560",
+        "name": "Barra de pan tradicional",
+        "packaging": "Paquete",
+        "price": 1.28,
+        "ref_price": 1.83,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/83560/barra-pan-tradicional-cortada-paquete"
+      },
+      {
+        "product_id": "83202.1",
+        "name": "Barra de pan",
+        "packaging": null,
+        "price": 0.5,
+        "ref_price": 2.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/83202.1/barra-pan"
+      },
+      {
+        "product_id": "83202.2",
+        "name": "Barra de pan rebanada",
+        "packaging": null,
+        "price": 0.5,
+        "ref_price": 2.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/83202.2/barra-pan-rebanada"
+      }
+    ],
+    "elegido": "83203.1",
+    "nuevo_pin": "83203.1"
+  },
+  "pan-molde": {
+    "modo": "busqueda",
+    "query": "pan molde -integral -sin -brioche -hamburguesa -perrito",
+    "candidatos": [
+      {
+        "product_id": "83867",
+        "name": "Pan de molde blanco familiar Hacendado",
+        "packaging": "Paquete",
+        "price": 1.15,
+        "ref_price": 1.4,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/83867/pan-molde-blanco-familiar-hacendado-paquete"
+      },
+      {
+        "product_id": "13810",
+        "name": "Pan de molde blanco Hacendado",
+        "packaging": "Paquete",
+        "price": 0.8,
+        "ref_price": 1.74,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/13810/pan-molde-blanco-hacendado-paquete"
+      },
+      {
+        "product_id": "82302",
+        "name": "Pan de molde con 55% centeno Hacendado",
+        "packaging": "Paquete",
+        "price": 1.35,
+        "ref_price": 1.88,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/82302/pan-molde-con-55-centeno-hacendado-paquete"
+      },
+      {
+        "product_id": "1699",
+        "name": "Pan de molde blanco rebanada gruesa Hacendado",
+        "packaging": "Paquete",
+        "price": 1.7,
+        "ref_price": 2.07,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/1699/pan-molde-blanco-rebanada-gruesa-hacendado-paquete"
+      },
+      {
+        "product_id": "83547",
+        "name": "Pan de molde 12 cereales y semillas Hacendado",
+        "packaging": "Paquete",
+        "price": 1.5,
+        "ref_price": 2.21,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/83547/pan-molde-12-cereales-semillas-hacendado-paquete"
+      }
+    ],
+    "elegido": "83867",
+    "nuevo_pin": "83867"
+  },
+  "calamares-americana": {
+    "modo": "busqueda",
+    "query": "calamar salsa americana",
+    "candidatos": [
+      {
+        "product_id": "18713",
+        "name": "Calamar en salsa americana Hacendado",
+        "packaging": null,
+        "price": 2.7,
+        "ref_price": 15.26,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/18713/calamar-salsa-americana-hacendado-pack-3"
+      }
+    ],
+    "elegido": "18713",
+    "nuevo_pin": "18713"
+  },
+  "nata-cocinar": {
+    "modo": "busqueda",
+    "query": "nata cocinar",
+    "candidatos": [
+      {
+        "product_id": "10199",
+        "name": "Nata ligera para cocinar Hacendado",
+        "packaging": "Pack-3",
+        "price": 1.85,
+        "ref_price": 3.08,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/10199/nata-ligera-cocinar-hacendado-pack-3"
+      },
+      {
+        "product_id": "10161",
+        "name": "Nata ligera para cocinar Hacendado",
+        "packaging": "Brik",
+        "price": 1.55,
+        "ref_price": 3.1,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/10161/nata-ligera-cocinar-hacendado-brick"
+      },
+      {
+        "product_id": "10320",
+        "name": "Nata ligera para cocinar sin lactosa Hacendado",
+        "packaging": "Pack-3",
+        "price": 2.4,
+        "ref_price": 4.0,
+        "ref_unit": "L",
+        "url": "https://tienda.mercadona.es/product/10320/nata-ligera-cocinar-sin-lactosa-hacendado-pack-3"
+      }
+    ],
+    "elegido": "10199",
+    "nuevo_pin": "10199"
+  },
+  "nachos": {
+    "modo": "busqueda",
+    "query": "nachos -salsa -queso",
+    "candidatos": [
+      {
+        "product_id": "17754",
+        "name": "Nachos Hacendado",
+        "packaging": "Paquete",
+        "price": 1.1,
+        "ref_price": 5.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/17754/nachos-hacendado-paquete"
+      },
+      {
+        "product_id": "16387",
+        "name": "Nachos Padrísimos Hacendado sabor guacamole",
+        "packaging": "Paquete",
+        "price": 0.95,
+        "ref_price": 6.33,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/16387/nachos-padrisimos-hacendado-sabor-guacamole-paquete"
+      }
+    ],
+    "elegido": "17754",
+    "nuevo_pin": "17754"
+  },
+  "garbanzos": {
+    "modo": "busqueda",
+    "query": "garbanzo -cocido -bote -tarro -hummus -crema",
+    "candidatos": [
+      {
+        "product_id": "5202",
+        "name": "Garbanzo pedrosillano Hacendado",
+        "packaging": "Paquete",
+        "price": 1.9,
+        "ref_price": 1.9,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/5202/garbanzo-pedrosillano-hacendado-categoria-extra-paquete"
+      },
+      {
+        "product_id": "5214",
+        "name": "Garbanzo Hacendado",
+        "packaging": "Paquete",
+        "price": 2.15,
+        "ref_price": 2.15,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/5214/garbanzo-hacendado-categoria-extra-paquete"
+      },
+      {
+        "product_id": "5220",
+        "name": "Garbanzo lechoso Andaluz Hacendado",
+        "packaging": "Paquete",
+        "price": 2.5,
+        "ref_price": 2.5,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/5220/garbanzo-lechoso-andaluz-hacendado-paquete"
+      },
+      {
+        "product_id": "26110",
+        "name": "Garbanzos a la jardinera Hacendado",
+        "packaging": "Bote",
+        "price": 1.2,
+        "ref_price": 2.86,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/26110/garbanzos-jardinera-hacendado-bote"
+      },
+      {
+        "product_id": "26174",
+        "name": "Garbanzos a la riojana Hacendado",
+        "packaging": "Bote",
+        "price": 1.35,
+        "ref_price": 3.21,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/26174/garbanzos-riojana-hacendado-bote"
+      }
+    ],
+    "elegido": "5202",
+    "nuevo_pin": "5202"
+  },
+  "yogur-natural": {
+    "modo": "busqueda",
+    "query": "yogur natural -griego -bebible -liquido -azucarado -cabra -oveja -ecologico",
+    "candidatos": [
+      {
+        "product_id": "22313",
+        "name": "Yogur natural Hacendado",
+        "packaging": "Pack-6",
+        "price": 1.0,
+        "ref_price": 1.33,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/22313/yogur-natural-hacendado-pack-6"
+      },
+      {
+        "product_id": "20221",
+        "name": "Yogur natural edulcorado Hacendado 0% MG 0% azúcares añadidos",
+        "packaging": null,
+        "price": 1.05,
+        "ref_price": 1.4,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/20221/yogur-natural-edulcorado-hacendado-0-mg-0-sin-azucares-anadidos-linnea-v-pack-6"
+      },
+      {
+        "product_id": "20210",
+        "name": "Yogur natural Hacendado 0% MG 0% azúcares añadidos",
+        "packaging": null,
+        "price": 1.05,
+        "ref_price": 1.4,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/20210/yogur-natural-hacendado-0-mg-0-sin-azucares-pack-6"
+      },
+      {
+        "product_id": "20584",
+        "name": "Yogur natural con azúcar de caña Hacendado",
+        "packaging": "Pack-6",
+        "price": 1.05,
+        "ref_price": 1.4,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/20584/yogur-natural-con-azucar-cana-hacendado-pack-6"
+      },
+      {
+        "product_id": "20260",
+        "name": "Yogur natural Danone",
+        "packaging": "Pack-8",
+        "price": 1.99,
+        "ref_price": 2.07,
+        "ref_unit": "kg",
+        "url": "https://tienda.mercadona.es/product/20260/yogur-natural-danone-pack-8"
+      }
+    ],
+    "elegido": "22313",
+    "nuevo_pin": "22313"
   }
 }

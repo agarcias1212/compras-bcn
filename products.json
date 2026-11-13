@@ -1096,20 +1096,20 @@
     },
     {
       "id": "jamon-iberico",
-      "name": "Jamón ibérico (lonchas)",
+      "name": "Jamón ibérico de cebo (lonchas)",
       "unit": "kg",
       "queries": {
-        "mercadona": "jamon iberico -paleta -croqueta -taco -bocadillo",
-        "bonpreu": "pernil iberic -espatlla -croqueta",
+        "mercadona": "jamon cebo iberico lonchas",
+        "bonpreu": "pernil iberic -espatlla -peca",
         "aldi": "charcuteria/embutidos-curados: jamon iberico -paleta",
-        "dia": "jamon iberico -paleta -croqueta -taco -bocadillo",
-        "consum": "jamon iberico -paleta -croqueta -taco -bocadillo"
+        "dia": "jamon cebo iberico -paleta -pieza",
+        "consum": "jamon cebo iberico -pieza -paleta"
       },
       "pinned": {
         "dia": "274057",
-        "mercadona": "8566",
-        "aldi": "charcuteria/embutidos-curados/600152500",
-        "consum": "47293"
+        "mercadona": "17798",
+        "aldi": "charcuteria/embutidos-curados/601113700",
+        "consum": "46902"
       }
     },
     {
@@ -1574,6 +1574,232 @@
       "pinned": {
         "dia": "276676",
         "mercadona": "47835"
+      }
+    },
+    {
+      "id": "hamburguesa-vacuno",
+      "name": "Hamburguesa de vacuno",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "hamburguesa vacuno -pollo -cerdo -vegetal -pan -mixta",
+        "bonpreu": "hamburguesa vedella -pollastre -porc",
+        "dia": "hamburguesa vacuno -pollo -cerdo -vegetal -pan -mixta",
+        "consum": "hamburguesa vacuno -pollo -cerdo -vegetal -pan -mixta",
+        "aldi": "carne/hamburguesas-y-carne-picada: hamburguesa vacuno -cerdo -pollo"
+      },
+      "pinned": {
+        "mercadona": "35884"
+      }
+    },
+    {
+      "id": "hamburguesa-pollo",
+      "name": "Hamburguesa de pollo",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "hamburguesa pollo -vacuno -pan -cerdo",
+        "bonpreu": "hamburguesa pollastre",
+        "dia": "hamburguesa pollo -vacuno -pan -cerdo",
+        "consum": "hamburguesa pollo -vacuno -pan -cerdo",
+        "aldi": "carne/hamburguesas-y-carne-picada: hamburguesa pollo"
+      },
+      "pinned": {
+        "aldi": "carne/hamburguesas-y-carne-picada/600050900",
+        "consum": "7610"
+      }
+    },
+    {
+      "id": "patatas-paja",
+      "name": "Patatas paja",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "patatas paja",
+        "bonpreu": "patates palla",
+        "dia": "patatas paja",
+        "consum": "patatas paja",
+        "aldi": "aperitivos/patatas-fritas-y-snacks: patatas paja"
+      },
+      "pinned": {
+        "dia": "277831",
+        "mercadona": "24040"
+      }
+    },
+    {
+      "id": "aceite-oliva-virgen-extra",
+      "name": "Aceite de oliva virgen extra",
+      "unit": "L",
+      "queries": {
+        "mercadona": "aceite oliva virgen extra -spray -atun -sardina",
+        "bonpreu": "oli oliva verge extra -esprai",
+        "dia": "aceite oliva virgen extra -spray -atun -sardina",
+        "consum": "aceite oliva virgen extra -spray -atun -sardina",
+        "aldi": "despensa/aceites-y-vinagres: aceite oliva virgen extra"
+      },
+      "pinned": {
+        "dia": "266129",
+        "mercadona": "4717",
+        "aldi": "despensa/aceites-y-vinagres/662500",
+        "consum": "14480"
+      }
+    },
+    {
+      "id": "aceite-oliva-suave",
+      "name": "Aceite de oliva suave (0,4°)",
+      "unit": "L",
+      "queries": {
+        "mercadona": "aceite oliva -virgen -orujo -spray -atun -sardina -anchoa -bonito",
+        "bonpreu": "oli oliva -verge -orujo -sansa",
+        "dia": "aceite oliva -virgen -orujo -spray -atun -sardina -anchoa -bonito",
+        "consum": "aceite oliva -virgen -orujo -spray -atun -sardina -anchoa -bonito",
+        "aldi": "despensa/aceites-y-vinagres: aceite oliva -virgen -orujo"
+      },
+      "pinned": {
+        "dia": "27768",
+        "mercadona": "4241",
+        "aldi": "despensa/aceites-y-vinagres/601186400",
+        "consum": "32302"
+      }
+    },
+    {
+      "id": "curcuma",
+      "name": "Cúrcuma",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "curcuma -infusion -te -bebida",
+        "bonpreu": "curcuma -infusio",
+        "dia": "curcuma -infusion -te -bebida",
+        "consum": "curcuma -infusion -te -bebida",
+        "aldi": "despensa/especias-y-condimentos: curcuma"
+      },
+      "pinned": {
+        "dia": "297205",
+        "mercadona": "34163",
+        "aldi": "despensa/especias-y-condimentos/601613100",
+        "consum": "35875"
+      }
+    },
+    {
+      "id": "pan-barra",
+      "name": "Pan de barra",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "barra pan -integral -cereales -gluten -rallado",
+        "bonpreu": "barra pa -integral -cereals",
+        "dia": "barra pan -integral -cereales -gluten -rallado",
+        "consum": "barra pan -integral -cereales -gluten -rallado",
+        "aldi": "panaderia-y-bolleria/pan-de-horno: barra"
+      },
+      "pinned": {
+        "dia": "38109",
+        "mercadona": "83203.1",
+        "aldi": "panaderia-y-bolleria/pan-de-horno/245300",
+        "consum": "25963"
+      }
+    },
+    {
+      "id": "pan-molde",
+      "name": "Pan de molde",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "pan molde -integral -sin -brioche -hamburguesa -perrito",
+        "bonpreu": "pa motlle -integral -sense",
+        "dia": "pan molde -integral -sin -brioche -hamburguesa -perrito",
+        "consum": "pan molde -integral -sin -brioche -hamburguesa -perrito",
+        "aldi": "panaderia-y-bolleria/pan-de-molde-y-otras-especialidades: pan molde -integral"
+      },
+      "pinned": {
+        "dia": "77955",
+        "mercadona": "83867",
+        "aldi": "panaderia-y-bolleria/pan-de-molde-y-otras-especialidades/249200",
+        "consum": "7067"
+      }
+    },
+    {
+      "id": "calamares-americana",
+      "name": "Calamares en salsa americana (lata)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "calamar salsa americana",
+        "bonpreu": "calamars salsa americana",
+        "dia": "calamar salsa americana",
+        "consum": "calamar salsa americana",
+        "aldi": "despensa/conservas-de-pescado: calamares salsa americana"
+      },
+      "pinned": {
+        "dia": "175329",
+        "mercadona": "18713",
+        "consum": "5639"
+      }
+    },
+    {
+      "id": "nata-cocinar",
+      "name": "Nata para cocinar",
+      "unit": "L",
+      "queries": {
+        "mercadona": "nata cocinar",
+        "bonpreu": "nata cuinar",
+        "dia": "nata cocinar",
+        "consum": "nata cocinar",
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: nata cocinar"
+      },
+      "pinned": {
+        "dia": "145042",
+        "mercadona": "10199",
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/809800",
+        "consum": "10260"
+      }
+    },
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "nachos -salsa -queso",
+        "bonpreu": "nachos -salsa",
+        "dia": "nachos -salsa -queso",
+        "consum": "nachos -salsa -queso",
+        "aldi": "aperitivos/patatas-fritas-y-snacks: nachos"
+      },
+      "pinned": {
+        "dia": "313573",
+        "mercadona": "17754",
+        "aldi": "aperitivos/patatas-fritas-y-snacks/455800",
+        "consum": "31241"
+      }
+    },
+    {
+      "id": "garbanzos",
+      "name": "Garbanzos secos",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "garbanzo -cocido -bote -tarro -hummus -crema",
+        "bonpreu": "cigrons -cuits -hummus",
+        "dia": "garbanzo -cocido -bote -tarro -hummus -crema",
+        "consum": "garbanzo -cocido -bote -tarro -hummus -crema",
+        "aldi": "despensa/legumbres-y-cereales: garbanzos -cocidos"
+      },
+      "pinned": {
+        "dia": "194830",
+        "mercadona": "5202",
+        "aldi": "despensa/legumbres-y-cereales/500000",
+        "consum": "19845"
+      }
+    },
+    {
+      "id": "yogur-natural",
+      "name": "Yogur natural (pack)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "yogur natural -griego -bebible -liquido -azucarado -cabra -oveja -ecologico",
+        "bonpreu": "iogurt natural -grec -liquid -ensucrat",
+        "dia": "yogur natural -griego -bebible -liquido -azucarado -cabra -oveja -ecologico",
+        "consum": "yogur natural -griego -bebible -liquido -azucarado -cabra -oveja -ecologico",
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur natural -griego -ecologico"
+      },
+      "pinned": {
+        "dia": "310847",
+        "mercadona": "22313",
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos/952000",
+        "consum": "7163"
       }
     }
   ]
