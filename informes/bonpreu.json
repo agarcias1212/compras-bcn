@@ -101,19 +101,8 @@
     "candidatos": []
   },
   "yogur-liquido-0": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "87173",
-        "name": "BONPREU Iogurt líquid desnatat amb maduixa 0%",
-        "packaging": "1kg",
-        "price": 1.4,
-        "ref_price": 1.4,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87173",
-        "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/47995037-e131-42ae-9be9-6efc572d64c4/150x150.webp"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "mostaza-dijon": {
     "modo": "omitido",
