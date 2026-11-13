@@ -1,3 +1,4 @@
 __pycache__/
 .DS_Store
 logs/
+automatizacion/.guardar_bp.py

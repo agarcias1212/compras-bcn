@@ -759,7 +759,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/113000.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/d2bf98a9-d2e5-4463-9063-0d95988efb29/150x150.webp",
+          "name": "IFA Margarina",
+          "packaging": "0.5kg",
+          "price": 1.5,
+          "product_id": "87807",
+          "ref_price": 3,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87807",
+          "fetched": "2026-11-13T23:17:55+00:00",
+          "image": "img/bonpreu/87807.webp"
+        },
         "dia": {
           "product_id": "55575",
           "name": "Margarina vitaminada Diasol 500 g",
@@ -810,7 +821,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/601832200.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/e86a5f97-2dba-4138-b878-98851c575a60/150x150.webp",
+          "name": "BONPREU Truita de patata i ceba",
+          "packaging": "0.5kg",
+          "price": 2.79,
+          "product_id": "24288",
+          "ref_price": 5.58,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/24288",
+          "fetched": "2026-11-13T23:17:55+00:00",
+          "image": "img/bonpreu/24288.webp"
+        },
         "dia": {
           "product_id": "262522",
           "name": "Tortilla de patatas con cebolla Dia Al Punto 600 g",
@@ -861,7 +883,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/111500.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/aea5311d-8c9f-489c-b00c-7b0a12b06ddb/150x150.webp",
+          "name": "IFA Oli refinat de gira-sol",
+          "packaging": "1L",
+          "price": 1.83,
+          "product_id": "72143",
+          "ref_price": 1.83,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/72143",
+          "fetched": "2026-11-13T23:17:55+00:00",
+          "image": "img/bonpreu/72143.webp"
+        },
         "dia": {
           "product_id": "49894",
           "name": "Aceite refinado de girasol Diasol 5 L",
@@ -912,7 +945,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/136400.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "80290",
+          "name": "BONPREU Vinagre balsàmic de Mòdena",
+          "packaging": "0.25L",
+          "price": 1.25,
+          "ref_price": 5.0,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80290",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/c6c49747-db41-4633-bc3a-f83b42defacf/150x150.webp",
+          "fetched": "2026-11-14T00:19:13+01:00",
+          "image": "img/bonpreu/80290.webp"
+        },
         "dia": {
           "product_id": "106144",
           "name": "Vinagre balsámico de Módena Dia Selección Mundial 500 ml",
@@ -963,7 +1007,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/601494603.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "08907",
+          "name": "VILA VELLA Suc de llimona ecològic Km0 en ampolla",
+          "packaging": "1L",
+          "price": 3.85,
+          "ref_price": 3.85,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08907",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/bdfd797c-e550-45f1-9c23-fd6149dd0b83/150x150.webp",
+          "fetched": "2026-11-14T00:19:13+01:00",
+          "image": "img/bonpreu/08907.webp"
+        },
         "dia": null,
         "consum": {
           "product_id": "6108",
@@ -1004,7 +1059,18 @@
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/aldi/410700.webp"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "68635",
+          "name": "BONPREU Tovallons de paper blancs 30x30 cm 200 unitats",
+          "packaging": "200 per paquet",
+          "price": 1.19,
+          "ref_price": 0.006,
+          "ref_unit": "ud",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/68635",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/ed90b317-dca1-4322-90c4-c65ee21eb4e3/150x150.webp",
+          "fetched": "2026-11-14T00:19:13+01:00",
+          "image": "img/bonpreu/68635.webp"
+        },
         "dia": {
           "product_id": "276692",
           "name": "Servilletas Dia La Llama 200 unidades",
@@ -4461,5 +4527,5 @@
       }
     }
   },
-  "updated": "2026-11-13T16:05:21+01:00"
+  "updated": "2026-11-14T00:19:13+01:00"
 }

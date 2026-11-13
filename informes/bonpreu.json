@@ -36,46 +36,16 @@
     "candidatos": []
   },
   "patatas-fritas": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "77957",
-        "name": "BONPREU Patates fregides a la paella",
-        "packaging": "2 x 0.15kg",
-        "price": 1.8,
-        "ref_price": 6.0,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/77957"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "batido-chocolate": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "85644",
-        "name": "BONPREU Batut de cacau en cartró",
-        "packaging": "6 x 0.2L",
-        "price": 1.65,
-        "ref_price": 1.37,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85644"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "atun-natural": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "63001",
-        "name": "BONPREU Tonyina clara al natural",
-        "packaging": "6 x 0.056kg",
-        "price": 4.2,
-        "ref_price": 12.5,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/63001"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "nuez-moscada": {
     "modo": "omitido",
@@ -94,16 +64,49 @@
     "candidatos": []
   },
   "vinagre-balsamico": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "80290",
+        "name": "BONPREU Vinagre balsàmic de Mòdena",
+        "packaging": "0.25L",
+        "price": 1.25,
+        "ref_price": 5.0,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80290",
+        "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/c6c49747-db41-4633-bc3a-f83b42defacf/150x150.webp"
+      }
+    ]
   },
   "zumo-limon": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "08907",
+        "name": "VILA VELLA Suc de llimona ecològic Km0 en ampolla",
+        "packaging": "1L",
+        "price": 3.85,
+        "ref_price": 3.85,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08907",
+        "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/bdfd797c-e550-45f1-9c23-fd6149dd0b83/150x150.webp"
+      }
+    ]
   },
   "servilletas": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "68635",
+        "name": "BONPREU Tovallons de paper blancs 30x30 cm 200 unitats",
+        "packaging": "200 per paquet",
+        "price": 1.19,
+        "ref_price": 0.006,
+        "ref_unit": "ud",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/68635",
+        "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/ed90b317-dca1-4322-90c4-c65ee21eb4e3/150x150.webp"
+      }
+    ]
   },
   "kefir": {
     "modo": "omitido",
