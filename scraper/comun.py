@@ -102,8 +102,8 @@ def redondea(valor, unidad):
 
 
 _CONTEO = {
-    "ud": re.compile(r"(\d+)\s*(?:unidades|unitats|uds?\.?|u\.)\b", re.I),
-    "lavado": re.compile(r"(\d+)\s*(?:lavados|dosis|rentats|renta(?:des)?)\b", re.I),
+    "ud": re.compile(r"(\d+)\s*(?:unidades|unitats|uds?\.?|u)\b", re.I),
+    "lavado": re.compile(r"(\d+)\s*(?:lavados|dosis|rentats|renta(?:des)?|lv)\b", re.I),
 }
 
 

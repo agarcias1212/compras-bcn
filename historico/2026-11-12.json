@@ -17,12 +17,12 @@
         "bonpreu": {
           "product_id": "81177",
           "name": "BONPREU Llet sencera en cartró",
-          "packaging": null,
+          "packaging": "1L",
           "price": 0.96,
           "ref_price": 0.96,
           "ref_unit": "L",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81177",
-          "fetched": "2026-11-12T17:57:43+01:00"
+          "fetched": "2026-11-12T21:11:34+01:00"
         },
         "aldi": {
           "product_id": "80000",
@@ -53,12 +53,12 @@
         "bonpreu": {
           "product_id": "38974",
           "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
-          "packaging": null,
+          "packaging": "12 per paquet",
           "price": 3.05,
           "ref_price": 3.05,
           "ref_unit": "docena",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38974",
-          "fetched": "2026-11-12T17:57:43+01:00"
+          "fetched": "2026-11-12T21:11:34+01:00"
         },
         "aldi": null
       }
@@ -80,12 +80,12 @@
         "bonpreu": {
           "product_id": "00731",
           "name": "NOMEN Arròs rodó",
-          "packaging": null,
+          "packaging": "1kg",
           "price": 1.89,
           "ref_price": 1.89,
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00731",
-          "fetched": "2026-11-12T17:57:43+01:00"
+          "fetched": "2026-11-12T21:11:34+01:00"
         },
         "aldi": {
           "product_id": "768700",
@@ -230,7 +230,8 @@
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/leche-entera-sin-lactosa-872200.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "patatas-fritas": {
@@ -256,7 +257,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/patatas-fritas-al-perol-61700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "batido-chocolate": {
@@ -282,7 +284,8 @@
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/batido-de-chocolate-601202000.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "atun-natural": {
@@ -308,7 +311,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/atun-claro-al-natural-547100.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "nuez-moscada": {
@@ -334,7 +338,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/nuez-moscada-601613500.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "margarina": {
@@ -360,7 +365,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/margarina-de-girasol-113000.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "tortilla-patata": {
@@ -386,7 +392,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/tortilla-de-patata-con-calabacin-y-cebolla-caramelizada-601832200.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "aceite-girasol": {
@@ -412,7 +419,8 @@
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/aceite-de-girasol-111500.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "vinagre-balsamico": {
@@ -438,7 +446,8 @@
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/vinagre-balsamico-de-modena-136400.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "zumo-limon": {
@@ -464,7 +473,8 @@
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/zumo-de-limon-concentrado-601494603.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "servilletas": {
@@ -490,7 +500,8 @@
           "ref_unit": "ud",
           "url": "https://www.aldi.es/producto/servilletas-410700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "kefir": {
@@ -516,7 +527,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/kefir-de-cabra-natural-882601.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "arroz-vaporizado": {
@@ -542,7 +554,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/arroz-vaporizado-246500.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "alubias-blancas": {
@@ -568,7 +581,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/alubias-blancas-extra-500400.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "yogur-liquido-0": {
@@ -585,7 +599,8 @@
           "url": "https://tienda.mercadona.es/product/15660/yogur-liquido-desnatado-pina-coco-hacendado-0-mg-0-sin-azucares-anadidos-botella",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "aldi": null
+        "aldi": null,
+        "bonpreu": null
       }
     },
     "mostaza-dijon": {
@@ -611,7 +626,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/mostaza-de-dijon-256301.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "jengibre-molido": {
@@ -637,7 +653,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/jengibre-601613200.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "canela-molida": {
@@ -663,7 +680,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/canela-molida-125700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "queso-brie": {
@@ -689,7 +707,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/queso-brie-740400.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "leche-evaporada": {
@@ -715,7 +734,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/leche-evaporada-828100.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "patatas": {
@@ -723,7 +743,8 @@
       "unit": "kg",
       "stores": {
         "mercadona": null,
-        "aldi": null
+        "aldi": null,
+        "bonpreu": null
       }
     },
     "detergente-marsella": {
@@ -749,7 +770,8 @@
           "ref_unit": "lavado",
           "url": "https://www.aldi.es/producto/detergente-liquido-marsella-602140700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "cappuccino": {
@@ -775,7 +797,8 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/cafe-soluble-cappuccino-con-cacao-411603.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     },
     "salchichas-frankfurt": {
@@ -801,9 +824,10 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/salchichas-frankfurt-800800.html",
           "fetched": "2026-11-12T19:22:50+01:00"
-        }
+        },
+        "bonpreu": null
       }
     }
   },
-  "updated": "2026-11-12T19:22:50+01:00"
+  "updated": "2026-11-12T21:11:34+01:00"
 }

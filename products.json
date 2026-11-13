@@ -9,12 +9,16 @@
       "queries": {
         "mercadona": "leche entera",
         "bonpreu": "llet sencera -sense",
-        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche entera -sin"
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche entera -sin",
+        "dia": "leche entera -lactosa",
+        "consum": "leche entera -lactosa"
       },
       "pinned": {
         "mercadona": "10380",
         "bonpreu": "81177",
-        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/80000"
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/80000",
+        "dia": "608",
+        "consum": "5931"
       }
     },
     {
@@ -24,11 +28,15 @@
       "queries": {
         "mercadona": "huevos grandes L",
         "bonpreu": "ous L -ecologics",
-        "aldi": "lacteos-y-huevos/huevos: huevos"
+        "aldi": "lacteos-y-huevos/huevos: huevos",
+        "dia": "huevos grandes L",
+        "consum": "huevo L -ecologico"
       },
       "pinned": {
         "mercadona": "31504",
-        "bonpreu": "38974"
+        "bonpreu": "38974",
+        "dia": "307884",
+        "consum": "6103"
       }
     },
     {
@@ -38,12 +46,16 @@
       "queries": {
         "mercadona": "arroz redondo",
         "bonpreu": "arròs rodó",
-        "aldi": "despensa/arroz: arroz redondo -tarrina"
+        "aldi": "despensa/arroz: arroz redondo -tarrina",
+        "dia": "arroz redondo -vasos",
+        "consum": "arroz redondo"
       },
       "pinned": {
         "mercadona": "5044",
         "bonpreu": "00731",
-        "aldi": "despensa/arroz/768700"
+        "aldi": "despensa/arroz/768700",
+        "dia": "310496",
+        "consum": "5458"
       }
     },
     {
@@ -53,11 +65,15 @@
       "queries": {
         "mercadona": "azúcar blanco",
         "bonpreu": "sucre blanc",
-        "aldi": "despensa/azucar-y-edulcorantes: azúcar"
+        "aldi": "despensa/azucar-y-edulcorantes: azúcar",
+        "dia": "azucar blanco",
+        "consum": "azucar blanco"
       },
       "pinned": {
         "mercadona": "19897",
-        "bonpreu": "37758"
+        "bonpreu": "37758",
+        "dia": "81798",
+        "consum": "5245"
       }
     },
     {
@@ -67,12 +83,16 @@
       "queries": {
         "mercadona": "sal fina",
         "bonpreu": "sal fina",
-        "aldi": "despensa/especias-y-condimentos: sal fina"
+        "aldi": "despensa/especias-y-condimentos: sal fina",
+        "dia": "sal fina",
+        "consum": "sal fina"
       },
       "pinned": {
         "mercadona": "19731",
         "aldi": "despensa/especias-y-condimentos/250600",
-        "bonpreu": "00079"
+        "bonpreu": "00079",
+        "dia": "419",
+        "consum": "5937"
       }
     },
     {
@@ -82,11 +102,15 @@
       "queries": {
         "mercadona": "carne picada vacuno -cerdo",
         "bonpreu": "picada vedella -porc -ecologica",
-        "aldi": "carne/hamburguesas-y-carne-picada: picada vacuno -cerdo -pollo -ecologica"
+        "aldi": "carne/hamburguesas-y-carne-picada: picada vacuno -cerdo -pollo -ecologica",
+        "dia": "carne picada vacuno -cerdo",
+        "consum": "picada vacuno -cerdo"
       },
       "pinned": {
         "mercadona": "3454",
-        "bonpreu": "37398"
+        "bonpreu": "37398",
+        "dia": "261240",
+        "consum": "5165"
       }
     },
     {
@@ -96,12 +120,16 @@
       "queries": {
         "mercadona": "pechuga de pollo",
         "bonpreu": "pit pollastre -marinat -arrebossat",
-        "aldi": "carne/pollo-y-pavo: pechuga pollo"
+        "aldi": "carne/pollo-y-pavo: pechuga pollo",
+        "dia": "pechuga pollo -lonchas -kebab -proteina -empanada -pavo",
+        "consum": "pechuga pollo -lonchas -kebab -proteina -empanada -pavo"
       },
       "pinned": {
         "mercadona": "30006",
         "aldi": "carne/pollo-y-pavo/746800",
-        "bonpreu": "81579"
+        "bonpreu": "81579",
+        "dia": "261371",
+        "consum": "4729"
       }
     },
     {
@@ -111,11 +139,15 @@
       "queries": {
         "mercadona": "lomo de cerdo",
         "bonpreu": "llom porc -marinat -adobat",
-        "aldi": "carne/cerdo: lomo cerdo -iberico"
+        "aldi": "carne/cerdo: lomo cerdo -iberico",
+        "dia": "lomo cerdo -adobado -iberico -embuchado -curado",
+        "consum": "lomo cerdo -adobado -iberico -embuchado -curado"
       },
       "pinned": {
         "mercadona": "4590",
-        "bonpreu": "54981"
+        "bonpreu": "54981",
+        "dia": "260899",
+        "consum": "8265"
       }
     },
     {
@@ -125,12 +157,16 @@
       "queries": {
         "mercadona": "leche entera sin lactosa",
         "bonpreu": "llet sencera sense lactosa",
-        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche entera sin lactosa"
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche entera sin lactosa",
+        "dia": "leche entera sin lactosa",
+        "consum": "leche entera sin lactosa"
       },
       "pinned": {
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/872200",
         "bonpreu": "13326",
-        "mercadona": "10699"
+        "mercadona": "10699",
+        "dia": "225278",
+        "consum": "15435"
       }
     },
     {
@@ -140,12 +176,16 @@
       "queries": {
         "mercadona": "patatas fritas clasicas",
         "bonpreu": "patates fregides paella",
-        "aldi": "aperitivos/patatas-fritas-y-snacks: patatas fritas perol -oliva"
+        "aldi": "aperitivos/patatas-fritas-y-snacks: patatas fritas perol -oliva",
+        "dia": "patatas fritas -horno -congeladas -ultracongeladas",
+        "consum": "patatas fritas -horno -congeladas -ultracongeladas"
       },
       "pinned": {
         "aldi": "aperitivos/patatas-fritas-y-snacks/61700",
         "bonpreu": "77957",
-        "mercadona": "22245"
+        "mercadona": "22245",
+        "dia": "277827",
+        "consum": "5719"
       }
     },
     {
@@ -155,12 +195,16 @@
       "queries": {
         "mercadona": "batido chocolate -proteinas -90 -0",
         "bonpreu": "batut cacau",
-        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: batido chocolate"
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: batido chocolate",
+        "dia": "batido chocolate -proteinas -0",
+        "consum": "batido chocolate -proteina -0"
       },
       "pinned": {
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/601202000",
         "bonpreu": "85644",
-        "mercadona": "10050"
+        "mercadona": "10050",
+        "dia": "296458",
+        "consum": "6152"
       }
     },
     {
@@ -170,12 +214,16 @@
       "queries": {
         "mercadona": "atun claro natural",
         "bonpreu": "tonyina clara natural",
-        "aldi": "despensa/conservas-de-pescado: atun claro natural"
+        "aldi": "despensa/conservas-de-pescado: atun claro natural",
+        "dia": "atun claro natural",
+        "consum": "atun claro natural"
       },
       "pinned": {
         "aldi": "despensa/conservas-de-pescado/547100",
         "bonpreu": "63001",
-        "mercadona": "18018"
+        "mercadona": "18018",
+        "dia": "262439",
+        "consum": "25073"
       }
     },
     {
@@ -185,11 +233,15 @@
       "queries": {
         "mercadona": "nuez moscada molida",
         "bonpreu": "nou moscada molta",
-        "aldi": "despensa/especias-y-condimentos: nuez moscada"
+        "aldi": "despensa/especias-y-condimentos: nuez moscada",
+        "dia": "nuez moscada",
+        "consum": "nuez moscada"
       },
       "pinned": {
         "aldi": "despensa/especias-y-condimentos/601613500",
-        "mercadona": "34173"
+        "mercadona": "34173",
+        "dia": "297207",
+        "consum": "35877"
       }
     },
     {
@@ -199,12 +251,16 @@
       "queries": {
         "mercadona": "margarina -ligera -tulipan -vegetal",
         "bonpreu": "margarina -lleugera",
-        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: margarina girasol"
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: margarina girasol",
+        "dia": "margarina -ligera",
+        "consum": "margarina -ligera"
       },
       "pinned": {
         "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/113000",
         "bonpreu": "87807",
-        "mercadona": "20846"
+        "mercadona": "20846",
+        "dia": "55575",
+        "consum": "22664"
       }
     },
     {
@@ -214,12 +270,16 @@
       "queries": {
         "mercadona": "tortilla patata -chorizo -media -pincho",
         "bonpreu": "truita patata",
-        "aldi": "platos-preparados-y-pizza/platos-preparados-calientes: tortilla patata -preparado"
+        "aldi": "platos-preparados-y-pizza/platos-preparados-calientes: tortilla patata -preparado",
+        "dia": "tortilla patata -chorizo -pincho -media -preparado",
+        "consum": "tortilla patata -chorizo -pincho -media -preparado"
       },
       "pinned": {
         "aldi": "platos-preparados-y-pizza/platos-preparados-calientes/601832200",
         "bonpreu": "24288",
-        "mercadona": "80895"
+        "mercadona": "80895",
+        "dia": "262522",
+        "consum": "22986"
       }
     },
     {
@@ -229,12 +289,16 @@
       "queries": {
         "mercadona": "aceite girasol refinado",
         "bonpreu": "oli refinat gira-sol -fregir",
-        "aldi": "despensa/aceites-y-vinagres: aceite girasol"
+        "aldi": "despensa/aceites-y-vinagres: aceite girasol",
+        "dia": "aceite girasol",
+        "consum": "aceite girasol"
       },
       "pinned": {
         "aldi": "despensa/aceites-y-vinagres/111500",
         "bonpreu": "72143",
-        "mercadona": "4041"
+        "mercadona": "4041",
+        "dia": "49894",
+        "consum": "15767"
       }
     },
     {
@@ -244,12 +308,16 @@
       "queries": {
         "mercadona": "vinagre balsamico modena -crema",
         "bonpreu": "vinagre balsamic modena -crema",
-        "aldi": "despensa/aceites-y-vinagres: vinagre balsamico"
+        "aldi": "despensa/aceites-y-vinagres: vinagre balsamico",
+        "dia": "vinagre balsamico -crema",
+        "consum": "vinagre balsamico -crema"
       },
       "pinned": {
         "aldi": "despensa/aceites-y-vinagres/136400",
         "bonpreu": "80290",
-        "mercadona": "26496"
+        "mercadona": "26496",
+        "dia": "106144",
+        "consum": "5685"
       }
     },
     {
@@ -259,12 +327,15 @@
       "queries": {
         "mercadona": "limon exprimido",
         "bonpreu": "suc llimona -llimonada -aigua",
-        "aldi": "despensa/aceites-y-vinagres: zumo limon"
+        "aldi": "despensa/aceites-y-vinagres: zumo limon",
+        "dia": "zumo limon",
+        "consum": "zumo limon -agua -kombucha -miel -limonada"
       },
       "pinned": {
         "aldi": "despensa/aceites-y-vinagres/601494603",
         "bonpreu": "08907",
-        "mercadona": "4903"
+        "mercadona": "4903",
+        "consum": "6108"
       }
     },
     {
@@ -274,12 +345,16 @@
       "queries": {
         "mercadona": "servilleta papel -decorada -cocktail",
         "bonpreu": "tovallons paper blancs",
-        "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: servilletas"
+        "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: servilletas",
+        "dia": "servilletas -decoradas -cocktail",
+        "consum": "servilleta -decorada -cocktail"
       },
       "pinned": {
         "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa/410700",
         "bonpreu": "68635",
-        "mercadona": "49544"
+        "mercadona": "49544",
+        "dia": "276692",
+        "consum": "6802"
       }
     },
     {
@@ -289,12 +364,16 @@
       "queries": {
         "mercadona": "kefir natural",
         "bonpreu": "quefir natural",
-        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: kefir natural"
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: kefir natural",
+        "dia": "kefir natural",
+        "consum": "kefir natural"
       },
       "pinned": {
         "bonpreu": "67546",
         "mercadona": "20029",
-        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos/882601"
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos/882601",
+        "dia": "307309",
+        "consum": "35367"
       }
     },
     {
@@ -304,12 +383,16 @@
       "queries": {
         "mercadona": "arroz vaporizado",
         "bonpreu": "arros vaporitzat",
-        "aldi": "despensa/arroz: arroz vaporizado"
+        "aldi": "despensa/arroz: arroz vaporizado",
+        "dia": "arroz vaporizado",
+        "consum": "arroz vaporizado"
       },
       "pinned": {
         "aldi": "despensa/arroz/246500",
         "bonpreu": "14393",
-        "mercadona": "5020"
+        "mercadona": "5020",
+        "dia": "28809",
+        "consum": "8731"
       }
     },
     {
@@ -319,12 +402,16 @@
       "queries": {
         "mercadona": "alubia blanca -cocida",
         "bonpreu": "mongetes blanques -cuites",
-        "aldi": "despensa/legumbres-y-cereales: alubias blancas extra"
+        "aldi": "despensa/legumbres-y-cereales: alubias blancas extra",
+        "dia": "alubia blanca -cocida",
+        "consum": "alubia blanca -cocida"
       },
       "pinned": {
         "aldi": "despensa/legumbres-y-cereales/500400",
         "bonpreu": "75912",
-        "mercadona": "5124"
+        "mercadona": "5124",
+        "dia": "154",
+        "consum": "19630"
       }
     },
     {
@@ -334,11 +421,15 @@
       "queries": {
         "mercadona": "yogur liquido 0",
         "bonpreu": "iogurt liquid desnatat",
-        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur liquido"
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur liquido",
+        "dia": "yogur liquido",
+        "consum": "yogur liquido"
       },
       "pinned": {
         "bonpreu": "87173",
-        "mercadona": "15660"
+        "mercadona": "15660",
+        "dia": "306611",
+        "consum": "29541"
       }
     },
     {
@@ -348,11 +439,15 @@
       "queries": {
         "mercadona": "mostaza dijon",
         "bonpreu": "mostassa dijon",
-        "aldi": "despensa/tomates-y-salsas: mostaza dijon"
+        "aldi": "despensa/tomates-y-salsas: mostaza dijon",
+        "dia": "mostaza dijon",
+        "consum": "mostaza dijon"
       },
       "pinned": {
         "aldi": "despensa/tomates-y-salsas/256301",
-        "mercadona": "17228"
+        "mercadona": "17228",
+        "dia": "139856",
+        "consum": "4963"
       }
     },
     {
@@ -362,11 +457,14 @@
       "queries": {
         "mercadona": "jengibre molido",
         "bonpreu": "gingebre molt",
-        "aldi": "despensa/especias-y-condimentos: jengibre -ecologico"
+        "aldi": "despensa/especias-y-condimentos: jengibre -ecologico",
+        "dia": "jengibre molido",
+        "consum": "jengibre molido"
       },
       "pinned": {
         "aldi": "despensa/especias-y-condimentos/601613200",
-        "mercadona": "34149"
+        "mercadona": "34149",
+        "dia": "299135"
       }
     },
     {
@@ -376,11 +474,15 @@
       "queries": {
         "mercadona": "canela molida",
         "bonpreu": "canyella molta",
-        "aldi": "despensa/especias-y-condimentos: canela molida"
+        "aldi": "despensa/especias-y-condimentos: canela molida",
+        "dia": "canela molida",
+        "consum": "canela molida -natillas"
       },
       "pinned": {
         "aldi": "despensa/especias-y-condimentos/125700",
-        "mercadona": "34177"
+        "mercadona": "34177",
+        "dia": "299126",
+        "consum": "35871"
       }
     },
     {
@@ -390,11 +492,15 @@
       "queries": {
         "mercadona": "queso brie",
         "bonpreu": "formatge brie",
-        "aldi": "quesos/queso-fresco-y-blando: queso brie"
+        "aldi": "quesos/queso-fresco-y-blando: queso brie",
+        "dia": "queso brie",
+        "consum": "queso brie"
       },
       "pinned": {
         "aldi": "quesos/queso-fresco-y-blando/740400",
-        "mercadona": "50619"
+        "mercadona": "50619",
+        "dia": "11877",
+        "consum": "7112"
       }
     },
     {
@@ -404,11 +510,15 @@
       "queries": {
         "mercadona": "leche evaporada",
         "bonpreu": "llet evaporada -lactosa",
-        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche evaporada"
+        "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche evaporada",
+        "dia": "leche evaporada",
+        "consum": "leche evaporada"
       },
       "pinned": {
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/828100",
-        "mercadona": "15599"
+        "mercadona": "15599",
+        "dia": "163643",
+        "consum": "6915"
       }
     },
     {
@@ -418,9 +528,14 @@
       "queries": {
         "mercadona": "patatas malla -rojas -freir",
         "bonpreu": "patates -fregides -palla -xips -braves",
-        "aldi": "fruta-y-verdura/verduras-y-hortalizas: patatas"
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: patatas",
+        "dia": "patatas -frita -congeladas -horno -guarnicion -vasos",
+        "consum": "patata -frita -congelada -horno -chips"
       },
-      "pinned": {}
+      "pinned": {
+        "dia": "296356",
+        "consum": "10194"
+      }
     },
     {
       "id": "detergente-marsella",
@@ -429,11 +544,15 @@
       "queries": {
         "mercadona": "detergente marsella",
         "bonpreu": "detergent liquid marsella -capsules",
-        "aldi": "limpieza-y-hogar/cuidado-de-la-ropa: detergente marsella"
+        "aldi": "limpieza-y-hogar/cuidado-de-la-ropa: detergente marsella",
+        "dia": "detergente liquido marsella",
+        "consum": "detergente liquido marsella"
       },
       "pinned": {
         "aldi": "limpieza-y-hogar/cuidado-de-la-ropa/602140700",
-        "mercadona": "86397"
+        "mercadona": "86397",
+        "dia": "273998",
+        "consum": "45813"
       }
     },
     {
@@ -443,11 +562,14 @@
       "queries": {
         "mercadona": "cafe soluble cappuccino -caramelo",
         "bonpreu": "cafe soluble capuccino",
-        "aldi": "cafe-cacao-e-infusiones/cafe: cappuccino"
+        "aldi": "cafe-cacao-e-infusiones/cafe: cappuccino",
+        "dia": "cappuccino -capsulas",
+        "consum": "capuccino -capsula"
       },
       "pinned": {
         "aldi": "cafe-cacao-e-infusiones/cafe/411603",
-        "mercadona": "23406"
+        "mercadona": "23406",
+        "dia": "1533"
       }
     },
     {
@@ -457,11 +579,15 @@
       "queries": {
         "mercadona": "salchichas frankfurt -queso -salteado",
         "bonpreu": "salsitxes frankfurt",
-        "aldi": "charcuteria/bacon-y-salchichas: salchichas frankfurt"
+        "aldi": "charcuteria/bacon-y-salchichas: salchichas frankfurt",
+        "dia": "salchichas frankfurt -queso",
+        "consum": "salchichas frankfurt -queso"
       },
       "pinned": {
         "aldi": "charcuteria/bacon-y-salchichas/800800",
-        "mercadona": "53141"
+        "mercadona": "53141",
+        "dia": "273442",
+        "consum": "30171"
       }
     }
   ]

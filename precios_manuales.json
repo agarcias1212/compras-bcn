@@ -1,0 +1,237 @@
+{
+  "_instrucciones": "Precios apuntados a mano. 'precio_unidad' va en la unidad del producto (kg, L, docena, ud o lavado). Deja null lo que no sepas.",
+  "bonpreu": {
+    "azucar": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "sal": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "ternera": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "pollo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "cerdo": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "leche-sin-lactosa": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "patatas-fritas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "batido-chocolate": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "atun-natural": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "nuez-moscada": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "margarina": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "tortilla-patata": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "aceite-girasol": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "vinagre-balsamico": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "zumo-limon": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "L",
+      "fecha": null
+    },
+    "servilletas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "ud",
+      "fecha": null
+    },
+    "kefir": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "arroz-vaporizado": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "alubias-blancas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "yogur-liquido-0": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "mostaza-dijon": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "jengibre-molido": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "canela-molida": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "queso-brie": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "leche-evaporada": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "patatas": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "detergente-marsella": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "lavado",
+      "fecha": null
+    },
+    "cappuccino": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    },
+    "salchichas-frankfurt": {
+      "nombre": null,
+      "envase": null,
+      "precio": null,
+      "precio_unidad": null,
+      "unidad": "kg",
+      "fecha": null
+    }
+  }
+}

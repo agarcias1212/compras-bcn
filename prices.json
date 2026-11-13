@@ -14,7 +14,16 @@
           "url": "https://tienda.mercadona.es/product/10380/leche-entera-hacendado-brick",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "81177",
+          "name": "BONPREU Llet sencera en cartró",
+          "packaging": "1L",
+          "price": 0.96,
+          "ref_price": 0.96,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81177",
+          "fetched": "2026-11-12T21:11:34+01:00"
+        },
         "aldi": {
           "product_id": "80000",
           "name": "Leche entera",
@@ -24,6 +33,26 @@
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/leche-entera-80000.html",
           "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "dia": {
+          "product_id": "608",
+          "name": "Leche entera Dia Láctea 1 L",
+          "packaging": null,
+          "price": 0.96,
+          "ref_price": 0.96,
+          "ref_unit": "L",
+          "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche/p/608",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "5931",
+          "name": "Leche Entera Brik 1 L",
+          "packaging": null,
+          "price": 0.96,
+          "ref_price": 0.96,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/leche-entera-brik/7080596",
+          "fetched": "2026-11-13T00:17:38+00:00"
         }
       }
     },
@@ -41,8 +70,37 @@
           "url": "https://tienda.mercadona.es/product/31504/huevos-grandes-l-paquete",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null,
-        "aldi": null
+        "bonpreu": {
+          "product_id": "38974",
+          "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
+          "packaging": "12 per paquet",
+          "price": 3.05,
+          "ref_price": 3.05,
+          "ref_unit": "docena",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38974",
+          "fetched": "2026-11-12T21:11:34+01:00"
+        },
+        "aldi": null,
+        "dia": {
+          "product_id": "307884",
+          "name": "Huevos grandes L Dia 18 unidades",
+          "packaging": null,
+          "price": 4.39,
+          "ref_price": 2.93,
+          "ref_unit": "docena",
+          "url": "https://www.dia.es/huevos-leche-y-mantequilla/huevos/p/307884",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "6103",
+          "name": "Huevos L Grandes Docena 1 Dc",
+          "packaging": null,
+          "price": 3.05,
+          "ref_price": 3.05,
+          "ref_unit": "docena",
+          "url": "https://tienda.consum.es/es/p/huevos-l-grandes-docena/7098395",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "arroz": {
@@ -59,7 +117,16 @@
           "url": "https://tienda.mercadona.es/product/5044/arroz-redondo-hacendado-paquete",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "00731",
+          "name": "NOMEN Arròs rodó",
+          "packaging": "1kg",
+          "price": 1.89,
+          "ref_price": 1.89,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00731",
+          "fetched": "2026-11-12T21:11:34+01:00"
+        },
         "aldi": {
           "product_id": "768700",
           "name": "Arroz redondo",
@@ -69,6 +136,26 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/arroz-redondo-768700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "dia": {
+          "product_id": "310496",
+          "name": "Arroz redondo J.Sendra Dia Arrozona 1 Kg",
+          "packaging": null,
+          "price": 1.6,
+          "ref_price": 1.6,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/310496",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "5458",
+          "name": "Arroz Redondo Extra Origen España 1 Kg",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 1.15,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/arroz-redondo-extra-origen-espana/7022762",
+          "fetched": "2026-11-13T00:17:38+00:00"
         }
       }
     },
@@ -87,7 +174,27 @@
           "fetched": "2026-11-12T19:22:50+01:00"
         },
         "bonpreu": null,
-        "aldi": null
+        "aldi": null,
+        "dia": {
+          "product_id": "81798",
+          "name": "Azúcar blanco Dia 1 Kg",
+          "packaging": null,
+          "price": 0.9,
+          "ref_price": 0.9,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/bolleria-reposteria-y-azucar/azucar-miel-y-edulcorantes/p/81798",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "5245",
+          "name": "Azúcar Blanco Paquete 1 Kg",
+          "packaging": null,
+          "price": 0.9,
+          "ref_price": 0.9,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/azucar-blanco-paquete/2453884",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "sal": {
@@ -114,6 +221,26 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/sal-marina-fina-yodada-250600.html",
           "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "dia": {
+          "product_id": "419",
+          "name": "Sal fina Dia 1 Kg",
+          "packaging": null,
+          "price": 0.4,
+          "ref_price": 0.4,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/ajo-sal-y-pimienta/p/419",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "5937",
+          "name": "Sal Fina Bolsa 1000 Gr",
+          "packaging": null,
+          "price": 0.45,
+          "ref_price": 0.45,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/sal-fina-bolsa/7080745",
+          "fetched": "2026-11-13T00:17:38+00:00"
         }
       }
     },
@@ -132,7 +259,27 @@
           "fetched": "2026-11-12T19:22:50+01:00"
         },
         "bonpreu": null,
-        "aldi": null
+        "aldi": null,
+        "dia": {
+          "product_id": "261240",
+          "name": "Carne picada de vacuno Selección de Dia 900 g",
+          "packaging": null,
+          "price": 9.99,
+          "ref_price": 11.1,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/carnes/hamburguesas-carne-picada-y-albondigas/p/261240",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "5165",
+          "name": "Preparado Picada de Vacuno 400 Gr",
+          "packaging": null,
+          "price": 4.39,
+          "ref_price": 10.98,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/preparado-picada-de-vacuno/922823",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "pollo": {
@@ -159,6 +306,26 @@
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/pechuga-de-pollo-formato-familiar-746800.html",
           "fetched": "2026-11-12T19:22:50+01:00"
+        },
+        "dia": {
+          "product_id": "261371",
+          "name": "Pechuga de pollo entera formato familiar Selección de Dia 1.3 Kg aprox.",
+          "packaging": null,
+          "price": 8.7,
+          "ref_price": 6.69,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/carnes/pollo/p/261371",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "4729",
+          "name": "Pechuga de Pollo",
+          "packaging": null,
+          "price": 5.56,
+          "ref_price": 6.95,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/pechuga-de-pollo/140814",
+          "fetched": "2026-11-13T00:17:38+00:00"
         }
       }
     },
@@ -177,7 +344,27 @@
           "fetched": "2026-11-12T19:22:50+01:00"
         },
         "bonpreu": null,
-        "aldi": null
+        "aldi": null,
+        "dia": {
+          "product_id": "260899",
+          "name": "Filetes de cabeza de lomo de cerdo Selección de Dia 700 g aprox.",
+          "packaging": null,
+          "price": 4.82,
+          "ref_price": 6.89,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/carnes/cerdo/p/260899",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "8265",
+          "name": "Cabeza Lomo de Cerdo",
+          "packaging": null,
+          "price": 3.8,
+          "ref_price": 6.3,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/cabeza-lomo-de-cerdo/3347531",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "leche-sin-lactosa": {
@@ -204,7 +391,27 @@
           "url": "https://www.aldi.es/producto/leche-entera-sin-lactosa-872200.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "225278",
+          "name": "Leche entera sin lactosa Dia Láctea 1 L",
+          "packaging": null,
+          "price": 1.03,
+          "ref_price": 1.03,
+          "ref_unit": "L",
+          "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-sin-lactosa-y-enriquecidas/p/225278",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "15435",
+          "name": "Leche sin Lactosa Entera Brik 1 L",
+          "packaging": null,
+          "price": 1.03,
+          "ref_price": 1.03,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/leche-sin-lactosa-entera-brik/7260409",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "patatas-fritas": {
@@ -231,7 +438,27 @@
           "url": "https://www.aldi.es/producto/patatas-fritas-al-perol-61700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "277827",
+          "name": "Patatas fritas artesanas Dia Snack Maniac 2 x 150 g",
+          "packaging": null,
+          "price": 1.8,
+          "ref_price": 6,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/aperitivos-y-frutos-secos/patatas-fritas/p/277827",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "5719",
+          "name": "Patatas Fritas Lisas Bolsa Papel 2 x 150 Gr",
+          "packaging": null,
+          "price": 1.8,
+          "ref_price": 6,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/patatas-fritas-lisas-bolsa-papel/7056406",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "batido-chocolate": {
@@ -258,7 +485,27 @@
           "url": "https://www.aldi.es/producto/batido-de-chocolate-601202000.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "296458",
+          "name": "Batido de chocolate Dia Láctea 6 x 200 ml",
+          "packaging": null,
+          "price": 1.55,
+          "ref_price": 1.29,
+          "ref_unit": "L",
+          "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos/p/296458",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "6152",
+          "name": "Batido de Chocolate Minibrik Pack de 6 6 x 200 ml",
+          "packaging": null,
+          "price": 1.55,
+          "ref_price": 1.29,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/batido-de-chocolate-minibrik-pack-de-6/7103208",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "atun-natural": {
@@ -285,7 +532,27 @@
           "url": "https://www.aldi.es/producto/atun-claro-al-natural-547100.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "262439",
+          "name": "Atún claro al natural Dia Mari Marinera 6 x 60 g",
+          "packaging": null,
+          "price": 4.2,
+          "ref_price": 11.67,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/conservas-caldos-y-cremas/atun-y-bonito/p/262439",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "25073",
+          "name": "Atún Claro Natural Pack de 6 6 x 56 Gr",
+          "packaging": null,
+          "price": 4.2,
+          "ref_price": 12.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/atun-claro-natural-pack-de-6/7358620",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "nuez-moscada": {
@@ -312,7 +579,27 @@
           "url": "https://www.aldi.es/producto/nuez-moscada-601613500.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "297207",
+          "name": "Nuez moscada molida Dia Vegecampo 60 g",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 27.5,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/297207",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "35877",
+          "name": "Nuez Moscada Molida 60 Gr",
+          "packaging": null,
+          "price": 1.7,
+          "ref_price": 28.33,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/nuez-moscada-molida/7435923",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "margarina": {
@@ -339,7 +626,27 @@
           "url": "https://www.aldi.es/producto/margarina-de-girasol-113000.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "55575",
+          "name": "Margarina vitaminada Diasol 500 g",
+          "packaging": null,
+          "price": 1.5,
+          "ref_price": 3,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/55575",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "22664",
+          "name": "Margarina Vegetal Tarrina 500 Gr",
+          "packaging": null,
+          "price": 1.5,
+          "ref_price": 3,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/margarina-vegetal-tarrina/7333065",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "tortilla-patata": {
@@ -366,7 +673,27 @@
           "url": "https://www.aldi.es/producto/tortilla-de-patata-con-calabacin-y-cebolla-caramelizada-601832200.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "262522",
+          "name": "Tortilla de patatas con cebolla Dia Al Punto 600 g",
+          "packaging": null,
+          "price": 2.7,
+          "ref_price": 4.5,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/262522",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "22986",
+          "name": "Tortilla de Patata Fresca sin Cebolla 600 Gr",
+          "packaging": null,
+          "price": 2.7,
+          "ref_price": 4.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/tortilla-de-patata-fresca-sin-cebolla/7342579",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "aceite-girasol": {
@@ -393,7 +720,27 @@
           "url": "https://www.aldi.es/producto/aceite-de-girasol-111500.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "49894",
+          "name": "Aceite refinado de girasol Diasol 5 L",
+          "packaging": null,
+          "price": 8.6,
+          "ref_price": 1.72,
+          "ref_unit": "L",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/aceites/p/49894",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "15767",
+          "name": "Aceite de Girasol Botella 5 L",
+          "packaging": null,
+          "price": 8.6,
+          "ref_price": 1.72,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/aceite-de-girasol-botella/7285179",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "vinagre-balsamico": {
@@ -420,7 +767,27 @@
           "url": "https://www.aldi.es/producto/vinagre-balsamico-de-modena-136400.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "106144",
+          "name": "Vinagre balsámico de Módena Dia Selección Mundial 500 ml",
+          "packaging": null,
+          "price": 2.29,
+          "ref_price": 4.58,
+          "ref_unit": "L",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/106144",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "5685",
+          "name": "Vinagre Balsámico de Módena 250 ml",
+          "packaging": null,
+          "price": 1.25,
+          "ref_price": 5,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/vinagre-balsamico-de-modena/7050680",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "zumo-limon": {
@@ -447,7 +814,18 @@
           "url": "https://www.aldi.es/producto/zumo-de-limon-concentrado-601494603.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": null,
+        "consum": {
+          "product_id": "6108",
+          "name": "Zumo de Limón Exprimido 280 ml",
+          "packaging": null,
+          "price": 1.35,
+          "ref_price": 4.82,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/zumo-de-limon-exprimido/7098718",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "servilletas": {
@@ -474,7 +852,27 @@
           "url": "https://www.aldi.es/producto/servilletas-410700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "276692",
+          "name": "Servilletas Dia La Llama 200 unidades",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 0.006,
+          "ref_unit": "ud",
+          "url": "https://www.dia.es/limpieza-y-hogar/papel-higienico-cocina-y-servilletas/p/276692",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "6802",
+          "name": "Servilleta 1 Capa Blanca 30x30 200unidad. 200 U",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 0.006,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/servilleta-1-capa-blanca-30x30-200unidad/7177681",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "kefir": {
@@ -501,7 +899,27 @@
           "url": "https://www.aldi.es/producto/kefir-de-cabra-natural-882601.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "307309",
+          "name": "Kéfir natural desnatado Dia Láctea 4 x 180 g",
+          "packaging": null,
+          "price": 1.89,
+          "ref_price": 2.63,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/yogures-y-postres/kefir-y-postres-vegetales/p/307309",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "35367",
+          "name": "Kéfir Natural Sólido 500 Gr",
+          "packaging": null,
+          "price": 1.09,
+          "ref_price": 2.18,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/kefir-natural-solido/7432735",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "arroz-vaporizado": {
@@ -528,7 +946,27 @@
           "url": "https://www.aldi.es/producto/arroz-vaporizado-246500.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "28809",
+          "name": "Arroz vaporizado Dia Arrozona 1 Kg",
+          "packaging": null,
+          "price": 1.55,
+          "ref_price": 1.55,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/28809",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "8731",
+          "name": "Arroz Vaporizado 1 Kg",
+          "packaging": null,
+          "price": 1.55,
+          "ref_price": 1.55,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/arroz-vaporizado/7022726",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "alubias-blancas": {
@@ -555,7 +993,27 @@
           "url": "https://www.aldi.es/producto/alubias-blancas-extra-500400.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "154",
+          "name": "Alubias blancas Dia Vegecampo 1 Kg",
+          "packaging": null,
+          "price": 2.45,
+          "ref_price": 2.45,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/arroz-pastas-y-legumbres/garbanzos-y-alubias/p/154",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "19630",
+          "name": "Alubia Blanca Paquete 1 Kg",
+          "packaging": null,
+          "price": 2.45,
+          "ref_price": 2.45,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/alubia-blanca-paquete/7316755",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "yogur-liquido-0": {
@@ -573,7 +1031,27 @@
           "fetched": "2026-11-12T19:22:50+01:00"
         },
         "aldi": null,
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "306611",
+          "name": "Yogur líquido natural Dia Láctea 1 Kg",
+          "packaging": null,
+          "price": 1.39,
+          "ref_price": 1.39,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/yogures-y-postres/yogures-liquidos/p/306611",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "29541",
+          "name": "Yogur Líquido con Frutas del Bosque 1500 Gr",
+          "packaging": null,
+          "price": 1.99,
+          "ref_price": 1.33,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/yogur-liquido-con-frutas-del-bosque/7394851",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "mostaza-dijon": {
@@ -600,7 +1078,27 @@
           "url": "https://www.aldi.es/producto/mostaza-de-dijon-256301.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "139856",
+          "name": "Mostaza Dijon original Maille 215 g",
+          "packaging": null,
+          "price": 3.77,
+          "ref_price": 17.53,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/ketchup-mayonesa-y-mostaza/p/139856",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "4963",
+          "name": "Mostaza Dijón Originale Frasco 215 Gr",
+          "packaging": null,
+          "price": 3.69,
+          "ref_price": 17.16,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/mostaza-dijon-originale-frasco/382226",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "jengibre-molido": {
@@ -627,7 +1125,18 @@
           "url": "https://www.aldi.es/producto/jengibre-601613200.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "299135",
+          "name": "Jengibre molido Dia Vegecampo 50 g",
+          "packaging": null,
+          "price": 1.6,
+          "ref_price": 32,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299135",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": null
       }
     },
     "canela-molida": {
@@ -654,7 +1163,27 @@
           "url": "https://www.aldi.es/producto/canela-molida-125700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "299126",
+          "name": "Canela molida Dia Vegecampo 45 g",
+          "packaging": null,
+          "price": 0.87,
+          "ref_price": 19.33,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299126",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "35871",
+          "name": "Canela Molida 45 Gr",
+          "packaging": null,
+          "price": 0.89,
+          "ref_price": 19.8,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/canela-molida/7435845",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "queso-brie": {
@@ -681,7 +1210,27 @@
           "url": "https://www.aldi.es/producto/queso-brie-740400.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "11877",
+          "name": "Queso brie Dia Selección Mundial 200 g",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 8.25,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/quesos/especialidades/p/11877",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "7112",
+          "name": "Queso Brie Punta 200 Gr",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 8.25,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/queso-brie-punta/7197051",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "leche-evaporada": {
@@ -708,7 +1257,27 @@
           "url": "https://www.aldi.es/producto/leche-evaporada-828100.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "163643",
+          "name": "Leche evaporada Ideal 525 g",
+          "packaging": null,
+          "price": 2.9,
+          "ref_price": 5.52,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-condensada-y-evaporada/p/163643",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "6915",
+          "name": "Leche Evaporada Brik 525 Gr",
+          "packaging": null,
+          "price": 2.25,
+          "ref_price": 4.29,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/leche-evaporada-brik/7184497",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "patatas": {
@@ -717,7 +1286,27 @@
       "stores": {
         "mercadona": null,
         "aldi": null,
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "296356",
+          "name": "Patatas 4 Kg",
+          "packaging": null,
+          "price": 2.99,
+          "ref_price": 0.75,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/verduras/patatas-y-zanahorias/p/296356",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "10194",
+          "name": "Patata Todo Uso Culinario 5 Kg",
+          "packaging": null,
+          "price": 5.3,
+          "ref_price": 1.06,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/patata-todo-uso-culinario/7194165",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "detergente-marsella": {
@@ -744,7 +1333,27 @@
           "url": "https://www.aldi.es/producto/detergente-liquido-marsella-602140700.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "273998",
+          "name": "Detergente líquido marsella Dia Super Paco 61 lavados",
+          "packaging": null,
+          "price": 4.27,
+          "ref_price": 0.07,
+          "ref_unit": "lavado",
+          "url": "https://www.dia.es/limpieza-y-hogar/detergentes/p/273998",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "45813",
+          "name": "Detergente Líquido Marsella 60 Lv",
+          "packaging": null,
+          "price": 4.19,
+          "ref_price": 0.07,
+          "ref_unit": "lavado",
+          "url": "https://tienda.consum.es/es/p/detergente-liquido-marsella/7468317",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     },
     "cappuccino": {
@@ -771,7 +1380,18 @@
           "url": "https://www.aldi.es/producto/cafe-soluble-cappuccino-con-cacao-411603.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "1533",
+          "name": "Café soluble cappuccino en sobres Dia Cafetería 125 g",
+          "packaging": null,
+          "price": 2.19,
+          "ref_price": 17.52,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-soluble/p/1533",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": null
       }
     },
     "salchichas-frankfurt": {
@@ -798,9 +1418,29 @@
           "url": "https://www.aldi.es/producto/salchichas-frankfurt-800800.html",
           "fetched": "2026-11-12T19:22:50+01:00"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "dia": {
+          "product_id": "273442",
+          "name": "Salchichas frankfurt Dia Funky Frank 4 x 160 g",
+          "packaging": null,
+          "price": 1.64,
+          "ref_price": 2.56,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/charcuteria/salchichas/p/273442",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        },
+        "consum": {
+          "product_id": "30171",
+          "name": "Salchichas Frankfurt sabor Ahumado 3 x 165 Gr",
+          "packaging": null,
+          "price": 1.35,
+          "ref_price": 2.73,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/salchichas-frankfurt-sabor-ahumado/7404408",
+          "fetched": "2026-11-13T00:17:38+00:00"
+        }
       }
     }
   },
-  "updated": "2026-11-12T19:22:50+01:00"
+  "updated": "2026-11-13T00:17:38+00:00"
 }
