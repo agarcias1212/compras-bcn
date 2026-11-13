@@ -123,6 +123,9 @@ def leer_por_id(pid, unidad):
         f = _ficha(p["retailerProductId"], p.get("name"), (p.get("price") or {}).get("amount"),
                    (up.get("price") or {}).get("amount"), up.get("unit"), unidad)
         f["packaging"] = p.get("packSizeDescription")
+        src = (p.get("image") or {}).get("src")
+        if src:   # dirección de la miniatura, para scraper/imagenes.py
+            f["image_url"] = src.replace("300x300", "150x150").rsplit(".", 1)[0] + ".webp"
         return f, None
     except (Bloqueado, Agotado):
         raise

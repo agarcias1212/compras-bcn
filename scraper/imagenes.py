@@ -18,7 +18,7 @@ import aldi  # noqa: E402
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 EXT = {"image/webp": "webp", "image/jpeg": "jpg", "image/jpg": "jpg", "image/png": "png", "image/avif": "avif"}
-MAX_BONPREU = 2  # Bonpreu bloquea a partir de unas pocas peticiones
+MAX_BONPREU = 0  # Bonpreu bloquea a partir de unas pocas peticiones: sin llamadas extra a su API
 
 
 def url_mercadona(pid, entrada):
@@ -45,8 +45,10 @@ def url_aldi(pid, entrada, producto):
 
 
 def url_consum(pid, entrada):
+    # imageURL suele estar roto; la foto buena es la primera de la galería (media, tipo P)
     p = get_json(f"https://tienda.consum.es/api/rest/V1.0/catalog/product/{pid}")
-    return (p.get("productData") or {}).get("imageURL")
+    fotos = sorted((m for m in (p.get("media") or []) if m.get("type") == "P"), key=lambda m: m.get("order", 99))
+    return fotos[0]["url"] if fotos else (p.get("productData") or {}).get("imageURL")
 
 
 def url_dia(pid, entrada):
@@ -54,6 +56,8 @@ def url_dia(pid, entrada):
 
 
 def url_bonpreu(pid, entrada):
+    if entrada.get("image_url"):          # guardada al leer el precio: no gasta petición a la API
+        return entrada["image_url"]
     p = get_json(f"https://www.compraonline.bonpreuesclat.cat/api/webproductpagews/v5/products/bop?retailerProductId={pid}")["product"]
     src = (p.get("image") or {}).get("src")
     return src.replace("300x300", "150x150").rsplit(".", 1)[0] + ".webp" if src else None
@@ -91,7 +95,7 @@ def main(argv):
             if fallos_seguidos.get(super_, 0) >= 2:
                 r["fallo"] += 1
                 continue
-            if super_ == "bonpreu":
+            if super_ == "bonpreu" and not dato.get("image_url"):
                 if bonpreu_hechas >= MAX_BONPREU:
                     r["omitida"] += 1
                     continue

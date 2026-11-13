@@ -45,7 +45,8 @@
           "ref_price": 0.96,
           "ref_unit": "L",
           "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche/p/608",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/608.webp"
         },
         "consum": {
           "product_id": "5931",
@@ -55,7 +56,8 @@
           "ref_price": 0.96,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/leche-entera-brik/7080596",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5931.jpg"
         }
       }
     },
@@ -94,7 +96,8 @@
           "ref_price": 2.93,
           "ref_unit": "docena",
           "url": "https://www.dia.es/huevos-leche-y-mantequilla/huevos/p/307884",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/307884.webp"
         },
         "consum": {
           "product_id": "6103",
@@ -104,7 +107,8 @@
           "ref_price": 3.05,
           "ref_unit": "docena",
           "url": "https://tienda.consum.es/es/p/huevos-l-grandes-docena/7098395",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/6103.jpg"
         }
       }
     },
@@ -152,7 +156,8 @@
           "ref_price": 1.6,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/310496",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/310496.webp"
         },
         "consum": {
           "product_id": "5458",
@@ -162,7 +167,8 @@
           "ref_price": 1.15,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/arroz-redondo-extra-origen-espana/7022762",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5458.jpg"
         }
       }
     },
@@ -200,7 +206,8 @@
           "ref_price": 0.9,
           "ref_unit": "kg",
           "url": "https://www.dia.es/bolleria-reposteria-y-azucar/azucar-miel-y-edulcorantes/p/81798",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/81798.webp"
         },
         "consum": {
           "product_id": "5245",
@@ -210,7 +217,8 @@
           "ref_price": 0.9,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/azucar-blanco-paquete/2453884",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5245.jpg"
         }
       }
     },
@@ -258,7 +266,8 @@
           "ref_price": 0.4,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/ajo-sal-y-pimienta/p/419",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/419.webp"
         },
         "consum": {
           "product_id": "5937",
@@ -268,7 +277,8 @@
           "ref_price": 0.45,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/sal-fina-bolsa/7080745",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5937.jpg"
         }
       }
     },
@@ -306,7 +316,8 @@
           "ref_price": 11.1,
           "ref_unit": "kg",
           "url": "https://www.dia.es/carnes/hamburguesas-carne-picada-y-albondigas/p/261240",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/261240.webp"
         },
         "consum": {
           "product_id": "5165",
@@ -316,7 +327,8 @@
           "ref_price": 10.98,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/preparado-picada-de-vacuno/922823",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5165.jpg"
         }
       }
     },
@@ -364,7 +376,8 @@
           "ref_price": 6.69,
           "ref_unit": "kg",
           "url": "https://www.dia.es/carnes/pollo/p/261371",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/261371.webp"
         },
         "consum": {
           "product_id": "4729",
@@ -374,7 +387,8 @@
           "ref_price": 6.95,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/pechuga-de-pollo/140814",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/4729.jpg"
         }
       }
     },
@@ -412,7 +426,8 @@
           "ref_price": 6.89,
           "ref_unit": "kg",
           "url": "https://www.dia.es/carnes/cerdo/p/260899",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/260899.webp"
         },
         "consum": {
           "product_id": "8265",
@@ -422,7 +437,8 @@
           "ref_price": 6.3,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/cabeza-lomo-de-cerdo/3347531",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/8265.jpg"
         }
       }
     },
@@ -470,7 +486,8 @@
           "ref_price": 1.03,
           "ref_unit": "L",
           "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-sin-lactosa-y-enriquecidas/p/225278",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/225278.webp"
         },
         "consum": {
           "product_id": "15435",
@@ -480,7 +497,8 @@
           "ref_price": 1.03,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/leche-sin-lactosa-entera-brik/7260409",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/15435.jpg"
         }
       }
     },
@@ -528,7 +546,8 @@
           "ref_price": 6,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aperitivos-y-frutos-secos/patatas-fritas/p/277827",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/277827.webp"
         },
         "consum": {
           "product_id": "5719",
@@ -538,7 +557,8 @@
           "ref_price": 6.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/patatas-fritas-lisas-bolsa-papel/7056406",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5719.jpg"
         }
       }
     },
@@ -586,7 +606,8 @@
           "ref_price": 1.29,
           "ref_unit": "L",
           "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos/p/296458",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/296458.webp"
         },
         "consum": {
           "product_id": "6152",
@@ -596,7 +617,8 @@
           "ref_price": 1.29,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/batido-de-chocolate-minibrik-pack-de-6/7103208",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/6152.jpg"
         }
       }
     },
@@ -644,7 +666,8 @@
           "ref_price": 11.67,
           "ref_unit": "kg",
           "url": "https://www.dia.es/conservas-caldos-y-cremas/atun-y-bonito/p/262439",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/262439.webp"
         },
         "consum": {
           "product_id": "25073",
@@ -654,7 +677,8 @@
           "ref_price": 12.5,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/atun-claro-natural-pack-de-6/7358620",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/25073.jpg"
         }
       }
     },
@@ -693,7 +717,8 @@
           "ref_price": 27.5,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/297207",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/297207.webp"
         },
         "consum": {
           "product_id": "35877",
@@ -703,7 +728,8 @@
           "ref_price": 28.33,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/nuez-moscada-molida/7435923",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35877.jpg"
         }
       }
     },
@@ -742,7 +768,8 @@
           "ref_price": 3,
           "ref_unit": "kg",
           "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/55575",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/55575.webp"
         },
         "consum": {
           "product_id": "22664",
@@ -752,7 +779,8 @@
           "ref_price": 3.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/margarina-vegetal-tarrina/7333065",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/22664.jpg"
         }
       }
     },
@@ -791,7 +819,8 @@
           "ref_price": 4.5,
           "ref_unit": "kg",
           "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/262522",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/262522.webp"
         },
         "consum": {
           "product_id": "22986",
@@ -801,7 +830,8 @@
           "ref_price": 4.5,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/tortilla-de-patata-fresca-sin-cebolla/7342579",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/22986.jpg"
         }
       }
     },
@@ -840,7 +870,8 @@
           "ref_price": 1.72,
           "ref_unit": "L",
           "url": "https://www.dia.es/aceites-salsas-y-especias/aceites/p/49894",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/49894.webp"
         },
         "consum": {
           "product_id": "15767",
@@ -850,7 +881,8 @@
           "ref_price": 1.72,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/aceite-de-girasol-botella/7285179",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/15767.jpg"
         }
       }
     },
@@ -889,7 +921,8 @@
           "ref_price": 4.58,
           "ref_unit": "L",
           "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/106144",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/106144.webp"
         },
         "consum": {
           "product_id": "5685",
@@ -899,7 +932,8 @@
           "ref_price": 5.0,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/vinagre-balsamico-de-modena/7050680",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5685.jpg"
         }
       }
     },
@@ -939,7 +973,8 @@
           "ref_price": 4.82,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/zumo-de-limon-exprimido/7098718",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/6108.jpg"
         }
       }
     },
@@ -978,7 +1013,8 @@
           "ref_price": 0.006,
           "ref_unit": "ud",
           "url": "https://www.dia.es/limpieza-y-hogar/papel-higienico-cocina-y-servilletas/p/276692",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/276692.webp"
         },
         "consum": {
           "product_id": "6802",
@@ -988,7 +1024,8 @@
           "ref_price": 0.006,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/servilleta-1-capa-blanca-30x30-200unidad/7177681",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/6802.jpg"
         }
       }
     },
@@ -1027,7 +1064,8 @@
           "ref_price": 2.63,
           "ref_unit": "kg",
           "url": "https://www.dia.es/yogures-y-postres/kefir-y-postres-vegetales/p/307309",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/307309.webp"
         },
         "consum": {
           "product_id": "45738",
@@ -1037,7 +1075,8 @@
           "ref_price": 2.5,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/kefir-natural/7476716",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/45738.jpg"
         }
       }
     },
@@ -1076,7 +1115,8 @@
           "ref_price": 1.55,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/28809",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/28809.webp"
         },
         "consum": {
           "product_id": "8731",
@@ -1086,7 +1126,8 @@
           "ref_price": 1.55,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/arroz-vaporizado/7022726",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/8731.jpg"
         }
       }
     },
@@ -1125,7 +1166,8 @@
           "ref_price": 2.45,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/garbanzos-y-alubias/p/154",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/154.webp"
         },
         "consum": {
           "product_id": "19630",
@@ -1135,7 +1177,8 @@
           "ref_price": 2.45,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/alubia-blanca-paquete/7316755",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/19630.jpg"
         }
       }
     },
@@ -1164,7 +1207,8 @@
           "ref_price": 1.39,
           "ref_unit": "kg",
           "url": "https://www.dia.es/yogures-y-postres/yogures-liquidos/p/306611",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/306611.webp"
         },
         "consum": {
           "product_id": "29541",
@@ -1174,7 +1218,8 @@
           "ref_price": 1.33,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/yogur-liquido-con-frutas-del-bosque/7394851",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/29541.jpg"
         }
       }
     },
@@ -1213,7 +1258,8 @@
           "ref_price": 17.53,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/ketchup-mayonesa-y-mostaza/p/139856",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/139856.webp"
         },
         "consum": {
           "product_id": "4963",
@@ -1223,7 +1269,8 @@
           "ref_price": 17.16,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/mostaza-dijon-originale-frasco/382226",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/4963.jpg"
         }
       }
     },
@@ -1262,7 +1309,8 @@
           "ref_price": 32,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299135",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/299135.webp"
         },
         "consum": null
       }
@@ -1302,7 +1350,8 @@
           "ref_price": 19.33,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299126",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/299126.webp"
         },
         "consum": {
           "product_id": "35871",
@@ -1312,7 +1361,8 @@
           "ref_price": 19.8,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/canela-molida/7435845",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35871.jpg"
         }
       }
     },
@@ -1351,7 +1401,8 @@
           "ref_price": 8.25,
           "ref_unit": "kg",
           "url": "https://www.dia.es/quesos/especialidades/p/11877",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/11877.webp"
         },
         "consum": {
           "product_id": "7112",
@@ -1361,7 +1412,8 @@
           "ref_price": 8.25,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/queso-brie-punta/7197051",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/7112.jpg"
         }
       }
     },
@@ -1400,7 +1452,8 @@
           "ref_price": 5.52,
           "ref_unit": "kg",
           "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-condensada-y-evaporada/p/163643",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/163643.webp"
         },
         "consum": {
           "product_id": "6915",
@@ -1410,7 +1463,8 @@
           "ref_price": 4.29,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/leche-evaporada-brik/7184497",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/6915.jpg"
         }
       }
     },
@@ -1439,7 +1493,8 @@
           "ref_price": 0.75,
           "ref_unit": "kg",
           "url": "https://www.dia.es/verduras/patatas-y-zanahorias/p/296356",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/296356.webp"
         },
         "consum": {
           "product_id": "10194",
@@ -1449,7 +1504,8 @@
           "ref_price": 1.06,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/patata-todo-uso-culinario/7194165",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/10194.jpg"
         }
       }
     },
@@ -1488,7 +1544,8 @@
           "ref_price": 0.07,
           "ref_unit": "lavado",
           "url": "https://www.dia.es/limpieza-y-hogar/detergentes/p/273998",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/273998.webp"
         },
         "consum": {
           "product_id": "45813",
@@ -1498,7 +1555,8 @@
           "ref_price": 0.07,
           "ref_unit": "lavado",
           "url": "https://tienda.consum.es/es/p/detergente-liquido-marsella/7468317",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/45813.jpg"
         }
       }
     },
@@ -1537,7 +1595,8 @@
           "ref_price": 17.52,
           "ref_unit": "kg",
           "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-soluble/p/1533",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T00:17:38+00:00",
+          "image": "img/dia/1533.webp"
         },
         "consum": null
       }
@@ -1577,7 +1636,8 @@
           "ref_price": 2.56,
           "ref_unit": "kg",
           "url": "https://www.dia.es/charcuteria/salchichas/p/273442",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/273442.webp"
         },
         "consum": {
           "product_id": "30171",
@@ -1587,7 +1647,8 @@
           "ref_price": 2.73,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/salchichas-frankfurt-sabor-ahumado/7404408",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/30171.jpg"
         }
       }
     },
@@ -1615,7 +1676,8 @@
           "ref_price": 51.67,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/178105",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/178105.webp"
         },
         "consum": {
           "product_id": "10591",
@@ -1625,7 +1687,8 @@
           "ref_price": 156.1,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/clavos-enteros-tarro/557314",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/10591.jpg"
         }
       }
     },
@@ -1663,7 +1726,8 @@
           "ref_price": 75,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299125",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/299125.webp"
         },
         "consum": {
           "product_id": "39333",
@@ -1673,7 +1737,8 @@
           "ref_price": 75.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/canela-en-rama/7435852",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/39333.jpg"
         }
       }
     },
@@ -1711,7 +1776,8 @@
           "ref_price": 19.17,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299132",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/299132.webp"
         },
         "consum": {
           "product_id": "35872",
@@ -1721,7 +1787,8 @@
           "ref_price": 20.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/comino-molido/7435857",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35872.jpg"
         }
       }
     },
@@ -1759,7 +1826,8 @@
           "ref_price": 18.31,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/ajo-sal-y-pimienta/p/299147",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/299147.webp"
         },
         "consum": {
           "product_id": "35918",
@@ -1769,7 +1837,8 @@
           "ref_price": 18.46,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/pimienta-negra-molida/7435832",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35918.jpg"
         }
       }
     },
@@ -1807,7 +1876,8 @@
           "ref_price": 22.59,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/297209",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/297209.webp"
         },
         "consum": {
           "product_id": "39334",
@@ -1817,7 +1887,8 @@
           "ref_price": 22.41,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/pimenton-picante/7435860",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/39334.jpg"
         }
       }
     },
@@ -1845,7 +1916,8 @@
           "ref_price": 64.5,
           "ref_unit": "kg",
           "url": "https://www.dia.es/verduras/hierbas-aromaticas/p/233088",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/233088.webp"
         },
         "consum": {
           "product_id": "5398",
@@ -1855,7 +1927,8 @@
           "ref_price": 62.5,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/cilantro-bandeja/7004138",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5398.jpg"
         }
       }
     },
@@ -1893,7 +1966,8 @@
           "ref_price": 40,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/1293",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/1293.webp"
         },
         "consum": {
           "product_id": "35919",
@@ -1903,7 +1977,8 @@
           "ref_price": 41.7,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/oregano/7435865",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35919.jpg"
         }
       }
     },
@@ -1941,7 +2016,8 @@
           "ref_price": 10.82,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/ajo-sal-y-pimienta/p/299121",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/299121.webp"
         },
         "consum": null
       }
@@ -1970,7 +2046,8 @@
           "ref_price": 33.75,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/305818",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/305818.webp"
         },
         "consum": {
           "product_id": "35874",
@@ -1980,7 +2057,8 @@
           "ref_price": 38.6,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/romero/7435886",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35874.jpg"
         }
       }
     },
@@ -2018,7 +2096,8 @@
           "ref_price": 4.99,
           "ref_unit": "kg",
           "url": "https://www.dia.es/bolleria-reposteria-y-azucar/azucar-miel-y-edulcorantes/p/297",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/297.webp"
         },
         "consum": {
           "product_id": "33522",
@@ -2028,7 +2107,8 @@
           "ref_price": 9.9,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/miel-mil-flores-cruda-tarro/7433001",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/33522.jpg"
         }
       }
     },
@@ -2047,7 +2127,8 @@
           "ref_price": 16.95,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/aceite-de-sesamo-botella/7420610",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/31832.jpg"
         }
       }
     },
@@ -2085,7 +2166,8 @@
           "ref_price": 4.8,
           "ref_unit": "L",
           "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/287019",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/287019.webp"
         },
         "consum": {
           "product_id": "45744",
@@ -2095,7 +2177,8 @@
           "ref_price": 4.8,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/salsa-soja/7468861",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/45744.jpg"
         }
       }
     },
@@ -2123,7 +2206,8 @@
           "ref_price": 7.16,
           "ref_unit": "kg",
           "url": "https://www.dia.es/verduras/ajos-cebollas-y-puerros/p/15437",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/15437.webp"
         },
         "consum": {
           "product_id": "5251",
@@ -2133,7 +2217,8 @@
           "ref_price": 7.4,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/ajos-secos-malla/2600815",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5251.jpg"
         }
       }
     },
@@ -2151,7 +2236,8 @@
           "ref_price": 1.2,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/macarrones-espaguetis-y-pastas-secas/p/52208",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/52208.webp"
         },
         "consum": {
           "product_id": "8529",
@@ -2161,7 +2247,8 @@
           "ref_price": 1.2,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/spaghetti-paquete/7262488",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/8529.jpg"
         }
       }
     },
@@ -2199,7 +2286,8 @@
           "ref_price": 1.7,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/fideos/p/515",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/515.webp"
         },
         "consum": {
           "product_id": "5752",
@@ -2209,7 +2297,8 @@
           "ref_price": 1.7,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/fideos-cabellin-paquete/7060598",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5752.jpg"
         }
       }
     },
@@ -2247,7 +2336,8 @@
           "ref_price": 1.64,
           "ref_unit": "kg",
           "url": "https://www.dia.es/galletas-cereales-y-mermeladas/cereales-integrales-y-muesli/p/105429",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/105429.webp"
         },
         "consum": {
           "product_id": "33872",
@@ -2257,7 +2347,8 @@
           "ref_price": 1.78,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/copos-de-avena/7427933",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/33872.jpg"
         }
       }
     },
@@ -2295,7 +2386,8 @@
           "ref_price": 1.85,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/lentejas/p/158",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/158.webp"
         },
         "consum": {
           "product_id": "31696",
@@ -2305,7 +2397,8 @@
           "ref_price": 1.65,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/lenteja-parda-roja/7415029",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/31696.jpg"
         }
       }
     },
@@ -2333,7 +2426,8 @@
           "ref_price": 0.03,
           "ref_unit": "ud",
           "url": "https://www.dia.es/cafe-cacao-e-infusiones/infusiones/p/1527",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/1527.webp"
         },
         "consum": {
           "product_id": "25419",
@@ -2343,7 +2437,8 @@
           "ref_price": 0.033,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/manzanilla-20-bolsitas/7342389",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/25419.jpg"
         }
       }
     },
@@ -2371,7 +2466,8 @@
           "ref_price": 0.036,
           "ref_unit": "ud",
           "url": "https://www.dia.es/cafe-cacao-e-infusiones/infusiones/p/295421",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/295421.webp"
         },
         "consum": {
           "product_id": "25420",
@@ -2381,7 +2477,8 @@
           "ref_price": 0.037,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/menta-poleo-20-bolsitas/7342392",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/25420.jpg"
         }
       }
     },
@@ -2399,7 +2496,8 @@
           "ref_price": 0.04,
           "ref_unit": "ud",
           "url": "https://www.dia.es/cafe-cacao-e-infusiones/infusiones/p/295467",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/295467.webp"
         },
         "consum": {
           "product_id": "25243",
@@ -2409,7 +2507,8 @@
           "ref_price": 0.042,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/tila-20-bolsitas/7342413",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/25243.jpg"
         }
       }
     },
@@ -2437,7 +2536,8 @@
           "ref_price": 0.04,
           "ref_unit": "ud",
           "url": "https://www.dia.es/cafe-cacao-e-infusiones/te/p/295425",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/295425.webp"
         },
         "consum": {
           "product_id": "25127",
@@ -2447,7 +2547,8 @@
           "ref_price": 0.037,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/te-verde-20-bolsitas/7342400",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/25127.jpg"
         }
       }
     },
@@ -2466,7 +2567,8 @@
           "ref_price": 0.057,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/rooibos-frambuesa-20-bolsitas/7438492",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35475.jpg"
         }
       }
     },
@@ -2504,7 +2606,8 @@
           "ref_price": 3.18,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aperitivos-y-frutos-secos/snacks-salados/p/4670",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/4670.webp"
         },
         "consum": {
           "product_id": "5725",
@@ -2514,7 +2617,8 @@
           "ref_price": 3.52,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/maiz-crudo-palomitas-bolsa/7056570",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5725.jpg"
         }
       }
     },
@@ -2542,7 +2646,8 @@
           "ref_price": 14.38,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aperitivos-y-frutos-secos/frutos-secos/p/284861",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/284861.webp"
         },
         "consum": {
           "product_id": "35667",
@@ -2552,7 +2657,8 @@
           "ref_price": 11.8,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/semillas-de-chia/7450166",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35667.jpg"
         }
       }
     },
@@ -2580,7 +2686,8 @@
           "ref_price": 11.96,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aperitivos-y-frutos-secos/frutos-secos/p/284859",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/284859.webp"
         },
         "consum": {
           "product_id": "39675",
@@ -2590,7 +2697,8 @@
           "ref_price": 9.96,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/semillas-de-sesamo-tostado/7452337",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/39675.jpg"
         }
       }
     },
@@ -2619,7 +2727,8 @@
           "ref_price": 3.5,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/alubias-rojas-paquete/7412914",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/30970.jpg"
         }
       }
     },
@@ -2647,7 +2756,8 @@
           "ref_price": 2.3,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/garbanzos-y-alubias/p/156",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/156.webp"
         },
         "consum": {
           "product_id": "19522",
@@ -2657,7 +2767,8 @@
           "ref_price": 2.4,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/alubia-pinta-paquete/7316750",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/19522.jpg"
         }
       }
     },
@@ -2685,7 +2796,8 @@
           "ref_price": 2.5,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/garbanzos-y-alubias/p/61318",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/61318.webp"
         },
         "consum": null
       }
@@ -2724,7 +2836,8 @@
           "ref_price": 54,
           "ref_unit": "kg",
           "url": "https://www.dia.es/charcuteria/jamon-serrano/p/274057",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/274057.webp"
         },
         "consum": {
           "product_id": "46902",
@@ -2734,7 +2847,8 @@
           "ref_price": 54.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/jamon-de-cebo-iberico-50-iberico-24-meses/7486269",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/46902.jpg"
         }
       }
     },
@@ -2772,7 +2886,8 @@
           "ref_price": 1.13,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-de-tomate-y-pasta/p/128657",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/128657.webp"
         },
         "consum": {
           "product_id": "15650",
@@ -2782,7 +2897,8 @@
           "ref_price": 1.15,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/tomate-frito-brik-pack-de-3/7290521",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/15650.jpg"
         }
       }
     },
@@ -2820,7 +2936,8 @@
           "ref_price": 2.99,
           "ref_unit": "kg",
           "url": "https://www.dia.es/verduras/tomates-pimientos-y-pepinos/p/110",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/110.webp"
         },
         "consum": {
           "product_id": "4703",
@@ -2830,7 +2947,8 @@
           "ref_price": 2.55,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/tomate-ensalada/60012",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/4703.jpg"
         }
       }
     },
@@ -2868,7 +2986,8 @@
           "ref_price": 1.19,
           "ref_unit": "kg",
           "url": "https://www.dia.es/verduras/patatas-y-zanahorias/p/11421",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/11421.webp"
         },
         "consum": {
           "product_id": "5321",
@@ -2878,7 +2997,8 @@
           "ref_price": 1.2,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/zanahoria-de-mesa-bolsa/4501508",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5321.jpg"
         }
       }
     },
@@ -2906,7 +3026,8 @@
           "ref_price": 4.45,
           "ref_unit": "kg",
           "url": "https://www.dia.es/verduras/lechugas-y-hojas-verdes/p/272828",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/272828.webp"
         },
         "consum": {
           "product_id": "4710",
@@ -2916,7 +3037,8 @@
           "ref_price": 3.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/lechuga-iceberg-peso-aproximado-350-gr/71126",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/4710.jpg"
         }
       }
     },
@@ -2944,7 +3066,8 @@
           "ref_price": 1.49,
           "ref_unit": "kg",
           "url": "https://www.dia.es/verduras/calabacin-calabaza-y-berenjena/p/93",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/93.webp"
         },
         "consum": {
           "product_id": "5355",
@@ -2954,7 +3077,8 @@
           "ref_price": 1.4,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/calabacin-verde/5526694",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5355.jpg"
         }
       }
     },
@@ -2982,7 +3106,8 @@
           "ref_price": 4.73,
           "ref_unit": "kg",
           "url": "https://www.dia.es/frutas/uvas/p/193538",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/193538.webp"
         },
         "consum": {
           "product_id": "14336",
@@ -2992,7 +3117,8 @@
           "ref_price": 3.99,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/uva-aledo/7114510",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/14336.jpg"
         }
       }
     },
@@ -3030,7 +3156,8 @@
           "ref_price": 1.99,
           "ref_unit": "kg",
           "url": "https://www.dia.es/frutas/naranjas-mandarinas-y-limones/p/11464",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/11464.webp"
         },
         "consum": {
           "product_id": "33196",
@@ -3040,7 +3167,8 @@
           "ref_price": 1.95,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/mandarina-malla/7431430",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/33196.jpg"
         }
       }
     },
@@ -3078,7 +3206,8 @@
           "ref_price": 7.5,
           "ref_unit": "kg",
           "url": "https://www.dia.es/frutas/naranjas-mandarinas-y-limones/p/244559",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/244559.webp"
         },
         "consum": {
           "product_id": "6791",
@@ -3088,7 +3217,8 @@
           "ref_price": 6.36,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/lima-bandeja/7177165",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/6791.jpg"
         }
       }
     },
@@ -3126,7 +3256,8 @@
           "ref_price": 1.64,
           "ref_unit": "kg",
           "url": "https://www.dia.es/frutas/manzanas-y-peras/p/159310",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/159310.webp"
         },
         "consum": {
           "product_id": "4683",
@@ -3136,7 +3267,8 @@
           "ref_price": 2.49,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/pera-conferencia/17210",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/4683.jpg"
         }
       }
     },
@@ -3174,7 +3306,8 @@
           "ref_price": 1.89,
           "ref_unit": "kg",
           "url": "https://www.dia.es/frutas/manzanas-y-peras/p/171233",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/171233.webp"
         },
         "consum": {
           "product_id": "47145",
@@ -3184,7 +3317,8 @@
           "ref_price": 1.79,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/manzana-golden-bolsa/7487775",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/47145.jpg"
         }
       }
     },
@@ -3212,7 +3346,8 @@
           "ref_price": 3.2,
           "ref_unit": "kg",
           "url": "https://www.dia.es/frutas/platanos-y-bananas/p/11468",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/11468.webp"
         },
         "consum": {
           "product_id": "4687",
@@ -3222,7 +3357,8 @@
           "ref_price": 3.2,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/platano-canario-igp/26104",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/4687.jpg"
         }
       }
     },
@@ -3260,7 +3396,8 @@
           "ref_price": 7.48,
           "ref_unit": "kg",
           "url": "https://www.dia.es/platos-preparados-y-pizzas/hummus-y-guacamoles/p/289183",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/289183.webp"
         },
         "consum": {
           "product_id": "24230",
@@ -3270,7 +3407,8 @@
           "ref_price": 7.9,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/guacamole-tarrina/7357762",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/24230.jpg"
         }
       }
     },
@@ -3298,7 +3436,8 @@
           "ref_price": 8.2,
           "ref_unit": "kg",
           "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/268201",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/268201.webp"
         },
         "consum": {
           "product_id": "6163",
@@ -3308,7 +3447,8 @@
           "ref_price": 8.2,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/mantequilla-pastilla/7104599",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/6163.jpg"
         }
       }
     },
@@ -3366,7 +3506,8 @@
           "ref_price": 3.21,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/ketchup-mayonesa-y-mostaza/p/56586",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/56586.webp"
         },
         "consum": {
           "product_id": "18816",
@@ -3376,7 +3517,8 @@
           "ref_price": 3.3,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/mostaza/7309391",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/18816.jpg"
         }
       }
     },
@@ -3404,7 +3546,8 @@
           "ref_price": 3.29,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/79155",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/79155.webp"
         },
         "consum": {
           "product_id": "34982",
@@ -3414,7 +3557,8 @@
           "ref_price": 3.19,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/salsa-barbacoa/7438518",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/34982.jpg"
         }
       }
     },
@@ -3452,7 +3596,8 @@
           "ref_price": 2.9,
           "ref_unit": "L",
           "url": "https://www.dia.es/limpieza-y-hogar/lavavajillas/p/298236",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/298236.webp"
         },
         "consum": {
           "product_id": "33328",
@@ -3462,7 +3607,8 @@
           "ref_price": 0.88,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/lavavajillas-a-mano-diluido/7407492",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/33328.jpg"
         }
       }
     },
@@ -3500,7 +3646,8 @@
           "ref_price": 0.035,
           "ref_unit": "ud",
           "url": "https://www.dia.es/limpieza-y-hogar/bolsas-de-basura-escobas-y-fregonas/p/269323",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/269323.webp"
         },
         "consum": {
           "product_id": "14564",
@@ -3510,7 +3657,8 @@
           "ref_price": 0.058,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/bolsas-basura-envases-30-litros/7260131",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/14564.jpg"
         }
       }
     },
@@ -3558,7 +3706,8 @@
           "ref_price": 0.036,
           "ref_unit": "m",
           "url": "https://www.dia.es/limpieza-y-hogar/film-aluminio-y-conservacion/p/310020",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/310020.webp"
         },
         "consum": {
           "product_id": "23552",
@@ -3568,7 +3717,8 @@
           "ref_price": 0.021,
           "ref_unit": "m",
           "url": "https://tienda.consum.es/es/p/film-transparente/7342418",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/23552.jpg"
         }
       }
     },
@@ -3606,7 +3756,8 @@
           "ref_price": 0.075,
           "ref_unit": "m",
           "url": "https://www.dia.es/limpieza-y-hogar/film-aluminio-y-conservacion/p/269324",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/269324.webp"
         },
         "consum": null
       }
@@ -3645,7 +3796,8 @@
           "ref_price": 0.183,
           "ref_unit": "ud",
           "url": "https://www.dia.es/limpieza-y-hogar/estropajos-bayetas-y-guantes/p/288573",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/288573.webp"
         },
         "consum": {
           "product_id": "7224",
@@ -3655,7 +3807,8 @@
           "ref_price": 0.14,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/bayeta-multiusos-suave-colores/7202534",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/7224.jpg"
         }
       }
     },
@@ -3674,7 +3827,8 @@
           "ref_price": 1.4,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/rollo-bayeta-amarilla-multiusos/7199693",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/7169.jpg"
         }
       }
     },
@@ -3692,7 +3846,8 @@
           "ref_price": 0.645,
           "ref_unit": "ud",
           "url": "https://www.dia.es/limpieza-y-hogar/papel-higienico-cocina-y-servilletas/p/292546",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/292546.webp"
         },
         "consum": {
           "product_id": "6809",
@@ -3702,7 +3857,8 @@
           "ref_price": 0.547,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/papel-cocina-blanco/7178234",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/6809.jpg"
         }
       }
     },
@@ -3730,7 +3886,8 @@
           "ref_price": 0.196,
           "ref_unit": "ud",
           "url": "https://www.dia.es/limpieza-y-hogar/papel-higienico-cocina-y-servilletas/p/276676",
-          "fetched": "2026-11-13T07:52:30+00:00"
+          "fetched": "2026-11-13T07:52:30+00:00",
+          "image": "img/dia/276676.webp"
         },
         "consum": null
       }
@@ -3747,7 +3904,8 @@
           "ref_price": 7.5,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aperitivos-y-frutos-secos/patatas-fritas/p/277831",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/277831.webp"
         },
         "mercadona": {
           "product_id": "24040",
@@ -3776,7 +3934,8 @@
           "ref_price": 4.25,
           "ref_unit": "L",
           "url": "https://www.dia.es/aceites-salsas-y-especias/aceites/p/266129",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/266129.webp"
         },
         "mercadona": {
           "product_id": "4717",
@@ -3808,7 +3967,8 @@
           "ref_price": 3.75,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/aceite-de-oliva-virgen-extra/7281074",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/14480.jpg"
         }
       }
     },
@@ -3824,7 +3984,8 @@
           "ref_price": 3.45,
           "ref_unit": "L",
           "url": "https://www.dia.es/aceites-salsas-y-especias/aceites/p/27768",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/27768.webp"
         },
         "mercadona": {
           "product_id": "4241",
@@ -3856,7 +4017,8 @@
           "ref_price": 3.48,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/aceite-de-oliva-suave/7414808",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/32302.jpg"
         }
       }
     },
@@ -3872,7 +4034,8 @@
           "ref_price": 21.5,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/297205",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/297205.webp"
         },
         "mercadona": {
           "product_id": "34163",
@@ -3904,7 +4067,8 @@
           "ref_price": 21.67,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/curcuma/7435910",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/35875.jpg"
         }
       }
     },
@@ -3920,7 +4084,8 @@
           "ref_price": 2,
           "ref_unit": "kg",
           "url": "https://www.dia.es/panaderia/pan-recien-horneado/p/38109",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/38109.webp"
         },
         "mercadona": {
           "product_id": "83203.1",
@@ -3952,7 +4117,8 @@
           "ref_price": 2.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/barra-de-pan-/7370323",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/25963.jpg"
         }
       }
     },
@@ -3968,7 +4134,8 @@
           "ref_price": 1.4,
           "ref_unit": "kg",
           "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/77955",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/77955.webp"
         },
         "mercadona": {
           "product_id": "83867",
@@ -4000,7 +4167,8 @@
           "ref_price": 1.4,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/pan-molde-normal/7194884",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/7067.jpg"
         }
       }
     },
@@ -4016,7 +4184,8 @@
           "ref_price": 40.97,
           "ref_unit": "kg",
           "url": "https://www.dia.es/conservas-caldos-y-cremas/mejillones-berberechos-y-pescado/p/175329",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/175329.webp"
         },
         "mercadona": {
           "product_id": "18713",
@@ -4038,7 +4207,8 @@
           "ref_price": 15.25,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/trozos-de-calamar-en-salsa-americana-pack/7046063",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/5639.jpg"
         }
       }
     },
@@ -4054,7 +4224,8 @@
           "ref_price": 3.08,
           "ref_unit": "L",
           "url": "https://www.dia.es/huevos-leche-y-mantequilla/nata/p/145042",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/145042.webp"
         },
         "mercadona": {
           "product_id": "10199",
@@ -4086,7 +4257,8 @@
           "ref_price": 3.08,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/nata-para-cocinar-minibrik-pack-de-3/7264096",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/10260.jpg"
         }
       }
     },
@@ -4102,7 +4274,8 @@
           "ref_price": 5.17,
           "ref_unit": "kg",
           "url": "https://www.dia.es/aperitivos-y-frutos-secos/snacks-salados/p/313573",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/313573.webp"
         },
         "mercadona": {
           "product_id": "17754",
@@ -4134,7 +4307,8 @@
           "ref_price": 6.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/nachos-blancos-bolsa/7391829",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/31241.jpg"
         }
       }
     },
@@ -4150,7 +4324,8 @@
           "ref_price": 1.9,
           "ref_unit": "kg",
           "url": "https://www.dia.es/arroz-pastas-y-legumbres/garbanzos-y-alubias/p/194830",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/194830.webp"
         },
         "mercadona": {
           "product_id": "5202",
@@ -4182,7 +4357,8 @@
           "ref_price": 2.15,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/garbanzo-selecto-paquete/7316768",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/19845.jpg"
         }
       }
     },
@@ -4198,7 +4374,8 @@
           "ref_price": 1.33,
           "ref_unit": "kg",
           "url": "https://www.dia.es/yogures-y-postres/yogures-naturales-y-desnatados/p/310847",
-          "fetched": "2026-11-13T14:56:30+00:00"
+          "fetched": "2026-11-13T14:56:30+00:00",
+          "image": "img/dia/310847.webp"
         },
         "mercadona": {
           "product_id": "22313",
@@ -4230,7 +4407,8 @@
           "ref_price": 1.43,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/yogur-natural-pack-de-12-unidades/7199636",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/7163.jpg"
         }
       }
     },
@@ -4277,7 +4455,8 @@
           "ref_price": 11.15,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/hamburguesa-pollo-y-espinacas/7224421",
-          "fetched": "2026-11-13T16:05:21+01:00"
+          "fetched": "2026-11-13T16:05:21+01:00",
+          "image": "img/consum/7610.jpg"
         }
       }
     }
