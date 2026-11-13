@@ -12,58 +12,58 @@
     "candidatos": []
   },
   "azucar": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "37758",
-        "name": "SUCREBÓ Sucre blanc",
-        "packaging": "1kg",
-        "price": 0.9,
-        "ref_price": 0.9,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37758"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "sal": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "00079",
-        "name": "BONPREU Sal fina marina",
-        "packaging": "1kg",
-        "price": 0.4,
-        "ref_price": 0.4,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00079"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "ternera": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "pollo": {
     "modo": "fijado",
     "candidatos": [
       {
-        "product_id": "37398",
-        "name": "BONPREU DE L'ERA Picada de carn de vedella",
-        "packaging": "0.8kg",
-        "price": 11.65,
-        "ref_price": 14.56,
+        "product_id": "81579",
+        "name": "BONPREU Pit de pollastre al buit",
+        "packaging": "800g - 1200g",
+        "price": 6.99,
+        "ref_price": 6.99,
         "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37398"
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81579"
       }
     ]
   },
-  "pollo": {
-    "modo": "omitido",
-    "candidatos": []
-  },
   "cerdo": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "54981",
+        "name": "BONPREU Tros de llom de porc",
+        "packaging": "950g - 1350g",
+        "price": 5.49,
+        "ref_price": 5.49,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/54981"
+      }
+    ]
   },
   "leche-sin-lactosa": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "13326",
+        "name": "BONPREU Llet sencera UHT sense lactosa",
+        "packaging": "1L",
+        "price": 1.03,
+        "ref_price": 1.03,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/13326"
+      }
+    ]
   },
   "patatas-fritas": {
     "modo": "omitido",

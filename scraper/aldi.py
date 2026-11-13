@@ -120,8 +120,9 @@ def emparejar(productos, rebuscar=False):
         try:
             fichas = [ficha(h, unidad) for h in productos_de(sub)]
         except Exception as e:
-            print(f"  Aviso: {prod['name']}: no pude leer {sub} ({describe_error(e)}).")
-            fichas = []
+            print(f"  Aviso: {prod['name']}: no pude leer {sub} ({describe_error(e)}); se conserva el precio anterior.")
+            informe[prod["id"]] = {"modo": "omitido", "candidatos": []}
+            continue
         elegido, candidatos = elegir(query, fichas, unidad)
         resultados[prod["id"]] = elegido
         pin = f"{sub}/{elegido['product_id']}" if elegido else None

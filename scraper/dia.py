@@ -56,8 +56,9 @@ def emparejar(productos, rebuscar=False):
             try:
                 item = next((x for x in buscar(fijado) if str(x.get("object_id")) == str(fijado)), None)
             except Exception as e:
-                item = None
-                print(f"  Aviso: {prod['name']}: {describe_error(e)}")
+                print(f"  Aviso: {prod['name']}: {describe_error(e)}; se conserva el precio anterior.")
+                informe[prod["id"]] = {"modo": "omitido", "candidatos": []}
+                continue
             if item:
                 f = ficha(item, unidad)
                 resultados[prod["id"]] = f
@@ -68,8 +69,9 @@ def emparejar(productos, rebuscar=False):
             texto = " ".join(t for t in query.split() if not t.startswith("-"))
             elegido, candidatos = elegir(query, [ficha(x, unidad) for x in buscar(texto)], unidad)
         except Exception as e:
-            print(f"  Aviso: {prod['name']}: búsqueda fallida ({describe_error(e)}).")
-            elegido, candidatos = None, []
+            print(f"  Aviso: {prod['name']}: búsqueda fallida ({describe_error(e)}); se conserva el precio anterior.")
+            informe[prod["id"]] = {"modo": "omitido", "candidatos": []}
+            continue
         resultados[prod["id"]] = elegido
         informe[prod["id"]] = {
             "modo": "busqueda", "query": query, "candidatos": candidatos,

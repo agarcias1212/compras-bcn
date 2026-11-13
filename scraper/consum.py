@@ -81,8 +81,9 @@ def emparejar(productos, rebuscar=False):
             items = get_json(BUSCAR.format(q=quote(texto))).get("products") or []
             elegido, candidatos = elegir(query, [ficha(x, unidad) for x in items], unidad)
         except Exception as e:
-            print(f"  Aviso: {prod['name']}: búsqueda fallida ({describe_error(e)}).")
-            elegido, candidatos = None, []
+            print(f"  Aviso: {prod['name']}: búsqueda fallida ({describe_error(e)}); se conserva el precio anterior.")
+            informe[prod["id"]] = {"modo": "omitido", "candidatos": []}
+            continue
         resultados[prod["id"]] = elegido
         informe[prod["id"]] = {
             "modo": "busqueda", "query": query, "candidatos": candidatos,

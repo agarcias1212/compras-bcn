@@ -13,7 +13,7 @@ Endpoints (verificados el 12-11-2026, código postal 08012 = almacén bcn1):
 """
 from urllib.parse import quote
 
-from comun import get_json, puntuacion, a_float, describe_error, redondea, conteo
+from comun import get_json, puntuacion, a_float, describe_error, redondea, conteo, al_inicio
 
 WH = "bcn1"
 API = "https://tienda.mercadona.es/api"
@@ -99,7 +99,8 @@ def elegir(prod, query):
     puntuados = [(puntuacion(query, h.get("display_name", "")), h) for h in buscar(query)]
     puntuados = [(s, ficha(h, unidad)) for s, h in puntuados if s > 0]
     completos = sorted(
-        (f for s, f in puntuados if s == 1.0 and f["ref_unit"] == unidad and f["ref_price"] is not None),
+        (f for s, f in puntuados if s == 1.0 and f["ref_unit"] == unidad and f["ref_price"] is not None
+         and al_inicio(query, f["name"] or "")),
         key=lambda f: (f["ref_price"], f["price"] or 0),
     )
     elegido = completos[0] if completos else None
@@ -121,7 +122,12 @@ def emparejar(productos, rebuscar=False):
                 informe[prod["id"]] = {"modo": "fijado", "candidatos": [f]}
                 continue
             print(f"  Aviso: {prod['name']}: el ID {fijado} ya no responde ({error}); lo busco de nuevo.")
-        elegido, candidatos = elegir(prod, query)
+        try:
+            elegido, candidatos = elegir(prod, query)
+        except Exception as e:
+            print(f"  Aviso: {prod['name']}: {describe_error(e)}; se conserva el precio anterior.")
+            informe[prod["id"]] = {"modo": "omitido", "candidatos": []}
+            continue
         resultados[prod["id"]] = elegido
         informe[prod["id"]] = {
             "modo": "busqueda", "query": query, "candidatos": candidatos,

@@ -67,6 +67,26 @@ def puntuacion(query, nombre):
     return sum(1 for w in incluir if w in n) / len(incluir) if incluir else 0.0
 
 
+CONECTORES = {"con", "sabor", "amb", "gust", "y", "e", "i", "en", "al", "a", "relleno", "rellena", "farcit"}
+
+
+def al_inicio(query, nombre, n=3):
+    """La primera palabra de la consulta debe estar entre las n primeras del nombre
+    (sin contar palabras de una letra ni preposiciones) y no puede ir detrás de un
+    conector ('Galletas con orégano', 'Torreznos sabor jamón', 'Atún en aceite')."""
+    incluir = palabras(" ".join(t for t in query.split() if not t.startswith("-")))
+    if not incluir:
+        return True
+    crudas = [singular(w) for w in normaliza(nombre).split()]
+    if incluir[0] not in crudas:
+        return False
+    pos = crudas.index(incluir[0])
+    if any(w in CONECTORES for w in crudas[:pos]):
+        return False
+    inicio = [w for w in palabras(nombre) if len(w) > 1][:n]
+    return incluir[0] in inicio
+
+
 def a_float(v):
     if v is None or v == "":
         return None
@@ -85,7 +105,8 @@ def elegir(query, fichas, unidad):
     puntuadas = [(puntuacion(query, f["name"] or ""), f) for f in fichas]
     puntuadas = [(s, f) for s, f in puntuadas if s > 0]
     completas = sorted(
-        (f for s, f in puntuadas if s == 1.0 and f["ref_unit"] == unidad and f["ref_price"] is not None),
+        (f for s, f in puntuadas if s == 1.0 and f["ref_unit"] == unidad and f["ref_price"] is not None
+         and al_inicio(query, f["name"] or "")),
         key=lambda f: (f["ref_price"], f["price"] or 0),
     )
     if completas:

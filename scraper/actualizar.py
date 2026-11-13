@@ -21,7 +21,7 @@ import mercadona  # noqa: E402
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 FUENTES = {"mercadona": mercadona, "bonpreu": bonpreu, "aldi": aldi, "dia": dia, "consum": consum}
-POR_DEFECTO = ["mercadona", "aldi", "dia", "consum", "bonpreu"]   # Bonpreu al final: es el más lento
+POR_DEFECTO = ["mercadona", "aldi", "consum", "bonpreu"]   # Dia bloquea scripts (403): se actualiza desde el navegador   # Bonpreu al final: es el más lento
 
 
 def cargar(ruta, defecto):

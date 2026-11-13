@@ -266,8 +266,7 @@
     ]
   },
   "kefir": {
-    "modo": "busqueda",
-    "query": "kefir natural 125",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "45738",
@@ -277,28 +276,8 @@
         "ref_price": 2.5,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/kefir-natural/7476716"
-      },
-      {
-        "product_id": "44432",
-        "name": "Kéfir Natural sin Lactosa 4 x 125 Gr",
-        "packaging": null,
-        "price": 1.99,
-        "ref_price": 3.98,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/kefir-natural-sin-lactosa/7465941"
-      },
-      {
-        "product_id": "45391",
-        "name": "Activia Kéfir Natural 4 x 125 Gr",
-        "packaging": null,
-        "price": 2.39,
-        "ref_price": 4.78,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/activia-kefir-natural/7473689"
       }
-    ],
-    "elegido": "45738",
-    "nuevo_pin": "45738"
+    ]
   },
   "arroz-vaporizado": {
     "modo": "fijado",
@@ -469,8 +448,7 @@
     "nuevo_pin": null
   },
   "salchichas-frankfurt": {
-    "modo": "busqueda",
-    "query": "salchichas -queso",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "30171",
@@ -480,46 +458,8 @@
         "ref_price": 2.73,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/salchichas-frankfurt-sabor-ahumado/7404408"
-      },
-      {
-        "product_id": "10666",
-        "name": "Salchichas de Pavo 7 Unidades 3 x 140 Gr",
-        "packaging": null,
-        "price": 1.65,
-        "ref_price": 3.93,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/salchichas-de-pavo-7-unidades/7105380"
-      },
-      {
-        "product_id": "30061",
-        "name": "Salchichas Big Classic 3 x 200 Gr",
-        "packaging": null,
-        "price": 2.5,
-        "ref_price": 4.17,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/salchichas-big-classic/7405819"
-      },
-      {
-        "product_id": "10677",
-        "name": "Salchichas Frankfurt 4 Unidades 4 x 140 Gr",
-        "packaging": null,
-        "price": 2.45,
-        "ref_price": 4.38,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/salchichas-frankfurt-4-unidades/7113525"
-      },
-      {
-        "product_id": "18854",
-        "name": "Salchichas Viena 2 Unidades 2 x 175 Gr",
-        "packaging": null,
-        "price": 1.9,
-        "ref_price": 5.43,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/salchichas-viena-2-unidades/7269603"
       }
-    ],
-    "elegido": "30171",
-    "nuevo_pin": "30171"
+    ]
   },
   "clavo": {
     "modo": "busqueda",
@@ -601,17 +541,8 @@
   },
   "pimienta-negra": {
     "modo": "busqueda",
-    "query": "pimienta negra -blanca -mezcla",
+    "query": "pimienta negra -blanca -mezcla -mousse -pato -pate",
     "candidatos": [
-      {
-        "product_id": "27756",
-        "name": "Mousse de Pato Pimienta Negra 75 Gr",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": 18.0,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/mousse-de-pato-pimienta-negra/7384324"
-      },
       {
         "product_id": "35918",
         "name": "Pimienta Negra Molida 65 Gr",
@@ -647,10 +578,19 @@
         "ref_price": 80.2,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/pimienta-negra-entera-frasco/7223683"
+      },
+      {
+        "product_id": "10578",
+        "name": "Pimienta Negra Molida Tarro 40 Gr",
+        "packaging": null,
+        "price": 3.85,
+        "ref_price": 96.3,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/pimienta-negra-molida-tarro/309021"
       }
     ],
-    "elegido": "27756",
-    "nuevo_pin": "27756"
+    "elegido": "35918",
+    "nuevo_pin": "35918"
   },
   "pimenton-picante": {
     "modo": "busqueda",
@@ -709,42 +649,6 @@
     "query": "oregano",
     "candidatos": [
       {
-        "product_id": "27475",
-        "name": "Salsa Tomate Albahaca y Orégano 300 Gr",
-        "packaging": null,
-        "price": 1.45,
-        "ref_price": 4.83,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/salsa-tomate-albahaca-y-oregano/7372170"
-      },
-      {
-        "product_id": "8354",
-        "name": "Pan Tostado Sabor Tomate y Orégano 160 Gr",
-        "packaging": null,
-        "price": 1.2,
-        "ref_price": 7.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pan-tostado-sabor-tomate-y-oregano/7153786"
-      },
-      {
-        "product_id": "45349",
-        "name": "Cuadraditos Tomate y Orégano 110 Gr",
-        "packaging": null,
-        "price": 1.15,
-        "ref_price": 10.45,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/cuadraditos-tomate-y-oregano/7468457"
-      },
-      {
-        "product_id": "8928",
-        "name": "Bocaditos Tomate y Orégano 110 Gr",
-        "packaging": null,
-        "price": 1.25,
-        "ref_price": 11.37,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/bocaditos-tomate-y-oregano/7194145"
-      },
-      {
         "product_id": "21343",
         "name": "Provolone Dolce Oregano 150 Gr",
         "packaging": null,
@@ -752,10 +656,37 @@
         "ref_price": 13.27,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/provolone-dolce-oregano/7333342"
+      },
+      {
+        "product_id": "35919",
+        "name": "Orégano 18 Gr",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": 41.7,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/oregano/7435865"
+      },
+      {
+        "product_id": "9473",
+        "name": "Orégano Tarro 10 Gr",
+        "packaging": null,
+        "price": 2.89,
+        "ref_price": 289.0,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/oregano-tarro/309245"
+      },
+      {
+        "product_id": "22860",
+        "name": "Orégano Bío Frasco 8 Gr",
+        "packaging": null,
+        "price": 3.65,
+        "ref_price": 456.3,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/oregano-bio-frasco/7342793"
       }
     ],
-    "elegido": "27475",
-    "nuevo_pin": "27475"
+    "elegido": "21343",
+    "nuevo_pin": "21343"
   },
   "ajo-polvo": {
     "modo": "busqueda",
@@ -812,56 +743,38 @@
   },
   "romero": {
     "modo": "busqueda",
-    "query": "romero",
+    "query": "romero -focaccia -crackers -pan -miel",
     "candidatos": [
       {
-        "product_id": "44628",
-        "name": "Focaccia Romero 4 Unidades 240 Gr",
+        "product_id": "29453",
+        "name": "Queso Oveja Romero Leche Pasteurizada",
         "packaging": null,
-        "price": 2.15,
-        "ref_price": 8.96,
+        "price": 24.5,
+        "ref_price": 24.5,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/focaccia-romero-4-unidades/7467285"
+        "url": "https://tienda.consum.es/es/p/queso-oveja-romero-leche-pasteurizada/7199516"
       },
       {
-        "product_id": "12671",
-        "name": "Solomillo al Romero",
+        "product_id": "35874",
+        "name": "Romero 35 Gr",
         "packaging": null,
-        "price": 6.56,
-        "ref_price": 10.89,
+        "price": 1.35,
+        "ref_price": 38.6,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/solomillo-al-romero/7267391"
+        "url": "https://tienda.consum.es/es/p/romero/7435886"
       },
       {
-        "product_id": "32232",
-        "name": "Miel Romero Dosificador 500 Gr",
+        "product_id": "10845",
+        "name": "Romero Frasco 23 Gr",
         "packaging": null,
-        "price": 6.95,
-        "ref_price": 13.9,
+        "price": 2.49,
+        "ref_price": 108.3,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/miel-romero-dosificador/7416068"
-      },
-      {
-        "product_id": "21746",
-        "name": "Miel Cruda de Romero Tarro 500 Gr",
-        "packaging": null,
-        "price": 6.99,
-        "ref_price": 13.98,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/miel-cruda-de-romero-tarro/7336287"
-      },
-      {
-        "product_id": "46345",
-        "name": "Jamón Asado al Romero con AOVE 125 Gr",
-        "packaging": null,
-        "price": 2.65,
-        "ref_price": 21.2,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/jamon-asado-al-romero-con-aove/7481497"
+        "url": "https://tienda.consum.es/es/p/romero-frasco/7223659"
       }
     ],
-    "elegido": "44628",
-    "nuevo_pin": "44628"
+    "elegido": "29453",
+    "nuevo_pin": "29453"
   },
   "miel-flores": {
     "modo": "busqueda",
@@ -961,17 +874,8 @@
   },
   "ajo": {
     "modo": "busqueda",
-    "query": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa",
+    "query": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado",
     "candidatos": [
-      {
-        "product_id": "17952",
-        "name": "Pimiento Piquillo Tiras con Ajos Frasco 225 Gr",
-        "packaging": null,
-        "price": 1.05,
-        "ref_price": 4.67,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pimiento-piquillo-tiras-con-ajos-frasco/7306731"
-      },
       {
         "product_id": "7236",
         "name": "Ajos Tiernos 300 Gr",
@@ -991,30 +895,39 @@
         "url": "https://tienda.consum.es/es/p/ajos-secos-malla/2600815"
       },
       {
-        "product_id": "20532",
-        "name": "Pimiento Tiras con Ajo Frasco 190 Gr",
+        "product_id": "21373",
+        "name": "Ajos Aliñados Frasco 220 Gr",
         "packaging": null,
-        "price": 1.49,
-        "ref_price": 7.84,
+        "price": 2.45,
+        "ref_price": 11.14,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pimiento-tiras-con-ajo-frasco/7324841"
+        "url": "https://tienda.consum.es/es/p/ajos-alinados-frasco/7325462"
       },
       {
-        "product_id": "6495",
-        "name": "Picatostes Fritos al Aroma de Ajo 75 Gr",
+        "product_id": "35870",
+        "name": "Ajo Molido 85 Gr",
         "packaging": null,
-        "price": 0.61,
-        "ref_price": 8.13,
+        "price": 0.95,
+        "ref_price": 11.18,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/picatostes-fritos-al-aroma-de-ajo/7155315"
+        "url": "https://tienda.consum.es/es/p/ajo-molido/7435840"
+      },
+      {
+        "product_id": "14489",
+        "name": "Ajo Ecológico 200 Gr",
+        "packaging": null,
+        "price": 2.49,
+        "ref_price": 12.45,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/ajo-ecologico/7262769"
       }
     ],
-    "elegido": "17952",
-    "nuevo_pin": "17952"
+    "elegido": "7236",
+    "nuevo_pin": "7236"
   },
   "espaguetis": {
     "modo": "busqueda",
-    "query": "spaghetti -integral",
+    "query": "spaghetti -integral -soja -ecologico",
     "candidatos": [
       {
         "product_id": "8529",
@@ -1423,44 +1336,8 @@
   },
   "chia": {
     "modo": "busqueda",
-    "query": "chia -pan -yogur -bebida -galleta",
+    "query": "chia -pan -yogur -bebida -galleta -arroz -muesli",
     "candidatos": [
-      {
-        "product_id": "17560",
-        "name": "Arroz Integral con Chía y Quinoa 2 x 125 Gr",
-        "packaging": null,
-        "price": 1.49,
-        "ref_price": 5.96,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/arroz-integral-con-chia-y-quinoa/7302990"
-      },
-      {
-        "product_id": "22606",
-        "name": "Activia 00% Semillas Chía y Almendra 4 x 115 Gr",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": 6.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/activia-00-semillas-chia-y-almendra/7340953"
-      },
-      {
-        "product_id": "19312",
-        "name": "Crackers Quinoa y Chía Bote 250 Gr",
-        "packaging": null,
-        "price": 2.15,
-        "ref_price": 8.6,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/crackers-quinoa-y-chia-bote/7320054"
-      },
-      {
-        "product_id": "19356",
-        "name": "Nachos con Chia Paquete 130 Gr",
-        "packaging": null,
-        "price": 1.23,
-        "ref_price": 9.46,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/nachos-con-chia-paquete/7320237"
-      },
       {
         "product_id": "35667",
         "name": "Semillas De Chía 250 Gr",
@@ -1471,31 +1348,13 @@
         "url": "https://tienda.consum.es/es/p/semillas-de-chia/7450166"
       }
     ],
-    "elegido": "17560",
-    "nuevo_pin": "17560"
+    "elegido": "35667",
+    "nuevo_pin": "35667"
   },
   "sesamo": {
     "modo": "busqueda",
-    "query": "sesamo -aceite -pan -galleta -barrita -tostada -pico",
+    "query": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza",
     "candidatos": [
-      {
-        "product_id": "24638",
-        "name": "Crackers Fibra y Sésamo Harina Integral Centeno 240 Gr",
-        "packaging": null,
-        "price": 1.18,
-        "ref_price": 4.92,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/crackers-fibra-y-sesamo-harina-integral-centeno/7357221"
-      },
-      {
-        "product_id": "39521",
-        "name": "Cracker Sésamo 250 Gr",
-        "packaging": null,
-        "price": 1.69,
-        "ref_price": 6.76,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/cracker-sesamo/7452345"
-      },
       {
         "product_id": "44269",
         "name": "Grissini Sesamo 2 Bolsitas 120 Gr",
@@ -1522,10 +1381,19 @@
         "ref_price": 14.75,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/crema-de-sesamo-tahini-tarro/7370930"
+      },
+      {
+        "product_id": "10696",
+        "name": "Ajonjolí Semillas de Sésamo 45 Gr",
+        "packaging": null,
+        "price": 2.75,
+        "ref_price": 61.1,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/ajonjoli-semillas-de-sesamo/7153943"
       }
     ],
-    "elegido": "24638",
-    "nuevo_pin": "24638"
+    "elegido": "44269",
+    "nuevo_pin": "44269"
   },
   "alubia-roja": {
     "modo": "busqueda",
@@ -2080,26 +1948,8 @@
   },
   "platano": {
     "modo": "busqueda",
-    "query": "platano -chips -batido -zumo -macho -yogur",
+    "query": "platano -chips -batido -zumo -macho -yogur -casei -bebida",
     "candidatos": [
-      {
-        "product_id": "12028",
-        "name": "L Casei Fresa-Plátano y Galleta Pack 12 ud. 12 x 100 Gr",
-        "packaging": null,
-        "price": 2.25,
-        "ref_price": 1.88,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/l-casei-fresa-platano-y-galleta-pack-12-ud/7199839"
-      },
-      {
-        "product_id": "27775",
-        "name": "Maxi Petit Fresa, Plátano y Fresa-Plátano 6 x 100 Gr",
-        "packaging": null,
-        "price": 1.59,
-        "ref_price": 2.65,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/maxi-petit-fresa-platano-y-fresa-platano/7376978"
-      },
       {
         "product_id": "12784",
         "name": "Plátano de Freír",
@@ -2119,17 +1969,35 @@
         "url": "https://tienda.consum.es/es/p/platano-canario-igp/26104"
       },
       {
-        "product_id": "11927",
-        "name": "Actimel Kids 6+2 gratis Sabor Fresa-Plátano 8 x 100 Gr",
+        "product_id": "14494",
+        "name": "Plátano Canario IGP Bandeja",
         "packaging": null,
-        "price": 3.29,
-        "ref_price": 4.11,
+        "price": 3.9,
+        "ref_price": 4.49,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/actimel-kids-62-gratis-sabor-fresa-platano/7087463"
+        "url": "https://tienda.consum.es/es/p/platano-canario-igp-bandeja/7271542"
+      },
+      {
+        "product_id": "8268",
+        "name": "Yogolino de Plátano Pack de 4 4 x 100 Gr",
+        "packaging": null,
+        "price": 2.49,
+        "ref_price": 6.23,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/yogolino-de-platano-pack-de-4/4507471"
+      },
+      {
+        "product_id": "47101",
+        "name": "Mango, Plátano, Avena +6 Meses 110 Gr",
+        "packaging": null,
+        "price": 1.0,
+        "ref_price": 9.09,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/mango-platano-avena-6-meses/7486553"
       }
     ],
-    "elegido": "12028",
-    "nuevo_pin": "12028"
+    "elegido": "12784",
+    "nuevo_pin": "12784"
   },
   "guacamole": {
     "modo": "busqueda",
@@ -2186,26 +2054,8 @@
   },
   "mantequilla": {
     "modo": "busqueda",
-    "query": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho",
+    "query": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera",
     "candidatos": [
-      {
-        "product_id": "33112",
-        "name": "Pan Brioche con Mantequilla 450 Gr",
-        "packaging": null,
-        "price": 2.79,
-        "ref_price": 6.2,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pan-brioche-con-mantequilla/7430668"
-      },
-      {
-        "product_id": "24166",
-        "name": "P. Hamburguesa Brioche con Mantequilla 4 Und. 300 Gr",
-        "packaging": null,
-        "price": 1.89,
-        "ref_price": 6.3,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/p-hamburguesa-brioche-con-mantequilla-4-und/7356173"
-      },
       {
         "product_id": "6163",
         "name": "Mantequilla Pastilla 250 Gr",
@@ -2216,30 +2066,48 @@
         "url": "https://tienda.consum.es/es/p/mantequilla-pastilla/7104599"
       },
       {
-        "product_id": "44250",
-        "name": "Medias Noches Con Mantequilla 150 Gr",
+        "product_id": "35573",
+        "name": "Mantecado De Mantequilla 190 Gr",
         "packaging": null,
-        "price": 1.29,
-        "ref_price": 8.6,
+        "price": 2.2,
+        "ref_price": 11.58,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/medias-noches-con-mantequilla/7464696"
+        "url": "https://tienda.consum.es/es/p/mantecado-de-mantequilla/7447399"
       },
       {
-        "product_id": "19223",
-        "name": "Fácil de Untar con Mantequilla 250 Gr",
+        "product_id": "20681",
+        "name": "Salted Butter Mantequilla con Sal  GI12 200 Gr",
         "packaging": null,
-        "price": 2.15,
-        "ref_price": 8.6,
+        "price": 2.99,
+        "ref_price": 14.95,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/facil-de-untar-con-mantequilla/7310089"
+        "url": "https://tienda.consum.es/es/p/salted-butter-mantequilla-con-sal-gi12/7328557"
+      },
+      {
+        "product_id": "7975",
+        "name": "Mantequilla Tradicional Tarrina 250 Gr",
+        "packaging": null,
+        "price": 3.89,
+        "ref_price": 15.56,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/mantequilla-tradicional-tarrina/7242618"
+      },
+      {
+        "product_id": "5880",
+        "name": "Mantequilla en Porciones 12 Unidades 96 Gr",
+        "packaging": null,
+        "price": 1.85,
+        "ref_price": 19.27,
+        "ref_unit": "kg",
+        "url": "https://tienda.consum.es/es/p/mantequilla-en-porciones-12-unidades/7073653"
       }
     ],
-    "elegido": "33112",
-    "nuevo_pin": "33112"
+    "elegido": "6163",
+    "nuevo_pin": "6163"
   },
   "zumo-lima": {
     "modo": "busqueda",
-    "query": "zumo lima",
+    "query": "zumo lima -mango",
     "candidatos": [],
     "elegido": null,
     "nuevo_pin": null
@@ -2311,13 +2179,13 @@
         "url": "https://tienda.consum.es/es/p/mostaza-amarilla-bote/7290138"
       },
       {
-        "product_id": "44550",
-        "name": "Palomitas Kétchup y Mostaza 90 Gr",
+        "product_id": "10587",
+        "name": "Mostaza a L'Ancienne Frasco 210 Gr",
         "packaging": null,
-        "price": 1.19,
-        "ref_price": 13.23,
+        "price": 3.69,
+        "ref_price": 17.57,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/palomitas-ketchup-y-mostaza/7465396"
+        "url": "https://tienda.consum.es/es/p/mostaza-a-lancienne-frasco/446807"
       }
     ],
     "elegido": "18816",
@@ -2346,15 +2214,6 @@
         "url": "https://tienda.consum.es/es/p/salsa-barbacoa-classic-pet/7247427"
       },
       {
-        "product_id": "5491",
-        "name": "Pizza Carne con Salsa Barbacoa 410 Gr",
-        "packaging": null,
-        "price": 3.15,
-        "ref_price": 7.68,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pizza-carne-con-salsa-barbacoa/7027972"
-      },
-      {
         "product_id": "11041",
         "name": "Salsa Barbacoa Pet 285 Gr",
         "packaging": null,
@@ -2364,13 +2223,13 @@
         "url": "https://tienda.consum.es/es/p/salsa-barbacoa-pet/7266257"
       },
       {
-        "product_id": "9825",
-        "name": "Crunchy de Pollo con Salsa Barbacoa 300 Gr",
+        "product_id": "29240",
+        "name": "Salsa Barbacoa Bull's-Eye 335 Gr",
         "packaging": null,
-        "price": 2.85,
-        "ref_price": 9.5,
+        "price": 3.65,
+        "ref_price": 10.9,
         "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/crunchy-de-pollo-con-salsa-barbacoa/7260276"
+        "url": "https://tienda.consum.es/es/p/salsa-barbacoa-bulls-eye/7399566"
       }
     ],
     "elegido": "34982",
@@ -2431,35 +2290,8 @@
   },
   "bolsas-basura": {
     "modo": "busqueda",
-    "query": "bolsa basura",
+    "query": "bolsa basura -perfumada -bano -mini -5l -cubo",
     "candidatos": [
-      {
-        "product_id": "45309",
-        "name": "Bolsa Basura Autocierre Cubo Mini 5 Litros 40 U",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": 0.034,
-        "ref_unit": "ud",
-        "url": "https://tienda.consum.es/es/p/bolsa-basura-autocierre-cubo-mini-5-litros/7464142"
-      },
-      {
-        "product_id": "6654",
-        "name": "Bolsas Basura Autocierre Perfumada Blanca 10L 40 U",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": 0.035,
-        "ref_unit": "ud",
-        "url": "https://tienda.consum.es/es/p/bolsas-basura-autocierre-perfumada-blanca-10l/7164809"
-      },
-      {
-        "product_id": "6653",
-        "name": "Bolsa Basura Autocierre Gris Perfumada  30 Litros 40 U",
-        "packaging": null,
-        "price": 1.8,
-        "ref_price": 0.045,
-        "ref_unit": "ud",
-        "url": "https://tienda.consum.es/es/p/bolsa-basura-autocierre-gris-perfumada-30-litros/7164804"
-      },
       {
         "product_id": "14564",
         "name": "Bolsas Basura Envases 30 Litros 30 U",
@@ -2470,52 +2302,51 @@
         "url": "https://tienda.consum.es/es/p/bolsas-basura-envases-30-litros/7260131"
       },
       {
-        "product_id": "46072",
-        "name": "Bolsa Basura Autocierre Lila Perfumada 30 Litros 30 U",
+        "product_id": "45128",
+        "name": "Bolsa Basura Autocierre Blanca de 50 Litros 20 U",
+        "packaging": null,
+        "price": 2.25,
+        "ref_price": 0.113,
+        "ref_unit": "ud",
+        "url": "https://tienda.consum.es/es/p/bolsa-basura-autocierre-blanca-de-50-litros/7461411"
+      },
+      {
+        "product_id": "45633",
+        "name": "Bolsa Basura Comp.Residuo Orgánico 20 U",
         "packaging": null,
         "price": 2.3,
-        "ref_price": 0.077,
+        "ref_price": 0.115,
         "ref_unit": "ud",
-        "url": "https://tienda.consum.es/es/p/bolsa-basura-autocierre-lila-perfumada-30-litros/7471704"
+        "url": "https://tienda.consum.es/es/p/bolsa-basura-compresiduo-organico/7468726"
+      },
+      {
+        "product_id": "45146",
+        "name": "Bolsa Basura Autocierre 4 Asas 100 Litros 15 U",
+        "packaging": null,
+        "price": 2.2,
+        "ref_price": 0.147,
+        "ref_unit": "ud",
+        "url": "https://tienda.consum.es/es/p/bolsa-basura-autocierre-4-asas-100-litros/7471506"
+      },
+      {
+        "product_id": "43935",
+        "name": "Bolsa Basura Resistente Antigoteo 12 U",
+        "packaging": null,
+        "price": 2.25,
+        "ref_price": 0.188,
+        "ref_unit": "ud",
+        "url": "https://tienda.consum.es/es/p/bolsa-basura-resistente-antigoteo/7462161"
       }
     ],
-    "elegido": "45309",
-    "nuevo_pin": "45309"
+    "elegido": "14564",
+    "nuevo_pin": "14564"
   },
   "bolsas-reutilizables": {
     "modo": "busqueda",
-    "query": "bolsa reutilizable",
-    "candidatos": [
-      {
-        "product_id": "7468",
-        "name": "Bolsas Reutilizables Multiusos Zip Pequeña 20 U",
-        "packaging": null,
-        "price": 1.3,
-        "ref_price": 0.065,
-        "ref_unit": "ud",
-        "url": "https://tienda.consum.es/es/p/bolsas-reutilizables-multiusos-zip-pequena/7216794"
-      },
-      {
-        "product_id": "10781",
-        "name": "Bolsas Reutilizables Multiusos Zip Mediana 15 U",
-        "packaging": null,
-        "price": 1.25,
-        "ref_price": 0.083,
-        "ref_unit": "ud",
-        "url": "https://tienda.consum.es/es/p/bolsas-reutilizables-multiusos-zip-mediana/7202513"
-      },
-      {
-        "product_id": "20792",
-        "name": "Bolsas Reutilizables Multiusos Zipper M 15 U",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": 0.093,
-        "ref_unit": "ud",
-        "url": "https://tienda.consum.es/es/p/bolsas-reutilizables-multiusos-zipper-m/7310659"
-      }
-    ],
-    "elegido": "7468",
-    "nuevo_pin": "7468"
+    "query": "bolsa reutilizable -congelacion -zip -multiusos",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "bolsas-cierre": {
     "modo": "busqueda",
@@ -2684,7 +2515,7 @@
   },
   "papel-cocina": {
     "modo": "busqueda",
-    "query": "papel cocina -aluminio -horno -vegetal",
+    "query": "papel cocina -aluminio -horno -vegetal -gigante",
     "candidatos": [
       {
         "product_id": "6809",

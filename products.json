@@ -587,7 +587,8 @@
       "pinned": {
         "mercadona": "52096",
         "aldi": "charcuteria/bacon-y-salchichas/800800",
-        "consum": "30171"
+        "consum": "30171",
+        "dia": "273442"
       }
     },
     {
@@ -602,6 +603,7 @@
         "consum": "clavo -tomillo"
       },
       "pinned": {
+        "dia": "178105",
         "mercadona": "34122",
         "consum": "10591"
       }
@@ -618,6 +620,7 @@
         "consum": "canela rama"
       },
       "pinned": {
+        "dia": "299125",
         "mercadona": "52880",
         "aldi": "despensa/especias-y-condimentos/601612800",
         "consum": "39333"
@@ -635,6 +638,7 @@
         "consum": "comino"
       },
       "pinned": {
+        "dia": "299132",
         "mercadona": "34120",
         "aldi": "despensa/especias-y-condimentos/897000",
         "consum": "35872"
@@ -645,16 +649,17 @@
       "name": "Pimienta negra",
       "unit": "kg",
       "queries": {
-        "mercadona": "pimienta negra -blanca -mezcla",
+        "mercadona": "pimienta negra -blanca -mezcla -mousse -pato -pate",
         "bonpreu": "pebre negre",
-        "aldi": "despensa/especias-y-condimentos: pimienta negra",
-        "dia": "pimienta negra -blanca -mezcla",
-        "consum": "pimienta negra -blanca -mezcla"
+        "aldi": "despensa/especias-y-condimentos: pimienta negra -mousse -pato -pate",
+        "dia": "pimienta negra -blanca -mezcla -mousse -pato -pate",
+        "consum": "pimienta negra -blanca -mezcla -mousse -pato -pate"
       },
       "pinned": {
+        "dia": "299147",
         "mercadona": "34171",
         "aldi": "despensa/especias-y-condimentos/870700",
-        "consum": "27756"
+        "consum": "35918"
       }
     },
     {
@@ -669,6 +674,7 @@
         "consum": "pimenton picante"
       },
       "pinned": {
+        "dia": "297209",
         "mercadona": "34183",
         "aldi": "despensa/especias-y-condimentos/601613400",
         "consum": "39334"
@@ -686,6 +692,7 @@
         "consum": "cilantro -fresco"
       },
       "pinned": {
+        "dia": "233088",
         "mercadona": "69690",
         "consum": "5398"
       }
@@ -702,9 +709,10 @@
         "consum": "oregano"
       },
       "pinned": {
-        "mercadona": "21584",
+        "dia": "1293",
+        "mercadona": "5598",
         "aldi": "despensa/especias-y-condimentos/600719200",
-        "consum": "27475"
+        "consum": "21343"
       }
     },
     {
@@ -719,6 +727,7 @@
         "consum": "ajo polvo"
       },
       "pinned": {
+        "dia": "299121",
         "mercadona": "86656",
         "aldi": "despensa/especias-y-condimentos/118800"
       }
@@ -728,15 +737,16 @@
       "name": "Romero",
       "unit": "kg",
       "queries": {
-        "mercadona": "romero",
+        "mercadona": "romero -focaccia -crackers -pan -miel",
         "bonpreu": "romani",
-        "aldi": "despensa/especias-y-condimentos: romero",
-        "dia": "romero",
-        "consum": "romero"
+        "aldi": "despensa/especias-y-condimentos: romero -focaccia -crackers -pan -miel",
+        "dia": "romero -focaccia -crackers -pan -miel",
+        "consum": "romero -focaccia -crackers -pan -miel"
       },
       "pinned": {
-        "mercadona": "82651",
-        "consum": "44628"
+        "dia": "305818",
+        "mercadona": "14981",
+        "consum": "29453"
       }
     },
     {
@@ -751,6 +761,7 @@
         "consum": "miel flores"
       },
       "pinned": {
+        "dia": "297",
         "mercadona": "15436",
         "aldi": "desayuno/miel-y-sirope/600985400",
         "consum": "33522"
@@ -783,6 +794,7 @@
         "consum": "salsa soja"
       },
       "pinned": {
+        "dia": "287019",
         "mercadona": "17360",
         "aldi": "despensa/tomates-y-salsas/481500",
         "consum": "45744"
@@ -793,15 +805,16 @@
       "name": "Ajo entero",
       "unit": "kg",
       "queries": {
-        "mercadona": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa",
+        "mercadona": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado",
         "bonpreu": "all -pols -negre -julivert -salsa -oli",
-        "aldi": "fruta-y-verdura/verduras-y-hortalizas: ajo",
-        "dia": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa",
-        "consum": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa"
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: ajo -troceado",
+        "dia": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado",
+        "consum": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado"
       },
       "pinned": {
-        "mercadona": "16008",
-        "consum": "17952"
+        "dia": "15437",
+        "mercadona": "17995",
+        "consum": "7236"
       }
     },
     {
@@ -809,14 +822,14 @@
       "name": "Espaguetis (fideo largo)",
       "unit": "kg",
       "queries": {
-        "mercadona": "espagueti -integral -sin",
+        "mercadona": "espagueti -integral -sin -soja -ecologico",
         "bonpreu": "espaguetis -integrals",
-        "aldi": "despensa/pasta: espagueti -integral",
-        "dia": "espagueti -integral -sin",
-        "consum": "spaghetti -integral"
+        "aldi": "despensa/pasta: espagueti -integral -soja -ecologico",
+        "dia": "espagueti -integral -sin -soja -ecologico",
+        "consum": "spaghetti -integral -soja -ecologico"
       },
       "pinned": {
-        "aldi": "despensa/pasta/713303",
+        "dia": "52208",
         "consum": "8529"
       }
     },
@@ -832,6 +845,7 @@
         "consum": "fideo -integral -oriental -arroz -sopa"
       },
       "pinned": {
+        "dia": "515",
         "mercadona": "13577",
         "aldi": "despensa/pasta/601230300",
         "consum": "5752"
@@ -849,6 +863,7 @@
         "consum": "copos avena -chocolate -galleta"
       },
       "pinned": {
+        "dia": "105429",
         "mercadona": "86341",
         "aldi": "desayuno/cereales/601491500",
         "consum": "33872"
@@ -866,6 +881,7 @@
         "consum": "lenteja -cocida -guisada -tarro -crema"
       },
       "pinned": {
+        "dia": "158",
         "mercadona": "5330",
         "aldi": "despensa/legumbres-y-cereales/500200",
         "consum": "31696"
@@ -883,6 +899,7 @@
         "consum": "manzanilla -aceituna -oliva -vino -champu -anchoa -relleno -gel"
       },
       "pinned": {
+        "dia": "1527",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones/420000",
         "consum": "25419"
       }
@@ -912,6 +929,7 @@
         "consum": "poleo menta"
       },
       "pinned": {
+        "dia": "295421",
         "consum": "25420"
       }
     },
@@ -927,6 +945,7 @@
         "consum": "tila -tilapia"
       },
       "pinned": {
+        "dia": "295467",
         "consum": "25243"
       }
     },
@@ -942,6 +961,7 @@
         "consum": "te verde -matcha -bebida"
       },
       "pinned": {
+        "dia": "295425",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones/421903",
         "consum": "25127"
       }
@@ -986,6 +1006,7 @@
         "consum": "maiz palomitas -microondas -caramelo"
       },
       "pinned": {
+        "dia": "4670",
         "mercadona": "14347",
         "consum": "5725"
       }
@@ -995,15 +1016,16 @@
       "name": "Semillas de chía",
       "unit": "kg",
       "queries": {
-        "mercadona": "chia -pan -yogur -bebida -galleta",
+        "mercadona": "chia -pan -yogur -bebida -galleta -arroz -muesli",
         "bonpreu": "chia -pa -iogurt -beguda",
-        "aldi": "aperitivos/frutos-secos-y-semillas: chia",
-        "dia": "chia -pan -yogur -bebida -galleta",
-        "consum": "chia -pan -yogur -bebida -galleta"
+        "aldi": "aperitivos/frutos-secos-y-semillas: chia -arroz -muesli",
+        "dia": "chia -pan -yogur -bebida -galleta -arroz -muesli",
+        "consum": "chia -pan -yogur -bebida -galleta -arroz -muesli"
       },
       "pinned": {
-        "mercadona": "9536",
-        "consum": "17560"
+        "dia": "284861",
+        "mercadona": "24561",
+        "consum": "35667"
       }
     },
     {
@@ -1011,15 +1033,16 @@
       "name": "Semillas de sésamo",
       "unit": "kg",
       "queries": {
-        "mercadona": "sesamo -aceite -pan -galleta -barrita -tostada -pico",
+        "mercadona": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza",
         "bonpreu": "sesam -oli -pa -galeta",
-        "aldi": "aperitivos/frutos-secos-y-semillas: sesamo -aceite",
-        "dia": "sesamo -aceite -pan -galleta -barrita -tostada -pico",
-        "consum": "sesamo -aceite -pan -galleta -barrita -tostada -pico"
+        "aldi": "aperitivos/frutos-secos-y-semillas: sesamo -aceite -crackers -fibra -hogaza",
+        "dia": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza",
+        "consum": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza"
       },
       "pinned": {
-        "mercadona": "9369",
-        "consum": "24638"
+        "dia": "284859",
+        "mercadona": "34964",
+        "consum": "44269"
       }
     },
     {
@@ -1050,6 +1073,7 @@
         "consum": "alubia pinta -cocida"
       },
       "pinned": {
+        "dia": "156",
         "mercadona": "23453",
         "consum": "19522"
       }
@@ -1066,6 +1090,7 @@
         "consum": "alubia negra -cocida"
       },
       "pinned": {
+        "dia": "61318",
         "mercadona": "67608"
       }
     },
@@ -1081,6 +1106,7 @@
         "consum": "jamon iberico -paleta -croqueta -taco -bocadillo"
       },
       "pinned": {
+        "dia": "274057",
         "mercadona": "8566",
         "aldi": "charcuteria/embutidos-curados/600152500",
         "consum": "47293"
@@ -1098,6 +1124,7 @@
         "consum": "tomate frito -azucar -picante"
       },
       "pinned": {
+        "dia": "128657",
         "mercadona": "17132",
         "aldi": "despensa/tomates-y-salsas/506400",
         "consum": "15650"
@@ -1128,6 +1155,7 @@
         "consum": "tomate ensalada"
       },
       "pinned": {
+        "dia": "110",
         "mercadona": "69937",
         "consum": "4703"
       }
@@ -1144,6 +1172,7 @@
         "consum": "zanahoria -rallada -baby -zumo -bebida -tarta"
       },
       "pinned": {
+        "dia": "11421",
         "mercadona": "69586",
         "aldi": "fruta-y-verdura/verduras-y-hortalizas/981900",
         "consum": "5321"
@@ -1161,6 +1190,7 @@
         "consum": "lechuga iceberg"
       },
       "pinned": {
+        "dia": "272828",
         "mercadona": "69670",
         "consum": "4710"
       }
@@ -1177,6 +1207,7 @@
         "consum": "calabacin -crema -espiral -tortilla -pure"
       },
       "pinned": {
+        "dia": "93",
         "mercadona": "69338",
         "consum": "5355"
       }
@@ -1193,6 +1224,7 @@
         "consum": "uva -pasa -zumo -mosto -gominola"
       },
       "pinned": {
+        "dia": "193538",
         "mercadona": "3321",
         "consum": "14336"
       }
@@ -1209,7 +1241,8 @@
         "consum": "mandarina -zumo -gajos -yogur"
       },
       "pinned": {
-        "mercadona": "35683",
+        "dia": "11464",
+        "mercadona": "5503",
         "aldi": "fruta-y-verdura/fruta/991000",
         "consum": "33196"
       }
@@ -1226,6 +1259,7 @@
         "consum": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor"
       },
       "pinned": {
+        "dia": "244559",
         "mercadona": "3897",
         "aldi": "fruta-y-verdura/fruta/215200",
         "consum": "6791"
@@ -1243,6 +1277,7 @@
         "consum": "pera -zumo -tomate -compota -cuajada -yogur"
       },
       "pinned": {
+        "dia": "159310",
         "mercadona": "14470",
         "aldi": "fruta-y-verdura/fruta/984700",
         "consum": "4683"
@@ -1260,6 +1295,7 @@
         "consum": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips"
       },
       "pinned": {
+        "dia": "171233",
         "mercadona": "8280",
         "aldi": "fruta-y-verdura/fruta/43000",
         "consum": "47145"
@@ -1270,15 +1306,16 @@
       "name": "Plátanos",
       "unit": "kg",
       "queries": {
-        "mercadona": "platano -chips -batido -zumo -macho -yogur",
+        "mercadona": "platano -chips -batido -zumo -macho -yogur -casei -bebida",
         "bonpreu": "platan -xips -batut -suc",
-        "aldi": "fruta-y-verdura/fruta: platano",
-        "dia": "platano -chips -batido -zumo -macho -yogur",
-        "consum": "platano -chips -batido -zumo -macho -yogur"
+        "aldi": "fruta-y-verdura/fruta: platano -casei -bebida",
+        "dia": "platano -chips -batido -zumo -macho -yogur -casei -bebida",
+        "consum": "platano -chips -batido -zumo -macho -yogur -casei -bebida"
       },
       "pinned": {
-        "mercadona": "20613",
-        "consum": "12028"
+        "dia": "11468",
+        "mercadona": "3819",
+        "consum": "12784"
       }
     },
     {
@@ -1293,6 +1330,7 @@
         "consum": "guacamole -nachos"
       },
       "pinned": {
+        "dia": "289183",
         "mercadona": "3840",
         "aldi": "platos-preparados-y-pizza/salsas-dips-y-untables/298802",
         "consum": "24230"
@@ -1303,16 +1341,17 @@
       "name": "Mantequilla",
       "unit": "kg",
       "queries": {
-        "mercadona": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho",
+        "mercadona": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera",
         "bonpreu": "mantega -cacauet -galeta",
-        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla",
-        "dia": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho",
-        "consum": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho"
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla -pan -brioche -ligera",
+        "dia": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera",
+        "consum": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera"
       },
       "pinned": {
-        "mercadona": "63474",
-        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/731700",
-        "consum": "33112"
+        "dia": "268201",
+        "mercadona": "18145",
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/733100",
+        "consum": "6163"
       }
     },
     {
@@ -1320,14 +1359,13 @@
       "name": "Zumo de lima",
       "unit": "L",
       "queries": {
-        "mercadona": "zumo lima",
+        "mercadona": "zumo lima -mango",
         "bonpreu": "suc llima",
-        "aldi": "despensa/aceites-y-vinagres: zumo lima",
-        "dia": "zumo lima",
-        "consum": "zumo lima"
+        "aldi": "despensa/aceites-y-vinagres: zumo lima -mango",
+        "dia": "zumo lima -mango",
+        "consum": "zumo lima -mango"
       },
       "pinned": {
-        "mercadona": "21889",
         "aldi": "despensa/aceites-y-vinagres/601494604"
       }
     },
@@ -1351,13 +1389,13 @@
       "queries": {
         "mercadona": "mostaza -dijon -miel -antigua",
         "bonpreu": "mostassa -dijon -mel -antiga",
-        "aldi": "despensa/tomates-y-salsas: mostaza -dijon",
+        "aldi": "despensa/tomates-y-salsas: mostaza -dijon -antigua",
         "dia": "mostaza -dijon -miel -antigua",
         "consum": "mostaza -dijon -miel -antigua"
       },
       "pinned": {
+        "dia": "56586",
         "mercadona": "23410",
-        "aldi": "despensa/tomates-y-salsas/256302",
         "consum": "18816"
       }
     },
@@ -1373,6 +1411,7 @@
         "consum": "salsa barbacoa"
       },
       "pinned": {
+        "dia": "79155",
         "mercadona": "17346",
         "consum": "34982"
       }
@@ -1389,6 +1428,7 @@
         "consum": "lavavajillas mano -maquina -pastilla -capsula"
       },
       "pinned": {
+        "dia": "298236",
         "mercadona": "42441",
         "aldi": "limpieza-y-hogar/lavavajillas/601226000",
         "consum": "33328"
@@ -1399,16 +1439,17 @@
       "name": "Bolsas de basura",
       "unit": "ud",
       "queries": {
-        "mercadona": "bolsa basura",
+        "mercadona": "bolsa basura -perfumada -bano -mini -5l -cubo",
         "bonpreu": "bossa escombraries",
-        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas basura",
-        "dia": "bolsa basura",
-        "consum": "bolsa basura"
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas basura -perfumada -bano -mini -5l -cubo",
+        "dia": "bolsa basura -perfumada -bano -mini -5l -cubo",
+        "consum": "bolsa basura -perfumada -bano -mini -5l -cubo"
       },
       "pinned": {
-        "mercadona": "22985",
-        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601307200",
-        "consum": "45309"
+        "dia": "269323",
+        "mercadona": "14466",
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601731100",
+        "consum": "14564"
       }
     },
     {
@@ -1416,16 +1457,13 @@
       "name": "Bolsas reutilizables",
       "unit": "ud",
       "queries": {
-        "mercadona": "bolsa reutilizable",
+        "mercadona": "bolsa reutilizable -congelacion -zip -multiusos",
         "bonpreu": "bossa reutilitzable",
-        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsa reutilizable",
-        "dia": "bolsa reutilizable",
-        "consum": "bolsa reutilizable"
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsa reutilizable -congelacion -zip -multiusos",
+        "dia": "bolsa reutilizable -congelacion -zip -multiusos",
+        "consum": "bolsa reutilizable -congelacion -zip -multiusos"
       },
-      "pinned": {
-        "mercadona": "49224",
-        "consum": "7468"
-      }
+      "pinned": {}
     },
     {
       "id": "bolsas-cierre",
@@ -1452,6 +1490,7 @@
         "consum": "film transparente"
       },
       "pinned": {
+        "dia": "310020",
         "mercadona": "60294",
         "consum": "23552"
       }
@@ -1468,6 +1507,7 @@
         "consum": "papel aluminio -bandeja -recipiente"
       },
       "pinned": {
+        "dia": "269324",
         "mercadona": "49000",
         "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601307700"
       }
@@ -1484,6 +1524,7 @@
         "consum": "bayeta -microfibra -rollo"
       },
       "pinned": {
+        "dia": "288573",
         "mercadona": "71044",
         "aldi": "limpieza-y-hogar/utensilios-de-limpieza/601307300",
         "consum": "7224"
@@ -1509,14 +1550,14 @@
       "name": "Papel de cocina",
       "unit": "ud",
       "queries": {
-        "mercadona": "papel cocina -aluminio -horno -vegetal",
+        "mercadona": "papel cocina -aluminio -horno -vegetal -gigante",
         "bonpreu": "paper cuina -alumini -forn",
-        "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: papel cocina",
-        "dia": "papel cocina -aluminio -horno -vegetal",
-        "consum": "papel cocina -aluminio -horno -vegetal"
+        "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: papel cocina -gigante",
+        "dia": "papel cocina -aluminio -horno -vegetal -gigante",
+        "consum": "papel cocina -aluminio -horno -vegetal -gigante"
       },
       "pinned": {
-        "mercadona": "49176",
+        "dia": "292546",
         "consum": "6809"
       }
     },
@@ -1532,6 +1573,7 @@
         "consum": "papel higienico -humedo"
       },
       "pinned": {
+        "dia": "276676",
         "mercadona": "47835"
       }
     }

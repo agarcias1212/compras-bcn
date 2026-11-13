@@ -477,8 +477,7 @@
     ]
   },
   "patatas": {
-    "modo": "busqueda",
-    "query": "fruta-y-verdura/verduras-y-hortalizas: patatas",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "990900",
@@ -489,9 +488,7 @@
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/patata-especial-para-freir-990900.html"
       }
-    ],
-    "elegido": "990900",
-    "nuevo_pin": "fruta-y-verdura/verduras-y-hortalizas/990900"
+    ]
   },
   "detergente-marsella": {
     "modo": "fijado",
@@ -522,8 +519,7 @@
     ]
   },
   "salchichas-frankfurt": {
-    "modo": "busqueda",
-    "query": "charcuteria/bacon-y-salchichas: salchichas",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "800800",
@@ -533,46 +529,8 @@
         "ref_price": 2.54,
         "ref_unit": "kg",
         "url": "https://www.aldi.es/producto/salchichas-frankfurt-800800.html"
-      },
-      {
-        "product_id": "601467800",
-        "name": "Salchichas bocadillo oscar mayer",
-        "packaging": "275 g unidad",
-        "price": 1.85,
-        "ref_price": 6.73,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/salchichas-bocadillo-oscar-mayer-601467800.html"
-      },
-      {
-        "product_id": "415500",
-        "name": "Salchichas cocidas Bratwurst",
-        "packaging": "540 g unidad",
-        "price": 3.99,
-        "ref_price": 7.39,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/salchichas-cocidas-bratwurst-415500.html"
-      },
-      {
-        "product_id": "601079100",
-        "name": "Salchichas cocidas  bockwurst",
-        "packaging": "810 g unidad",
-        "price": 6.39,
-        "ref_price": 7.89,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/salchichas-cocidas-bockwurst-601079100.html"
-      },
-      {
-        "product_id": "600601600",
-        "name": "Salchichas de cerdo ahumadas",
-        "packaging": "200 g unidad",
-        "price": 1.99,
-        "ref_price": 9.95,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/salchichas-de-cerdo-ahumadas-600601600.html"
       }
-    ],
-    "elegido": "800800",
-    "nuevo_pin": "charcuteria/bacon-y-salchichas/800800"
+    ]
   },
   "clavo": {
     "modo": "busqueda",
@@ -617,7 +575,7 @@
   },
   "pimienta-negra": {
     "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: pimienta negra",
+    "query": "despensa/especias-y-condimentos: pimienta negra -mousse -pato -pate",
     "candidatos": [
       {
         "product_id": "870700",
@@ -710,7 +668,7 @@
   },
   "romero": {
     "modo": "busqueda",
-    "query": "despensa/especias-y-condimentos: romero",
+    "query": "despensa/especias-y-condimentos: romero -focaccia -crackers -pan -miel",
     "candidatos": [],
     "elegido": null,
     "nuevo_pin": null
@@ -813,7 +771,7 @@
   },
   "ajo": {
     "modo": "busqueda",
-    "query": "fruta-y-verdura/verduras-y-hortalizas: ajo",
+    "query": "fruta-y-verdura/verduras-y-hortalizas: ajo -troceado",
     "candidatos": [
       {
         "product_id": "985300",
@@ -857,38 +815,10 @@
   },
   "espaguetis": {
     "modo": "busqueda",
-    "query": "despensa/pasta: espagueti -integral",
-    "candidatos": [
-      {
-        "product_id": "713303",
-        "name": "Espaguetis de soja ecológicos",
-        "packaging": "200 g unidad",
-        "price": 2.99,
-        "ref_price": 14.95,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/espaguetis-de-soja-ecologicos-713303.html"
-      },
-      {
-        "product_id": "713302",
-        "name": "Espaguetis de edamame ecológicos",
-        "packaging": "200 g unidad",
-        "price": 2.99,
-        "ref_price": 14.95,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/espaguetis-de-edamame-ecologicos-713302.html"
-      },
-      {
-        "product_id": "713301",
-        "name": "Espaguetis de soja negra ecológicos",
-        "packaging": "200 g unidad",
-        "price": 2.99,
-        "ref_price": 14.95,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/espaguetis-de-soja-negra-ecologicos-713301.html"
-      }
-    ],
-    "elegido": "713303",
-    "nuevo_pin": "despensa/pasta/713303"
+    "query": "despensa/pasta: espagueti -integral -soja -ecologico",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "fideos": {
     "modo": "busqueda",
@@ -1139,14 +1069,14 @@
   },
   "chia": {
     "modo": "busqueda",
-    "query": "aperitivos/frutos-secos-y-semillas: chia",
+    "query": "aperitivos/frutos-secos-y-semillas: chia -arroz -muesli",
     "candidatos": [],
     "elegido": null,
     "nuevo_pin": null
   },
   "sesamo": {
     "modo": "busqueda",
-    "query": "aperitivos/frutos-secos-y-semillas: sesamo -aceite",
+    "query": "aperitivos/frutos-secos-y-semillas: sesamo -aceite -crackers -fibra -hogaza",
     "candidatos": [],
     "elegido": null,
     "nuevo_pin": null
@@ -1624,7 +1554,7 @@
   },
   "platano": {
     "modo": "busqueda",
-    "query": "fruta-y-verdura/fruta: platano",
+    "query": "fruta-y-verdura/fruta: platano -casei -bebida",
     "candidatos": [
       {
         "product_id": "989800",
@@ -1667,17 +1597,8 @@
   },
   "mantequilla": {
     "modo": "busqueda",
-    "query": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla",
+    "query": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla -pan -brioche -ligera",
     "candidatos": [
-      {
-        "product_id": "731700",
-        "name": "Mantequilla ligera",
-        "packaging": "250 g unidad",
-        "price": 2.09,
-        "ref_price": 8.36,
-        "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/mantequilla-ligera-731700.html"
-      },
       {
         "product_id": "733100",
         "name": "Mantequilla ecológica",
@@ -1688,12 +1609,12 @@
         "url": "https://www.aldi.es/producto/mantequilla-ecologica-733100.html"
       }
     ],
-    "elegido": "731700",
-    "nuevo_pin": "lacteos-y-huevos/mantequilla-margarina-y-nata/731700"
+    "elegido": "733100",
+    "nuevo_pin": "lacteos-y-huevos/mantequilla-margarina-y-nata/733100"
   },
   "zumo-lima": {
     "modo": "busqueda",
-    "query": "despensa/aceites-y-vinagres: zumo lima",
+    "query": "despensa/aceites-y-vinagres: zumo lima -mango",
     "candidatos": [
       {
         "product_id": "601494604",
@@ -1754,20 +1675,20 @@
   },
   "mostaza": {
     "modo": "busqueda",
-    "query": "despensa/tomates-y-salsas: mostaza -dijon",
+    "query": "despensa/tomates-y-salsas: mostaza -dijon -antigua",
     "candidatos": [
       {
-        "product_id": "256302",
-        "name": "Mostaza a la antigua",
-        "packaging": "190 g unidad",
-        "price": 1.09,
-        "ref_price": 5.74,
+        "product_id": "435802",
+        "name": "Salsa de mostaza y miel",
+        "packaging": "250 ml unidad",
+        "price": 1.99,
+        "ref_price": null,
         "ref_unit": "kg",
-        "url": "https://www.aldi.es/producto/mostaza-a-la-antigua-256302.html"
+        "url": "https://www.aldi.es/producto/salsa-de-mostaza-y-miel-435802.html"
       }
     ],
-    "elegido": "256302",
-    "nuevo_pin": "despensa/tomates-y-salsas/256302"
+    "elegido": null,
+    "nuevo_pin": null
   },
   "salsa-barbacoa": {
     "modo": "busqueda",
@@ -1813,44 +1734,8 @@
   },
   "bolsas-basura": {
     "modo": "busqueda",
-    "query": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas basura",
+    "query": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas basura -perfumada -bano -mini -5l -cubo",
     "candidatos": [
-      {
-        "product_id": "601307200",
-        "name": "Bolsa de basura para baño",
-        "packaging": "pack de 75 unidades",
-        "price": 1.35,
-        "ref_price": 0.018,
-        "ref_unit": "ud",
-        "url": "https://www.aldi.es/producto/bolsa-de-basura-para-bano-601307200.html"
-      },
-      {
-        "product_id": "601618802",
-        "name": "Bolsa basura perfumada 35 l Frescura nórdica",
-        "packaging": "pack de 30 unidades",
-        "price": 1.49,
-        "ref_price": 0.05,
-        "ref_unit": "ud",
-        "url": "https://www.aldi.es/producto/bolsa-basura-perfumada-35-l-frescura-nordica-601618802.html"
-      },
-      {
-        "product_id": "601618801",
-        "name": "Bolsa basura perfumada 35 l limón",
-        "packaging": "pack de 30 unidades",
-        "price": 1.49,
-        "ref_price": 0.05,
-        "ref_unit": "ud",
-        "url": "https://www.aldi.es/producto/bolsa-basura-perfumada-35-l-limon-601618801.html"
-      },
-      {
-        "product_id": "302900",
-        "name": "Bolsas de basura perfumadas",
-        "packaging": "pack de 20 unidades",
-        "price": 1.45,
-        "ref_price": 0.072,
-        "ref_unit": "ud",
-        "url": "https://www.aldi.es/producto/bolsas-de-basura-perfumadas-302900.html"
-      },
       {
         "product_id": "601731100",
         "name": "Bolsa de basura grande 50 l",
@@ -1859,14 +1744,23 @@
         "ref_price": 0.107,
         "ref_unit": "ud",
         "url": "https://www.aldi.es/producto/bolsa-de-basura-grande-50-l-601731100.html"
+      },
+      {
+        "product_id": "601307500",
+        "name": "Bolsa de basura",
+        "packaging": "pack de 10 unidades",
+        "price": 1.39,
+        "ref_price": 0.139,
+        "ref_unit": "ud",
+        "url": "https://www.aldi.es/producto/bolsa-de-basura-601307500.html"
       }
     ],
-    "elegido": "601307200",
-    "nuevo_pin": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601307200"
+    "elegido": "601731100",
+    "nuevo_pin": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601731100"
   },
   "bolsas-reutilizables": {
     "modo": "busqueda",
-    "query": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsa reutilizable",
+    "query": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsa reutilizable -congelacion -zip -multiusos",
     "candidatos": [
       {
         "product_id": "601731100",
@@ -2066,7 +1960,7 @@
   },
   "papel-cocina": {
     "modo": "busqueda",
-    "query": "limpieza-y-hogar/papel-higienico-y-celulosa: papel cocina",
+    "query": "limpieza-y-hogar/papel-higienico-y-celulosa: papel cocina -gigante",
     "candidatos": [
       {
         "product_id": "601537900",
