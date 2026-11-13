@@ -11,7 +11,8 @@ set -u
 CARPETA="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$CARPETA" || exit 1
 ESPERA_MIN=${1:-20}; ESPERA_MAX=120;
-export BONPREU_MAX=${2:-3} ESPERA=$ESPERA_MIN
+export BONPREU_MAX=${2:-3}
+ESPERA=$ESPERA_MIN
 MAX_CICLOS=120
 
 estado() {  # imprime: productos_con_precio total consultados_en_este_ciclo

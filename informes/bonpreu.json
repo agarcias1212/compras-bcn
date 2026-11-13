@@ -48,8 +48,21 @@
     "candidatos": []
   },
   "nuez-moscada": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "nou moscada molta",
+    "candidatos": [
+      {
+        "product_id": "18975",
+        "name": "BONPREU Nou moscada molta",
+        "packaging": null,
+        "price": 1.26,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18975"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "margarina": {
     "modo": "omitido",
@@ -76,53 +89,31 @@
     "candidatos": []
   },
   "kefir": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "67546",
-        "name": "UBACH Quefir natural Km0",
-        "packaging": "0.5kg",
-        "price": 1.1,
-        "ref_price": 2.2,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/67546",
-        "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/f98784ce-4a34-4766-9c04-7fc1453990b4/150x150.webp"
-      }
-    ]
-  },
-  "arroz-vaporizado": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "14393",
-        "name": "BONPREU Arròs llarg vaporitzat",
-        "packaging": "1kg",
-        "price": 1.55,
-        "ref_price": 1.55,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14393",
-        "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/fa9c7a80-51a4-49ef-976c-874d4f0e59dc/150x150.webp"
-      }
-    ]
-  },
-  "alubias-blancas": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "75912",
-        "name": "BONPREU Mongetes blanques",
-        "packaging": "1kg",
-        "price": 2.45,
-        "ref_price": 2.45,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75912",
-        "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/cdacd45c-cc95-4bb4-aee8-98ba3cd85680/150x150.webp"
-      }
-    ]
-  },
-  "yogur-liquido-0": {
     "modo": "omitido",
     "candidatos": []
+  },
+  "arroz-vaporizado": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "alubias-blancas": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "yogur-liquido-0": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "87173",
+        "name": "BONPREU Iogurt líquid desnatat amb maduixa 0%",
+        "packaging": "1kg",
+        "price": 1.4,
+        "ref_price": 1.4,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87173",
+        "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/47995037-e131-42ae-9be9-6efc572d64c4/150x150.webp"
+      }
+    ]
   },
   "mostaza-dijon": {
     "modo": "omitido",
