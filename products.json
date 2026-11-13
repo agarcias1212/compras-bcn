@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "nota": "Lista maestra, se edita a mano en la Mac. 'unit': kg, L, docena, ud (por unidad) o lavado. 'queries': palabras que deben aparecer en el nombre (una palabra con '-' delante se excluye). En Aldi va 'subcategoria: palabras' (la subcategoría es la ruta de aldi.es/productos/...). 'pinned': ID fijado por cadena; el script lo rellena solo (en Aldi, 'subcategoria/ID').",
+  "nota": "Lista maestra, se edita a mano en la Mac. 'unit': kg, L, docena, ud (por unidad: bolsita, rollo, bolsa...), lavado o m (metro). 'queries': palabras que deben aparecer en el nombre (una palabra con '-' delante se excluye). En Aldi va 'subcategoria: palabras' (la subcategoría es la ruta de aldi.es/productos/...). 'pinned': ID fijado por cadena; el script lo rellena solo (en Aldi, 'subcategoria/ID').",
   "products": [
     {
       "id": "leche-entera",
@@ -359,21 +359,19 @@
     },
     {
       "id": "kefir",
-      "name": "Kéfir natural",
+      "name": "Kéfir (envases individuales)",
       "unit": "kg",
       "queries": {
-        "mercadona": "kefir natural",
+        "mercadona": "bebida kefir",
         "bonpreu": "quefir natural",
         "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: kefir natural",
         "dia": "kefir natural",
-        "consum": "kefir natural"
+        "consum": "kefir natural 125"
       },
       "pinned": {
         "bonpreu": "67546",
-        "mercadona": "20029",
         "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos/882601",
-        "dia": "307309",
-        "consum": "35367"
+        "dia": "307309"
       }
     },
     {
@@ -416,7 +414,7 @@
     },
     {
       "id": "yogur-liquido-0",
-      "name": "Yogur líquido 0 %",
+      "name": "Yogur bebible",
       "unit": "kg",
       "queries": {
         "mercadona": "yogur liquido 0",
@@ -557,7 +555,7 @@
     },
     {
       "id": "cappuccino",
-      "name": "Café soluble cappuccino",
+      "name": "Cappuccino (soluble, también caramelo o chocolate)",
       "unit": "kg",
       "queries": {
         "mercadona": "cafe soluble cappuccino -caramelo",
@@ -574,21 +572,783 @@
     },
     {
       "id": "salchichas-frankfurt",
-      "name": "Salchichas Frankfurt",
+      "name": "Salchichas (las más baratas)",
       "unit": "kg",
       "queries": {
-        "mercadona": "salchichas frankfurt -queso -salteado",
-        "bonpreu": "salsitxes frankfurt",
-        "aldi": "charcuteria/bacon-y-salchichas: salchichas frankfurt",
-        "dia": "salchichas frankfurt -queso",
-        "consum": "salchichas frankfurt -queso"
+        "mercadona": "salchichas -queso -salteado",
+        "bonpreu": "salsitxes",
+        "aldi": "charcuteria/bacon-y-salchichas: salchichas",
+        "dia": "salchichas -queso",
+        "consum": "salchichas -queso"
       },
-      "pinned": {
-        "aldi": "charcuteria/bacon-y-salchichas/800800",
-        "mercadona": "53141",
-        "dia": "273442",
-        "consum": "30171"
-      }
+      "pinned": {}
+    },
+    {
+      "id": "clavo",
+      "name": "Clavo",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "clavo -tomillo",
+        "bonpreu": "clau olor",
+        "aldi": "despensa/especias-y-condimentos: clavo",
+        "dia": "clavo -tomillo",
+        "consum": "clavo -tomillo"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "canela-rama",
+      "name": "Canela en rama",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "canela rama",
+        "bonpreu": "canyella branca",
+        "aldi": "despensa/especias-y-condimentos: canela rama",
+        "dia": "canela rama",
+        "consum": "canela rama"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "comino",
+      "name": "Comino",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "comino",
+        "bonpreu": "comi",
+        "aldi": "despensa/especias-y-condimentos: comino",
+        "dia": "comino",
+        "consum": "comino"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "pimienta-negra",
+      "name": "Pimienta negra",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "pimienta negra -blanca -mezcla",
+        "bonpreu": "pebre negre",
+        "aldi": "despensa/especias-y-condimentos: pimienta negra",
+        "dia": "pimienta negra -blanca -mezcla",
+        "consum": "pimienta negra -blanca -mezcla"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "pimenton-picante",
+      "name": "Pimentón picante",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "pimenton picante",
+        "bonpreu": "pebre vermell picant",
+        "aldi": "despensa/especias-y-condimentos: pimenton picante",
+        "dia": "pimenton picante",
+        "consum": "pimenton picante"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "cilantro",
+      "name": "Cilantro (seco)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "cilantro -fresco",
+        "bonpreu": "coriandre",
+        "aldi": "despensa/especias-y-condimentos: cilantro",
+        "dia": "cilantro -fresco",
+        "consum": "cilantro -fresco"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "oregano",
+      "name": "Orégano",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "oregano",
+        "bonpreu": "orenga",
+        "aldi": "despensa/especias-y-condimentos: oregano",
+        "dia": "oregano",
+        "consum": "oregano"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "ajo-polvo",
+      "name": "Ajo en polvo",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "ajo granulado",
+        "bonpreu": "all pols",
+        "aldi": "despensa/especias-y-condimentos: ajo polvo",
+        "dia": "ajo polvo",
+        "consum": "ajo polvo"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "romero",
+      "name": "Romero",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "romero",
+        "bonpreu": "romani",
+        "aldi": "despensa/especias-y-condimentos: romero",
+        "dia": "romero",
+        "consum": "romero"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "miel-flores",
+      "name": "Miel de flores",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "miel flores",
+        "bonpreu": "mel flors",
+        "aldi": "desayuno/miel-y-sirope: miel flores",
+        "dia": "miel flores",
+        "consum": "miel flores"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "aceite-sesamo",
+      "name": "Aceite de sésamo",
+      "unit": "L",
+      "queries": {
+        "mercadona": "aceite sesamo",
+        "bonpreu": "oli sesam",
+        "aldi": "despensa/aceites-y-vinagres: aceite sesamo",
+        "dia": "aceite sesamo",
+        "consum": "aceite sesamo"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "salsa-soja",
+      "name": "Salsa de soja",
+      "unit": "L",
+      "queries": {
+        "mercadona": "salsa soja",
+        "bonpreu": "salsa soja",
+        "aldi": "despensa/tomates-y-salsas: salsa soja",
+        "dia": "salsa soja",
+        "consum": "salsa soja"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "ajo",
+      "name": "Ajo entero",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa",
+        "bonpreu": "all -pols -negre -julivert -salsa -oli",
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: ajo",
+        "dia": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa",
+        "consum": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "espaguetis",
+      "name": "Espaguetis (fideo largo)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "espagueti -integral -sin",
+        "bonpreu": "espaguetis -integrals",
+        "aldi": "despensa/pasta: espagueti -integral",
+        "dia": "espagueti -integral -sin",
+        "consum": "spaghetti -integral"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "fideos",
+      "name": "Fideos (fideo corto)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "fideo -integral -oriental -arroz -sopa",
+        "bonpreu": "fideus -integrals",
+        "aldi": "despensa/pasta: fideo",
+        "dia": "fideo -integral -oriental -arroz -sopa",
+        "consum": "fideo -integral -oriental -arroz -sopa"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "copos-avena",
+      "name": "Copos de avena",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "copos avena -chocolate -galleta",
+        "bonpreu": "flocs civada -xocolata",
+        "aldi": "desayuno/cereales: copos avena",
+        "dia": "copos avena -chocolate -galleta",
+        "consum": "copos avena -chocolate -galleta"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "lentejas",
+      "name": "Lentejas secas",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "lenteja -cocida -guisada -tarro -crema",
+        "bonpreu": "llenties -cuites",
+        "aldi": "despensa/legumbres-y-cereales: lentejas -cocidas",
+        "dia": "lenteja -cocida -guisada -tarro -crema",
+        "consum": "lenteja -cocida -guisada -tarro -crema"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "manzanilla",
+      "name": "Infusión de manzanilla",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "manzanilla -aceituna -oliva -vino -champu -anchoa -relleno -gel",
+        "bonpreu": "camamilla -xampu",
+        "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: manzanilla",
+        "dia": "manzanilla -aceituna -oliva -vino -champu -anchoa -relleno -gel",
+        "consum": "manzanilla -aceituna -oliva -vino -champu -anchoa -relleno -gel"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "infusion-manzana-canela",
+      "name": "Infusión de manzana y canela",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "infusion manzana canela",
+        "bonpreu": "infusio poma canyella",
+        "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: manzana canela",
+        "dia": "infusion manzana canela",
+        "consum": "infusion manzana canela"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "poleo-menta",
+      "name": "Infusión de poleo menta",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "poleo menta",
+        "bonpreu": "poliol menta",
+        "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: poleo",
+        "dia": "poleo menta",
+        "consum": "poleo menta"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "tila",
+      "name": "Infusión de tila",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "tila -tilapia",
+        "bonpreu": "til la",
+        "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: tila",
+        "dia": "tila -tilapia",
+        "consum": "tila -tilapia"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "te-verde",
+      "name": "Té verde",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "te verde -matcha -bebida",
+        "bonpreu": "te verd -beguda",
+        "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: te verde",
+        "dia": "te verde -matcha -bebida",
+        "consum": "te verde -matcha -bebida"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "rooibos",
+      "name": "Rooibos",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "rooibos",
+        "bonpreu": "rooibos",
+        "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: rooibos",
+        "dia": "rooibos",
+        "consum": "rooibos"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "infusion-frutos-rojos",
+      "name": "Infusión de frutos rojos",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "infusion frutos rojos",
+        "bonpreu": "infusio fruits vermells",
+        "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: frutos rojos",
+        "dia": "infusion frutos rojos",
+        "consum": "infusion frutos rojos"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "maiz-palomitas",
+      "name": "Maíz para palomitas",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "maiz palomitas -microondas -caramelo",
+        "bonpreu": "blat moro crispetes -microones",
+        "aldi": "aperitivos/patatas-fritas-y-snacks: maiz palomitas",
+        "dia": "maiz palomitas -microondas -caramelo",
+        "consum": "maiz palomitas -microondas -caramelo"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "chia",
+      "name": "Semillas de chía",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "chia -pan -yogur -bebida -galleta",
+        "bonpreu": "chia -pa -iogurt -beguda",
+        "aldi": "aperitivos/frutos-secos-y-semillas: chia",
+        "dia": "chia -pan -yogur -bebida -galleta",
+        "consum": "chia -pan -yogur -bebida -galleta"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "sesamo",
+      "name": "Semillas de sésamo",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "sesamo -aceite -pan -galleta -barrita -tostada -pico",
+        "bonpreu": "sesam -oli -pa -galeta",
+        "aldi": "aperitivos/frutos-secos-y-semillas: sesamo -aceite",
+        "dia": "sesamo -aceite -pan -galleta -barrita -tostada -pico",
+        "consum": "sesamo -aceite -pan -galleta -barrita -tostada -pico"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "alubia-roja",
+      "name": "Alubia roja (seca)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "alubia roja -cocida",
+        "bonpreu": "mongeta vermella -cuita",
+        "aldi": "despensa/legumbres-y-cereales: alubias rojas -cocidas",
+        "dia": "alubia roja -cocida",
+        "consum": "alubia roja -cocida"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "alubia-pinta",
+      "name": "Alubia pinta (seca)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "alubia pinta -cocida",
+        "bonpreu": "mongeta pinta -cuita",
+        "aldi": "despensa/legumbres-y-cereales: alubias pintas -cocidas",
+        "dia": "alubia pinta -cocida",
+        "consum": "alubia pinta -cocida"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "alubia-negra",
+      "name": "Alubia negra (seca)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "alubia negra -cocida",
+        "bonpreu": "mongeta negra -cuita",
+        "aldi": "despensa/legumbres-y-cereales: alubias negras -cocidas",
+        "dia": "alubia negra -cocida",
+        "consum": "alubia negra -cocida"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "jamon-iberico",
+      "name": "Jamón ibérico (lonchas)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "jamon iberico -paleta -croqueta -taco -bocadillo",
+        "bonpreu": "pernil iberic -espatlla -croqueta",
+        "aldi": "charcuteria/embutidos-curados: jamon iberico -paleta",
+        "dia": "jamon iberico -paleta -croqueta -taco -bocadillo",
+        "consum": "jamon iberico -paleta -croqueta -taco -bocadillo"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "tomate-frito",
+      "name": "Tomate frito",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "tomate frito -azucar -picante",
+        "bonpreu": "tomaquet fregit -sucre",
+        "aldi": "despensa/tomates-y-salsas: tomate frito -azucar",
+        "dia": "tomate frito -azucar -picante",
+        "consum": "tomate frito -azucar -picante"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "ketchup-sin-azucar",
+      "name": "Ketchup sin azúcar añadido",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "ketchup sin azucar",
+        "bonpreu": "ketchup sense sucre",
+        "aldi": "despensa/tomates-y-salsas: ketchup sin azucar",
+        "dia": "ketchup sin azucar",
+        "consum": "ketchup sin azucar"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "tomate",
+      "name": "Tomates (ensalada)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "tomate ensalada",
+        "bonpreu": "tomaquet amanida",
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: tomate -cherry",
+        "dia": "tomate ensalada",
+        "consum": "tomate ensalada"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "zanahoria",
+      "name": "Zanahorias",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "zanahoria -rallada -baby -zumo -bebida -tarta",
+        "bonpreu": "pastanaga -ratllada -suc",
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: zanahoria",
+        "dia": "zanahoria -rallada -baby -zumo -bebida -tarta",
+        "consum": "zanahoria -rallada -baby -zumo -bebida -tarta"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "lechuga",
+      "name": "Lechuga iceberg",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "lechuga iceberg",
+        "bonpreu": "enciam iceberg",
+        "aldi": "fruta-y-verdura/lechuga-y-ensaladas: lechuga iceberg",
+        "dia": "lechuga iceberg",
+        "consum": "lechuga iceberg"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "calabacin",
+      "name": "Calabacín",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "calabacin -crema -espiral -tortilla -pure",
+        "bonpreu": "carbasso -crema -espiral",
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: calabacin",
+        "dia": "calabacin -crema -espiral -tortilla -pure",
+        "consum": "calabacin -crema -espiral -tortilla -pure"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "uva",
+      "name": "Uva",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "uva -pasa -zumo -mosto -gominola",
+        "bonpreu": "raim -pansa -suc",
+        "aldi": "fruta-y-verdura/fruta: uva",
+        "dia": "uva -pasa -zumo -mosto -gominola",
+        "consum": "uva -pasa -zumo -mosto -gominola"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "mandarina",
+      "name": "Mandarinas",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "mandarina -zumo -gajos -yogur",
+        "bonpreu": "mandarina -suc",
+        "aldi": "fruta-y-verdura/fruta: mandarina",
+        "dia": "mandarina -zumo -gajos -yogur",
+        "consum": "mandarina -zumo -gajos -yogur"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "lima",
+      "name": "Lima",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor",
+        "bonpreu": "llima -suc -llimona -beguda",
+        "aldi": "fruta-y-verdura/fruta: lima",
+        "dia": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor",
+        "consum": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "pera",
+      "name": "Peras",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "pera -zumo -tomate -compota -cuajada -yogur",
+        "bonpreu": "pera -suc -tomaquet -compota",
+        "aldi": "fruta-y-verdura/fruta: pera",
+        "dia": "pera -zumo -tomate -compota -cuajada -yogur",
+        "consum": "pera -zumo -tomate -compota -cuajada -yogur"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "manzana",
+      "name": "Manzanas",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips",
+        "bonpreu": "poma -suc -compota -infusio",
+        "aldi": "fruta-y-verdura/fruta: manzana",
+        "dia": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips",
+        "consum": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "platano",
+      "name": "Plátanos",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "platano -chips -batido -zumo -macho -yogur",
+        "bonpreu": "platan -xips -batut -suc",
+        "aldi": "fruta-y-verdura/fruta: platano",
+        "dia": "platano -chips -batido -zumo -macho -yogur",
+        "consum": "platano -chips -batido -zumo -macho -yogur"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "guacamole",
+      "name": "Guacamole",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "guacamole -nachos",
+        "bonpreu": "guacamole",
+        "aldi": "platos-preparados-y-pizza/salsas-dips-y-untables: guacamole",
+        "dia": "guacamole -nachos",
+        "consum": "guacamole -nachos"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "mantequilla",
+      "name": "Mantequilla",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho",
+        "bonpreu": "mantega -cacauet -galeta",
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla",
+        "dia": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho",
+        "consum": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "zumo-lima",
+      "name": "Zumo de lima",
+      "unit": "L",
+      "queries": {
+        "mercadona": "zumo lima",
+        "bonpreu": "suc llima",
+        "aldi": "despensa/aceites-y-vinagres: zumo lima",
+        "dia": "zumo lima",
+        "consum": "zumo lima"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "mayonesa-light",
+      "name": "Mayonesa light",
+      "unit": "L",
+      "queries": {
+        "mercadona": "mayonesa ligera",
+        "bonpreu": "maionesa light",
+        "aldi": "despensa/tomates-y-salsas: mayonesa light",
+        "dia": "mayonesa light",
+        "consum": "mayonesa light"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "mostaza",
+      "name": "Mostaza",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "mostaza -dijon -miel -antigua",
+        "bonpreu": "mostassa -dijon -mel -antiga",
+        "aldi": "despensa/tomates-y-salsas: mostaza -dijon",
+        "dia": "mostaza -dijon -miel -antigua",
+        "consum": "mostaza -dijon -miel -antigua"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "salsa-barbacoa",
+      "name": "Salsa barbacoa",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "salsa barbacoa",
+        "bonpreu": "salsa barbacoa",
+        "aldi": "despensa/tomates-y-salsas: barbacoa",
+        "dia": "salsa barbacoa",
+        "consum": "salsa barbacoa"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "lavavajillas-mano",
+      "name": "Lavavajillas a mano",
+      "unit": "L",
+      "queries": {
+        "mercadona": "lavavajillas mano -maquina -pastilla -capsula",
+        "bonpreu": "rentavaixelles ma",
+        "aldi": "limpieza-y-hogar/lavavajillas: lavavajillas mano",
+        "dia": "lavavajillas mano -maquina -pastilla -capsula",
+        "consum": "lavavajillas mano -maquina -pastilla -capsula"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "bolsas-basura",
+      "name": "Bolsas de basura",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "bolsa basura",
+        "bonpreu": "bossa escombraries",
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas basura",
+        "dia": "bolsa basura",
+        "consum": "bolsa basura"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "bolsas-reutilizables",
+      "name": "Bolsas reutilizables",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "bolsa reutilizable",
+        "bonpreu": "bossa reutilitzable",
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsa reutilizable",
+        "dia": "bolsa reutilizable",
+        "consum": "bolsa reutilizable"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "bolsas-cierre",
+      "name": "Bolsas con cierre",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "bolsa cierre -basura",
+        "bonpreu": "bossa tancament",
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas cierre",
+        "dia": "bolsa cierre -basura",
+        "consum": "bolsa cierre -basura"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "film",
+      "name": "Papel film",
+      "unit": "m",
+      "queries": {
+        "mercadona": "film transparente",
+        "bonpreu": "film transparent",
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: film",
+        "dia": "film transparente",
+        "consum": "film transparente"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "aluminio",
+      "name": "Papel de aluminio",
+      "unit": "m",
+      "queries": {
+        "mercadona": "papel aluminio -bandeja -recipiente",
+        "bonpreu": "paper alumini -safata",
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: aluminio -bandeja",
+        "dia": "papel aluminio -bandeja -recipiente",
+        "consum": "papel aluminio -bandeja -recipiente"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "bayetas",
+      "name": "Bayetas / trapos de limpieza",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "bayeta -microfibra -rollo",
+        "bonpreu": "baieta -microfibra",
+        "aldi": "limpieza-y-hogar/utensilios-de-limpieza: bayeta",
+        "dia": "bayeta -microfibra -rollo",
+        "consum": "bayeta -microfibra -rollo"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "panos-absorbentes",
+      "name": "Paños absorbentes (rollo)",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "bayeta rollo",
+        "bonpreu": "baieta rotlle",
+        "aldi": "limpieza-y-hogar/utensilios-de-limpieza: bayeta rollo",
+        "dia": "bayeta rollo",
+        "consum": "bayeta rollo"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "papel-cocina",
+      "name": "Papel de cocina",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "papel cocina -aluminio -horno -vegetal",
+        "bonpreu": "paper cuina -alumini -forn",
+        "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: papel cocina",
+        "dia": "papel cocina -aluminio -horno -vegetal",
+        "consum": "papel cocina -aluminio -horno -vegetal"
+      },
+      "pinned": {}
+    },
+    {
+      "id": "papel-higienico",
+      "name": "Papel higiénico",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "papel higienico -humedo",
+        "bonpreu": "paper higienic -humit",
+        "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: papel higienico -humedo",
+        "dia": "papel higienico -humedo",
+        "consum": "papel higienico -humedo"
+      },
+      "pinned": {}
     }
   ]
 }

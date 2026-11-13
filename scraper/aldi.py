@@ -70,7 +70,7 @@ def ficha(h, unidad):
         escala = (b.get("basePriceScale") or "").lower()
         if (escala, unidad) in (("kg", "kg"), ("l", "L")):
             ref = a_float(b.get("basePriceValue"))
-    if precio is not None and unidad in ("ud", "lavado"):
+    if precio is not None and unidad in ("ud", "lavado", "m"):
         n = conteo(h.get("salesUnit"), unidad) or conteo(h.get("name"), unidad)
         ref = precio / n if n else None
     if ref is None and precio is not None and unidad in ("kg", "L"):

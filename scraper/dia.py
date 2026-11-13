@@ -20,7 +20,7 @@ def ficha(item, unidad):
     precio = a_float(pr.get("price"))
     medida = (pr.get("measure_unit") or "").upper()
     ref = None
-    if unidad in ("ud", "lavado"):
+    if unidad in ("ud", "lavado", "m"):
         n = conteo(item.get("display_name"), unidad)
         ref = precio / n if (n and precio) else None
     else:

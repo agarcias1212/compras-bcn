@@ -98,11 +98,12 @@ def redondea(valor, unidad):
     """2 decimales para kg/L/docena; 3 para precios por unidad o lavado (céntimos)."""
     if valor is None:
         return None
-    return round(valor, 3 if unidad in ("ud", "lavado") else 2)
+    return round(valor, 3 if unidad in ("ud", "lavado", "m") else 2)
 
 
 _CONTEO = {
-    "ud": re.compile(r"(\d+)\s*(?:unidades|unitats|uds?\.?|u)\b", re.I),
+    "ud": re.compile(r"(\d+)\s*(?:unidades|unitats|uds?\.?|u|rollos?|rotllos?|bolsas?|bosses|bolsitas?|sobres?|filtros?|bayetas?|bayetes|pa[ñn]os|draps)\b", re.I),
+    "m": re.compile(r"(\d+(?:[.,]\d+)?)\s*(?:m|metros?|metres?|mts?)\b", re.I),
     "lavado": re.compile(r"(\d+)\s*(?:lavados|dosis|rentats|renta(?:des)?|lv)\b", re.I),
 }
 
@@ -111,4 +112,4 @@ def conteo(texto, unidad):
     """Número de unidades o lavados escrito en un texto ('pack de 100 unidades', 'de 66 dosis')."""
     patron = _CONTEO.get(unidad)
     m = patron.search(texto or "") if patron else None
-    return int(m.group(1)) if m else None
+    return float(m.group(1).replace(",", ".")) if m else None

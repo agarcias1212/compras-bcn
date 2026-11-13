@@ -35,7 +35,7 @@ def ficha(p, unidad):
     nombre = datos.get("description") or datos.get("name")
     precio, por_unidad = _precio(pd)
     ref = None
-    if unidad in ("ud", "lavado"):
+    if unidad in ("ud", "lavado", "m"):
         n = conteo(nombre, unidad)
         ref = precio / n if (n and precio) else None
     else:

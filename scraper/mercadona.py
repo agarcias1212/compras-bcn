@@ -13,7 +13,7 @@ Endpoints (verificados el 12-11-2026, código postal 08012 = almacén bcn1):
 """
 from urllib.parse import quote
 
-from comun import get_json, puntuacion, a_float, describe_error, redondea
+from comun import get_json, puntuacion, a_float, describe_error, redondea, conteo
 
 WH = "bcn1"
 API = "https://tienda.mercadona.es/api"
@@ -29,6 +29,7 @@ CONVERSION = {
     ("100 g", "kg"): 10, ("100g", "kg"): 10, ("100 ml", "L"): 10, ("100ml", "L"): 10,
     ("ud", "ud"): 1,
     ("lv", "lavado"): 1,
+    ("m", "m"): 1,
 }
 
 _catalogo = None      # caché del catálogo completo (solo si hace falta)
@@ -40,6 +41,11 @@ def ficha(p, unidad):
     fmt = pi.get("reference_format") or ""
     factor = CONVERSION.get((fmt.lower(), unidad))
     ref = a_float(pi.get("reference_price"))
+    if not factor and unidad in ("ud", "lavado", "m"):
+        n = conteo(p.get("display_name"), unidad) or conteo(p.get("packaging"), unidad)
+        precio = a_float(pi.get("unit_price"))
+        if n and precio:
+            ref, factor = precio / n, 1
     return {
         "product_id": str(p["id"]),
         "name": p.get("display_name"),

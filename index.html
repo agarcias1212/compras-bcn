@@ -223,7 +223,7 @@ const STORES = [
 const STORE_NAME = Object.fromEntries(STORES.map(s => [s.id, s.name]));
 // Diferencia máxima para considerar que "da igual" (3 %).
 const TIE = 0.03;
-const UNIT_LABEL = { kg: "€/kg", L: "€/L", docena: "€/doc.", ud: "€/ud", lavado: "€/lav." };
+const UNIT_LABEL = { kg: "€/kg", L: "€/L", docena: "€/doc.", ud: "€/ud", lavado: "€/lav.", m: "€/m" };
 
 const el = (tag, cls, text) => {
   const n = document.createElement(tag);
@@ -232,7 +232,7 @@ const el = (tag, cls, text) => {
   return n;
 };
 const fmt = (v, unit) => {
-  const dec = unit === "ud" || unit === "lavado" ? 3 : 2;
+  const dec = unit === "ud" || unit === "lavado" || unit === "m" ? 3 : 2;
   return v.toLocaleString("es-ES", { minimumFractionDigits: dec, maximumFractionDigits: dec });
 };
 const fmtEur = v => v.toLocaleString("es-ES", { style: "currency", currency: "EUR" });

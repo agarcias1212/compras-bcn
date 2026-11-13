@@ -28,7 +28,7 @@ CONVERSION = {
 
 def _ficha(pid, nombre, precio, ref, etiqueta, unidad):
     precio = a_float(precio)
-    if unidad in ("ud", "lavado"):
+    if unidad in ("ud", "lavado", "m"):
         # Bonpreu redondea el precio por unidad a 2 decimales (0,01 €/servilleta) o lo da por litro
         # (detergente): se calcula con el número de unidades o dosis del nombre.
         n = conteo(nombre, unidad)
