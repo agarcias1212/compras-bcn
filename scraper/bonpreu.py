@@ -109,11 +109,11 @@ def _con_reintento(funcion, descripcion):
         return r
     _fallos_seguidos += 1
     print(f"  {descripcion}: {motivo}.", flush=True)
-    if _fallos_seguidos >= 1:
+    if _fallos_seguidos >= 2:
         bloqueado = True
         print("  Bonpreu no responde: se deja para otra ejecución y se conservan sus últimos precios.", flush=True)
         raise Bloqueado()
-    return r
+    raise SinRespuesta(descripcion)   # un fallo suelto: se salta este producto y se sigue con el siguiente
 
 
 def leer_por_id(pid, unidad):
@@ -159,12 +159,33 @@ def buscar(query, unidad):
     return fichas
 
 
-def _antiguedad(prod, previos):
-    """Clave de orden: primero sin precio (fijados antes que por buscar), luego el precio más antiguo."""
+INTENTOS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "informes", "bonpreu_intentos.json")
+
+
+def _leer_intentos():
+    try:
+        with open(INTENTOS) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _guardar_intentos(intentos):
+    try:
+        os.makedirs(os.path.dirname(INTENTOS), exist_ok=True)
+        with open(INTENTOS, "w") as f:
+            json.dump(intentos, f, indent=1, sort_keys=True)
+    except Exception:
+        pass
+
+
+def _antiguedad(prod, previos, intentos=None):
+    """Clave de orden: primero sin precio (los nunca intentados antes; fijados antes que por buscar),
+    luego el precio más antiguo. Así un producto que falla no se repite en cada ciclo."""
     entrada = ((previos or {}).get("products", {}).get(prod["id"]) or {}).get("stores", {}).get("bonpreu")
     if not entrada:
-        return (0, 0 if prod.get("pinned", {}).get("bonpreu") else 1, "")
-    return (1, 0, entrada.get("fetched") or "")
+        return (0, (intentos or {}).get(prod["id"], ""), 0 if prod.get("pinned", {}).get("bonpreu") else 1)
+    return (1, entrada.get("fetched") or "", 0)
 
 
 def emparejar(productos, rebuscar=False, previos=None):
@@ -173,14 +194,21 @@ def emparejar(productos, rebuscar=False, previos=None):
     resultados, informe = {}, {}
     for prod in productos:
         informe[prod["id"]] = {"modo": "omitido", "candidatos": []}
-    for prod in sorted(productos, key=lambda p: _antiguedad(p, previos)):
+    intentos = _leer_intentos()
+    for prod in sorted(productos, key=lambda p: _antiguedad(p, previos, intentos)):
         if bloqueado or _peticiones >= MAX_PETICIONES:
             break
+        antes = _peticiones
         try:
             _emparejar_uno(prod, rebuscar, resultados, informe)
         except (Bloqueado, Agotado):
             informe[prod["id"]] = {"modo": "omitido", "candidatos": []}
+            if _peticiones > antes:
+                intentos[prod["id"]] = time.strftime("%Y-%m-%dT%H:%M:%S")
             break
+        if _peticiones > antes:
+            intentos[prod["id"]] = time.strftime("%Y-%m-%dT%H:%M:%S")
+    _guardar_intentos(intentos)
     hechos = sum(1 for i in informe.values() if i["modo"] != "omitido")
     print(f"  Bonpreu: {hechos} producto(s) consultado(s) en esta ejecución (máximo {MAX_PETICIONES}, en rotación).", flush=True)
     return resultados, informe
