@@ -108,30 +108,8 @@
     "candidatos": []
   },
   "leche-evaporada": {
-    "modo": "busqueda",
-    "query": "llet evaporada -lactosa",
-    "candidatos": [
-      {
-        "product_id": "81690",
-        "name": "IDEAL Llet evaporada per cuinar",
-        "packaging": null,
-        "price": 2.55,
-        "ref_price": 4.86,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81690"
-      },
-      {
-        "product_id": "27321",
-        "name": "IDEAL Llet evaporada per cuinar",
-        "packaging": null,
-        "price": 1.19,
-        "ref_price": 5.67,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27321"
-      }
-    ],
-    "elegido": "81690",
-    "nuevo_pin": "81690"
+    "modo": "omitido",
+    "candidatos": []
   },
   "patatas": {
     "modo": "omitido",
@@ -142,8 +120,48 @@
     "candidatos": []
   },
   "cappuccino": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "cafe soluble capuccino",
+    "candidatos": [
+      {
+        "product_id": "59577",
+        "name": "NESCAFÉ Cafè soluble Cappuccino",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 19.8,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59577"
+      },
+      {
+        "product_id": "04764",
+        "name": "NESCAFÉ Cafè soluble descafeïnat Cappuccino",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 19.8,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04764"
+      },
+      {
+        "product_id": "88195",
+        "name": "MARCILLA Cafè soluble Cappuccino Milka",
+        "packaging": null,
+        "price": 3.45,
+        "ref_price": 21.56,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88195"
+      },
+      {
+        "product_id": "66321",
+        "name": "MARCILLA Cafè soluble Cappuccino Original",
+        "packaging": null,
+        "price": 3.45,
+        "ref_price": 19.6,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/66321"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "salchichas-frankfurt": {
     "modo": "omitido",
