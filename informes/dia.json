@@ -1,0 +1,639 @@
+{
+  "leche-entera": {
+    "modo": "busqueda",
+    "query": "leche entera -lactosa",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "huevos": {
+    "modo": "busqueda",
+    "query": "huevos grandes L",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "arroz": {
+    "modo": "busqueda",
+    "query": "arroz redondo -vasos",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "azucar": {
+    "modo": "busqueda",
+    "query": "azucar blanco",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "sal": {
+    "modo": "busqueda",
+    "query": "sal fina",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "ternera": {
+    "modo": "busqueda",
+    "query": "carne picada vacuno -cerdo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "pollo": {
+    "modo": "busqueda",
+    "query": "pechuga pollo -lonchas -kebab -proteina -empanada -pavo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "cerdo": {
+    "modo": "busqueda",
+    "query": "lomo cerdo -adobado -iberico -embuchado -curado",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "leche-sin-lactosa": {
+    "modo": "busqueda",
+    "query": "leche entera sin lactosa",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "patatas-fritas": {
+    "modo": "busqueda",
+    "query": "patatas fritas -horno -congeladas -ultracongeladas",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "batido-chocolate": {
+    "modo": "busqueda",
+    "query": "batido chocolate -proteinas -0",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "atun-natural": {
+    "modo": "busqueda",
+    "query": "atun claro natural",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "nuez-moscada": {
+    "modo": "busqueda",
+    "query": "nuez moscada",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "margarina": {
+    "modo": "busqueda",
+    "query": "margarina -ligera",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "tortilla-patata": {
+    "modo": "busqueda",
+    "query": "tortilla patata -chorizo -pincho -media -preparado",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "aceite-girasol": {
+    "modo": "busqueda",
+    "query": "aceite girasol",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "vinagre-balsamico": {
+    "modo": "busqueda",
+    "query": "vinagre balsamico -crema",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "zumo-limon": {
+    "modo": "busqueda",
+    "query": "zumo limon",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "servilletas": {
+    "modo": "busqueda",
+    "query": "servilletas -decoradas -cocktail",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "kefir": {
+    "modo": "busqueda",
+    "query": "kefir natural",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "arroz-vaporizado": {
+    "modo": "busqueda",
+    "query": "arroz vaporizado",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "alubias-blancas": {
+    "modo": "busqueda",
+    "query": "alubia blanca -cocida",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "yogur-liquido-0": {
+    "modo": "busqueda",
+    "query": "yogur liquido",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "mostaza-dijon": {
+    "modo": "busqueda",
+    "query": "mostaza dijon",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "jengibre-molido": {
+    "modo": "busqueda",
+    "query": "jengibre molido",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "canela-molida": {
+    "modo": "busqueda",
+    "query": "canela molida",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "queso-brie": {
+    "modo": "busqueda",
+    "query": "queso brie",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "leche-evaporada": {
+    "modo": "busqueda",
+    "query": "leche evaporada",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "patatas": {
+    "modo": "busqueda",
+    "query": "patatas -frita -congeladas -horno -guarnicion -vasos",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "detergente-marsella": {
+    "modo": "busqueda",
+    "query": "detergente liquido marsella",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "cappuccino": {
+    "modo": "busqueda",
+    "query": "cappuccino -capsulas",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "salchichas-frankfurt": {
+    "modo": "busqueda",
+    "query": "salchichas -queso",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "clavo": {
+    "modo": "busqueda",
+    "query": "clavo -tomillo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "canela-rama": {
+    "modo": "busqueda",
+    "query": "canela rama",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "comino": {
+    "modo": "busqueda",
+    "query": "comino",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "pimienta-negra": {
+    "modo": "busqueda",
+    "query": "pimienta negra -blanca -mezcla",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "pimenton-picante": {
+    "modo": "busqueda",
+    "query": "pimenton picante",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "cilantro": {
+    "modo": "busqueda",
+    "query": "cilantro -fresco",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "oregano": {
+    "modo": "busqueda",
+    "query": "oregano",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "ajo-polvo": {
+    "modo": "busqueda",
+    "query": "ajo polvo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "romero": {
+    "modo": "busqueda",
+    "query": "romero",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "miel-flores": {
+    "modo": "busqueda",
+    "query": "miel flores",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "aceite-sesamo": {
+    "modo": "busqueda",
+    "query": "aceite sesamo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "salsa-soja": {
+    "modo": "busqueda",
+    "query": "salsa soja",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "ajo": {
+    "modo": "busqueda",
+    "query": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "espaguetis": {
+    "modo": "busqueda",
+    "query": "espagueti -integral -sin",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "fideos": {
+    "modo": "busqueda",
+    "query": "fideo -integral -oriental -arroz -sopa",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "copos-avena": {
+    "modo": "busqueda",
+    "query": "copos avena -chocolate -galleta",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "lentejas": {
+    "modo": "busqueda",
+    "query": "lenteja -cocida -guisada -tarro -crema",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "manzanilla": {
+    "modo": "busqueda",
+    "query": "manzanilla -aceituna -oliva -vino -champu -anchoa -relleno -gel",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "infusion-manzana-canela": {
+    "modo": "busqueda",
+    "query": "infusion manzana canela",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "poleo-menta": {
+    "modo": "busqueda",
+    "query": "poleo menta",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "tila": {
+    "modo": "busqueda",
+    "query": "tila -tilapia",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "te-verde": {
+    "modo": "busqueda",
+    "query": "te verde -matcha -bebida",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "rooibos": {
+    "modo": "busqueda",
+    "query": "rooibos",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "infusion-frutos-rojos": {
+    "modo": "busqueda",
+    "query": "infusion frutos rojos",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "maiz-palomitas": {
+    "modo": "busqueda",
+    "query": "maiz palomitas -microondas -caramelo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "chia": {
+    "modo": "busqueda",
+    "query": "chia -pan -yogur -bebida -galleta",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "sesamo": {
+    "modo": "busqueda",
+    "query": "sesamo -aceite -pan -galleta -barrita -tostada -pico",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "alubia-roja": {
+    "modo": "busqueda",
+    "query": "alubia roja -cocida",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "alubia-pinta": {
+    "modo": "busqueda",
+    "query": "alubia pinta -cocida",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "alubia-negra": {
+    "modo": "busqueda",
+    "query": "alubia negra -cocida",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "jamon-iberico": {
+    "modo": "busqueda",
+    "query": "jamon iberico -paleta -croqueta -taco -bocadillo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "tomate-frito": {
+    "modo": "busqueda",
+    "query": "tomate frito -azucar -picante",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "ketchup-sin-azucar": {
+    "modo": "busqueda",
+    "query": "ketchup sin azucar",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "tomate": {
+    "modo": "busqueda",
+    "query": "tomate ensalada",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "zanahoria": {
+    "modo": "busqueda",
+    "query": "zanahoria -rallada -baby -zumo -bebida -tarta",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "lechuga": {
+    "modo": "busqueda",
+    "query": "lechuga iceberg",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "calabacin": {
+    "modo": "busqueda",
+    "query": "calabacin -crema -espiral -tortilla -pure",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "uva": {
+    "modo": "busqueda",
+    "query": "uva -pasa -zumo -mosto -gominola",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "mandarina": {
+    "modo": "busqueda",
+    "query": "mandarina -zumo -gajos -yogur",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "lima": {
+    "modo": "busqueda",
+    "query": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "pera": {
+    "modo": "busqueda",
+    "query": "pera -zumo -tomate -compota -cuajada -yogur",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "manzana": {
+    "modo": "busqueda",
+    "query": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "platano": {
+    "modo": "busqueda",
+    "query": "platano -chips -batido -zumo -macho -yogur",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "guacamole": {
+    "modo": "busqueda",
+    "query": "guacamole -nachos",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "mantequilla": {
+    "modo": "busqueda",
+    "query": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "zumo-lima": {
+    "modo": "busqueda",
+    "query": "zumo lima",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "mayonesa-light": {
+    "modo": "busqueda",
+    "query": "mayonesa light",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "mostaza": {
+    "modo": "busqueda",
+    "query": "mostaza -dijon -miel -antigua",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "salsa-barbacoa": {
+    "modo": "busqueda",
+    "query": "salsa barbacoa",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "lavavajillas-mano": {
+    "modo": "busqueda",
+    "query": "lavavajillas mano -maquina -pastilla -capsula",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "bolsas-basura": {
+    "modo": "busqueda",
+    "query": "bolsa basura",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "bolsas-reutilizables": {
+    "modo": "busqueda",
+    "query": "bolsa reutilizable",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "bolsas-cierre": {
+    "modo": "busqueda",
+    "query": "bolsa cierre -basura",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "film": {
+    "modo": "busqueda",
+    "query": "film transparente",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "aluminio": {
+    "modo": "busqueda",
+    "query": "papel aluminio -bandeja -recipiente",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "bayetas": {
+    "modo": "busqueda",
+    "query": "bayeta -microfibra -rollo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "panos-absorbentes": {
+    "modo": "busqueda",
+    "query": "bayeta rollo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "papel-cocina": {
+    "modo": "busqueda",
+    "query": "papel cocina -aluminio -horno -vegetal",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "papel-higienico": {
+    "modo": "busqueda",
+    "query": "papel higienico -humedo",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
+  }
+}

@@ -12,7 +12,7 @@
           "ref_price": 0.96,
           "ref_unit": "L",
           "url": "https://tienda.mercadona.es/product/10380/leche-entera-hacendado-brick",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": {
           "product_id": "81177",
@@ -32,18 +32,9 @@
           "ref_price": 0.96,
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/leche-entera-80000.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
-        "dia": {
-          "product_id": "608",
-          "name": "Leche entera Dia Láctea 1 L",
-          "packaging": null,
-          "price": 0.96,
-          "ref_price": 0.96,
-          "ref_unit": "L",
-          "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche/p/608",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "5931",
           "name": "Leche Entera Brik 1 L",
@@ -52,7 +43,7 @@
           "ref_price": 0.96,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/leche-entera-brik/7080596",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -68,7 +59,7 @@
           "ref_price": 3.05,
           "ref_unit": "docena",
           "url": "https://tienda.mercadona.es/product/31504/huevos-grandes-l-paquete",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": {
           "product_id": "38974",
@@ -81,16 +72,7 @@
           "fetched": "2026-11-12T21:11:34+01:00"
         },
         "aldi": null,
-        "dia": {
-          "product_id": "307884",
-          "name": "Huevos grandes L Dia 18 unidades",
-          "packaging": null,
-          "price": 4.39,
-          "ref_price": 2.93,
-          "ref_unit": "docena",
-          "url": "https://www.dia.es/huevos-leche-y-mantequilla/huevos/p/307884",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "6103",
           "name": "Huevos L Grandes Docena 1 Dc",
@@ -99,7 +81,7 @@
           "ref_price": 3.05,
           "ref_unit": "docena",
           "url": "https://tienda.consum.es/es/p/huevos-l-grandes-docena/7098395",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -115,7 +97,7 @@
           "ref_price": 1.15,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/5044/arroz-redondo-hacendado-paquete",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": {
           "product_id": "00731",
@@ -135,18 +117,9 @@
           "ref_price": 1.09,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/arroz-redondo-768700.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
-        "dia": {
-          "product_id": "310496",
-          "name": "Arroz redondo J.Sendra Dia Arrozona 1 Kg",
-          "packaging": null,
-          "price": 1.6,
-          "ref_price": 1.6,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/310496",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "5458",
           "name": "Arroz Redondo Extra Origen España 1 Kg",
@@ -155,7 +128,7 @@
           "ref_price": 1.15,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/arroz-redondo-extra-origen-espana/7022762",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -171,20 +144,20 @@
           "ref_price": 0.9,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/19897/azucar-blanco-hacendado-paquete",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
-        "bonpreu": null,
-        "aldi": null,
-        "dia": {
-          "product_id": "81798",
-          "name": "Azúcar blanco Dia 1 Kg",
-          "packaging": null,
+        "bonpreu": {
+          "product_id": "37758",
+          "name": "SUCREBÓ Sucre blanc",
+          "packaging": "1kg",
           "price": 0.9,
           "ref_price": 0.9,
           "ref_unit": "kg",
-          "url": "https://www.dia.es/bolleria-reposteria-y-azucar/azucar-miel-y-edulcorantes/p/81798",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37758",
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
+        "aldi": null,
+        "dia": null,
         "consum": {
           "product_id": "5245",
           "name": "Azúcar Blanco Paquete 1 Kg",
@@ -193,7 +166,7 @@
           "ref_price": 0.9,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/azucar-blanco-paquete/2453884",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -209,9 +182,18 @@
           "ref_price": 0.45,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/19731/sal-fina-hacendado-paquete",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "00079",
+          "name": "BONPREU Sal fina marina",
+          "packaging": "1kg",
+          "price": 0.4,
+          "ref_price": 0.4,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00079",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
         "aldi": {
           "product_id": "250600",
           "name": "Sal marina  fina yodada",
@@ -220,18 +202,9 @@
           "ref_price": 0.38,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/sal-marina-fina-yodada-250600.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
-        "dia": {
-          "product_id": "419",
-          "name": "Sal fina Dia 1 Kg",
-          "packaging": null,
-          "price": 0.4,
-          "ref_price": 0.4,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/aceites-salsas-y-especias/ajo-sal-y-pimienta/p/419",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "5937",
           "name": "Sal Fina Bolsa 1000 Gr",
@@ -240,7 +213,7 @@
           "ref_price": 0.45,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/sal-fina-bolsa/7080745",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -256,20 +229,20 @@
           "ref_price": 10.8,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/3454/preparado-carne-picada-vacuno-bandeja",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
-        "bonpreu": null,
-        "aldi": null,
-        "dia": {
-          "product_id": "261240",
-          "name": "Carne picada de vacuno Selección de Dia 900 g",
-          "packaging": null,
-          "price": 9.99,
-          "ref_price": 11.1,
+        "bonpreu": {
+          "product_id": "37398",
+          "name": "BONPREU DE L'ERA Picada de carn de vedella",
+          "packaging": "0.8kg",
+          "price": 11.65,
+          "ref_price": 14.56,
           "ref_unit": "kg",
-          "url": "https://www.dia.es/carnes/hamburguesas-carne-picada-y-albondigas/p/261240",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37398",
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
+        "aldi": null,
+        "dia": null,
         "consum": {
           "product_id": "5165",
           "name": "Preparado Picada de Vacuno 400 Gr",
@@ -278,7 +251,7 @@
           "ref_price": 10.98,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/preparado-picada-de-vacuno/922823",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -294,7 +267,7 @@
           "ref_price": 6.1,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/30006/pechugas-pollo-enteras-congeladas-paquete",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
         "aldi": {
@@ -305,18 +278,9 @@
           "ref_price": 5.55,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/pechuga-de-pollo-formato-familiar-746800.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
-        "dia": {
-          "product_id": "261371",
-          "name": "Pechuga de pollo entera formato familiar Selección de Dia 1.3 Kg aprox.",
-          "packaging": null,
-          "price": 8.7,
-          "ref_price": 6.69,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/carnes/pollo/p/261371",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "4729",
           "name": "Pechuga de Pollo",
@@ -325,7 +289,7 @@
           "ref_price": 6.95,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/pechuga-de-pollo/140814",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -341,20 +305,11 @@
           "ref_price": 4.5,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/4590/lomo-cerdo-trozo-pieza",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
         "aldi": null,
-        "dia": {
-          "product_id": "260899",
-          "name": "Filetes de cabeza de lomo de cerdo Selección de Dia 700 g aprox.",
-          "packaging": null,
-          "price": 4.82,
-          "ref_price": 6.89,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/carnes/cerdo/p/260899",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "8265",
           "name": "Cabeza Lomo de Cerdo",
@@ -363,7 +318,7 @@
           "ref_price": 6.3,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/cabeza-lomo-de-cerdo/3347531",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -379,7 +334,7 @@
           "ref_price": 1.03,
           "ref_unit": "L",
           "url": "https://tienda.mercadona.es/product/10699/leche-entera-sin-lactosa-hacendado-brick",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "872200",
@@ -389,19 +344,10 @@
           "ref_price": 1.03,
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/leche-entera-sin-lactosa-872200.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "225278",
-          "name": "Leche entera sin lactosa Dia Láctea 1 L",
-          "packaging": null,
-          "price": 1.03,
-          "ref_price": 1.03,
-          "ref_unit": "L",
-          "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-sin-lactosa-y-enriquecidas/p/225278",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "15435",
           "name": "Leche sin Lactosa Entera Brik 1 L",
@@ -410,7 +356,7 @@
           "ref_price": 1.03,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/leche-sin-lactosa-entera-brik/7260409",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -426,7 +372,7 @@
           "ref_price": 6.0,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/22245/patatas-fritas-clasicas-hacendado-pack-2",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "61700",
@@ -436,28 +382,19 @@
           "ref_price": 6.0,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/patatas-fritas-al-perol-61700.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "277827",
-          "name": "Patatas fritas artesanas Dia Snack Maniac 2 x 150 g",
-          "packaging": null,
-          "price": 1.8,
-          "ref_price": 6,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/aperitivos-y-frutos-secos/patatas-fritas/p/277827",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "5719",
           "name": "Patatas Fritas Lisas Bolsa Papel 2 x 150 Gr",
           "packaging": null,
           "price": 1.8,
-          "ref_price": 6,
+          "ref_price": 6.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/patatas-fritas-lisas-bolsa-papel/7056406",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -473,7 +410,7 @@
           "ref_price": 1.38,
           "ref_unit": "L",
           "url": "https://tienda.mercadona.es/product/10050/batido-chocolate-hacendado-pack-6",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "601202000",
@@ -483,19 +420,10 @@
           "ref_price": 1.29,
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/batido-de-chocolate-601202000.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "296458",
-          "name": "Batido de chocolate Dia Láctea 6 x 200 ml",
-          "packaging": null,
-          "price": 1.55,
-          "ref_price": 1.29,
-          "ref_unit": "L",
-          "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos/p/296458",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "6152",
           "name": "Batido de Chocolate Minibrik Pack de 6 6 x 200 ml",
@@ -504,7 +432,7 @@
           "ref_price": 1.29,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/batido-de-chocolate-minibrik-pack-de-6/7103208",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -520,7 +448,7 @@
           "ref_price": 11.67,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/18018/atun-claro-natural-hacendado",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "547100",
@@ -530,19 +458,10 @@
           "ref_price": 11.17,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/atun-claro-al-natural-547100.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "262439",
-          "name": "Atún claro al natural Dia Mari Marinera 6 x 60 g",
-          "packaging": null,
-          "price": 4.2,
-          "ref_price": 11.67,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/conservas-caldos-y-cremas/atun-y-bonito/p/262439",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "25073",
           "name": "Atún Claro Natural Pack de 6 6 x 56 Gr",
@@ -551,7 +470,7 @@
           "ref_price": 12.5,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/atun-claro-natural-pack-de-6/7358620",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -567,7 +486,7 @@
           "ref_price": 28.45,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/34173/nuez-moscada-molida-hacendado-bote",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "601613500",
@@ -577,19 +496,10 @@
           "ref_price": 25.0,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/nuez-moscada-601613500.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "297207",
-          "name": "Nuez moscada molida Dia Vegecampo 60 g",
-          "packaging": null,
-          "price": 1.65,
-          "ref_price": 27.5,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/297207",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "35877",
           "name": "Nuez Moscada Molida 60 Gr",
@@ -598,7 +508,7 @@
           "ref_price": 28.33,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/nuez-moscada-molida/7435923",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -614,7 +524,7 @@
           "ref_price": 3.0,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/20846/margarina-hacendado-tarrina",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "113000",
@@ -624,28 +534,19 @@
           "ref_price": 2.9,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/margarina-de-girasol-113000.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "55575",
-          "name": "Margarina vitaminada Diasol 500 g",
-          "packaging": null,
-          "price": 1.5,
-          "ref_price": 3,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/55575",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "22664",
           "name": "Margarina Vegetal Tarrina 500 Gr",
           "packaging": null,
           "price": 1.5,
-          "ref_price": 3,
+          "ref_price": 3.0,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/margarina-vegetal-tarrina/7333065",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -661,7 +562,7 @@
           "ref_price": 4.5,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/80895/tortilla-patata-cebolla-hacendado-con-aceite-oliva-bandeja",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "601832200",
@@ -671,19 +572,10 @@
           "ref_price": 4.98,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/tortilla-de-patata-con-calabacin-y-cebolla-caramelizada-601832200.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "262522",
-          "name": "Tortilla de patatas con cebolla Dia Al Punto 600 g",
-          "packaging": null,
-          "price": 2.7,
-          "ref_price": 4.5,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/262522",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "22986",
           "name": "Tortilla de Patata Fresca sin Cebolla 600 Gr",
@@ -692,7 +584,7 @@
           "ref_price": 4.5,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/tortilla-de-patata-fresca-sin-cebolla/7342579",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -708,7 +600,7 @@
           "ref_price": 1.72,
           "ref_unit": "L",
           "url": "https://tienda.mercadona.es/product/4041/aceite-girasol-refinado-02o-hacendado-garrafa",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "111500",
@@ -718,19 +610,10 @@
           "ref_price": 1.84,
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/aceite-de-girasol-111500.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "49894",
-          "name": "Aceite refinado de girasol Diasol 5 L",
-          "packaging": null,
-          "price": 8.6,
-          "ref_price": 1.72,
-          "ref_unit": "L",
-          "url": "https://www.dia.es/aceites-salsas-y-especias/aceites/p/49894",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "15767",
           "name": "Aceite de Girasol Botella 5 L",
@@ -739,7 +622,7 @@
           "ref_price": 1.72,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/aceite-de-girasol-botella/7285179",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -755,7 +638,7 @@
           "ref_price": 4.6,
           "ref_unit": "L",
           "url": "https://tienda.mercadona.es/product/26496/vinagre-balsamico-modena-hacendado-botella",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "136400",
@@ -765,28 +648,19 @@
           "ref_price": 4.3,
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/vinagre-balsamico-de-modena-136400.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "106144",
-          "name": "Vinagre balsámico de Módena Dia Selección Mundial 500 ml",
-          "packaging": null,
-          "price": 2.29,
-          "ref_price": 4.58,
-          "ref_unit": "L",
-          "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/106144",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "5685",
           "name": "Vinagre Balsámico de Módena 250 ml",
           "packaging": null,
           "price": 1.25,
-          "ref_price": 5,
+          "ref_price": 5.0,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/vinagre-balsamico-de-modena/7050680",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -802,7 +676,7 @@
           "ref_price": 5.0,
           "ref_unit": "L",
           "url": "https://tienda.mercadona.es/product/4903/limon-exprimido-hacendado-botella",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "601494603",
@@ -812,7 +686,7 @@
           "ref_price": 4.75,
           "ref_unit": "L",
           "url": "https://www.aldi.es/producto/zumo-de-limon-concentrado-601494603.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
         "dia": null,
@@ -824,7 +698,7 @@
           "ref_price": 4.82,
           "ref_unit": "L",
           "url": "https://tienda.consum.es/es/p/zumo-de-limon-exprimido/7098718",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -840,7 +714,7 @@
           "ref_price": 0.006,
           "ref_unit": "ud",
           "url": "https://tienda.mercadona.es/product/49544/servilleta-papel-bosque-verde-1-capa-30-x-30-cm-paquete",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "410700",
@@ -850,19 +724,10 @@
           "ref_price": 0.015,
           "ref_unit": "ud",
           "url": "https://www.aldi.es/producto/servilletas-410700.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "276692",
-          "name": "Servilletas Dia La Llama 200 unidades",
-          "packaging": null,
-          "price": 1.2,
-          "ref_price": 0.006,
-          "ref_unit": "ud",
-          "url": "https://www.dia.es/limpieza-y-hogar/papel-higienico-cocina-y-servilletas/p/276692",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "6802",
           "name": "Servilleta 1 Capa Blanca 30x30 200unidad. 200 U",
@@ -871,23 +736,23 @@
           "ref_price": 0.006,
           "ref_unit": "ud",
           "url": "https://tienda.consum.es/es/p/servilleta-1-capa-blanca-30x30-200unidad/7177681",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
     "kefir": {
-      "name": "Kéfir natural",
+      "name": "Kéfir (envases individuales)",
       "unit": "kg",
       "stores": {
         "mercadona": {
-          "product_id": "20029",
-          "name": "Kéfir natural Hacendado sabor suave",
-          "packaging": "Bote",
-          "price": 1.1,
-          "ref_price": 2.2,
+          "product_id": "17927",
+          "name": "Bebida Kéfir de lima y limón suave Hacendado 0% MG",
+          "packaging": "Botella",
+          "price": 0.9,
+          "ref_price": 3.6,
           "ref_unit": "kg",
-          "url": "https://tienda.mercadona.es/product/20029/kefir-natural-sabor-suave-bote",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "url": "https://tienda.mercadona.es/product/17927/bebida-kefir-lima-limon-suave-hacendado-0-mg-botella",
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "882601",
@@ -897,28 +762,19 @@
           "ref_price": 6.76,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/kefir-de-cabra-natural-882601.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "307309",
-          "name": "Kéfir natural desnatado Dia Láctea 4 x 180 g",
-          "packaging": null,
-          "price": 1.89,
-          "ref_price": 2.63,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/yogures-y-postres/kefir-y-postres-vegetales/p/307309",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
-          "product_id": "35367",
-          "name": "Kéfir Natural Sólido 500 Gr",
+          "product_id": "45738",
+          "name": "Kéfir Natural 4 x 125 Gr",
           "packaging": null,
-          "price": 1.09,
-          "ref_price": 2.18,
+          "price": 1.25,
+          "ref_price": 2.5,
           "ref_unit": "kg",
-          "url": "https://tienda.consum.es/es/p/kefir-natural-solido/7432735",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "url": "https://tienda.consum.es/es/p/kefir-natural/7476716",
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -934,7 +790,7 @@
           "ref_price": 1.55,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/5020/arroz-vaporizado-hacendado-paquete",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "246500",
@@ -944,19 +800,10 @@
           "ref_price": 1.39,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/arroz-vaporizado-246500.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "28809",
-          "name": "Arroz vaporizado Dia Arrozona 1 Kg",
-          "packaging": null,
-          "price": 1.55,
-          "ref_price": 1.55,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/28809",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "8731",
           "name": "Arroz Vaporizado 1 Kg",
@@ -965,7 +812,7 @@
           "ref_price": 1.55,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/arroz-vaporizado/7022726",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -981,7 +828,7 @@
           "ref_price": 2.45,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/5124/alubia-blanca-hacendado-categoria-extra-paquete",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "500400",
@@ -991,19 +838,10 @@
           "ref_price": 2.39,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/alubias-blancas-extra-500400.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "154",
-          "name": "Alubias blancas Dia Vegecampo 1 Kg",
-          "packaging": null,
-          "price": 2.45,
-          "ref_price": 2.45,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/arroz-pastas-y-legumbres/garbanzos-y-alubias/p/154",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "19630",
           "name": "Alubia Blanca Paquete 1 Kg",
@@ -1012,12 +850,12 @@
           "ref_price": 2.45,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/alubia-blanca-paquete/7316755",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
     "yogur-liquido-0": {
-      "name": "Yogur líquido 0 %",
+      "name": "Yogur bebible",
       "unit": "kg",
       "stores": {
         "mercadona": {
@@ -1028,20 +866,11 @@
           "ref_price": 1.5,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/15660/yogur-liquido-desnatado-pina-coco-hacendado-0-mg-0-sin-azucares-anadidos-botella",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": null,
         "bonpreu": null,
-        "dia": {
-          "product_id": "306611",
-          "name": "Yogur líquido natural Dia Láctea 1 Kg",
-          "packaging": null,
-          "price": 1.39,
-          "ref_price": 1.39,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/yogures-y-postres/yogures-liquidos/p/306611",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "29541",
           "name": "Yogur Líquido con Frutas del Bosque 1500 Gr",
@@ -1050,7 +879,7 @@
           "ref_price": 1.33,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/yogur-liquido-con-frutas-del-bosque/7394851",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -1066,7 +895,7 @@
           "ref_price": 6.25,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/17228/mostaza-dijon-hacendado-tarro",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "256301",
@@ -1076,19 +905,10 @@
           "ref_price": 5.45,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/mostaza-de-dijon-256301.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "139856",
-          "name": "Mostaza Dijon original Maille 215 g",
-          "packaging": null,
-          "price": 3.77,
-          "ref_price": 17.53,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/aceites-salsas-y-especias/ketchup-mayonesa-y-mostaza/p/139856",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "4963",
           "name": "Mostaza Dijón Originale Frasco 215 Gr",
@@ -1097,7 +917,7 @@
           "ref_price": 17.16,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/mostaza-dijon-originale-frasco/382226",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -1113,7 +933,7 @@
           "ref_price": 32.66,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/34149/jengibre-molido-hacendado-bote",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "601613200",
@@ -1123,19 +943,10 @@
           "ref_price": 32.86,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/jengibre-601613200.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "299135",
-          "name": "Jengibre molido Dia Vegecampo 50 g",
-          "packaging": null,
-          "price": 1.6,
-          "ref_price": 32,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299135",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": null
       }
     },
@@ -1151,7 +962,7 @@
           "ref_price": 19.23,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/34177/canela-molida-hacendado-bote",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "125700",
@@ -1161,19 +972,10 @@
           "ref_price": 17.25,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/canela-molida-125700.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "299126",
-          "name": "Canela molida Dia Vegecampo 45 g",
-          "packaging": null,
-          "price": 0.87,
-          "ref_price": 19.33,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299126",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "35871",
           "name": "Canela Molida 45 Gr",
@@ -1182,7 +984,7 @@
           "ref_price": 19.8,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/canela-molida/7435845",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -1198,7 +1000,7 @@
           "ref_price": 8.25,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/50619/queso-brie-marcillat-vaca-plaisir-roy-pieza",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "740400",
@@ -1208,19 +1010,10 @@
           "ref_price": 7.95,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/queso-brie-740400.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "11877",
-          "name": "Queso brie Dia Selección Mundial 200 g",
-          "packaging": null,
-          "price": 1.65,
-          "ref_price": 8.25,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/quesos/especialidades/p/11877",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "7112",
           "name": "Queso Brie Punta 200 Gr",
@@ -1229,7 +1022,7 @@
           "ref_price": 8.25,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/queso-brie-punta/7197051",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -1245,7 +1038,7 @@
           "ref_price": 2.77,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/15599/leche-evaporada-hacendado-pack-3",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "828100",
@@ -1255,19 +1048,10 @@
           "ref_price": 2.71,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/leche-evaporada-828100.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "163643",
-          "name": "Leche evaporada Ideal 525 g",
-          "packaging": null,
-          "price": 2.9,
-          "ref_price": 5.52,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-condensada-y-evaporada/p/163643",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "6915",
           "name": "Leche Evaporada Brik 525 Gr",
@@ -1276,7 +1060,7 @@
           "ref_price": 4.29,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/leche-evaporada-brik/7184497",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -1285,18 +1069,18 @@
       "unit": "kg",
       "stores": {
         "mercadona": null,
-        "aldi": null,
-        "bonpreu": null,
-        "dia": {
-          "product_id": "296356",
-          "name": "Patatas 4 Kg",
-          "packaging": null,
-          "price": 2.99,
-          "ref_price": 0.75,
+        "aldi": {
+          "product_id": "990900",
+          "name": "Patata especial para freír",
+          "packaging": "3 kg unidad",
+          "price": 3.15,
+          "ref_price": 1.05,
           "ref_unit": "kg",
-          "url": "https://www.dia.es/verduras/patatas-y-zanahorias/p/296356",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "url": "https://www.aldi.es/producto/patata-especial-para-freir-990900.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
+        "bonpreu": null,
+        "dia": null,
         "consum": {
           "product_id": "10194",
           "name": "Patata Todo Uso Culinario 5 Kg",
@@ -1305,7 +1089,7 @@
           "ref_price": 1.06,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/patata-todo-uso-culinario/7194165",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
@@ -1321,7 +1105,7 @@
           "ref_price": 0.07,
           "ref_unit": "lavado",
           "url": "https://tienda.mercadona.es/product/86397/detergente-ropa-jabon-natural-marsella-bosque-verde-liquido-botella",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "602140700",
@@ -1331,19 +1115,10 @@
           "ref_price": 0.06,
           "ref_unit": "lavado",
           "url": "https://www.aldi.es/producto/detergente-liquido-marsella-602140700.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "273998",
-          "name": "Detergente líquido marsella Dia Super Paco 61 lavados",
-          "packaging": null,
-          "price": 4.27,
-          "ref_price": 0.07,
-          "ref_unit": "lavado",
-          "url": "https://www.dia.es/limpieza-y-hogar/detergentes/p/273998",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "45813",
           "name": "Detergente Líquido Marsella 60 Lv",
@@ -1352,12 +1127,12 @@
           "ref_price": 0.07,
           "ref_unit": "lavado",
           "url": "https://tienda.consum.es/es/p/detergente-liquido-marsella/7468317",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
       }
     },
     "cappuccino": {
-      "name": "Café soluble cappuccino",
+      "name": "Cappuccino (soluble, también caramelo o chocolate)",
       "unit": "kg",
       "stores": {
         "mercadona": {
@@ -1368,7 +1143,7 @@
           "ref_price": 11.0,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/23406/cafe-soluble-cappuccino-hacendado-bote",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "411603",
@@ -1378,35 +1153,26 @@
           "ref_price": 8.6,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/cafe-soluble-cappuccino-con-cacao-411603.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "1533",
-          "name": "Café soluble cappuccino en sobres Dia Cafetería 125 g",
-          "packaging": null,
-          "price": 2.19,
-          "ref_price": 17.52,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-soluble/p/1533",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": null
       }
     },
     "salchichas-frankfurt": {
-      "name": "Salchichas Frankfurt",
+      "name": "Salchichas (las más baratas)",
       "unit": "kg",
       "stores": {
         "mercadona": {
-          "product_id": "53141",
-          "name": "Salchichas cocidas estilo Frankfurt Hacendado de pollo y cerdo sabor ahumado",
+          "product_id": "52096",
+          "name": "Salchicha con pollo y arroz perro adulto Delikuit",
           "packaging": null,
           "price": 1.8,
-          "ref_price": 2.56,
+          "ref_price": 1.8,
           "ref_unit": "kg",
-          "url": "https://tienda.mercadona.es/product/53141/salchichas-cocidas-estilo-frankfurt-hacendado-pollo-cerdo-sabor-ahumado-pack-4",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "url": "https://tienda.mercadona.es/product/52096/salchicha-perro-adulto-delikuit-con-pollo-arroz",
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "aldi": {
           "product_id": "800800",
@@ -1416,19 +1182,10 @@
           "ref_price": 2.54,
           "ref_unit": "kg",
           "url": "https://www.aldi.es/producto/salchichas-frankfurt-800800.html",
-          "fetched": "2026-11-12T19:22:50+01:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         },
         "bonpreu": null,
-        "dia": {
-          "product_id": "273442",
-          "name": "Salchichas frankfurt Dia Funky Frank 4 x 160 g",
-          "packaging": null,
-          "price": 1.64,
-          "ref_price": 2.56,
-          "ref_unit": "kg",
-          "url": "https://www.dia.es/charcuteria/salchichas/p/273442",
-          "fetched": "2026-11-13T00:17:38+00:00"
-        },
+        "dia": null,
         "consum": {
           "product_id": "30171",
           "name": "Salchichas Frankfurt sabor Ahumado 3 x 165 Gr",
@@ -1437,10 +1194,1716 @@
           "ref_price": 2.73,
           "ref_unit": "kg",
           "url": "https://tienda.consum.es/es/p/salchichas-frankfurt-sabor-ahumado/7404408",
-          "fetched": "2026-11-13T00:17:38+00:00"
+          "fetched": "2026-11-13T08:42:51+01:00"
         }
+      }
+    },
+    "clavo": {
+      "name": "Clavo",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "34122",
+          "name": "Clavo en grano Hacendado",
+          "packaging": "Bote",
+          "price": 1.75,
+          "ref_price": 41.67,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/34122/clavo-grano-hacendado-bote",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "10591",
+          "name": "Clavos Enteros Tarro 23 Gr",
+          "packaging": null,
+          "price": 3.59,
+          "ref_price": 156.1,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/clavos-enteros-tarro/557314",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "canela-rama": {
+      "name": "Canela en rama",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "52880",
+          "name": "Canela Ceylan en rama Hacendado",
+          "packaging": "Bote",
+          "price": 1.5,
+          "ref_price": 78.95,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/52880/canela-rama-hacendado-bote",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601612800",
+          "name": "Canela en rama",
+          "packaging": "20 g kilo",
+          "price": 1.15,
+          "ref_price": 57.5,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/canela-en-rama-601612800.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "39333",
+          "name": "Canela en Rama 20 Gr",
+          "packaging": null,
+          "price": 1.5,
+          "ref_price": 75.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/canela-en-rama/7435852",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "comino": {
+      "name": "Comino",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "34120",
+          "name": "Comino molido Hacendado",
+          "packaging": "Bote",
+          "price": 1.15,
+          "ref_price": 19.83,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/34120/comino-molido-hacendado-bote",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "897000",
+          "name": "Comino molido",
+          "packaging": "45 g unidad",
+          "price": 0.89,
+          "ref_price": 19.78,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/comino-molido-897000.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "35872",
+          "name": "Comino Molido 60 Gr",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 20.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/comino-molido/7435857",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "pimienta-negra": {
+      "name": "Pimienta negra",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "34171",
+          "name": "Pimienta negra molida Hacendado",
+          "packaging": "Bote",
+          "price": 1.3,
+          "ref_price": 18.57,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/34171/pimienta-negra-molida-hacendado-bote",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "870700",
+          "name": "Pimienta negra molida",
+          "packaging": "50 g unidad",
+          "price": 0.75,
+          "ref_price": 15.0,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/pimienta-negra-molida-870700.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "27756",
+          "name": "Mousse de Pato Pimienta Negra 75 Gr",
+          "packaging": null,
+          "price": 1.35,
+          "ref_price": 18.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/mousse-de-pato-pimienta-negra/7384324",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "pimenton-picante": {
+      "name": "Pimentón picante",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "34183",
+          "name": "Pimentón picante Hacendado",
+          "packaging": "Bote",
+          "price": 1.35,
+          "ref_price": 22.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/34183/pimenton-picante-hacendado-bote",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601613400",
+          "name": "Pimentón picante",
+          "packaging": "50 g kilo",
+          "price": 1.19,
+          "ref_price": 23.8,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/pimenton-picante-601613400.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "39334",
+          "name": "Pimentón Picante 58 Gr",
+          "packaging": null,
+          "price": 1.3,
+          "ref_price": 22.41,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/pimenton-picante/7435860",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "cilantro": {
+      "name": "Cilantro (seco)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69690",
+          "name": "Cilantro",
+          "packaging": "Bandeja",
+          "price": 1.25,
+          "ref_price": 62.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69690/cilantro-bandeja",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "5398",
+          "name": "Cilantro Bandeja 20 Gr",
+          "packaging": null,
+          "price": 1.25,
+          "ref_price": 62.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/cilantro-bandeja/7004138",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "oregano": {
+      "name": "Orégano",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "21584",
+          "name": "Galletas saladas con semillas y orégano Hacendado",
+          "packaging": "Paquete",
+          "price": 1.45,
+          "ref_price": 5.8,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/21584/galletas-saladas-semillas-oregano-hacendado-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "600719200",
+          "name": "Orégano en hoja",
+          "packaging": "65 g unidad",
+          "price": 1.95,
+          "ref_price": 30.0,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/oregano-en-hoja-600719200.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "27475",
+          "name": "Salsa Tomate Albahaca y Orégano 300 Gr",
+          "packaging": null,
+          "price": 1.45,
+          "ref_price": 4.83,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/salsa-tomate-albahaca-y-oregano/7372170",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "ajo-polvo": {
+      "name": "Ajo en polvo",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "86656",
+          "name": "Ajo granulado Hacendado",
+          "packaging": "Bote",
+          "price": 1.25,
+          "ref_price": 10.87,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/86656/ajo-granulado-hacendado-bote",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "118800",
+          "name": "Ajo en polvo",
+          "packaging": "70 g unidad",
+          "price": 0.69,
+          "ref_price": 9.86,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/ajo-en-polvo-118800.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": null
+      }
+    },
+    "romero": {
+      "name": "Romero",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "82651",
+          "name": "Crackers sin gluten Hacendado con romero",
+          "packaging": "Paquete",
+          "price": 1.7,
+          "ref_price": 8.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/82651/crackers-sin-gluten-hacendado-con-romero-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "44628",
+          "name": "Focaccia Romero 4 Unidades 240 Gr",
+          "packaging": null,
+          "price": 2.15,
+          "ref_price": 8.96,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/focaccia-romero-4-unidades/7467285",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "miel-flores": {
+      "name": "Miel de flores",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "15436",
+          "name": "Miel de flores Hacendado",
+          "packaging": "Tarro",
+          "price": 5.0,
+          "ref_price": 5.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/15436/miel-flores-hacendado-tarro",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "600985400",
+          "name": "Miel de flores",
+          "packaging": "1 kg unidad",
+          "price": 4.89,
+          "ref_price": 4.89,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/miel-de-flores-600985400.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "33522",
+          "name": "Miel Mil Flores Cruda Tarro 500 Gr",
+          "packaging": null,
+          "price": 4.95,
+          "ref_price": 9.9,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/miel-mil-flores-cruda-tarro/7433001",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "aceite-sesamo": {
+      "name": "Aceite de sésamo",
+      "unit": "L",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "31832",
+          "name": "Aceite de Sésamo Botella 200 ml",
+          "packaging": null,
+          "price": 3.39,
+          "ref_price": 16.95,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/aceite-de-sesamo-botella/7420610",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "salsa-soja": {
+      "name": "Salsa de soja",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "17360",
+          "name": "Salsa de Soja Hacendado",
+          "packaging": "Botella",
+          "price": 1.2,
+          "ref_price": 4.8,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/17360/salsa-soja-hacendado-botella",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "481500",
+          "name": "Salsa de soja",
+          "packaging": "250 ml unidad",
+          "price": 1.15,
+          "ref_price": 4.6,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/salsa-de-soja-481500.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "45744",
+          "name": "SALSA SOJA 250 ml",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 4.8,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/salsa-soja/7468861",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "ajo": {
+      "name": "Ajo entero",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "16008",
+          "name": "Pimientos del piquillo en tiras con ajo Hacendado",
+          "packaging": "Tarro",
+          "price": 1.05,
+          "ref_price": 4.47,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/16008/pimientos-piquillo-tiras-con-ajo-hacendado-tarro",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "17952",
+          "name": "Pimiento Piquillo Tiras con Ajos Frasco 225 Gr",
+          "packaging": null,
+          "price": 1.05,
+          "ref_price": 4.67,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/pimiento-piquillo-tiras-con-ajos-frasco/7306731",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "espaguetis": {
+      "name": "Espaguetis (fideo largo)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": null,
+        "aldi": {
+          "product_id": "713303",
+          "name": "Espaguetis de soja ecológicos",
+          "packaging": "200 g unidad",
+          "price": 2.99,
+          "ref_price": 14.95,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/espaguetis-de-soja-ecologicos-713303.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "8529",
+          "name": "Spaghetti Paquete 1 Kg",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 1.2,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/spaghetti-paquete/7262488",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "fideos": {
+      "name": "Fideos (fideo corto)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "13577",
+          "name": "Fideo cabello de ángel Hacendado",
+          "packaging": "Paquete",
+          "price": 0.85,
+          "ref_price": 1.7,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/13577/fideo-cabello-angel-hacendado-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601230300",
+          "name": "Fideo mediano",
+          "packaging": "500 g unidad",
+          "price": 0.85,
+          "ref_price": 1.7,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/fideo-mediano-601230300.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "5752",
+          "name": "Fideos Cabellín Paquete 500 Gr",
+          "packaging": null,
+          "price": 0.85,
+          "ref_price": 1.7,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/fideos-cabellin-paquete/7060598",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "copos-avena": {
+      "name": "Copos de avena",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "86341",
+          "name": "Copos de avena Brüggen",
+          "packaging": "Caja",
+          "price": 1.3,
+          "ref_price": 1.62,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/86341/copos-avena-bruggen-caja",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601491500",
+          "name": "Copos de avena integral",
+          "packaging": "1 kg unidad",
+          "price": 1.29,
+          "ref_price": 1.29,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/copos-de-avena-integral-601491500.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "33872",
+          "name": "Copos de Avena 500 Gr",
+          "packaging": null,
+          "price": 0.89,
+          "ref_price": 1.78,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/copos-de-avena/7427933",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "lentejas": {
+      "name": "Lentejas secas",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "5330",
+          "name": "Lenteja pardina Hacendado",
+          "packaging": "Paquete",
+          "price": 1.85,
+          "ref_price": 1.85,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/5330/lenteja-pardina-hacendado-categoria-extra-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "500200",
+          "name": "Lenteja",
+          "packaging": "1 kg unidad",
+          "price": 1.45,
+          "ref_price": 1.45,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/lenteja-500200.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "31696",
+          "name": "Lenteja Parda Roja 1 Kg",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 1.65,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/lenteja-parda-roja/7415029",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "manzanilla": {
+      "name": "Infusión de manzanilla",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": {
+          "product_id": "420000",
+          "name": "Infusión manzanilla",
+          "packaging": "pack de 25 bolsitas",
+          "price": 0.74,
+          "ref_price": 0.03,
+          "ref_unit": "ud",
+          "url": "https://www.aldi.es/producto/infusion-manzanilla-420000.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "25419",
+          "name": "Manzanilla 20 Bolsitas 20 U",
+          "packaging": null,
+          "price": 0.65,
+          "ref_price": 0.033,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/manzanilla-20-bolsitas/7342389",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "infusion-manzana-canela": {
+      "name": "Infusión de manzana y canela",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": null
+      }
+    },
+    "poleo-menta": {
+      "name": "Infusión de poleo menta",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "25420",
+          "name": "Menta Poleo 20 Bolsitas 20 U",
+          "packaging": null,
+          "price": 0.75,
+          "ref_price": 0.037,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/menta-poleo-20-bolsitas/7342392",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "tila": {
+      "name": "Infusión de tila",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "25243",
+          "name": "Tila 20 Bolsitas 20 U",
+          "packaging": null,
+          "price": 0.85,
+          "ref_price": 0.042,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/tila-20-bolsitas/7342413",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "te-verde": {
+      "name": "Té verde",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": {
+          "product_id": "421903",
+          "name": "Té verde limón",
+          "packaging": "pack de 25 bolsitas",
+          "price": 0.89,
+          "ref_price": 0.036,
+          "ref_unit": "ud",
+          "url": "https://www.aldi.es/producto/te-verde-limon-421903.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "25127",
+          "name": "Té Verde 20 Bolsitas 20 U",
+          "packaging": null,
+          "price": 0.75,
+          "ref_price": 0.037,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/te-verde-20-bolsitas/7342400",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "rooibos": {
+      "name": "Rooibos",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "35475",
+          "name": "Rooibos Frambuesa 20 Bolsitas 20 U",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 0.057,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/rooibos-frambuesa-20-bolsitas/7438492",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "infusion-frutos-rojos": {
+      "name": "Infusión de frutos rojos",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": null
+      }
+    },
+    "maiz-palomitas": {
+      "name": "Maíz para palomitas",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "14347",
+          "name": "Maíz palomitas Hacendado",
+          "packaging": "Paquete",
+          "price": 1.05,
+          "ref_price": 3.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/14347/maiz-palomitas-hacendado-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "5725",
+          "name": "Maíz Crudo Palomitas Bolsa 250 Gr",
+          "packaging": null,
+          "price": 0.88,
+          "ref_price": 3.52,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/maiz-crudo-palomitas-bolsa/7056570",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "chia": {
+      "name": "Semillas de chía",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "9536",
+          "name": "Muesli Hacendado con quinoa, chía y chocolate negro",
+          "packaging": "Paquete",
+          "price": 2.4,
+          "ref_price": 6.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/9536/muesli-hacendado-con-quinoa-chia-chocolate-negro-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "17560",
+          "name": "Arroz Integral con Chía y Quinoa 2 x 125 Gr",
+          "packaging": null,
+          "price": 1.49,
+          "ref_price": 5.96,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/arroz-integral-con-chia-y-quinoa/7302990",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "sesamo": {
+      "name": "Semillas de sésamo",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "9369",
+          "name": "Media Hogaza integral de avena, semillas de girasol y sésamo Hacendado rebanado",
+          "packaging": "Paquete",
+          "price": 0.95,
+          "ref_price": 2.71,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/9369/media-hogaza-integral-avena-semillas-girasol-sesamo-rebanado-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "24638",
+          "name": "Crackers Fibra y Sésamo Harina Integral Centeno 240 Gr",
+          "packaging": null,
+          "price": 1.18,
+          "ref_price": 4.92,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/crackers-fibra-y-sesamo-harina-integral-centeno/7357221",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "alubia-roja": {
+      "name": "Alubia roja (seca)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "67609",
+          "name": "Alubia roja Hacendado",
+          "packaging": "Paquete",
+          "price": 3.0,
+          "ref_price": 3.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/67609/alubia-roja-hacendado-categoria-extra-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "30970",
+          "name": "Alubias Rojas Paquete 500 Gr",
+          "packaging": null,
+          "price": 1.75,
+          "ref_price": 3.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/alubias-rojas-paquete/7412914",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "alubia-pinta": {
+      "name": "Alubia pinta (seca)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "23453",
+          "name": "Alubia pinta Hacendado",
+          "packaging": "Paquete",
+          "price": 2.3,
+          "ref_price": 2.3,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/23453/alubia-pinta-hacendado-categoria-extra-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "19522",
+          "name": "Alubia Pinta Paquete 1 Kg",
+          "packaging": null,
+          "price": 2.4,
+          "ref_price": 2.4,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/alubia-pinta-paquete/7316750",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "alubia-negra": {
+      "name": "Alubia negra (seca)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "67608",
+          "name": "Alubia negra Hacendado",
+          "packaging": "Paquete",
+          "price": 2.45,
+          "ref_price": 2.45,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/67608/alubia-negra-hacendado-categoria-extra-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": null
+      }
+    },
+    "jamon-iberico": {
+      "name": "Jamón ibérico (lonchas)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "8566",
+          "name": "Jamón de cebo ibérico 50% La Hacienda del Ibérico",
+          "packaging": "Pieza",
+          "price": 153.0,
+          "ref_price": 18.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/8566/jamon-cebo-iberico-hacienda-iberico-pieza",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "600152500",
+          "name": "Jamón de cebo ibérico 50% R.I.",
+          "packaging": "8 - 9 kg aprox. unidad",
+          "price": 149.0,
+          "ref_price": 17.53,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/jamon-de-cebo-iberico-50percent-ri-600152500.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "47293",
+          "name": "Jamón Cebo 50% Ibérico Pieza 8 Kg aprox. 8 Kg",
+          "packaging": null,
+          "price": 169.0,
+          "ref_price": 21.13,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/jamon-cebo-50-iberico-pieza-8-kg-aprox/7481807",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "tomate-frito": {
+      "name": "Tomate frito",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "17132",
+          "name": "Tomate frito Hacendado",
+          "packaging": "Pack-3",
+          "price": 1.35,
+          "ref_price": 1.12,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/17132/tomate-frito-hacendado-pack-3",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "506400",
+          "name": "Tomate frito",
+          "packaging": "550 g unidad",
+          "price": 0.74,
+          "ref_price": 1.35,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/tomate-frito-506400.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "15650",
+          "name": "Tomate Frito Brik Pack de 3 3 x 390 Gr",
+          "packaging": null,
+          "price": 1.35,
+          "ref_price": 1.15,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/tomate-frito-brik-pack-de-3/7290521",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "ketchup-sin-azucar": {
+      "name": "Ketchup sin azúcar añadido",
+      "unit": "kg",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": null
+      }
+    },
+    "tomate": {
+      "name": "Tomates (ensalada)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69937",
+          "name": "Tomate ensalada",
+          "packaging": "Pieza",
+          "price": 0.55,
+          "ref_price": 2.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "4703",
+          "name": "Tomate Ensalada",
+          "packaging": null,
+          "price": 0.51,
+          "ref_price": 2.55,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/tomate-ensalada/60012",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "zanahoria": {
+      "name": "Zanahorias",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69586",
+          "name": "Zanahorias",
+          "packaging": "Paquete",
+          "price": 1.2,
+          "ref_price": 1.2,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69586/zanahorias-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "981900",
+          "name": "Zanahoria",
+          "packaging": "1 kg unidad",
+          "price": 0.89,
+          "ref_price": 0.89,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/zanahoria-981900.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "5321",
+          "name": "Zanahoria de Mesa Bolsa 1 Kg",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 1.2,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/zanahoria-de-mesa-bolsa/4501508",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "lechuga": {
+      "name": "Lechuga iceberg",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69670",
+          "name": "Lechuga iceberg cortada y lavada",
+          "packaging": "Paquete",
+          "price": 0.95,
+          "ref_price": 3.8,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69670/lechuga-iceberg-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "4710",
+          "name": "Lechuga Iceberg Peso Aproximado 350 Gr. 0,35 Kg",
+          "packaging": null,
+          "price": 1.05,
+          "ref_price": 3.0,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/lechuga-iceberg-peso-aproximado-350-gr/71126",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "calabacin": {
+      "name": "Calabacín",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69338",
+          "name": "Calabacín verde",
+          "packaging": "Pieza",
+          "price": 0.56,
+          "ref_price": 1.4,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "5355",
+          "name": "Calabacín Verde",
+          "packaging": null,
+          "price": 0.64,
+          "ref_price": 1.4,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/calabacin-verde/5526694",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "uva": {
+      "name": "Uva",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "3321",
+          "name": "Uva roja sin semillas",
+          "packaging": "Bandeja",
+          "price": 2.76,
+          "ref_price": 4.6,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/3321/uva-roja-sin-semillas-bandeja",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "14336",
+          "name": "Uva Aledo",
+          "packaging": null,
+          "price": 3.99,
+          "ref_price": 3.99,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/uva-aledo/7114510",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "mandarina": {
+      "name": "Mandarinas",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "35683",
+          "name": "Gelatina 0% azúcar sabores fresa, mandarina y limón Hacendado",
+          "packaging": "Pack-6",
+          "price": 1.0,
+          "ref_price": 1.67,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/35683/gelatina-0-azucar-sabores-fresa-mandarina-limon-hacendado-pack-6",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "991000",
+          "name": "Mandarina",
+          "packaging": "precio kg (a granel)",
+          "price": 1.59,
+          "ref_price": 1.59,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/mandarina-991000.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "33196",
+          "name": "Mandarina Malla 1,5 Kg",
+          "packaging": null,
+          "price": 2.93,
+          "ref_price": 1.95,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/mandarina-malla/7431430",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "lima": {
+      "name": "Lima",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "3897",
+          "name": "Lima",
+          "packaging": "Pieza",
+          "price": 0.34,
+          "ref_price": 4.8,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/3897/lima-pieza",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "215200",
+          "name": "Limas",
+          "packaging": "250 g unidad",
+          "price": 0.99,
+          "ref_price": 3.96,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/limas-215200.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "6791",
+          "name": "Lima Bandeja 250 Gr",
+          "packaging": null,
+          "price": 1.59,
+          "ref_price": 6.36,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/lima-bandeja/7177165",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "pera": {
+      "name": "Peras",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "14470",
+          "name": "Peras Conferencia",
+          "packaging": null,
+          "price": 2.55,
+          "ref_price": 2.3,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/14470/peras-conferencia",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "984700",
+          "name": "Pera",
+          "packaging": "1 kg unidad",
+          "price": 1.59,
+          "ref_price": 1.59,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/pera-984700.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "4683",
+          "name": "Pera Conferencia",
+          "packaging": null,
+          "price": 0.6,
+          "ref_price": 2.49,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/pera-conferencia/17210",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "manzana": {
+      "name": "Manzanas",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "8280",
+          "name": "Manzanas rojas dulces",
+          "packaging": null,
+          "price": 2.83,
+          "ref_price": 1.8,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/8280/manzanas-rojas-dulces-bolsa",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "43000",
+          "name": "Manzana",
+          "packaging": "precio kg (a granel)",
+          "price": 1.89,
+          "ref_price": 1.89,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/manzana-43000.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "47145",
+          "name": "Manzana Golden Bolsa 1,5 Kg",
+          "packaging": null,
+          "price": 2.69,
+          "ref_price": 1.79,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/manzana-golden-bolsa/7487775",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "platano": {
+      "name": "Plátanos",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "20613",
+          "name": "Bebida láctea de fresa y plátano Hacendado",
+          "packaging": "Botella",
+          "price": 1.5,
+          "ref_price": 1.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/20613/bebida-lactea-fresa-platano-hacendado-botella",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "12028",
+          "name": "L Casei Fresa-Plátano y Galleta Pack 12 ud. 12 x 100 Gr",
+          "packaging": null,
+          "price": 2.25,
+          "ref_price": 1.88,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/l-casei-fresa-platano-y-galleta-pack-12-ud/7199839",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "guacamole": {
+      "name": "Guacamole",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "3840",
+          "name": "Guacamole Hacendado",
+          "packaging": "Tarrina",
+          "price": 3.95,
+          "ref_price": 7.9,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/3840/guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "298802",
+          "name": "Guacamole picante",
+          "packaging": "200 g unidad",
+          "price": 1.69,
+          "ref_price": 8.45,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/guacamole-picante-298802.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "24230",
+          "name": "Guacamole Tarrina 500 Gr",
+          "packaging": null,
+          "price": 3.95,
+          "ref_price": 7.9,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/guacamole-tarrina/7357762",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "mantequilla": {
+      "name": "Mantequilla",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "63474",
+          "name": "Masa fresca Hacendado hojaldre con mantequilla",
+          "packaging": null,
+          "price": 2.85,
+          "ref_price": 5.48,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/63474/masa-fresca-hacendado-hojaldre-con-mantequilla-pack-2",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "731700",
+          "name": "Mantequilla ligera",
+          "packaging": "250 g unidad",
+          "price": 2.09,
+          "ref_price": 8.36,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/mantequilla-ligera-731700.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "33112",
+          "name": "Pan Brioche con Mantequilla 450 Gr",
+          "packaging": null,
+          "price": 2.79,
+          "ref_price": 6.2,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/pan-brioche-con-mantequilla/7430668",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "zumo-lima": {
+      "name": "Zumo de lima",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "21889",
+          "name": "Cocktail sabor caipirinha coco sin alcohol Pi.omka con zumo de lima",
+          "packaging": "Botellín",
+          "price": 1.3,
+          "ref_price": 4.73,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/21889/cocktail-sabor-caipirinha-coco-sin-alcohol-piomka-con-zumo-lima-botellin",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601494604",
+          "name": "Zumo de lima concentrado",
+          "packaging": "200 ml unidad",
+          "price": 0.95,
+          "ref_price": 4.75,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/zumo-de-lima-concentrado-601494604.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": null
+      }
+    },
+    "mayonesa-light": {
+      "name": "Mayonesa light",
+      "unit": "L",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": null
+      }
+    },
+    "mostaza": {
+      "name": "Mostaza",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "23410",
+          "name": "Mostaza clásica Hacendado",
+          "packaging": "Bote",
+          "price": 1.25,
+          "ref_price": 3.22,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/23410/mostaza-clasica-hacendado-bote",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "256302",
+          "name": "Mostaza a la antigua",
+          "packaging": "190 g unidad",
+          "price": 1.09,
+          "ref_price": 5.74,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/mostaza-a-la-antigua-256302.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "18816",
+          "name": "Mostaza 300 Gr",
+          "packaging": null,
+          "price": 0.99,
+          "ref_price": 3.3,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/mostaza/7309391",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "salsa-barbacoa": {
+      "name": "Salsa barbacoa",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "17346",
+          "name": "Salsa Barbacoa Hacendado",
+          "packaging": "Bote",
+          "price": 1.15,
+          "ref_price": 3.29,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/17346/salsa-barbacoa-hacendado-bote",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "34982",
+          "name": "Salsa Barbacoa 360 Gr",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 3.19,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/p/salsa-barbacoa/7438518",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "lavavajillas-mano": {
+      "name": "Lavavajillas a mano",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "42441",
+          "name": "Lavavajillas a mano Bosque Verde",
+          "packaging": "Botella",
+          "price": 1.15,
+          "ref_price": 0.89,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/42441/lavavajillas-mano-bosque-verde-botella",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601226000",
+          "name": "Lavavajillas a mano",
+          "packaging": "1,3 l unidad",
+          "price": 0.99,
+          "ref_price": 0.76,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/lavavajillas-a-mano-601226000.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "33328",
+          "name": "Lavavajillas a Mano Diluído 1,3 L",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 0.88,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/p/lavavajillas-a-mano-diluido/7407492",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "bolsas-basura": {
+      "name": "Bolsas de basura",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "22985",
+          "name": "Bolsas de basura 5L Bosque Verde perfumadas",
+          "packaging": "Paquete",
+          "price": 1.35,
+          "ref_price": 0.034,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/22985/bolsa-basura-mini-bosque-verde-5l-cubo-pequeno-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601307200",
+          "name": "Bolsa de basura para baño",
+          "packaging": "pack de 75 unidades",
+          "price": 1.35,
+          "ref_price": 0.018,
+          "ref_unit": "ud",
+          "url": "https://www.aldi.es/producto/bolsa-de-basura-para-bano-601307200.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "45309",
+          "name": "Bolsa Basura Autocierre Cubo Mini 5 Litros 40 U",
+          "packaging": null,
+          "price": 1.35,
+          "ref_price": 0.034,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/bolsa-basura-autocierre-cubo-mini-5-litros/7464142",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "bolsas-reutilizables": {
+      "name": "Bolsas reutilizables",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "49224",
+          "name": "Bolsas congelación medianas Bosque Verde reutilizables",
+          "packaging": "Caja",
+          "price": 0.85,
+          "ref_price": 0.022,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/49224/bolsas-congelacion-medianas-bosque-verde-22-x-35-cm-caja",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "7468",
+          "name": "Bolsas Reutilizables Multiusos Zip Pequeña 20 U",
+          "packaging": null,
+          "price": 1.3,
+          "ref_price": 0.065,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/bolsas-reutilizables-multiusos-zip-pequena/7216794",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "bolsas-cierre": {
+      "name": "Bolsas con cierre",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": null
+      }
+    },
+    "film": {
+      "name": "Papel film",
+      "unit": "m",
+      "stores": {
+        "mercadona": {
+          "product_id": "60294",
+          "name": "Film transparente Bosque Verde con sierra deslizante",
+          "packaging": "Caja",
+          "price": 1.95,
+          "ref_price": 0.025,
+          "ref_unit": "m",
+          "url": "https://tienda.mercadona.es/product/60294/film-transparente-bosque-verde-con-sierra-deslizante-caja",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "23552",
+          "name": "Film Transparente 80 M",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 0.021,
+          "ref_unit": "m",
+          "url": "https://tienda.consum.es/es/p/film-transparente/7342418",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "aluminio": {
+      "name": "Papel de aluminio",
+      "unit": "m",
+      "stores": {
+        "mercadona": {
+          "product_id": "49000",
+          "name": "Papel de aluminio Bosque Verde",
+          "packaging": "Caja",
+          "price": 2.25,
+          "ref_price": 0.075,
+          "ref_unit": "m",
+          "url": "https://tienda.mercadona.es/product/49000/papel-aluminio-bosque-verde-caja",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601307700",
+          "name": "Papel de aluminio",
+          "packaging": "30 metros unidad",
+          "price": 2.15,
+          "ref_price": 0.072,
+          "ref_unit": "m",
+          "url": "https://www.aldi.es/producto/papel-de-aluminio-601307700.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": null
+      }
+    },
+    "bayetas": {
+      "name": "Bayetas / trapos de limpieza",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "71044",
+          "name": "Bayeta suave multiusos Bosque Verde",
+          "packaging": "Paquete",
+          "price": 1.2,
+          "ref_price": 0.134,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/71044/bayeta-suave-multiusos-bosque-verde-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": {
+          "product_id": "601307300",
+          "name": "Bayetas multiusos",
+          "packaging": "pack de 6 unidades",
+          "price": 0.77,
+          "ref_price": 0.128,
+          "ref_unit": "ud",
+          "url": "https://www.aldi.es/producto/bayetas-multiusos-601307300.html",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "dia": null,
+        "consum": {
+          "product_id": "7224",
+          "name": "Bayeta Multiusos Suave Colores 6 U",
+          "packaging": null,
+          "price": 0.84,
+          "ref_price": 0.14,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/bayeta-multiusos-suave-colores/7202534",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "panos-absorbentes": {
+      "name": "Paños absorbentes (rollo)",
+      "unit": "ud",
+      "stores": {
+        "mercadona": null,
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "7169",
+          "name": "Rollo Bayeta Amarilla Multiusos 1 U",
+          "packaging": null,
+          "price": 1.4,
+          "ref_price": 1.4,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/rollo-bayeta-amarilla-multiusos/7199693",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "papel-cocina": {
+      "name": "Papel de cocina",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "49176",
+          "name": "Papel cocina Gigante Absorbente Bosque Verde",
+          "packaging": "Paquete",
+          "price": 2.95,
+          "ref_price": 2.95,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/49176/papel-cocina-gigante-absorbente-bosque-verde-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "6809",
+          "name": "Papel Cocina Blanco 4 U",
+          "packaging": null,
+          "price": 2.19,
+          "ref_price": 0.547,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/p/papel-cocina-blanco/7178234",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        }
+      }
+    },
+    "papel-higienico": {
+      "name": "Papel higiénico",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "47835",
+          "name": "Papel higiénico doble hoja Bosque Verde",
+          "packaging": "Paquete",
+          "price": 2.4,
+          "ref_price": 0.2,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/47835/papel-higienico-doble-hoja-bosque-verde-paquete",
+          "fetched": "2026-11-13T08:42:51+01:00"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": null
       }
     }
   },
-  "updated": "2026-11-13T00:17:38+00:00"
+  "updated": "2026-11-13T08:42:51+01:00"
 }

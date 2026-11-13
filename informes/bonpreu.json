@@ -1,57 +1,57 @@
 {
   "leche-entera": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "81177",
-        "name": "BONPREU Llet sencera en cartró",
-        "packaging": "1L",
-        "price": 0.96,
-        "ref_price": 0.96,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81177"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "huevos": {
-    "modo": "fijado",
-    "candidatos": [
-      {
-        "product_id": "38974",
-        "name": "BONPREU Ous frescos de gallines soltes en el galliner L",
-        "packaging": "12 per paquet",
-        "price": 3.05,
-        "ref_price": 3.05,
-        "ref_unit": "docena",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38974"
-      }
-    ]
+    "modo": "omitido",
+    "candidatos": []
   },
   "arroz": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "azucar": {
     "modo": "fijado",
     "candidatos": [
       {
-        "product_id": "00731",
-        "name": "NOMEN Arròs rodó",
+        "product_id": "37758",
+        "name": "SUCREBÓ Sucre blanc",
         "packaging": "1kg",
-        "price": 1.89,
-        "ref_price": 1.89,
+        "price": 0.9,
+        "ref_price": 0.9,
         "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00731"
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37758"
       }
     ]
   },
-  "azucar": {
-    "modo": "omitido",
-    "candidatos": []
-  },
   "sal": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "00079",
+        "name": "BONPREU Sal fina marina",
+        "packaging": "1kg",
+        "price": 0.4,
+        "ref_price": 0.4,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00079"
+      }
+    ]
   },
   "ternera": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "37398",
+        "name": "BONPREU DE L'ERA Picada de carn de vedella",
+        "packaging": "0.8kg",
+        "price": 11.65,
+        "ref_price": 14.56,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37398"
+      }
+    ]
   },
   "pollo": {
     "modo": "omitido",
@@ -154,6 +154,242 @@
     "candidatos": []
   },
   "salchichas-frankfurt": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "clavo": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "canela-rama": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "comino": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "pimienta-negra": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "pimenton-picante": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "cilantro": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "oregano": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "ajo-polvo": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "romero": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "miel-flores": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "aceite-sesamo": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "salsa-soja": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "ajo": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "espaguetis": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "fideos": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "copos-avena": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "lentejas": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "manzanilla": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "infusion-manzana-canela": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "poleo-menta": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "tila": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "te-verde": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "rooibos": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "infusion-frutos-rojos": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "maiz-palomitas": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "chia": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "sesamo": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "alubia-roja": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "alubia-pinta": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "alubia-negra": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "jamon-iberico": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "tomate-frito": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "ketchup-sin-azucar": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "tomate": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "zanahoria": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "lechuga": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "calabacin": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "uva": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "mandarina": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "lima": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "pera": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "manzana": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "platano": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "guacamole": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "mantequilla": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "zumo-lima": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "mayonesa-light": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "mostaza": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "salsa-barbacoa": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "lavavajillas-mano": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "bolsas-basura": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "bolsas-reutilizables": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "bolsas-cierre": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "film": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "aluminio": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "bayetas": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "panos-absorbentes": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "papel-cocina": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "papel-higienico": {
     "modo": "omitido",
     "candidatos": []
   }
