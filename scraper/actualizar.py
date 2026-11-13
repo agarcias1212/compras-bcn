@@ -109,7 +109,11 @@ def main(argv):
             if prod["id"] not in resultados and informe.get(prod["id"], {}).get("modo") == "omitido":
                 continue   # la cadena no respondió: se conserva el precio anterior (con su fecha)
             r = resultados.get(prod["id"])
-            entrada.setdefault("stores", {})[cadena] = dict(r, fetched=ahora) if r else None
+            previo = entrada.setdefault("stores", {}).get(cadena) or {}
+            nuevo = dict(r, fetched=ahora) if r else None
+            if nuevo and previo.get("image") and previo.get("product_id") == nuevo.get("product_id"):
+                nuevo["image"] = previo["image"]   # misma ficha: se conserva su foto
+            entrada["stores"][cadena] = nuevo
             nuevo = informe[prod["id"]].get("nuevo_pin")
             if nuevo:
                 prod.setdefault("pinned", {})[cadena] = nuevo

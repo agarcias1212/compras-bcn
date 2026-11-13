@@ -24,6 +24,8 @@ if ! python3 scraper/actualizar.py; then
   exit 1
 fi
 
+python3 scraper/imagenes.py || echo "Aviso: fallo al descargar fotos; se continúa."
+
 git add -A
 if git diff --cached --quiet; then
   echo "Sin cambios que publicar."
