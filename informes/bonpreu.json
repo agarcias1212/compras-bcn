@@ -48,21 +48,8 @@
     "candidatos": []
   },
   "nuez-moscada": {
-    "modo": "busqueda",
-    "query": "nou moscada molta",
-    "candidatos": [
-      {
-        "product_id": "18975",
-        "name": "BONPREU Nou moscada molta",
-        "packaging": null,
-        "price": 1.26,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18975"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "margarina": {
     "modo": "omitido",
@@ -121,8 +108,30 @@
     "candidatos": []
   },
   "leche-evaporada": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "llet evaporada -lactosa",
+    "candidatos": [
+      {
+        "product_id": "81690",
+        "name": "IDEAL Llet evaporada per cuinar",
+        "packaging": null,
+        "price": 2.55,
+        "ref_price": 4.86,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81690"
+      },
+      {
+        "product_id": "27321",
+        "name": "IDEAL Llet evaporada per cuinar",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": 5.67,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27321"
+      }
+    ],
+    "elegido": "81690",
+    "nuevo_pin": "81690"
   },
   "patatas": {
     "modo": "omitido",
