@@ -3227,6 +3227,16 @@
           "url": "https://tienda.consum.es/es/p/tomate-frito-brik-pack-de-3/7290521",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/15650.jpg"
+        },
+        "bonpreu": {
+          "product_id": "01872",
+          "name": "BONPREU Tomàquet fregit",
+          "packaging": null,
+          "price": 0.55,
+          "ref_price": 1.41,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01872",
+          "fetched": "2026-11-14T20:25:01+01:00"
         }
       }
     },
@@ -5035,5 +5045,5 @@
       }
     }
   },
-  "updated": "2026-11-14T20:19:24+01:00"
+  "updated": "2026-11-14T20:25:01+01:00"
 }
