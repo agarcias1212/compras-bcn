@@ -308,21 +308,8 @@
     "candidatos": []
   },
   "zumo-lima": {
-    "modo": "busqueda",
-    "query": "suc llima",
-    "candidatos": [
-      {
-        "product_id": "87516",
-        "name": "LIMASOL Suc de llima",
-        "packaging": null,
-        "price": 1.39,
-        "ref_price": 4.96,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87516"
-      }
-    ],
-    "elegido": "87516",
-    "nuevo_pin": "87516"
+    "modo": "omitido",
+    "candidatos": []
   },
   "mayonesa-light": {
     "modo": "omitido",
@@ -333,16 +320,145 @@
     "candidatos": []
   },
   "salsa-barbacoa": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "salsa barbacoa",
+    "candidatos": [
+      {
+        "product_id": "88768",
+        "name": "HEINZ Salsa Barbacoa Classic",
+        "packaging": null,
+        "price": 3.49,
+        "ref_price": 7.27,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88768"
+      },
+      {
+        "product_id": "51517",
+        "name": "PRIMA Salsa barbacoa Cero",
+        "packaging": null,
+        "price": 2.29,
+        "ref_price": 8.64,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/51517"
+      },
+      {
+        "product_id": "96859",
+        "name": "BULL'S EYE Salsa barbacoa original",
+        "packaging": null,
+        "price": 3.75,
+        "ref_price": 11.19,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/96859"
+      }
+    ],
+    "elegido": "88768",
+    "nuevo_pin": "88768"
   },
   "lavavajillas-mano": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "rentavaixelles ma",
+    "candidatos": [
+      {
+        "product_id": "92928",
+        "name": "FAIRY Rentavaixelles Maxi Poder",
+        "packaging": null,
+        "price": 3.85,
+        "ref_price": 8.56,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/92928"
+      },
+      {
+        "product_id": "19261",
+        "name": "BONPREU Rentavaixelles fruites vermelles",
+        "packaging": null,
+        "price": 1.45,
+        "ref_price": 1.45,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/19261"
+      },
+      {
+        "product_id": "06075",
+        "name": "FINISH Abrillantador per a rentavaixelles",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 9.9,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/06075"
+      },
+      {
+        "product_id": "01313",
+        "name": "SOMAT Abrillantador per a rentavaixelles",
+        "packaging": null,
+        "price": 3.99,
+        "ref_price": 7.98,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01313"
+      },
+      {
+        "product_id": "28874",
+        "name": "FINISH ULTIMATE Detergent rentavaixelles de 32 dosis",
+        "packaging": null,
+        "price": 9.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/28874"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "bolsas-basura": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "bossa escombraries",
+    "candidatos": [
+      {
+        "product_id": "16123",
+        "name": "BONPREU Bosses d'escombraries perfumades 30 L",
+        "packaging": null,
+        "price": 1.59,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/16123"
+      },
+      {
+        "product_id": "11052",
+        "name": "BONPREU Bosses d'escombraries 30 L",
+        "packaging": null,
+        "price": 1.35,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/11052"
+      },
+      {
+        "product_id": "60292",
+        "name": "BONPREU Bosses escombraries compostables 10 L",
+        "packaging": null,
+        "price": 1.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60292"
+      },
+      {
+        "product_id": "45328",
+        "name": "BONPREU Bosses d'escombraries mini 10 L",
+        "packaging": null,
+        "price": 1.05,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/45328"
+      },
+      {
+        "product_id": "48729",
+        "name": "BONPREU Bosses escombraries envasos 30 L",
+        "packaging": null,
+        "price": 1.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48729"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "bolsas-reutilizables": {
     "modo": "omitido",
