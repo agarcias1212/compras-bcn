@@ -5022,7 +5022,17 @@
           "image": "img/mercadona/35884.webp"
         },
         "aldi": null,
-        "consum": null
+        "consum": null,
+        "bonpreu": {
+          "product_id": "76353",
+          "name": "PIRINEUS Hamburguesa de vedella ecològica",
+          "packaging": null,
+          "price": 4.99,
+          "ref_price": 16.63,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/76353",
+          "fetched": "2026-11-14T20:47:05+01:00"
+        }
       }
     },
     "hamburguesa-pollo": {
@@ -5065,5 +5075,5 @@
       }
     }
   },
-  "updated": "2026-11-14T20:41:39+01:00"
+  "updated": "2026-11-14T20:47:05+01:00"
 }

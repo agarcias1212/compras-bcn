@@ -340,39 +340,8 @@
     "candidatos": []
   },
   "film": {
-    "modo": "busqueda",
-    "query": "film transparent",
-    "candidatos": [
-      {
-        "product_id": "86704",
-        "name": "BONPREU Film transparent i resistent 30 metres",
-        "packaging": null,
-        "price": 1.25,
-        "ref_price": 0.042,
-        "ref_unit": "m",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/86704"
-      },
-      {
-        "product_id": "85783",
-        "name": "ALBAL Film transparent  50 metres",
-        "packaging": null,
-        "price": 4.35,
-        "ref_price": 0.087,
-        "ref_unit": "m",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85783"
-      },
-      {
-        "product_id": "20538",
-        "name": "ALBAL Film transparent 30 metres",
-        "packaging": null,
-        "price": 2.69,
-        "ref_price": 0.09,
-        "ref_unit": "m",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20538"
-      }
-    ],
-    "elegido": "86704",
-    "nuevo_pin": "86704"
+    "modo": "omitido",
+    "candidatos": []
   },
   "aluminio": {
     "modo": "omitido",
@@ -395,8 +364,39 @@
     "candidatos": []
   },
   "hamburguesa-vacuno": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "hamburguesa vedella -pollastre -porc",
+    "candidatos": [
+      {
+        "product_id": "76353",
+        "name": "PIRINEUS Hamburguesa de vedella ecològica",
+        "packaging": null,
+        "price": 4.99,
+        "ref_price": 16.63,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/76353"
+      },
+      {
+        "product_id": "38791",
+        "name": "BONPREU DE L'ERA Hamburguesa de vedella eco",
+        "packaging": null,
+        "price": 3.2,
+        "ref_price": 21.33,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38791"
+      },
+      {
+        "product_id": "32190",
+        "name": "BONPREU DE L'ERA Hamburguesa de vedella ecològica",
+        "packaging": null,
+        "price": 5.25,
+        "ref_price": 21.88,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/32190"
+      }
+    ],
+    "elegido": "76353",
+    "nuevo_pin": "76353"
   },
   "hamburguesa-pollo": {
     "modo": "omitido",
