@@ -252,114 +252,16 @@
     "candidatos": []
   },
   "tomate-frito": {
-    "modo": "busqueda",
-    "query": "tomaquet fregit -sucre",
-    "candidatos": [
-      {
-        "product_id": "01872",
-        "name": "BONPREU Tomàquet fregit",
-        "packaging": null,
-        "price": 0.55,
-        "ref_price": 1.41,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01872"
-      },
-      {
-        "product_id": "04077",
-        "name": "BONPREU Tomàquet fregit",
-        "packaging": null,
-        "price": 0.9,
-        "ref_price": 1.43,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04077"
-      },
-      {
-        "product_id": "60771",
-        "name": "BONPREU Tomàquet fregit",
-        "packaging": null,
-        "price": 0.89,
-        "ref_price": 1.62,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60771"
-      },
-      {
-        "product_id": "15248",
-        "name": "BONPREU Tomàquet fregit amb oli d'oliva verge extra",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": 2.22,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/15248"
-      },
-      {
-        "product_id": "14967",
-        "name": "ORLANDO Tomàquet fregit",
-        "packaging": null,
-        "price": 2.79,
-        "ref_price": 2.66,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14967"
-      }
-    ],
-    "elegido": "01872",
-    "nuevo_pin": "01872"
+    "modo": "omitido",
+    "candidatos": []
   },
   "ketchup-sin-azucar": {
     "modo": "omitido",
     "candidatos": []
   },
   "tomate": {
-    "modo": "busqueda",
-    "query": "tomaquet amanida",
-    "candidatos": [
-      {
-        "product_id": "00944",
-        "name": "LA COLLITA Tomàquet cirerol pera en safata de 250 g",
-        "packaging": null,
-        "price": 1.49,
-        "ref_price": 5.96,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00944"
-      },
-      {
-        "product_id": "35281",
-        "name": " Tomàquet verd 1 u.",
-        "packaging": null,
-        "price": 0.54,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35281"
-      },
-      {
-        "product_id": "48199",
-        "name": " Tomàquet rosa de la reina 1 u.",
-        "packaging": null,
-        "price": 1.69,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48199"
-      },
-      {
-        "product_id": "75358",
-        "name": "LA COLLITA Tomàquet rosa en safata de 600 grams",
-        "packaging": null,
-        "price": 2.89,
-        "ref_price": 4.82,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75358"
-      },
-      {
-        "product_id": "80106",
-        "name": " Tomàquet Monterosa 1 u.",
-        "packaging": null,
-        "price": 1.19,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80106"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "zanahoria": {
     "modo": "omitido",
@@ -386,8 +288,57 @@
     "candidatos": []
   },
   "pera": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "pera -suc -tomaquet -compota",
+    "candidatos": [
+      {
+        "product_id": "90670",
+        "name": "LA COLLITA Pera conference km0 en safata d'1,5 kg",
+        "packaging": null,
+        "price": 3.59,
+        "ref_price": 2.39,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/90670"
+      },
+      {
+        "product_id": "07422",
+        "name": " Pera Conference Km0 1 u.",
+        "packaging": null,
+        "price": 0.47,
+        "ref_price": 2.49,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07422"
+      },
+      {
+        "product_id": "00324",
+        "name": " Pera Eliot Km0 1 u.",
+        "packaging": null,
+        "price": 0.53,
+        "ref_price": 2.65,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00324"
+      },
+      {
+        "product_id": "03738",
+        "name": " Pera llimonera Km0 1 u.",
+        "packaging": null,
+        "price": 0.54,
+        "ref_price": 2.69,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03738"
+      },
+      {
+        "product_id": "03739",
+        "name": " Pera ercolina 1 u.",
+        "packaging": null,
+        "price": 0.26,
+        "ref_price": 2.89,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03739"
+      }
+    ],
+    "elegido": "90670",
+    "nuevo_pin": "90670"
   },
   "manzana": {
     "modo": "omitido",
