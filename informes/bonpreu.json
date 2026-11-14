@@ -352,21 +352,8 @@
     "candidatos": []
   },
   "panos-absorbentes": {
-    "modo": "busqueda",
-    "query": "baieta rotlle",
-    "candidatos": [
-      {
-        "product_id": "82085",
-        "name": "BONPREU Rotlle de baieta",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.meter",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82085"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "papel-cocina": {
     "modo": "omitido",
@@ -381,8 +368,57 @@
     "candidatos": []
   },
   "hamburguesa-pollo": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "hamburguesa pollastre",
+    "candidatos": [
+      {
+        "product_id": "46916",
+        "name": "BONPREU Hamburguesa de pollastre amb espinacs",
+        "packaging": null,
+        "price": 3.75,
+        "ref_price": 11.98,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/46916"
+      },
+      {
+        "product_id": "44046",
+        "name": "BONPREU Hamburguesa de pollastre",
+        "packaging": null,
+        "price": 2.45,
+        "ref_price": 12.25,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/44046"
+      },
+      {
+        "product_id": "72739",
+        "name": "BONPREU Hamburguesa de pollastre cruixent",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": 12.46,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/72739"
+      },
+      {
+        "product_id": "46295",
+        "name": "BONPREU Hamburguesa de pollastre amb espinacs",
+        "packaging": null,
+        "price": 2.49,
+        "ref_price": 13.11,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/46295"
+      },
+      {
+        "product_id": "37025",
+        "name": "BONPREU Mini hamburguesa de pollastre",
+        "packaging": null,
+        "price": 3.35,
+        "ref_price": 13.4,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37025"
+      }
+    ],
+    "elegido": "46916",
+    "nuevo_pin": "46916"
   },
   "patatas-paja": {
     "modo": "omitido",
