@@ -344,99 +344,20 @@
     "candidatos": []
   },
   "aluminio": {
-    "modo": "busqueda",
-    "query": "paper alumini -safata",
-    "candidatos": [
-      {
-        "product_id": "86650",
-        "name": "BONPREU Paper d'alumini de 50 m",
-        "packaging": null,
-        "price": 3.65,
-        "ref_price": 0.073,
-        "ref_unit": "m",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/86650"
-      },
-      {
-        "product_id": "86461",
-        "name": "BONPREU Paper d'alumini de 30 m",
-        "packaging": null,
-        "price": 2.25,
-        "ref_price": 0.075,
-        "ref_unit": "m",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/86461"
-      },
-      {
-        "product_id": "48259",
-        "name": "ALBAL Paper d'alumini 50 metres",
-        "packaging": null,
-        "price": 8.39,
-        "ref_price": 0.168,
-        "ref_unit": "m",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48259"
-      },
-      {
-        "product_id": "81053",
-        "name": "ALBAL Paper d'alumini extra resistent 30 metres",
-        "packaging": null,
-        "price": 5.19,
-        "ref_price": 0.173,
-        "ref_unit": "m",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81053"
-      }
-    ],
-    "elegido": "86650",
-    "nuevo_pin": "86650"
+    "modo": "omitido",
+    "candidatos": []
   },
   "bayetas": {
-    "modo": "busqueda",
-    "query": "baieta -microfibra",
-    "candidatos": [
-      {
-        "product_id": "72520",
-        "name": "BONPREU Baieta de pal de tires grogues 1u.",
-        "packaging": null,
-        "price": 0.99,
-        "ref_price": 0.99,
-        "ref_unit": "ud",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/72520"
-      }
-    ],
-    "elegido": "72520",
-    "nuevo_pin": "72520"
+    "modo": "omitido",
+    "candidatos": []
   },
   "panos-absorbentes": {
-    "modo": "busqueda",
-    "query": "baieta rotlle",
-    "candidatos": [
-      {
-        "product_id": "82085",
-        "name": "BONPREU Rotlle de baieta",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.meter",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82085"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "papel-cocina": {
-    "modo": "busqueda",
-    "query": "paper cuina -alumini -forn",
-    "candidatos": [
-      {
-        "product_id": "34548",
-        "name": "BONPREU Paper de cuina compacte 2 capes 3 u.",
-        "packaging": null,
-        "price": 2.29,
-        "ref_price": 0.763,
-        "ref_unit": "ud",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34548"
-      }
-    ],
-    "elegido": "34548",
-    "nuevo_pin": "34548"
+    "modo": "omitido",
+    "candidatos": []
   },
   "papel-higienico": {
     "modo": "omitido",
