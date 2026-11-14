@@ -104,57 +104,8 @@
     "candidatos": []
   },
   "queso-brie": {
-    "modo": "busqueda",
-    "query": "formatge brie",
-    "candidatos": [
-      {
-        "product_id": "48039",
-        "name": "BONNE VACHE Formatge brie",
-        "packaging": null,
-        "price": 1.95,
-        "ref_price": 9.75,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48039"
-      },
-      {
-        "product_id": "34683",
-        "name": "ENTREMONT Formatge Brie al tall en porció",
-        "packaging": null,
-        "price": 3.0,
-        "ref_price": 14.99,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34683"
-      },
-      {
-        "product_id": "62860",
-        "name": "PRÉSIDENT Crema de formatge Brie",
-        "packaging": null,
-        "price": 1.99,
-        "ref_price": 15.92,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62860"
-      },
-      {
-        "product_id": "62371",
-        "name": "LE RUSTIQUE Formatge de pasta tova Brie",
-        "packaging": null,
-        "price": 3.4,
-        "ref_price": 17.0,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62371"
-      },
-      {
-        "product_id": "23594",
-        "name": "PRÉSIDENT Formatge Brie",
-        "packaging": null,
-        "price": 3.49,
-        "ref_price": 17.45,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/23594"
-      }
-    ],
-    "elegido": "48039",
-    "nuevo_pin": "48039"
+    "modo": "omitido",
+    "candidatos": []
   },
   "leche-evaporada": {
     "modo": "omitido",
@@ -169,8 +120,48 @@
     "candidatos": []
   },
   "cappuccino": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "cafe soluble capuccino",
+    "candidatos": [
+      {
+        "product_id": "59577",
+        "name": "NESCAFÉ Cafè soluble Cappuccino",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 19.8,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59577"
+      },
+      {
+        "product_id": "04764",
+        "name": "NESCAFÉ Cafè soluble descafeïnat Cappuccino",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 19.8,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04764"
+      },
+      {
+        "product_id": "88195",
+        "name": "MARCILLA Cafè soluble Cappuccino Milka",
+        "packaging": null,
+        "price": 3.45,
+        "ref_price": 21.56,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88195"
+      },
+      {
+        "product_id": "66321",
+        "name": "MARCILLA Cafè soluble Cappuccino Original",
+        "packaging": null,
+        "price": 3.45,
+        "ref_price": 19.6,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/66321"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "salchichas-frankfurt": {
     "modo": "omitido",
