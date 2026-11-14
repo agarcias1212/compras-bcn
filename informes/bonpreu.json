@@ -368,57 +368,8 @@
     "candidatos": []
   },
   "hamburguesa-pollo": {
-    "modo": "busqueda",
-    "query": "hamburguesa pollastre",
-    "candidatos": [
-      {
-        "product_id": "46916",
-        "name": "BONPREU Hamburguesa de pollastre amb espinacs",
-        "packaging": null,
-        "price": 3.75,
-        "ref_price": 11.98,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/46916"
-      },
-      {
-        "product_id": "44046",
-        "name": "BONPREU Hamburguesa de pollastre",
-        "packaging": null,
-        "price": 2.45,
-        "ref_price": 12.25,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/44046"
-      },
-      {
-        "product_id": "72739",
-        "name": "BONPREU Hamburguesa de pollastre cruixent",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": 12.46,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/72739"
-      },
-      {
-        "product_id": "46295",
-        "name": "BONPREU Hamburguesa de pollastre amb espinacs",
-        "packaging": null,
-        "price": 2.49,
-        "ref_price": 13.11,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/46295"
-      },
-      {
-        "product_id": "37025",
-        "name": "BONPREU Mini hamburguesa de pollastre",
-        "packaging": null,
-        "price": 3.35,
-        "ref_price": 13.4,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37025"
-      }
-    ],
-    "elegido": "46916",
-    "nuevo_pin": "46916"
+    "modo": "omitido",
+    "candidatos": []
   },
   "patatas-paja": {
     "modo": "omitido",
@@ -461,7 +412,56 @@
     "candidatos": []
   },
   "yogur-natural": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "iogurt natural -grec -liquid -ensucrat",
+    "candidatos": [
+      {
+        "product_id": "90812",
+        "name": "BONPREU Iogurt natural",
+        "packaging": null,
+        "price": 1.34,
+        "ref_price": 1.34,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/90812"
+      },
+      {
+        "product_id": "90813",
+        "name": "BONPREU Iogurt natural",
+        "packaging": null,
+        "price": 0.74,
+        "ref_price": 1.48,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/90813"
+      },
+      {
+        "product_id": "14309",
+        "name": "DANONE Iogurt natural",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 2.07,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14309"
+      },
+      {
+        "product_id": "14305",
+        "name": "DANONE Iogurt natural",
+        "packaging": null,
+        "price": 1.0,
+        "ref_price": 2.08,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14305"
+      },
+      {
+        "product_id": "59289",
+        "name": "GRANJA ARMENGOL Iogurt natural cremós Km0",
+        "packaging": null,
+        "price": 1.39,
+        "ref_price": 2.78,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59289"
+      }
+    ],
+    "elegido": "90812",
+    "nuevo_pin": "90812"
   }
 }

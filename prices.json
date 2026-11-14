@@ -4944,6 +4944,16 @@
           "url": "https://tienda.consum.es/es/p/yogur-natural-pack-de-12-unidades/7199636",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/7163.jpg"
+        },
+        "bonpreu": {
+          "product_id": "90812",
+          "name": "BONPREU Iogurt natural",
+          "packaging": null,
+          "price": 1.34,
+          "ref_price": 1.34,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/90812",
+          "fetched": "2026-11-14T19:46:34+01:00"
         }
       }
     },
@@ -5006,5 +5016,5 @@
       }
     }
   },
-  "updated": "2026-11-14T19:41:07+01:00"
+  "updated": "2026-11-14T19:46:34+01:00"
 }
