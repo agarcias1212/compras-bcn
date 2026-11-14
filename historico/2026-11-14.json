@@ -2239,6 +2239,16 @@
           "url": "https://tienda.consum.es/es/p/romero/7435886",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/35874.jpg"
+        },
+        "bonpreu": {
+          "product_id": "36311",
+          "name": "FLOR DEL PIRINEO Romaní",
+          "packaging": null,
+          "price": 1.95,
+          "ref_price": 16.25,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/36311",
+          "fetched": "2026-11-14T18:20:48+01:00"
         }
       }
     },
@@ -2289,6 +2299,16 @@
           "url": "https://tienda.consum.es/es/p/miel-mil-flores-cruda-tarro/7433001",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/33522.jpg"
+        },
+        "bonpreu": {
+          "product_id": "79510",
+          "name": "REINA APICOLA Mel de mil flors",
+          "packaging": null,
+          "price": 5.0,
+          "ref_price": 5.0,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/79510",
+          "fetched": "2026-11-14T18:20:48+01:00"
         }
       }
     },
@@ -2369,6 +2389,16 @@
           "url": "https://tienda.consum.es/es/p/salsa-soja/7468861",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/45744.jpg"
+        },
+        "bonpreu": {
+          "product_id": "21086",
+          "name": "CAMILL Salsa de soja tradicional",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 6.6,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/21086",
+          "fetched": "2026-11-14T18:20:48+01:00"
         }
       }
     },
@@ -2409,6 +2439,16 @@
           "url": "https://tienda.consum.es/es/p/ajos-secos-malla/2600815",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/5251.jpg"
+        },
+        "bonpreu": {
+          "product_id": "01200",
+          "name": " Alls secs 1 u.",
+          "packaging": null,
+          "price": 0.52,
+          "ref_price": 6.99,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01200",
+          "fetched": "2026-11-14T18:20:48+01:00"
         }
       }
     },
@@ -4900,5 +4940,5 @@
       }
     }
   },
-  "updated": "2026-11-14T17:40:30+01:00"
+  "updated": "2026-11-14T18:20:48+01:00"
 }

@@ -753,7 +753,8 @@
       "pinned": {
         "dia": "305818",
         "mercadona": "14981",
-        "consum": "35874"
+        "consum": "35874",
+        "bonpreu": "36311"
       }
     },
     {
@@ -771,7 +772,8 @@
         "dia": "297",
         "mercadona": "15436",
         "aldi": "desayuno/miel-y-sirope/600985400",
-        "consum": "33522"
+        "consum": "33522",
+        "bonpreu": "79510"
       }
     },
     {
@@ -805,7 +807,8 @@
         "dia": "287019",
         "mercadona": "17360",
         "aldi": "despensa/tomates-y-salsas/481500",
-        "consum": "45744"
+        "consum": "45744",
+        "bonpreu": "21086"
       }
     },
     {
@@ -822,7 +825,8 @@
       "pinned": {
         "dia": "15437",
         "mercadona": "69297",
-        "consum": "5251"
+        "consum": "5251",
+        "bonpreu": "01200"
       }
     },
     {
