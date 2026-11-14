@@ -168,30 +168,8 @@
     "candidatos": []
   },
   "aceite-sesamo": {
-    "modo": "busqueda",
-    "query": "oli sesam",
-    "candidatos": [
-      {
-        "product_id": "29177",
-        "name": "ECOBASICS Oli de sèsam ecològic",
-        "packaging": null,
-        "price": 4.25,
-        "ref_price": 17.0,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29177"
-      },
-      {
-        "product_id": "43158",
-        "name": "CAMILL Oli de sèsam",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": 19.93,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/43158"
-      }
-    ],
-    "elegido": "29177",
-    "nuevo_pin": "29177"
+    "modo": "omitido",
+    "candidatos": []
   },
   "salsa-soja": {
     "modo": "omitido",
@@ -202,12 +180,110 @@
     "candidatos": []
   },
   "espaguetis": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "espaguetis -integrals",
+    "candidatos": [
+      {
+        "product_id": "78267",
+        "name": "BONPREU Espaguetis",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": 1.19,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/78267"
+      },
+      {
+        "product_id": "78151",
+        "name": "BONPREU Espaguetis",
+        "packaging": null,
+        "price": 0.79,
+        "ref_price": 1.58,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/78151"
+      },
+      {
+        "product_id": "56401",
+        "name": "BERRUTO Espaguetis",
+        "packaging": null,
+        "price": 1.0,
+        "ref_price": 2.0,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/56401"
+      },
+      {
+        "product_id": "83218",
+        "name": "GALLO Espaguetis Nº3",
+        "packaging": null,
+        "price": 1.0,
+        "ref_price": 2.5,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/83218"
+      },
+      {
+        "product_id": "53554",
+        "name": "BONPREU Espaguetis ecològics",
+        "packaging": null,
+        "price": 1.29,
+        "ref_price": 2.58,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/53554"
+      }
+    ],
+    "elegido": "78267",
+    "nuevo_pin": "78267"
   },
   "fideos": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "fideus -integrals",
+    "candidatos": [
+      {
+        "product_id": "29736",
+        "name": "BONPREU Fideus cabell d'àngel",
+        "packaging": null,
+        "price": 0.85,
+        "ref_price": 1.7,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29736"
+      },
+      {
+        "product_id": "60793",
+        "name": "BONPREU Fideus gruixuts",
+        "packaging": null,
+        "price": 0.85,
+        "ref_price": 1.7,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60793"
+      },
+      {
+        "product_id": "49618",
+        "name": "BONPREU Fideus per fideuada",
+        "packaging": null,
+        "price": 0.85,
+        "ref_price": 1.7,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49618"
+      },
+      {
+        "product_id": "82234",
+        "name": "BONPREU Fideus cabell d'àngel Km0",
+        "packaging": null,
+        "price": 0.49,
+        "ref_price": 1.96,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82234"
+      },
+      {
+        "product_id": "83227",
+        "name": "GALLO Fideus cabell d'àngel Nº0",
+        "packaging": null,
+        "price": 1.0,
+        "ref_price": 2.5,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/83227"
+      }
+    ],
+    "elegido": "29736",
+    "nuevo_pin": "29736"
   },
   "copos-avena": {
     "modo": "omitido",

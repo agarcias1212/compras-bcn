@@ -836,7 +836,8 @@
       },
       "pinned": {
         "dia": "52208",
-        "consum": "8529"
+        "consum": "8529",
+        "bonpreu": "78267"
       }
     },
     {
@@ -854,7 +855,8 @@
         "dia": "515",
         "mercadona": "13577",
         "aldi": "despensa/pasta/601230300",
-        "consum": "5752"
+        "consum": "5752",
+        "bonpreu": "29736"
       }
     },
     {

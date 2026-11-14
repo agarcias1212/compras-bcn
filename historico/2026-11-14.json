@@ -2417,6 +2417,16 @@
           "url": "https://tienda.consum.es/es/p/spaghetti-paquete/7262488",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/8529.jpg"
+        },
+        "bonpreu": {
+          "product_id": "78267",
+          "name": "BONPREU Espaguetis",
+          "packaging": null,
+          "price": 1.19,
+          "ref_price": 1.19,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/78267",
+          "fetched": "2026-11-14T01:23:54+01:00"
         }
       }
     },
@@ -2467,6 +2477,16 @@
           "url": "https://tienda.consum.es/es/p/fideos-cabellin-paquete/7060598",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/5752.jpg"
+        },
+        "bonpreu": {
+          "product_id": "29736",
+          "name": "BONPREU Fideus cabell d'àngel",
+          "packaging": null,
+          "price": 0.85,
+          "ref_price": 1.7,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29736",
+          "fetched": "2026-11-14T01:23:54+01:00"
         }
       }
     },
@@ -4629,5 +4649,5 @@
       }
     }
   },
-  "updated": "2026-11-14T01:18:27+01:00"
+  "updated": "2026-11-14T01:23:54+01:00"
 }
