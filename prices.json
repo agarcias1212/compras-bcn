@@ -2287,6 +2287,16 @@
           "url": "https://tienda.consum.es/es/p/aceite-de-sesamo-botella/7420610",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/31832.jpg"
+        },
+        "bonpreu": {
+          "product_id": "29177",
+          "name": "ECOBASICS Oli de sèsam ecològic",
+          "packaging": null,
+          "price": 4.25,
+          "ref_price": 17.0,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29177",
+          "fetched": "2026-11-14T01:18:27+01:00"
         }
       }
     },
@@ -4619,5 +4629,5 @@
       }
     }
   },
-  "updated": "2026-11-14T01:13:00+01:00"
+  "updated": "2026-11-14T01:18:27+01:00"
 }

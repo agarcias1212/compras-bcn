@@ -156,57 +156,8 @@
     "candidatos": []
   },
   "ajo-polvo": {
-    "modo": "busqueda",
-    "query": "all pols",
-    "candidatos": [
-      {
-        "product_id": "33958",
-        "name": "ZANETTI Formatge grana padano en pols",
-        "packaging": null,
-        "price": 1.85,
-        "ref_price": 18.5,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/33958"
-      },
-      {
-        "product_id": "81909",
-        "name": "BONPREU Drap de la pols",
-        "packaging": null,
-        "price": 0.89,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81909"
-      },
-      {
-        "product_id": "70327",
-        "name": "ZANETTI Formatge Parmigiano Reggiano pols",
-        "packaging": null,
-        "price": 1.29,
-        "ref_price": 32.25,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/70327"
-      },
-      {
-        "product_id": "95888",
-        "name": "KADÔ Maquillatge en pols to fosc",
-        "packaging": null,
-        "price": 5.5,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/95888"
-      },
-      {
-        "product_id": "60755",
-        "name": "ROYAL Gasificant en pols",
-        "packaging": null,
-        "price": 2.25,
-        "ref_price": 28.13,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60755"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "romero": {
     "modo": "omitido",
@@ -217,8 +168,30 @@
     "candidatos": []
   },
   "aceite-sesamo": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "oli sesam",
+    "candidatos": [
+      {
+        "product_id": "29177",
+        "name": "ECOBASICS Oli de sèsam ecològic",
+        "packaging": null,
+        "price": 4.25,
+        "ref_price": 17.0,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29177"
+      },
+      {
+        "product_id": "43158",
+        "name": "CAMILL Oli de sèsam",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": 19.93,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/43158"
+      }
+    ],
+    "elegido": "29177",
+    "nuevo_pin": "29177"
   },
   "salsa-soja": {
     "modo": "omitido",
