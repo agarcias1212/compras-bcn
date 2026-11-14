@@ -484,7 +484,8 @@
         "aldi": "despensa/especias-y-condimentos/125700",
         "mercadona": "34177",
         "dia": "299126",
-        "consum": "35871"
+        "consum": "35871",
+        "bonpreu": "18926"
       }
     },
     {
@@ -539,7 +540,8 @@
       "pinned": {
         "dia": "296356",
         "consum": "10194",
-        "aldi": "fruta-y-verdura/verduras-y-hortalizas/990900"
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas/990900",
+        "bonpreu": "02473"
       }
     },
     {
@@ -593,7 +595,8 @@
         "mercadona": "52096",
         "aldi": "charcuteria/bacon-y-salchichas/800800",
         "consum": "30171",
-        "dia": "273442"
+        "dia": "273442",
+        "bonpreu": "20315"
       }
     },
     {
