@@ -3258,7 +3258,8 @@
           "url": "https://tienda.consum.es/es/p/tomate-ensalada/60012",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/4703.jpg"
-        }
+        },
+        "bonpreu": null
       }
     },
     "zanahoria": {
@@ -4983,5 +4984,5 @@
       }
     }
   },
-  "updated": "2026-11-14T19:13:31+01:00"
+  "updated": "2026-11-14T19:18:58+01:00"
 }

@@ -248,57 +248,8 @@
     "candidatos": []
   },
   "jamon-iberico": {
-    "modo": "busqueda",
-    "query": "pernil iberic -espatlla -peca",
-    "candidatos": [
-      {
-        "product_id": "54730",
-        "name": "MONTE NEVADO Pernil de gla 100% ibèric natural",
-        "packaging": null,
-        "price": 285.0,
-        "ref_price": 43.85,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/54730"
-      },
-      {
-        "product_id": "78754",
-        "name": "BONPREU Pernil d'enceball 50% ibèric",
-        "packaging": null,
-        "price": 4.99,
-        "ref_price": 49.9,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/78754"
-      },
-      {
-        "product_id": "31709",
-        "name": "NAVIDUL Pernil d'enceball  ibèric",
-        "packaging": null,
-        "price": 3.49,
-        "ref_price": 63.45,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/31709"
-      },
-      {
-        "product_id": "49089",
-        "name": "EPICUM Pernil d'enceball 50% ibèric a talls per a tapes",
-        "packaging": null,
-        "price": 5.99,
-        "ref_price": 66.56,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49089"
-      },
-      {
-        "product_id": "50434",
-        "name": "AZUAGA Pernil ibèric d'enceball llescat",
-        "packaging": null,
-        "price": 6.99,
-        "ref_price": 69.9,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/50434"
-      }
-    ],
-    "elegido": "54730",
-    "nuevo_pin": "54730"
+    "modo": "omitido",
+    "candidatos": []
   },
   "tomate-frito": {
     "modo": "omitido",
@@ -309,8 +260,57 @@
     "candidatos": []
   },
   "tomate": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "tomaquet amanida",
+    "candidatos": [
+      {
+        "product_id": "00944",
+        "name": "LA COLLITA Tomàquet cirerol pera en safata de 250 g",
+        "packaging": null,
+        "price": 1.49,
+        "ref_price": 5.96,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00944"
+      },
+      {
+        "product_id": "35281",
+        "name": " Tomàquet verd 1 u.",
+        "packaging": null,
+        "price": 0.54,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35281"
+      },
+      {
+        "product_id": "48199",
+        "name": " Tomàquet rosa de la reina 1 u.",
+        "packaging": null,
+        "price": 1.69,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48199"
+      },
+      {
+        "product_id": "75358",
+        "name": "LA COLLITA Tomàquet rosa en safata de 600 grams",
+        "packaging": null,
+        "price": 2.89,
+        "ref_price": 4.82,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75358"
+      },
+      {
+        "product_id": "80106",
+        "name": " Tomàquet Monterosa 1 u.",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80106"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "zanahoria": {
     "modo": "omitido",
