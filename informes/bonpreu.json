@@ -228,16 +228,32 @@
     "candidatos": []
   },
   "chia": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "chia -pa -iogurt -beguda",
+    "candidatos": [
+      {
+        "product_id": "61174",
+        "name": "GULLÓN Galetes salades amb quinoa i chia",
+        "packaging": null,
+        "price": 2.15,
+        "ref_price": 8.6,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/61174"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "sesamo": {
     "modo": "omitido",
     "candidatos": []
   },
   "alubia-roja": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mongeta vermella -cuita",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "alubia-pinta": {
     "modo": "omitido",
