@@ -228,21 +228,8 @@
     "candidatos": []
   },
   "chia": {
-    "modo": "busqueda",
-    "query": "chia -pa -iogurt -beguda",
-    "candidatos": [
-      {
-        "product_id": "61174",
-        "name": "GULLÓN Galetes salades amb quinoa i chia",
-        "packaging": null,
-        "price": 2.15,
-        "ref_price": 8.6,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/61174"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "sesamo": {
     "modo": "omitido",
@@ -257,8 +244,21 @@
     "candidatos": []
   },
   "alubia-negra": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mongeta negra -cuita",
+    "candidatos": [
+      {
+        "product_id": "02030",
+        "name": "TUGAS Brots de mongeta mungo bossa 200 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 9.95,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02030"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "jamon-iberico": {
     "modo": "omitido",
