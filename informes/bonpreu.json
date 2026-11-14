@@ -120,48 +120,8 @@
     "candidatos": []
   },
   "cappuccino": {
-    "modo": "busqueda",
-    "query": "cafe soluble capuccino",
-    "candidatos": [
-      {
-        "product_id": "59577",
-        "name": "NESCAFÉ Cafè soluble Cappuccino",
-        "packaging": null,
-        "price": 4.95,
-        "ref_price": 19.8,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59577"
-      },
-      {
-        "product_id": "04764",
-        "name": "NESCAFÉ Cafè soluble descafeïnat Cappuccino",
-        "packaging": null,
-        "price": 4.95,
-        "ref_price": 19.8,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04764"
-      },
-      {
-        "product_id": "88195",
-        "name": "MARCILLA Cafè soluble Cappuccino Milka",
-        "packaging": null,
-        "price": 3.45,
-        "ref_price": 21.56,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88195"
-      },
-      {
-        "product_id": "66321",
-        "name": "MARCILLA Cafè soluble Cappuccino Original",
-        "packaging": null,
-        "price": 3.45,
-        "ref_price": 19.6,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/66321"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "salchichas-frankfurt": {
     "modo": "omitido",
@@ -172,8 +132,21 @@
     "candidatos": []
   },
   "canela-rama": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "canyella branca",
+    "candidatos": [
+      {
+        "product_id": "80937",
+        "name": "BONPREU Canyella branca",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": 4.17,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80937"
+      }
+    ],
+    "elegido": "80937",
+    "nuevo_pin": "80937"
   },
   "comino": {
     "modo": "omitido",
