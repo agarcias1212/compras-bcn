@@ -392,135 +392,73 @@
     "candidatos": []
   },
   "pan-molde": {
-    "modo": "busqueda",
-    "query": "pa motlle -integral -sense",
-    "candidatos": [
-      {
-        "product_id": "21152",
-        "name": "BONPREU Pa de motlle familiar",
-        "packaging": null,
-        "price": 1.15,
-        "ref_price": 1.4,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/21152"
-      },
-      {
-        "product_id": "59855",
-        "name": "BONPREU Pa de motlle",
-        "packaging": null,
-        "price": 0.8,
-        "ref_price": 1.74,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59855"
-      },
-      {
-        "product_id": "83030",
-        "name": "BONPREU Pa de motlle de sègol i llavors",
-        "packaging": null,
-        "price": 1.38,
-        "ref_price": 2.04,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/83030"
-      },
-      {
-        "product_id": "58280",
-        "name": "BONPREU Pa de motlle amb 9 cereals",
-        "packaging": null,
-        "price": 1.49,
-        "ref_price": 2.21,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/58280"
-      },
-      {
-        "product_id": "17811",
-        "name": "BIMBO SILUETA Pa de motlle 8 cereals",
-        "packaging": null,
-        "price": 2.69,
-        "ref_price": 4.14,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/17811"
-      }
-    ],
-    "elegido": "21152",
-    "nuevo_pin": "21152"
+    "modo": "omitido",
+    "candidatos": []
   },
   "calamares-americana": {
-    "modo": "busqueda",
-    "query": "calamars salsa americana",
-    "candidatos": [
-      {
-        "product_id": "20322",
-        "name": "ALBO Calamars en salsa americana",
-        "packaging": null,
-        "price": 2.95,
-        "ref_price": 40.97,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20322"
-      }
-    ],
-    "elegido": "20322",
-    "nuevo_pin": "20322"
+    "modo": "omitido",
+    "candidatos": []
   },
   "nata-cocinar": {
-    "modo": "busqueda",
-    "query": "nata cuinar",
-    "candidatos": [
-      {
-        "product_id": "16527",
-        "name": "BONPREU Nata líquida per cuinar",
-        "packaging": null,
-        "price": 1.75,
-        "ref_price": 2.92,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/16527"
-      },
-      {
-        "product_id": "11733",
-        "name": "ASTURIANA Nata líquida per cuinar",
-        "packaging": null,
-        "price": 4.89,
-        "ref_price": 4.89,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/11733"
-      },
-      {
-        "product_id": "04523",
-        "name": "ASTURIANA Nata líquida per cuinar",
-        "packaging": null,
-        "price": 2.49,
-        "ref_price": 4.98,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04523"
-      },
-      {
-        "product_id": "10905",
-        "name": "ATO Nata líquida UHT per cuinar",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": 5.98,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10905"
-      },
-      {
-        "product_id": "20562",
-        "name": "PRÉSIDENT Nata líquida per cuinar",
-        "packaging": null,
-        "price": 1.79,
-        "ref_price": 7.16,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20562"
-      }
-    ],
-    "elegido": "16527",
-    "nuevo_pin": "16527"
+    "modo": "omitido",
+    "candidatos": []
   },
   "nachos": {
     "modo": "omitido",
     "candidatos": []
   },
   "garbanzos": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "cigrons -cuits -hummus",
+    "candidatos": [
+      {
+        "product_id": "74267",
+        "name": "BONPREU Cigrons Pedrosillano",
+        "packaging": null,
+        "price": 1.89,
+        "ref_price": 1.89,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/74267"
+      },
+      {
+        "product_id": "74268",
+        "name": "BONPREU Cigrons",
+        "packaging": null,
+        "price": 2.15,
+        "ref_price": 2.15,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/74268"
+      },
+      {
+        "product_id": "42241",
+        "name": "BONPREU Cigrons blancs",
+        "packaging": null,
+        "price": 2.49,
+        "ref_price": 2.49,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/42241"
+      },
+      {
+        "product_id": "10786",
+        "name": "BONPREU Cigrons blancs",
+        "packaging": null,
+        "price": 1.25,
+        "ref_price": 2.5,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10786"
+      },
+      {
+        "product_id": "35729",
+        "name": "LUENGO Cigrons baixos en sal",
+        "packaging": null,
+        "price": 1.45,
+        "ref_price": 3.63,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35729"
+      }
+    ],
+    "elegido": "74267",
+    "nuevo_pin": "74267"
   },
   "yogur-natural": {
     "modo": "omitido",
