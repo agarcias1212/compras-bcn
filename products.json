@@ -1736,7 +1736,8 @@
         "dia": "77955",
         "mercadona": "83867",
         "aldi": "panaderia-y-bolleria/pan-de-molde-y-otras-especialidades/249200",
-        "consum": "7067"
+        "consum": "7067",
+        "bonpreu": "21152"
       }
     },
     {
@@ -1753,7 +1754,8 @@
       "pinned": {
         "dia": "175329",
         "mercadona": "18713",
-        "consum": "5639"
+        "consum": "5639",
+        "bonpreu": "20322"
       }
     },
     {
@@ -1771,7 +1773,8 @@
         "dia": "145042",
         "mercadona": "10199",
         "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/809800",
-        "consum": "10260"
+        "consum": "10260",
+        "bonpreu": "16527"
       }
     },
     {

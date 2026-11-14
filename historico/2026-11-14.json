@@ -4546,6 +4546,16 @@
           "url": "https://tienda.consum.es/es/p/pan-molde-normal/7194884",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/7067.jpg"
+        },
+        "bonpreu": {
+          "product_id": "21152",
+          "name": "BONPREU Pa de motlle familiar",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 1.4,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/21152",
+          "fetched": "2026-11-14T15:57:56+01:00"
         }
       }
     },
@@ -4586,6 +4596,16 @@
           "url": "https://tienda.consum.es/es/p/trozos-de-calamar-en-salsa-americana-pack/7046063",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/5639.jpg"
+        },
+        "bonpreu": {
+          "product_id": "20322",
+          "name": "ALBO Calamars en salsa americana",
+          "packaging": null,
+          "price": 2.95,
+          "ref_price": 40.97,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20322",
+          "fetched": "2026-11-14T15:57:56+01:00"
         }
       }
     },
@@ -4636,6 +4656,16 @@
           "url": "https://tienda.consum.es/es/p/nata-para-cocinar-minibrik-pack-de-3/7264096",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/10260.jpg"
+        },
+        "bonpreu": {
+          "product_id": "16527",
+          "name": "BONPREU Nata líquida per cuinar",
+          "packaging": null,
+          "price": 1.75,
+          "ref_price": 2.92,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/16527",
+          "fetched": "2026-11-14T15:57:56+01:00"
         }
       }
     },
@@ -4838,5 +4868,5 @@
       }
     }
   },
-  "updated": "2026-11-14T15:47:20+01:00"
+  "updated": "2026-11-14T15:57:56+01:00"
 }
