@@ -292,171 +292,37 @@
     "candidatos": []
   },
   "manzana": {
-    "modo": "busqueda",
-    "query": "poma -suc -compota -infusio",
-    "candidatos": [
-      {
-        "product_id": "49235",
-        "name": "LA COLLITA Poma golden de Girona Km0 bossa 1,5 kg",
-        "packaging": null,
-        "price": 2.69,
-        "ref_price": 1.79,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49235"
-      },
-      {
-        "product_id": "37698",
-        "name": "LA COLLITA Poma golden de Girona Km0 en bossa 1,5 kg",
-        "packaging": null,
-        "price": 2.69,
-        "ref_price": 1.79,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37698"
-      },
-      {
-        "product_id": "37718",
-        "name": "LA COLLITA Poma golden de Lleida Km0 bossa 1,5 kg",
-        "packaging": null,
-        "price": 2.69,
-        "ref_price": 1.79,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37718"
-      },
-      {
-        "product_id": "09533",
-        "name": " Poma Golden km0 1u.",
-        "packaging": null,
-        "price": 0.39,
-        "ref_price": 1.99,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/09533"
-      },
-      {
-        "product_id": "13803",
-        "name": " Poma Golden Rústica Km0 1 u.",
-        "packaging": null,
-        "price": 0.49,
-        "ref_price": 2.59,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/13803"
-      }
-    ],
-    "elegido": "49235",
-    "nuevo_pin": "49235"
+    "modo": "omitido",
+    "candidatos": []
   },
   "platano": {
-    "modo": "busqueda",
-    "query": "platan -xips -batut -suc",
-    "candidatos": [
-      {
-        "product_id": "07722",
-        "name": "LA COLLITA Plàtan de Canàries IGP 1 u.",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": 3.19,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07722"
-      },
-      {
-        "product_id": "82039",
-        "name": "LA COLLITA Plàtan de Canàries IGP\" manat 800 grams",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": 3.74,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82039"
-      },
-      {
-        "product_id": "03014",
-        "name": "LA COLLITA Plàtan de Canàries IGP\" ecològic en cinta",
-        "packaging": null,
-        "price": 2.92,
-        "ref_price": 4.49,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03014"
-      },
-      {
-        "product_id": "45835",
-        "name": "LA COLLITA Plàtan \"Plátano de Canarias IGP\" ecològic manat 800 g",
-        "packaging": null,
-        "price": 4.49,
-        "ref_price": 5.61,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/45835"
-      },
-      {
-        "product_id": "55830",
-        "name": "SMILEAT Potet de plàtan, pera i pruna eco",
-        "packaging": null,
-        "price": 1.75,
-        "ref_price": 13.46,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/55830"
-      }
-    ],
-    "elegido": "07722",
-    "nuevo_pin": "07722"
+    "modo": "omitido",
+    "candidatos": []
   },
   "guacamole": {
-    "modo": "busqueda",
-    "query": "guacamole",
-    "candidatos": [
-      {
-        "product_id": "75594",
-        "name": "IFA Salsa de guacamole",
-        "packaging": null,
-        "price": 1.69,
-        "ref_price": 5.63,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75594"
-      },
-      {
-        "product_id": "26333",
-        "name": "TROPS Guacamole",
-        "packaging": null,
-        "price": 1.79,
-        "ref_price": 8.95,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/26333"
-      },
-      {
-        "product_id": "83977",
-        "name": "TROPS Guacamole",
-        "packaging": null,
-        "price": 3.59,
-        "ref_price": 8.98,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/83977"
-      },
-      {
-        "product_id": "82372",
-        "name": "TROPS Guacamole picant",
-        "packaging": null,
-        "price": 1.89,
-        "ref_price": 9.45,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82372"
-      },
-      {
-        "product_id": "48750",
-        "name": "OLD EL PASO Guacamole suau",
-        "packaging": null,
-        "price": 3.15,
-        "ref_price": 9.84,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48750"
-      }
-    ],
-    "elegido": "75594",
-    "nuevo_pin": "75594"
+    "modo": "omitido",
+    "candidatos": []
   },
   "mantequilla": {
     "modo": "omitido",
     "candidatos": []
   },
   "zumo-lima": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "suc llima",
+    "candidatos": [
+      {
+        "product_id": "87516",
+        "name": "LIMASOL Suc de llima",
+        "packaging": null,
+        "price": 1.39,
+        "ref_price": 4.96,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87516"
+      }
+    ],
+    "elegido": "87516",
+    "nuevo_pin": "87516"
   },
   "mayonesa-light": {
     "modo": "omitido",

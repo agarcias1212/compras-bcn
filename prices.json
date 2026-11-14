@@ -3753,7 +3753,17 @@
           "image": "img/aldi/601494604.webp"
         },
         "dia": null,
-        "consum": null
+        "consum": null,
+        "bonpreu": {
+          "product_id": "87516",
+          "name": "LIMASOL Suc de llima",
+          "packaging": null,
+          "price": 1.39,
+          "ref_price": 4.96,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87516",
+          "fetched": "2026-11-14T14:49:46+01:00"
+        }
       }
     },
     "mayonesa-light": {
@@ -4745,5 +4755,5 @@
       }
     }
   },
-  "updated": "2026-11-14T14:44:11+01:00"
+  "updated": "2026-11-14T14:49:46+01:00"
 }
