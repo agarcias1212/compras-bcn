@@ -232,20 +232,85 @@
     "candidatos": []
   },
   "sesamo": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "sesam -oli -pa -galeta",
+    "candidatos": [
+      {
+        "product_id": "85325",
+        "name": "BONPREU Llavors de sèsam cru ecològic",
+        "packaging": null,
+        "price": 1.95,
+        "ref_price": 7.8,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85325"
+      },
+      {
+        "product_id": "49348",
+        "name": "ECOBASICS Llavors de sèsam negre ecològic",
+        "packaging": null,
+        "price": 2.55,
+        "ref_price": 10.2,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49348"
+      },
+      {
+        "product_id": "63497",
+        "name": "BONPREU Llavors de sèsam torrat ecològic",
+        "packaging": null,
+        "price": 2.75,
+        "ref_price": 11.0,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/63497"
+      },
+      {
+        "product_id": "00552",
+        "name": "GERBLÉ Galetes de sèsam",
+        "packaging": null,
+        "price": 2.75,
+        "ref_price": 11.96,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00552"
+      },
+      {
+        "product_id": "36613",
+        "name": "CRICH Crackers de sèsam i romaní ecològics",
+        "packaging": null,
+        "price": 3.25,
+        "ref_price": 13.0,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/36613"
+      }
+    ],
+    "elegido": "85325",
+    "nuevo_pin": "85325"
   },
   "alubia-roja": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mongeta vermella -cuita",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "alubia-pinta": {
     "modo": "omitido",
     "candidatos": []
   },
   "alubia-negra": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mongeta negra -cuita",
+    "candidatos": [
+      {
+        "product_id": "02030",
+        "name": "TUGAS Brots de mongeta mungo bossa 200 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 9.95,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02030"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "jamon-iberico": {
     "modo": "omitido",

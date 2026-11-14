@@ -2986,6 +2986,16 @@
           "url": "https://tienda.consum.es/es/p/semillas-de-sesamo-tostado/7452337",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/39675.jpg"
+        },
+        "bonpreu": {
+          "product_id": "85325",
+          "name": "BONPREU Llavors de sèsam cru ecològic",
+          "packaging": null,
+          "price": 1.95,
+          "ref_price": 7.8,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85325",
+          "fetched": "2026-11-14T19:07:54+01:00"
         }
       }
     },
@@ -3016,7 +3026,8 @@
           "url": "https://tienda.consum.es/es/p/alubias-rojas-paquete/7412914",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/30970.jpg"
-        }
+        },
+        "bonpreu": null
       }
     },
     "alubia-pinta": {
@@ -4962,5 +4973,5 @@
       }
     }
   },
-  "updated": "2026-11-14T18:57:36+01:00"
+  "updated": "2026-11-14T19:07:54+01:00"
 }
