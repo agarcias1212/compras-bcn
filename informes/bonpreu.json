@@ -212,57 +212,8 @@
     "candidatos": []
   },
   "te-verde": {
-    "modo": "busqueda",
-    "query": "te verd -beguda",
-    "candidatos": [
-      {
-        "product_id": "34667",
-        "name": "BONPREU Te verd ecològic",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34667"
-      },
-      {
-        "product_id": "49112",
-        "name": "FLOR DEL PIRINEO Te verd",
-        "packaging": null,
-        "price": 2.49,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49112"
-      },
-      {
-        "product_id": "87714",
-        "name": "BONPREU Te verd",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87714"
-      },
-      {
-        "product_id": "03914",
-        "name": "HORNIMANS Te verd  pur",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03914"
-      },
-      {
-        "product_id": "35385",
-        "name": "HORNIMANS Te verd llimona",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35385"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "rooibos": {
     "modo": "omitido",
@@ -277,24 +228,53 @@
     "candidatos": []
   },
   "chia": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "chia -pa -iogurt -beguda",
+    "candidatos": [
+      {
+        "product_id": "61174",
+        "name": "GULLÓN Galetes salades amb quinoa i chia",
+        "packaging": null,
+        "price": 2.15,
+        "ref_price": 8.6,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/61174"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "sesamo": {
     "modo": "omitido",
     "candidatos": []
   },
   "alubia-roja": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mongeta vermella -cuita",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "alubia-pinta": {
     "modo": "omitido",
     "candidatos": []
   },
   "alubia-negra": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mongeta negra -cuita",
+    "candidatos": [
+      {
+        "product_id": "02030",
+        "name": "TUGAS Brots de mongeta mungo bossa 200 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 9.95,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02030"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "jamon-iberico": {
     "modo": "omitido",
