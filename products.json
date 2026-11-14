@@ -1527,7 +1527,8 @@
       "pinned": {
         "dia": "269324",
         "mercadona": "49000",
-        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601307700"
+        "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601307700",
+        "bonpreu": "86650"
       }
     },
     {
@@ -1545,7 +1546,8 @@
         "dia": "288573",
         "mercadona": "71044",
         "aldi": "limpieza-y-hogar/utensilios-de-limpieza/601307300",
-        "consum": "7224"
+        "consum": "7224",
+        "bonpreu": "72520"
       }
     },
     {
@@ -1576,7 +1578,8 @@
       },
       "pinned": {
         "dia": "292546",
-        "consum": "6809"
+        "consum": "6809",
+        "bonpreu": "34548"
       }
     },
     {

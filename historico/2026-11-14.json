@@ -4065,7 +4065,17 @@
           "fetched": "2026-11-13T07:52:30+00:00",
           "image": "img/dia/269324.webp"
         },
-        "consum": null
+        "consum": null,
+        "bonpreu": {
+          "product_id": "86650",
+          "name": "BONPREU Paper d'alumini de 50 m",
+          "packaging": null,
+          "price": 3.65,
+          "ref_price": 0.073,
+          "ref_unit": "m",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/86650",
+          "fetched": "2026-11-14T15:11:07+01:00"
+        }
       }
     },
     "bayetas": {
@@ -4115,6 +4125,16 @@
           "url": "https://tienda.consum.es/es/p/bayeta-multiusos-suave-colores/7202534",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/7224.jpg"
+        },
+        "bonpreu": {
+          "product_id": "72520",
+          "name": "BONPREU Baieta de pal de tires grogues 1u.",
+          "packaging": null,
+          "price": 0.99,
+          "ref_price": 0.99,
+          "ref_unit": "ud",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/72520",
+          "fetched": "2026-11-14T15:11:07+01:00"
         }
       }
     },
@@ -4135,7 +4155,8 @@
           "url": "https://tienda.consum.es/es/p/rollo-bayeta-amarilla-multiusos/7199693",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/7169.jpg"
-        }
+        },
+        "bonpreu": null
       }
     },
     "papel-cocina": {
@@ -4165,6 +4186,16 @@
           "url": "https://tienda.consum.es/es/p/papel-cocina-blanco/7178234",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/6809.jpg"
+        },
+        "bonpreu": {
+          "product_id": "34548",
+          "name": "BONPREU Paper de cuina compacte 2 capes 3 u.",
+          "packaging": null,
+          "price": 2.29,
+          "ref_price": 0.763,
+          "ref_unit": "ud",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34548",
+          "fetched": "2026-11-14T15:11:07+01:00"
         }
       }
     },
@@ -4767,5 +4798,5 @@
       }
     }
   },
-  "updated": "2026-11-14T15:00:49+01:00"
+  "updated": "2026-11-14T15:11:07+01:00"
 }
