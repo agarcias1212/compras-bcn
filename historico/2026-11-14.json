@@ -2036,6 +2036,16 @@
           "url": "https://tienda.consum.es/es/p/pimenton-picante/7435860",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/39334.jpg"
+        },
+        "bonpreu": {
+          "product_id": "62718",
+          "name": "DANI Pebre vermell de la Vera picant",
+          "packaging": null,
+          "price": 2.99,
+          "ref_price": 39.87,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62718",
+          "fetched": "2026-11-14T01:07:33+01:00"
         }
       }
     },
@@ -4608,5 +4618,5 @@
       }
     }
   },
-  "updated": "2026-11-14T01:02:05+01:00"
+  "updated": "2026-11-14T01:07:33+01:00"
 }

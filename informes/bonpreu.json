@@ -132,21 +132,8 @@
     "candidatos": []
   },
   "canela-rama": {
-    "modo": "busqueda",
-    "query": "canyella branca",
-    "candidatos": [
-      {
-        "product_id": "80937",
-        "name": "BONPREU Canyella branca",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": 4.17,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80937"
-      }
-    ],
-    "elegido": "80937",
-    "nuevo_pin": "80937"
+    "modo": "omitido",
+    "candidatos": []
   },
   "comino": {
     "modo": "omitido",
@@ -157,8 +144,21 @@
     "candidatos": []
   },
   "pimenton-picante": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "pebre vermell picant",
+    "candidatos": [
+      {
+        "product_id": "62718",
+        "name": "DANI Pebre vermell de la Vera picant",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": 39.87,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62718"
+      }
+    ],
+    "elegido": "62718",
+    "nuevo_pin": "62718"
   },
   "cilantro": {
     "modo": "omitido",
