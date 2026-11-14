@@ -1826,7 +1826,8 @@
           "url": "https://tienda.consum.es/es/p/clavos-enteros-tarro/557314",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/10591.jpg"
-        }
+        },
+        "bonpreu": null
       }
     },
     "canela-rama": {
@@ -1936,7 +1937,8 @@
           "url": "https://tienda.consum.es/es/p/comino-molido/7435857",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/35872.jpg"
-        }
+        },
+        "bonpreu": null
       }
     },
     "pimienta-negra": {
@@ -1986,6 +1988,16 @@
           "url": "https://tienda.consum.es/es/p/pimienta-negra-molida/7435832",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/35918.jpg"
+        },
+        "bonpreu": {
+          "product_id": "18978",
+          "name": "BONPREU Pebre negre gra",
+          "packaging": null,
+          "price": 1.05,
+          "ref_price": 23.33,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18978",
+          "fetched": "2026-11-14T17:19:53+01:00"
         }
       }
     },
@@ -2086,6 +2098,16 @@
           "url": "https://tienda.consum.es/es/p/cilantro-bandeja/7004138",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/5398.jpg"
+        },
+        "bonpreu": {
+          "product_id": "83042",
+          "name": "LA COLLITA Coriandre Km0",
+          "packaging": null,
+          "price": 1.49,
+          "ref_price": 49.67,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/83042",
+          "fetched": "2026-11-14T17:19:53+01:00"
         }
       }
     },
@@ -4878,5 +4900,5 @@
       }
     }
   },
-  "updated": "2026-11-14T16:39:35+01:00"
+  "updated": "2026-11-14T17:19:53+01:00"
 }

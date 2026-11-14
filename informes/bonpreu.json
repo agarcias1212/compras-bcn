@@ -128,28 +128,107 @@
     "candidatos": []
   },
   "clavo": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "clau olor",
+    "candidatos": [
+      {
+        "product_id": "18931",
+        "name": "BONPREU Clau en gra",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18931"
+      },
+      {
+        "product_id": "76142",
+        "name": "MARNYS Oli essencial de Clau",
+        "packaging": null,
+        "price": 10.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.litre",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/76142"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "canela-rama": {
     "modo": "omitido",
     "candidatos": []
   },
   "comino": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "comi",
+    "candidatos": [
+      {
+        "product_id": "18933",
+        "name": "BONPREU Comí molt",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18933"
+      },
+      {
+        "product_id": "18932",
+        "name": "BONPREU Comí en gra",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18932"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "pimienta-negra": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "pebre negre",
+    "candidatos": [
+      {
+        "product_id": "18978",
+        "name": "BONPREU Pebre negre gra",
+        "packaging": null,
+        "price": 1.05,
+        "ref_price": 23.33,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18978"
+      }
+    ],
+    "elegido": "18978",
+    "nuevo_pin": "18978"
   },
   "pimenton-picante": {
     "modo": "omitido",
     "candidatos": []
   },
   "cilantro": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "coriandre",
+    "candidatos": [
+      {
+        "product_id": "83042",
+        "name": "LA COLLITA Coriandre Km0",
+        "packaging": null,
+        "price": 1.49,
+        "ref_price": 49.67,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/83042"
+      },
+      {
+        "product_id": "13452",
+        "name": "DVERD Coriandre fresc Km0",
+        "packaging": null,
+        "price": 1.49,
+        "ref_price": 49.67,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/13452"
+      }
+    ],
+    "elegido": "83042",
+    "nuevo_pin": "83042"
   },
   "oregano": {
     "modo": "omitido",
