@@ -2627,7 +2627,8 @@
           "url": "https://tienda.consum.es/es/p/manzanilla-20-bolsitas/7342389",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/25419.jpg"
-        }
+        },
+        "bonpreu": null
       }
     },
     "infusion-manzana-canela": {
@@ -2637,7 +2638,8 @@
         "mercadona": null,
         "aldi": null,
         "dia": null,
-        "consum": null
+        "consum": null,
+        "bonpreu": null
       }
     },
     "poleo-menta": {
@@ -4649,5 +4651,5 @@
       }
     }
   },
-  "updated": "2026-11-14T01:23:54+01:00"
+  "updated": "2026-11-14T01:29:30+01:00"
 }
