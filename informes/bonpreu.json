@@ -116,57 +116,8 @@
     "candidatos": []
   },
   "detergente-marsella": {
-    "modo": "busqueda",
-    "query": "detergent liquid marsella -capsules",
-    "candidatos": [
-      {
-        "product_id": "74079",
-        "name": "BONPREU Detergent líquid marsella tradicional  de 50 dosis",
-        "packaging": null,
-        "price": 3.49,
-        "ref_price": 0.07,
-        "ref_unit": "lavado",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/74079"
-      },
-      {
-        "product_id": "71105",
-        "name": "BONPREU Detergent líquid marsella bàsic de 66 dosis",
-        "packaging": null,
-        "price": 4.59,
-        "ref_price": 0.07,
-        "ref_unit": "lavado",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/71105"
-      },
-      {
-        "product_id": "59420",
-        "name": "BONPREU Detergent líquid marsella rosa mosqueta de 32 dosis",
-        "packaging": null,
-        "price": 4.15,
-        "ref_price": 0.13,
-        "ref_unit": "lavado",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59420"
-      },
-      {
-        "product_id": "72262",
-        "name": "BONPREU Detergent líquid marsella i espígol de 32 dosis",
-        "packaging": null,
-        "price": 4.15,
-        "ref_price": 0.13,
-        "ref_unit": "lavado",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/72262"
-      },
-      {
-        "product_id": "92405",
-        "name": "OMINO BIANCO Detergent líquid marsella de 45 dosis",
-        "packaging": null,
-        "price": 8.49,
-        "ref_price": 0.189,
-        "ref_unit": "lavado",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/92405"
-      }
-    ],
-    "elegido": "74079",
-    "nuevo_pin": "74079"
+    "modo": "omitido",
+    "candidatos": []
   },
   "cappuccino": {
     "modo": "omitido",
@@ -177,8 +128,30 @@
     "candidatos": []
   },
   "clavo": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "clau olor",
+    "candidatos": [
+      {
+        "product_id": "18931",
+        "name": "BONPREU Clau en gra",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18931"
+      },
+      {
+        "product_id": "76142",
+        "name": "MARNYS Oli essencial de Clau",
+        "packaging": null,
+        "price": 10.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.litre",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/76142"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "canela-rama": {
     "modo": "omitido",
