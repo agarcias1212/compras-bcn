@@ -4182,6 +4182,16 @@
           "url": "https://tienda.consum.es/es/p/film-transparente/7342418",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/23552.jpg"
+        },
+        "bonpreu": {
+          "product_id": "86704",
+          "name": "BONPREU Film transparent i resistent 30 metres",
+          "packaging": null,
+          "price": 1.25,
+          "ref_price": 0.042,
+          "ref_unit": "m",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/86704",
+          "fetched": "2026-11-14T20:41:39+01:00"
         }
       }
     },
@@ -5055,5 +5065,5 @@
       }
     }
   },
-  "updated": "2026-11-14T20:36:03+01:00"
+  "updated": "2026-11-14T20:41:39+01:00"
 }
