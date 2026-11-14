@@ -100,21 +100,8 @@
     "candidatos": []
   },
   "canela-molida": {
-    "modo": "busqueda",
-    "query": "canyella molta",
-    "candidatos": [
-      {
-        "product_id": "18926",
-        "name": "BONPREU Canyella molta",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": 18.75,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18926"
-      }
-    ],
-    "elegido": "18926",
-    "nuevo_pin": "18926"
+    "modo": "omitido",
+    "candidatos": []
   },
   "queso-brie": {
     "modo": "omitido",
@@ -125,144 +112,46 @@
     "candidatos": []
   },
   "patatas": {
-    "modo": "busqueda",
-    "query": "patates -fregides -palla -xips -braves",
-    "candidatos": [
-      {
-        "product_id": "02473",
-        "name": "LA COLLITA Patates vermelles en bossa de 2 kg",
-        "packaging": null,
-        "price": 3.79,
-        "ref_price": 1.9,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02473"
-      },
-      {
-        "product_id": "07372",
-        "name": "LA COLLITA Patates per a microones en bossa de 500 g",
-        "packaging": null,
-        "price": 1.49,
-        "ref_price": 2.98,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07372"
-      },
-      {
-        "product_id": "28295",
-        "name": "LAY'S Patates al forn",
-        "packaging": null,
-        "price": 2.39,
-        "ref_price": 15.93,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/28295"
-      }
-    ],
-    "elegido": "02473",
-    "nuevo_pin": "02473"
+    "modo": "omitido",
+    "candidatos": []
   },
   "detergente-marsella": {
     "modo": "omitido",
     "candidatos": []
   },
   "cappuccino": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "salchichas-frankfurt": {
+    "modo": "omitido",
+    "candidatos": []
+  },
+  "clavo": {
     "modo": "busqueda",
-    "query": "cafe soluble capuccino",
+    "query": "clau olor",
     "candidatos": [
       {
-        "product_id": "59577",
-        "name": "NESCAFÉ Cafè soluble Cappuccino",
+        "product_id": "18931",
+        "name": "BONPREU Clau en gra",
         "packaging": null,
-        "price": 4.95,
-        "ref_price": 19.8,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59577"
+        "price": 1.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18931"
       },
       {
-        "product_id": "04764",
-        "name": "NESCAFÉ Cafè soluble descafeïnat Cappuccino",
+        "product_id": "76142",
+        "name": "MARNYS Oli essencial de Clau",
         "packaging": null,
-        "price": 4.95,
-        "ref_price": 19.8,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04764"
-      },
-      {
-        "product_id": "88195",
-        "name": "MARCILLA Cafè soluble Cappuccino Milka",
-        "packaging": null,
-        "price": 3.45,
-        "ref_price": 21.56,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88195"
-      },
-      {
-        "product_id": "66321",
-        "name": "MARCILLA Cafè soluble Cappuccino Original",
-        "packaging": null,
-        "price": 3.45,
-        "ref_price": 19.6,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/66321"
+        "price": 10.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.litre",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/76142"
       }
     ],
     "elegido": null,
     "nuevo_pin": null
-  },
-  "salchichas-frankfurt": {
-    "modo": "busqueda",
-    "query": "salsitxes",
-    "candidatos": [
-      {
-        "product_id": "20315",
-        "name": "CAMPOFRÍO Salsitxes frankfurt",
-        "packaging": null,
-        "price": 2.45,
-        "ref_price": 4.38,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20315"
-      },
-      {
-        "product_id": "09263",
-        "name": "OSCAR MAYER Salsitxes cuites",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": 6.75,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/09263"
-      },
-      {
-        "product_id": "22803",
-        "name": "BONPREU Salsitxes de frankfurt",
-        "packaging": null,
-        "price": 2.25,
-        "ref_price": 8.65,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/22803"
-      },
-      {
-        "product_id": "47225",
-        "name": "CAMPOFRÍO Salsitxes Baviera",
-        "packaging": null,
-        "price": 2.45,
-        "ref_price": 9.42,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/47225"
-      },
-      {
-        "product_id": "37173",
-        "name": "CAMPOFRÍO Salsitxes Bratwurst tipus alemany",
-        "packaging": null,
-        "price": 2.45,
-        "ref_price": 9.42,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37173"
-      }
-    ],
-    "elegido": "20315",
-    "nuevo_pin": "20315"
-  },
-  "clavo": {
-    "modo": "omitido",
-    "candidatos": []
   },
   "canela-rama": {
     "modo": "omitido",
