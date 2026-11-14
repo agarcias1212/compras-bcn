@@ -3573,6 +3573,16 @@
           "url": "https://tienda.consum.es/es/p/manzana-golden-bolsa/7487775",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/47145.jpg"
+        },
+        "bonpreu": {
+          "product_id": "49235",
+          "name": "LA COLLITA Poma golden de Girona Km0 bossa 1,5 kg",
+          "packaging": null,
+          "price": 2.69,
+          "ref_price": 1.79,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49235",
+          "fetched": "2026-11-14T14:44:11+01:00"
         }
       }
     },
@@ -3613,6 +3623,16 @@
           "url": "https://tienda.consum.es/es/p/platano-canario-igp/26104",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/4687.jpg"
+        },
+        "bonpreu": {
+          "product_id": "07722",
+          "name": "LA COLLITA Plàtan de Canàries IGP 1 u.",
+          "packaging": null,
+          "price": 0.75,
+          "ref_price": 3.19,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07722",
+          "fetched": "2026-11-14T14:44:11+01:00"
         }
       }
     },
@@ -3663,6 +3683,16 @@
           "url": "https://tienda.consum.es/es/p/guacamole-tarrina/7357762",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/24230.jpg"
+        },
+        "bonpreu": {
+          "product_id": "75594",
+          "name": "IFA Salsa de guacamole",
+          "packaging": null,
+          "price": 1.69,
+          "ref_price": 5.63,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75594",
+          "fetched": "2026-11-14T14:44:11+01:00"
         }
       }
     },
@@ -4715,5 +4745,5 @@
       }
     }
   },
-  "updated": "2026-11-14T14:38:44+01:00"
+  "updated": "2026-11-14T14:44:11+01:00"
 }
