@@ -48,8 +48,21 @@
     "candidatos": []
   },
   "nuez-moscada": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "nou moscada molta",
+    "candidatos": [
+      {
+        "product_id": "18975",
+        "name": "BONPREU Nou moscada molta",
+        "packaging": null,
+        "price": 1.26,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18975"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "margarina": {
     "modo": "omitido",
@@ -360,8 +373,57 @@
     "candidatos": []
   },
   "papel-higienico": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "paper higienic -humit",
+    "candidatos": [
+      {
+        "product_id": "82027",
+        "name": "SCOTTEX Paper higiènic encoixinat 3 capes 8 un.",
+        "packaging": null,
+        "price": 3.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82027"
+      },
+      {
+        "product_id": "59049",
+        "name": "SCOTTEX Paper higiènic Megarotlle 2 capes 18 un.",
+        "packaging": null,
+        "price": 11.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59049"
+      },
+      {
+        "product_id": "07843",
+        "name": "SCOTTEX Paper higiènic Sensitive llet d'ametlles 3 capes 6 un.",
+        "packaging": null,
+        "price": 3.29,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07843"
+      },
+      {
+        "product_id": "32904",
+        "name": "BONPREU Paper higiènic compacte 2 capes 12 un.",
+        "packaging": null,
+        "price": 4.59,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/32904"
+      },
+      {
+        "product_id": "08673",
+        "name": "BONPREU Paper higiènic 2 capes 12 un.",
+        "packaging": null,
+        "price": 2.39,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08673"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "hamburguesa-vacuno": {
     "modo": "omitido",
@@ -372,8 +434,57 @@
     "candidatos": []
   },
   "patatas-paja": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "patates palla",
+    "candidatos": [
+      {
+        "product_id": "34405",
+        "name": "BONPREU Patates palla",
+        "packaging": null,
+        "price": 1.5,
+        "ref_price": 7.5,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34405"
+      },
+      {
+        "product_id": "90938",
+        "name": "FRIT RAVICH Patates palla",
+        "packaging": null,
+        "price": 2.19,
+        "ref_price": 14.6,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/90938"
+      },
+      {
+        "product_id": "64774",
+        "name": "ALFONSO TORRES Patates fregides palla Km0",
+        "packaging": null,
+        "price": 2.69,
+        "ref_price": 17.93,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/64774"
+      },
+      {
+        "product_id": "52460",
+        "name": "PALAU Patates palla Km0",
+        "packaging": null,
+        "price": 2.95,
+        "ref_price": 19.67,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/52460"
+      },
+      {
+        "product_id": "14041",
+        "name": "PALAU Patates palla picants Km0",
+        "packaging": null,
+        "price": 2.95,
+        "ref_price": 19.67,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14041"
+      }
+    ],
+    "elegido": "34405",
+    "nuevo_pin": "34405"
   },
   "aceite-oliva-virgen-extra": {
     "modo": "omitido",
@@ -404,8 +515,21 @@
     "candidatos": []
   },
   "nachos": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "nachos -salsa",
+    "candidatos": [
+      {
+        "product_id": "49306",
+        "name": "TGT Formatge ratllat especial nachos",
+        "packaging": null,
+        "price": 2.35,
+        "ref_price": 15.67,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49306"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "garbanzos": {
     "modo": "omitido",
