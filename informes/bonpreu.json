@@ -260,57 +260,8 @@
     "candidatos": []
   },
   "tomate": {
-    "modo": "busqueda",
-    "query": "tomaquet amanida",
-    "candidatos": [
-      {
-        "product_id": "00944",
-        "name": "LA COLLITA Tomàquet cirerol pera en safata de 250 g",
-        "packaging": null,
-        "price": 1.49,
-        "ref_price": 5.96,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00944"
-      },
-      {
-        "product_id": "35281",
-        "name": " Tomàquet verd 1 u.",
-        "packaging": null,
-        "price": 0.54,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35281"
-      },
-      {
-        "product_id": "48199",
-        "name": " Tomàquet rosa de la reina 1 u.",
-        "packaging": null,
-        "price": 1.69,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48199"
-      },
-      {
-        "product_id": "75358",
-        "name": "LA COLLITA Tomàquet rosa en safata de 600 grams",
-        "packaging": null,
-        "price": 2.89,
-        "ref_price": 4.82,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75358"
-      },
-      {
-        "product_id": "80106",
-        "name": " Tomàquet Monterosa 1 u.",
-        "packaging": null,
-        "price": 1.19,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80106"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "zanahoria": {
     "modo": "omitido",
@@ -353,16 +304,114 @@
     "candidatos": []
   },
   "mantequilla": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mantega -cacauet -galeta",
+    "candidatos": [
+      {
+        "product_id": "10647",
+        "name": "BONPREU Mantega",
+        "packaging": null,
+        "price": 2.05,
+        "ref_price": 8.2,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10647"
+      },
+      {
+        "product_id": "10645",
+        "name": "BONPREU Mantega amb sal",
+        "packaging": null,
+        "price": 2.05,
+        "ref_price": 8.2,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10645"
+      },
+      {
+        "product_id": "54563",
+        "name": "ASTURIANA Mantega tradicional",
+        "packaging": null,
+        "price": 3.29,
+        "ref_price": 13.16,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/54563"
+      },
+      {
+        "product_id": "94627",
+        "name": "PRÉSIDENT Mantega lleugera",
+        "packaging": null,
+        "price": 3.29,
+        "ref_price": 13.16,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/94627"
+      },
+      {
+        "product_id": "28958",
+        "name": "JUMPERS Snacks de mantega",
+        "packaging": null,
+        "price": 1.49,
+        "ref_price": 14.9,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/28958"
+      }
+    ],
+    "elegido": "10647",
+    "nuevo_pin": "10647"
   },
   "zumo-lima": {
     "modo": "omitido",
     "candidatos": []
   },
   "mayonesa-light": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "maionesa light",
+    "candidatos": [
+      {
+        "product_id": "05488",
+        "name": "HELLMANN'S Maionesa",
+        "packaging": null,
+        "price": 1.95,
+        "ref_price": 8.67,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05488"
+      },
+      {
+        "product_id": "01373",
+        "name": "BONPREU Maionesa",
+        "packaging": null,
+        "price": 1.35,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01373"
+      },
+      {
+        "product_id": "20407",
+        "name": "HELLMANN'S Maionesa",
+        "packaging": null,
+        "price": 3.49,
+        "ref_price": 8.12,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20407"
+      },
+      {
+        "product_id": "38304",
+        "name": "HEINZ Maionesa",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38304"
+      },
+      {
+        "product_id": "51303",
+        "name": "PRIMA Maionesa Original",
+        "packaging": null,
+        "price": 2.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/51303"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "mostaza": {
     "modo": "omitido",
