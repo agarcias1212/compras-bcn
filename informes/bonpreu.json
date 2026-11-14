@@ -328,74 +328,12 @@
     "candidatos": []
   },
   "bolsas-basura": {
-    "modo": "busqueda",
-    "query": "bossa escombraries",
-    "candidatos": [
-      {
-        "product_id": "16123",
-        "name": "BONPREU Bosses d'escombraries perfumades 30 L",
-        "packaging": null,
-        "price": 1.59,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/16123"
-      },
-      {
-        "product_id": "11052",
-        "name": "BONPREU Bosses d'escombraries 30 L",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/11052"
-      },
-      {
-        "product_id": "60292",
-        "name": "BONPREU Bosses escombraries compostables 10 L",
-        "packaging": null,
-        "price": 1.75,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60292"
-      },
-      {
-        "product_id": "45328",
-        "name": "BONPREU Bosses d'escombraries mini 10 L",
-        "packaging": null,
-        "price": 1.05,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/45328"
-      },
-      {
-        "product_id": "48729",
-        "name": "BONPREU Bosses escombraries envasos 30 L",
-        "packaging": null,
-        "price": 1.75,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48729"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "bolsas-reutilizables": {
-    "modo": "busqueda",
-    "query": "bossa reutilitzable",
-    "candidatos": [
-      {
-        "product_id": "30953",
-        "name": "NEXCARE Bossa de gel reutilitzable fred i calor",
-        "packaging": null,
-        "price": 9.95,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30953"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "bolsas-cierre": {
     "modo": "omitido",
@@ -414,8 +352,21 @@
     "candidatos": []
   },
   "panos-absorbentes": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "baieta rotlle",
+    "candidatos": [
+      {
+        "product_id": "82085",
+        "name": "BONPREU Rotlle de baieta",
+        "packaging": null,
+        "price": 1.4,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.meter",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82085"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "papel-cocina": {
     "modo": "omitido",
