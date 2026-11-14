@@ -244,21 +244,8 @@
     "candidatos": []
   },
   "alubia-negra": {
-    "modo": "busqueda",
-    "query": "mongeta negra -cuita",
-    "candidatos": [
-      {
-        "product_id": "02030",
-        "name": "TUGAS Brots de mongeta mungo bossa 200 g",
-        "packaging": null,
-        "price": 1.99,
-        "ref_price": 9.95,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02030"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "jamon-iberico": {
     "modo": "omitido",
