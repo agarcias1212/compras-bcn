@@ -212,162 +212,37 @@
     "candidatos": []
   },
   "te-verde": {
-    "modo": "busqueda",
-    "query": "te verd -beguda",
-    "candidatos": [
-      {
-        "product_id": "34667",
-        "name": "BONPREU Te verd ecològic",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34667"
-      },
-      {
-        "product_id": "49112",
-        "name": "FLOR DEL PIRINEO Te verd",
-        "packaging": null,
-        "price": 2.49,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49112"
-      },
-      {
-        "product_id": "87714",
-        "name": "BONPREU Te verd",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87714"
-      },
-      {
-        "product_id": "03914",
-        "name": "HORNIMANS Te verd  pur",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03914"
-      },
-      {
-        "product_id": "35385",
-        "name": "HORNIMANS Te verd llimona",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35385"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "rooibos": {
-    "modo": "busqueda",
-    "query": "rooibos",
-    "candidatos": [
-      {
-        "product_id": "31948",
-        "name": "BONPREU Infusió ecològica rooibos",
-        "packaging": null,
-        "price": 1.69,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/31948"
-      },
-      {
-        "product_id": "80844",
-        "name": "HORNIMANS Infusió rooibos",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80844"
-      },
-      {
-        "product_id": "49107",
-        "name": "FLOR DEL PIRINEO Infusió rooibos",
-        "packaging": null,
-        "price": 2.89,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49107"
-      },
-      {
-        "product_id": "69420",
-        "name": "ALMA HOME Infusió rooibos amb canyella i menta ecològica",
-        "packaging": null,
-        "price": 4.69,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/69420"
-      },
-      {
-        "product_id": "27559",
-        "name": "YOGI TEA Infusió de rooibos",
-        "packaging": null,
-        "price": 4.19,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27559"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "infusion-frutos-rojos": {
     "modo": "omitido",
     "candidatos": []
   },
   "maiz-palomitas": {
-    "modo": "busqueda",
-    "query": "blat moro crispetes -microones",
-    "candidatos": [
-      {
-        "product_id": "60734",
-        "name": "BONPREU Blat de moro per fer crispetes",
-        "packaging": null,
-        "price": 0.88,
-        "ref_price": 3.52,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60734"
-      },
-      {
-        "product_id": "19135",
-        "name": "BONPREU Crispetes de blat de moro sabor mantega",
-        "packaging": null,
-        "price": 0.8,
-        "ref_price": 10.0,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/19135"
-      },
-      {
-        "product_id": "55120",
-        "name": "RISI Crispetes de blat de moro amb gust de formatge cheedar blanc",
-        "packaging": null,
-        "price": 1.15,
-        "ref_price": 12.78,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/55120"
-      },
-      {
-        "product_id": "39235",
-        "name": "RISI Crispetes de blat de moro amb gust quètxup i mostassa",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": 15.56,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/39235"
-      }
-    ],
-    "elegido": "60734",
-    "nuevo_pin": "60734"
-  },
-  "chia": {
     "modo": "omitido",
     "candidatos": []
+  },
+  "chia": {
+    "modo": "busqueda",
+    "query": "chia -pa -iogurt -beguda",
+    "candidatos": [
+      {
+        "product_id": "61174",
+        "name": "GULLÓN Galetes salades amb quinoa i chia",
+        "packaging": null,
+        "price": 2.15,
+        "ref_price": 8.6,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/61174"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "sesamo": {
     "modo": "omitido",
