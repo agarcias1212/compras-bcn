@@ -408,57 +408,8 @@
     "candidatos": []
   },
   "garbanzos": {
-    "modo": "busqueda",
-    "query": "cigrons -cuits -hummus",
-    "candidatos": [
-      {
-        "product_id": "74267",
-        "name": "BONPREU Cigrons Pedrosillano",
-        "packaging": null,
-        "price": 1.89,
-        "ref_price": 1.89,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/74267"
-      },
-      {
-        "product_id": "74268",
-        "name": "BONPREU Cigrons",
-        "packaging": null,
-        "price": 2.15,
-        "ref_price": 2.15,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/74268"
-      },
-      {
-        "product_id": "42241",
-        "name": "BONPREU Cigrons blancs",
-        "packaging": null,
-        "price": 2.49,
-        "ref_price": 2.49,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/42241"
-      },
-      {
-        "product_id": "10786",
-        "name": "BONPREU Cigrons blancs",
-        "packaging": null,
-        "price": 1.25,
-        "ref_price": 2.5,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10786"
-      },
-      {
-        "product_id": "35729",
-        "name": "LUENGO Cigrons baixos en sal",
-        "packaging": null,
-        "price": 1.45,
-        "ref_price": 3.63,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35729"
-      }
-    ],
-    "elegido": "74267",
-    "nuevo_pin": "74267"
+    "modo": "omitido",
+    "candidatos": []
   },
   "yogur-natural": {
     "modo": "omitido",
