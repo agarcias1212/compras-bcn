@@ -304,114 +304,16 @@
     "candidatos": []
   },
   "mantequilla": {
-    "modo": "busqueda",
-    "query": "mantega -cacauet -galeta",
-    "candidatos": [
-      {
-        "product_id": "10647",
-        "name": "BONPREU Mantega",
-        "packaging": null,
-        "price": 2.05,
-        "ref_price": 8.2,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10647"
-      },
-      {
-        "product_id": "10645",
-        "name": "BONPREU Mantega amb sal",
-        "packaging": null,
-        "price": 2.05,
-        "ref_price": 8.2,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10645"
-      },
-      {
-        "product_id": "54563",
-        "name": "ASTURIANA Mantega tradicional",
-        "packaging": null,
-        "price": 3.29,
-        "ref_price": 13.16,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/54563"
-      },
-      {
-        "product_id": "94627",
-        "name": "PRÉSIDENT Mantega lleugera",
-        "packaging": null,
-        "price": 3.29,
-        "ref_price": 13.16,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/94627"
-      },
-      {
-        "product_id": "28958",
-        "name": "JUMPERS Snacks de mantega",
-        "packaging": null,
-        "price": 1.49,
-        "ref_price": 14.9,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/28958"
-      }
-    ],
-    "elegido": "10647",
-    "nuevo_pin": "10647"
+    "modo": "omitido",
+    "candidatos": []
   },
   "zumo-lima": {
     "modo": "omitido",
     "candidatos": []
   },
   "mayonesa-light": {
-    "modo": "busqueda",
-    "query": "maionesa light",
-    "candidatos": [
-      {
-        "product_id": "05488",
-        "name": "HELLMANN'S Maionesa",
-        "packaging": null,
-        "price": 1.95,
-        "ref_price": 8.67,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05488"
-      },
-      {
-        "product_id": "01373",
-        "name": "BONPREU Maionesa",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01373"
-      },
-      {
-        "product_id": "20407",
-        "name": "HELLMANN'S Maionesa",
-        "packaging": null,
-        "price": 3.49,
-        "ref_price": 8.12,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20407"
-      },
-      {
-        "product_id": "38304",
-        "name": "HEINZ Maionesa",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38304"
-      },
-      {
-        "product_id": "51303",
-        "name": "PRIMA Maionesa Original",
-        "packaging": null,
-        "price": 2.19,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/51303"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "mostaza": {
     "modo": "omitido",
@@ -426,12 +328,74 @@
     "candidatos": []
   },
   "bolsas-basura": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "bossa escombraries",
+    "candidatos": [
+      {
+        "product_id": "16123",
+        "name": "BONPREU Bosses d'escombraries perfumades 30 L",
+        "packaging": null,
+        "price": 1.59,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/16123"
+      },
+      {
+        "product_id": "11052",
+        "name": "BONPREU Bosses d'escombraries 30 L",
+        "packaging": null,
+        "price": 1.35,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/11052"
+      },
+      {
+        "product_id": "60292",
+        "name": "BONPREU Bosses escombraries compostables 10 L",
+        "packaging": null,
+        "price": 1.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60292"
+      },
+      {
+        "product_id": "45328",
+        "name": "BONPREU Bosses d'escombraries mini 10 L",
+        "packaging": null,
+        "price": 1.05,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/45328"
+      },
+      {
+        "product_id": "48729",
+        "name": "BONPREU Bosses escombraries envasos 30 L",
+        "packaging": null,
+        "price": 1.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48729"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "bolsas-reutilizables": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "bossa reutilitzable",
+    "candidatos": [
+      {
+        "product_id": "30953",
+        "name": "NEXCARE Bossa de gel reutilitzable fred i calor",
+        "packaging": null,
+        "price": 9.95,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30953"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "bolsas-cierre": {
     "modo": "omitido",

@@ -4092,7 +4092,8 @@
         "mercadona": null,
         "aldi": null,
         "dia": null,
-        "consum": null
+        "consum": null,
+        "bonpreu": null
       }
     },
     "bolsas-cierre": {
@@ -4995,5 +4996,5 @@
       }
     }
   },
-  "updated": "2026-11-14T19:24:24+01:00"
+  "updated": "2026-11-14T19:30:00+01:00"
 }
