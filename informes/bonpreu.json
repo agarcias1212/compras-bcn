@@ -160,211 +160,24 @@
     "candidatos": []
   },
   "romero": {
-    "modo": "busqueda",
-    "query": "romani",
-    "candidatos": [
-      {
-        "product_id": "36311",
-        "name": "FLOR DEL PIRINEO Romaní",
-        "packaging": null,
-        "price": 1.95,
-        "ref_price": 16.25,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/36311"
-      },
-      {
-        "product_id": "31932",
-        "name": "MURIA Mel de romaní Km0",
-        "packaging": null,
-        "price": 8.85,
-        "ref_price": 17.7,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/31932"
-      },
-      {
-        "product_id": "00018",
-        "name": "BONPREU Romaní fulla",
-        "packaging": null,
-        "price": 0.84,
-        "ref_price": 33.6,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00018"
-      },
-      {
-        "product_id": "88126",
-        "name": "DVERD Romaní fresc km0",
-        "packaging": null,
-        "price": 1.49,
-        "ref_price": 49.67,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88126"
-      }
-    ],
-    "elegido": "36311",
-    "nuevo_pin": "36311"
+    "modo": "omitido",
+    "candidatos": []
   },
   "miel-flores": {
-    "modo": "busqueda",
-    "query": "mel flors",
-    "candidatos": [
-      {
-        "product_id": "79510",
-        "name": "REINA APICOLA Mel de mil flors",
-        "packaging": null,
-        "price": 5.0,
-        "ref_price": 5.0,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/79510"
-      },
-      {
-        "product_id": "79514",
-        "name": "REINA APICOLA Mel de mil flors",
-        "packaging": null,
-        "price": 3.2,
-        "ref_price": 6.4,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/79514"
-      },
-      {
-        "product_id": "81752",
-        "name": "HELIOS Mel de flors",
-        "packaging": null,
-        "price": 2.85,
-        "ref_price": 11.4,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81752"
-      },
-      {
-        "product_id": "84240",
-        "name": "L'AVI LLUIS Mel de mil flors",
-        "packaging": null,
-        "price": 5.79,
-        "ref_price": 11.82,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/84240"
-      },
-      {
-        "product_id": "29540",
-        "name": "MAS BURET Mel de mil flors Km0",
-        "packaging": null,
-        "price": 6.95,
-        "ref_price": 13.9,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29540"
-      }
-    ],
-    "elegido": "79510",
-    "nuevo_pin": "79510"
+    "modo": "omitido",
+    "candidatos": []
   },
   "aceite-sesamo": {
     "modo": "omitido",
     "candidatos": []
   },
   "salsa-soja": {
-    "modo": "busqueda",
-    "query": "salsa soja",
-    "candidatos": [
-      {
-        "product_id": "21086",
-        "name": "CAMILL Salsa de soja tradicional",
-        "packaging": null,
-        "price": 1.65,
-        "ref_price": 6.6,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/21086"
-      },
-      {
-        "product_id": "20713",
-        "name": "CAMILL Salsa de soja sense gluten",
-        "packaging": null,
-        "price": 2.25,
-        "ref_price": 9.0,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20713"
-      },
-      {
-        "product_id": "06304",
-        "name": "KIKKOMAN Salsa de soja",
-        "packaging": null,
-        "price": 11.99,
-        "ref_price": 11.99,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/06304"
-      },
-      {
-        "product_id": "50735",
-        "name": "VE WONG Salsa de soja",
-        "packaging": null,
-        "price": 2.79,
-        "ref_price": 18.6,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/50735"
-      },
-      {
-        "product_id": "88981",
-        "name": "HEINZ Salsa de soja",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": 19.93,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88981"
-      }
-    ],
-    "elegido": "21086",
-    "nuevo_pin": "21086"
+    "modo": "omitido",
+    "candidatos": []
   },
   "ajo": {
-    "modo": "busqueda",
-    "query": "all -pols -negre -julivert -salsa -oli",
-    "candidatos": [
-      {
-        "product_id": "01200",
-        "name": " Alls secs 1 u.",
-        "packaging": null,
-        "price": 0.52,
-        "ref_price": 6.99,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01200"
-      },
-      {
-        "product_id": "18002",
-        "name": "LA COLLITA Alls secs en malla de 250 g",
-        "packaging": null,
-        "price": 1.89,
-        "ref_price": 7.56,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18002"
-      },
-      {
-        "product_id": "57553",
-        "name": "CN All picat",
-        "packaging": null,
-        "price": 0.95,
-        "ref_price": 7.6,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/57553"
-      },
-      {
-        "product_id": "07316",
-        "name": "LA COLLITA Alls porros Km0",
-        "packaging": null,
-        "price": 2.49,
-        "ref_price": 12.45,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07316"
-      },
-      {
-        "product_id": "01826",
-        "name": "LA COLLITA Alls ecològics en malla de 170 g",
-        "packaging": null,
-        "price": 2.19,
-        "ref_price": 12.88,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01826"
-      }
-    ],
-    "elegido": "01200",
-    "nuevo_pin": "01200"
+    "modo": "omitido",
+    "candidatos": []
   },
   "espaguetis": {
     "modo": "omitido",
@@ -375,20 +188,180 @@
     "candidatos": []
   },
   "copos-avena": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "flocs civada -xocolata",
+    "candidatos": [
+      {
+        "product_id": "07381",
+        "name": "BONPREU Flocs de civada",
+        "packaging": null,
+        "price": 0.85,
+        "ref_price": 1.7,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07381"
+      },
+      {
+        "product_id": "26930",
+        "name": "ESGIR Flocs de civada instantanis",
+        "packaging": null,
+        "price": 1.0,
+        "ref_price": 2.0,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/26930"
+      },
+      {
+        "product_id": "61882",
+        "name": "BONPREU Flocs de civada integral petits ecològics",
+        "packaging": null,
+        "price": 1.59,
+        "ref_price": 3.18,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/61882"
+      },
+      {
+        "product_id": "61981",
+        "name": "BONPREU Flocs de civada integral grans ecològics",
+        "packaging": null,
+        "price": 1.59,
+        "ref_price": 3.18,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/61981"
+      },
+      {
+        "product_id": "79931",
+        "name": "BONPREU Flocs de civada integral",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 3.98,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/79931"
+      }
+    ],
+    "elegido": "07381",
+    "nuevo_pin": "07381"
   },
   "lentejas": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "llenties -cuites",
+    "candidatos": [
+      {
+        "product_id": "30064",
+        "name": "BONPREU Llenties crimson",
+        "packaging": null,
+        "price": 0.79,
+        "ref_price": 1.58,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30064"
+      },
+      {
+        "product_id": "30134",
+        "name": "BONPREU Llenties crimson",
+        "packaging": null,
+        "price": 1.65,
+        "ref_price": 1.65,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30134"
+      },
+      {
+        "product_id": "27379",
+        "name": "BONPREU Llenties pardines",
+        "packaging": null,
+        "price": 0.99,
+        "ref_price": 1.98,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27379"
+      },
+      {
+        "product_id": "21635",
+        "name": "BONPREU Llenties pardines",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 1.99,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/21635"
+      },
+      {
+        "product_id": "86751",
+        "name": "BONPREU Llenties Laird",
+        "packaging": null,
+        "price": 1.05,
+        "ref_price": 2.1,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/86751"
+      }
+    ],
+    "elegido": "30064",
+    "nuevo_pin": "30064"
   },
   "manzanilla": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "camamilla -xampu",
+    "candidatos": [
+      {
+        "product_id": "87716",
+        "name": "BONPREU Camamilla",
+        "packaging": null,
+        "price": 0.65,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87716"
+      },
+      {
+        "product_id": "27697",
+        "name": "BONPREU Infusió ecològica de camamilla",
+        "packaging": null,
+        "price": 1.49,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27697"
+      },
+      {
+        "product_id": "62066",
+        "name": "HORNIMANS Camamilla",
+        "packaging": null,
+        "price": 2.25,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62066"
+      },
+      {
+        "product_id": "87720",
+        "name": "BONPREU Camamilla amb anís",
+        "packaging": null,
+        "price": 0.85,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87720"
+      },
+      {
+        "product_id": "37045",
+        "name": "FLOR DEL PIRINEO Camamilla",
+        "packaging": null,
+        "price": 2.95,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/37045"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "infusion-manzana-canela": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "infusio poma canyella",
+    "candidatos": [
+      {
+        "product_id": "69420",
+        "name": "ALMA HOME Infusió rooibos amb canyella i menta ecològica",
+        "packaging": null,
+        "price": 4.69,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/69420"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "poleo-menta": {
     "modo": "omitido",

@@ -2599,6 +2599,16 @@
           "url": "https://tienda.consum.es/es/p/copos-de-avena/7427933",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/33872.jpg"
+        },
+        "bonpreu": {
+          "product_id": "07381",
+          "name": "BONPREU Flocs de civada",
+          "packaging": null,
+          "price": 0.85,
+          "ref_price": 1.7,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07381",
+          "fetched": "2026-11-14T18:41:24+01:00"
         }
       }
     },
@@ -2649,6 +2659,16 @@
           "url": "https://tienda.consum.es/es/p/lenteja-parda-roja/7415029",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/31696.jpg"
+        },
+        "bonpreu": {
+          "product_id": "30064",
+          "name": "BONPREU Llenties crimson",
+          "packaging": null,
+          "price": 0.79,
+          "ref_price": 1.58,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30064",
+          "fetched": "2026-11-14T18:41:24+01:00"
         }
       }
     },
@@ -4940,5 +4960,5 @@
       }
     }
   },
-  "updated": "2026-11-14T18:20:48+01:00"
+  "updated": "2026-11-14T18:41:24+01:00"
 }
