@@ -3203,6 +3203,16 @@
           "url": "https://tienda.consum.es/es/p/zanahoria-de-mesa-bolsa/4501508",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/5321.jpg"
+        },
+        "bonpreu": {
+          "product_id": "07304",
+          "name": " Pastanaga 1 u.",
+          "packaging": null,
+          "price": 0.18,
+          "ref_price": 1.45,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07304",
+          "fetched": "2026-11-14T14:33:08+01:00"
         }
       }
     },
@@ -3243,6 +3253,16 @@
           "url": "https://tienda.consum.es/es/p/lechuga-iceberg-peso-aproximado-350-gr/71126",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/4710.jpg"
+        },
+        "bonpreu": {
+          "product_id": "12891",
+          "name": "LA COLLITA Enciam iceberg",
+          "packaging": null,
+          "price": 0.79,
+          "ref_price": 3.95,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/12891",
+          "fetched": "2026-11-14T14:33:08+01:00"
         }
       }
     },
@@ -3283,6 +3303,16 @@
           "url": "https://tienda.consum.es/es/p/calabacin-verde/5526694",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/5355.jpg"
+        },
+        "bonpreu": {
+          "product_id": "07315",
+          "name": " Carbassó  1 u.",
+          "packaging": null,
+          "price": 0.54,
+          "ref_price": 1.29,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07315",
+          "fetched": "2026-11-14T14:33:08+01:00"
         }
       }
     },
@@ -3323,6 +3353,16 @@
           "url": "https://tienda.consum.es/es/p/uva-aledo/7114510",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/14336.jpg"
+        },
+        "bonpreu": {
+          "product_id": "03945",
+          "name": " Raïm vermell de taula amb llavors 1 u.",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 2.99,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03945",
+          "fetched": "2026-11-14T14:33:08+01:00"
         }
       }
     },
@@ -4665,5 +4705,5 @@
       }
     }
   },
-  "updated": "2026-11-14T14:22:50+01:00"
+  "updated": "2026-11-14T14:33:08+01:00"
 }

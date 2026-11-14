@@ -264,20 +264,171 @@
     "candidatos": []
   },
   "zanahoria": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "pastanaga -ratllada -suc",
+    "candidatos": [
+      {
+        "product_id": "07304",
+        "name": " Pastanaga 1 u.",
+        "packaging": null,
+        "price": 0.18,
+        "ref_price": 1.45,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07304"
+      },
+      {
+        "product_id": "08851",
+        "name": "LA COLLITA Pastanaga en manat de 750 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 2.65,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08851"
+      },
+      {
+        "product_id": "49615",
+        "name": "BONPREU Pastanaga a daus",
+        "packaging": null,
+        "price": 1.25,
+        "ref_price": 2.78,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49615"
+      },
+      {
+        "product_id": "08120",
+        "name": " Pastanaga ecològica en safata de 700 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 2.84,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08120"
+      },
+      {
+        "product_id": "15297",
+        "name": "LA COLLITA Pastanaga baby en bossa de 250 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 7.96,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/15297"
+      }
+    ],
+    "elegido": "07304",
+    "nuevo_pin": "07304"
   },
   "lechuga": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "enciam iceberg",
+    "candidatos": [
+      {
+        "product_id": "12891",
+        "name": "LA COLLITA Enciam iceberg",
+        "packaging": null,
+        "price": 0.79,
+        "ref_price": 3.95,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/12891"
+      }
+    ],
+    "elegido": "12891",
+    "nuevo_pin": "12891"
   },
   "calabacin": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "carbasso -crema -espiral",
+    "candidatos": [
+      {
+        "product_id": "07315",
+        "name": " Carbassó  1 u.",
+        "packaging": null,
+        "price": 0.54,
+        "ref_price": 1.29,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07315"
+      },
+      {
+        "product_id": "05267",
+        "name": " Carbassó ecològic en safata de 600 g",
+        "packaging": null,
+        "price": 2.49,
+        "ref_price": 4.15,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05267"
+      },
+      {
+        "product_id": "46820",
+        "name": "CRÜ Carbassó Km0 en cinta de 400 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 4.98,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/46820"
+      },
+      {
+        "product_id": "24547",
+        "name": "BONPREU Tempura de carbassó",
+        "packaging": null,
+        "price": 2.39,
+        "ref_price": 5.98,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/24547"
+      }
+    ],
+    "elegido": "07315",
+    "nuevo_pin": "07315"
   },
   "uva": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "raim -pansa -suc",
+    "candidatos": [
+      {
+        "product_id": "03945",
+        "name": " Raïm vermell de taula amb llavors 1 u.",
+        "packaging": null,
+        "price": 1.2,
+        "ref_price": 2.99,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03945"
+      },
+      {
+        "product_id": "56220",
+        "name": "LA COLLITA Raïm blanc sense llavors en safata de 500 g",
+        "packaging": null,
+        "price": 2.39,
+        "ref_price": 4.78,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/56220"
+      },
+      {
+        "product_id": "62326",
+        "name": "LA COLLITA Raïm vermell sense llavors en safata de 500 g",
+        "packaging": null,
+        "price": 2.39,
+        "ref_price": 4.78,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62326"
+      },
+      {
+        "product_id": "04816",
+        "name": "LA COLLITA Raïm blanc sense llavors en bossa de 500 g",
+        "packaging": null,
+        "price": 2.39,
+        "ref_price": 4.78,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04816"
+      },
+      {
+        "product_id": "04831",
+        "name": "LA COLLITA Raïm vermell sense llavors en bossa de 500 g",
+        "packaging": null,
+        "price": 2.39,
+        "ref_price": 4.78,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04831"
+      }
+    ],
+    "elegido": "03945",
+    "nuevo_pin": "03945"
   },
   "mandarina": {
     "modo": "omitido",
