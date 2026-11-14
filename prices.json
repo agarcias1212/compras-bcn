@@ -2176,7 +2176,8 @@
           "fetched": "2026-11-13T07:52:30+00:00",
           "image": "img/dia/299121.webp"
         },
-        "consum": null
+        "consum": null,
+        "bonpreu": null
       }
     },
     "romero": {
@@ -4618,5 +4619,5 @@
       }
     }
   },
-  "updated": "2026-11-14T01:07:33+01:00"
+  "updated": "2026-11-14T01:13:00+01:00"
 }
