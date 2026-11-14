@@ -1290,7 +1290,8 @@
         "dia": "244559",
         "mercadona": "3897",
         "aldi": "fruta-y-verdura/fruta/215200",
-        "consum": "6791"
+        "consum": "6791",
+        "bonpreu": "08870"
       }
     },
     {
@@ -1429,7 +1430,8 @@
       "pinned": {
         "dia": "56586",
         "mercadona": "23410",
-        "consum": "18816"
+        "consum": "18816",
+        "bonpreu": "27121"
       }
     },
     {

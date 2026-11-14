@@ -284,8 +284,30 @@
     "candidatos": []
   },
   "lima": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "llima -suc -llimona -beguda",
+    "candidatos": [
+      {
+        "product_id": "08870",
+        "name": " Llima 1 u.",
+        "packaging": null,
+        "price": 0.43,
+        "ref_price": 4.79,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08870"
+      },
+      {
+        "product_id": "09612",
+        "name": "LA COLLITA Llima en safata de 350 g",
+        "packaging": null,
+        "price": 1.69,
+        "ref_price": 4.83,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/09612"
+      }
+    ],
+    "elegido": "08870",
+    "nuevo_pin": "08870"
   },
   "pera": {
     "modo": "omitido",
@@ -312,20 +334,167 @@
     "candidatos": []
   },
   "mayonesa-light": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "maionesa light",
+    "candidatos": [
+      {
+        "product_id": "05488",
+        "name": "HELLMANN'S Maionesa",
+        "packaging": null,
+        "price": 1.95,
+        "ref_price": 8.67,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05488"
+      },
+      {
+        "product_id": "01373",
+        "name": "BONPREU Maionesa",
+        "packaging": null,
+        "price": 1.35,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01373"
+      },
+      {
+        "product_id": "20407",
+        "name": "HELLMANN'S Maionesa",
+        "packaging": null,
+        "price": 3.49,
+        "ref_price": 8.12,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20407"
+      },
+      {
+        "product_id": "38304",
+        "name": "HEINZ Maionesa",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38304"
+      },
+      {
+        "product_id": "51303",
+        "name": "PRIMA Maionesa Original",
+        "packaging": null,
+        "price": 2.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/51303"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "mostaza": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mostassa -dijon -mel -antiga",
+    "candidatos": [
+      {
+        "product_id": "27121",
+        "name": "BONPREU Mostassa a l'estil americà",
+        "packaging": null,
+        "price": 1.15,
+        "ref_price": 3.38,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27121"
+      },
+      {
+        "product_id": "00457",
+        "name": "PRIMA Mostassa intensa i cremosa",
+        "packaging": null,
+        "price": 1.89,
+        "ref_price": 6.41,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00457"
+      },
+      {
+        "product_id": "51287",
+        "name": "PRIMA Mostassa Original",
+        "packaging": null,
+        "price": 1.89,
+        "ref_price": 7.13,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/51287"
+      },
+      {
+        "product_id": "29193",
+        "name": "LOUIT Mostassa",
+        "packaging": null,
+        "price": 1.49,
+        "ref_price": 12.96,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29193"
+      },
+      {
+        "product_id": "26688",
+        "name": "MAILLE Mostassa",
+        "packaging": null,
+        "price": 3.55,
+        "ref_price": 16.51,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/26688"
+      }
+    ],
+    "elegido": "27121",
+    "nuevo_pin": "27121"
   },
   "salsa-barbacoa": {
     "modo": "omitido",
     "candidatos": []
   },
   "lavavajillas-mano": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "rentavaixelles ma",
+    "candidatos": [
+      {
+        "product_id": "92928",
+        "name": "FAIRY Rentavaixelles Maxi Poder",
+        "packaging": null,
+        "price": 3.85,
+        "ref_price": 8.56,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/92928"
+      },
+      {
+        "product_id": "19261",
+        "name": "BONPREU Rentavaixelles fruites vermelles",
+        "packaging": null,
+        "price": 1.45,
+        "ref_price": 1.45,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/19261"
+      },
+      {
+        "product_id": "06075",
+        "name": "FINISH Abrillantador per a rentavaixelles",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 9.9,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/06075"
+      },
+      {
+        "product_id": "01313",
+        "name": "SOMAT Abrillantador per a rentavaixelles",
+        "packaging": null,
+        "price": 3.99,
+        "ref_price": 7.98,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01313"
+      },
+      {
+        "product_id": "28874",
+        "name": "FINISH ULTIMATE Detergent rentavaixelles de 32 dosis",
+        "packaging": null,
+        "price": 9.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/28874"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "bolsas-basura": {
     "modo": "omitido",

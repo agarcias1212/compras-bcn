@@ -3617,6 +3617,16 @@
           "url": "https://tienda.consum.es/es/p/lima-bandeja/7177165",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/6791.jpg"
+        },
+        "bonpreu": {
+          "product_id": "08870",
+          "name": " Llima 1 u.",
+          "packaging": null,
+          "price": 0.43,
+          "ref_price": 4.79,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08870",
+          "fetched": "2026-11-14T21:35:51+01:00"
         }
       }
     },
@@ -3978,6 +3988,16 @@
           "url": "https://tienda.consum.es/es/p/mostaza/7309391",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/18816.jpg"
+        },
+        "bonpreu": {
+          "product_id": "27121",
+          "name": "BONPREU Mostassa a l'estil americà",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 3.38,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27121",
+          "fetched": "2026-11-14T21:35:51+01:00"
         }
       }
     },
@@ -5084,5 +5104,5 @@
       }
     }
   },
-  "updated": "2026-11-14T21:25:32+01:00"
+  "updated": "2026-11-14T21:35:51+01:00"
 }
