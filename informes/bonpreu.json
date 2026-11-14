@@ -128,30 +128,8 @@
     "candidatos": []
   },
   "clavo": {
-    "modo": "busqueda",
-    "query": "clau olor",
-    "candidatos": [
-      {
-        "product_id": "18931",
-        "name": "BONPREU Clau en gra",
-        "packaging": null,
-        "price": 1.19,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18931"
-      },
-      {
-        "product_id": "76142",
-        "name": "MARNYS Oli essencial de Clau",
-        "packaging": null,
-        "price": 10.19,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.litre",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/76142"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "canela-rama": {
     "modo": "omitido",
