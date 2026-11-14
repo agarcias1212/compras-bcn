@@ -232,89 +232,73 @@
     "candidatos": []
   },
   "sesamo": {
-    "modo": "busqueda",
-    "query": "sesam -oli -pa -galeta",
-    "candidatos": [
-      {
-        "product_id": "85325",
-        "name": "BONPREU Llavors de sèsam cru ecològic",
-        "packaging": null,
-        "price": 1.95,
-        "ref_price": 7.8,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85325"
-      },
-      {
-        "product_id": "49348",
-        "name": "ECOBASICS Llavors de sèsam negre ecològic",
-        "packaging": null,
-        "price": 2.55,
-        "ref_price": 10.2,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49348"
-      },
-      {
-        "product_id": "63497",
-        "name": "BONPREU Llavors de sèsam torrat ecològic",
-        "packaging": null,
-        "price": 2.75,
-        "ref_price": 11.0,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/63497"
-      },
-      {
-        "product_id": "00552",
-        "name": "GERBLÉ Galetes de sèsam",
-        "packaging": null,
-        "price": 2.75,
-        "ref_price": 11.96,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00552"
-      },
-      {
-        "product_id": "36613",
-        "name": "CRICH Crackers de sèsam i romaní ecològics",
-        "packaging": null,
-        "price": 3.25,
-        "ref_price": 13.0,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/36613"
-      }
-    ],
-    "elegido": "85325",
-    "nuevo_pin": "85325"
+    "modo": "omitido",
+    "candidatos": []
   },
   "alubia-roja": {
-    "modo": "busqueda",
-    "query": "mongeta vermella -cuita",
-    "candidatos": [],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "alubia-pinta": {
     "modo": "omitido",
     "candidatos": []
   },
   "alubia-negra": {
-    "modo": "busqueda",
-    "query": "mongeta negra -cuita",
-    "candidatos": [
-      {
-        "product_id": "02030",
-        "name": "TUGAS Brots de mongeta mungo bossa 200 g",
-        "packaging": null,
-        "price": 1.99,
-        "ref_price": 9.95,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02030"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
-  },
-  "jamon-iberico": {
     "modo": "omitido",
     "candidatos": []
+  },
+  "jamon-iberico": {
+    "modo": "busqueda",
+    "query": "pernil iberic -espatlla -peca",
+    "candidatos": [
+      {
+        "product_id": "54730",
+        "name": "MONTE NEVADO Pernil de gla 100% ibèric natural",
+        "packaging": null,
+        "price": 285.0,
+        "ref_price": 43.85,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/54730"
+      },
+      {
+        "product_id": "78754",
+        "name": "BONPREU Pernil d'enceball 50% ibèric",
+        "packaging": null,
+        "price": 4.99,
+        "ref_price": 49.9,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/78754"
+      },
+      {
+        "product_id": "31709",
+        "name": "NAVIDUL Pernil d'enceball  ibèric",
+        "packaging": null,
+        "price": 3.49,
+        "ref_price": 63.45,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/31709"
+      },
+      {
+        "product_id": "49089",
+        "name": "EPICUM Pernil d'enceball 50% ibèric a talls per a tapes",
+        "packaging": null,
+        "price": 5.99,
+        "ref_price": 66.56,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49089"
+      },
+      {
+        "product_id": "50434",
+        "name": "AZUAGA Pernil ibèric d'enceball llescat",
+        "packaging": null,
+        "price": 6.99,
+        "ref_price": 69.9,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/50434"
+      }
+    ],
+    "elegido": "54730",
+    "nuevo_pin": "54730"
   },
   "tomate-frito": {
     "modo": "omitido",

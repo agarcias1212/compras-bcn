@@ -3148,6 +3148,16 @@
           "url": "https://tienda.consum.es/es/p/jamon-de-cebo-iberico-50-iberico-24-meses/7486269",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/46902.jpg"
+        },
+        "bonpreu": {
+          "product_id": "54730",
+          "name": "MONTE NEVADO Pernil de gla 100% ibèric natural",
+          "packaging": null,
+          "price": 285.0,
+          "ref_price": 43.85,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/54730",
+          "fetched": "2026-11-14T19:13:31+01:00"
         }
       }
     },
@@ -4973,5 +4983,5 @@
       }
     }
   },
-  "updated": "2026-11-14T19:07:54+01:00"
+  "updated": "2026-11-14T19:13:31+01:00"
 }
