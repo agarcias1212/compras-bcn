@@ -4306,6 +4306,16 @@
           "url": "https://tienda.consum.es/es/p/aceite-de-oliva-virgen-extra/7281074",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/14480.jpg"
+        },
+        "bonpreu": {
+          "product_id": "26783",
+          "name": "COOSUR Oli d'oliva verge extra",
+          "packaging": null,
+          "price": 11.25,
+          "ref_price": 3.75,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/26783",
+          "fetched": "2026-11-14T15:47:20+01:00"
         }
       }
     },
@@ -4356,6 +4366,16 @@
           "url": "https://tienda.consum.es/es/p/aceite-de-oliva-suave/7414808",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/32302.jpg"
+        },
+        "bonpreu": {
+          "product_id": "14736",
+          "name": "COOSUR Oli d'oliva intens",
+          "packaging": null,
+          "price": 16.75,
+          "ref_price": 3.35,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14736",
+          "fetched": "2026-11-14T15:47:20+01:00"
         }
       }
     },
@@ -4406,6 +4426,16 @@
           "url": "https://tienda.consum.es/es/p/curcuma/7435910",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/35875.jpg"
+        },
+        "bonpreu": {
+          "product_id": "03056",
+          "name": "LA COLLITA Cúrcuma ecològica en terrina de 125 g",
+          "packaging": null,
+          "price": 1.99,
+          "ref_price": 15.92,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03056",
+          "fetched": "2026-11-14T15:47:20+01:00"
         }
       }
     },
@@ -4456,6 +4486,16 @@
           "url": "https://tienda.consum.es/es/p/barra-de-pan-/7370323",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/25963.jpg"
+        },
+        "bonpreu": {
+          "product_id": "14481",
+          "name": " Barra de pa",
+          "packaging": null,
+          "price": 0.79,
+          "ref_price": 2.63,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14481",
+          "fetched": "2026-11-14T15:47:20+01:00"
         }
       }
     },
@@ -4798,5 +4838,5 @@
       }
     }
   },
-  "updated": "2026-11-14T15:27:02+01:00"
+  "updated": "2026-11-14T15:47:20+01:00"
 }

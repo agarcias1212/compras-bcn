@@ -1660,7 +1660,8 @@
         "dia": "266129",
         "mercadona": "4717",
         "aldi": "despensa/aceites-y-vinagres/662500",
-        "consum": "14480"
+        "consum": "14480",
+        "bonpreu": "26783"
       }
     },
     {
@@ -1678,7 +1679,8 @@
         "dia": "27768",
         "mercadona": "4241",
         "aldi": "despensa/aceites-y-vinagres/601186400",
-        "consum": "32302"
+        "consum": "32302",
+        "bonpreu": "14736"
       }
     },
     {
@@ -1696,7 +1698,8 @@
         "dia": "297205",
         "mercadona": "34163",
         "aldi": "despensa/especias-y-condimentos/601613100",
-        "consum": "35875"
+        "consum": "35875",
+        "bonpreu": "03056"
       }
     },
     {
@@ -1714,7 +1717,8 @@
         "dia": "38109",
         "mercadona": "83203.1",
         "aldi": "panaderia-y-bolleria/pan-de-horno/245300",
-        "consum": "25963"
+        "consum": "25963",
+        "bonpreu": "14481"
       }
     },
     {

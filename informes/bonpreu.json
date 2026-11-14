@@ -376,20 +376,180 @@
     "candidatos": []
   },
   "aceite-oliva-virgen-extra": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "oli oliva verge extra -esprai",
+    "candidatos": [
+      {
+        "product_id": "26783",
+        "name": "COOSUR Oli d'oliva verge extra",
+        "packaging": null,
+        "price": 11.25,
+        "ref_price": 3.75,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/26783"
+      },
+      {
+        "product_id": "05290",
+        "name": "BONPREU Oli d'oliva verge extra",
+        "packaging": null,
+        "price": 4.1,
+        "ref_price": 4.1,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05290"
+      },
+      {
+        "product_id": "58413",
+        "name": "BONPREU Oli d'oliva verge extra",
+        "packaging": null,
+        "price": 8.19,
+        "ref_price": 4.1,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/58413"
+      },
+      {
+        "product_id": "01079",
+        "name": "BONPREU Oli d'oliva verge extra ecològic",
+        "packaging": null,
+        "price": 9.95,
+        "ref_price": 6.63,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01079"
+      },
+      {
+        "product_id": "48690",
+        "name": "PONS Oli d'oliva verge extra",
+        "packaging": null,
+        "price": 19.95,
+        "ref_price": 6.65,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48690"
+      }
+    ],
+    "elegido": "26783",
+    "nuevo_pin": "26783"
   },
   "aceite-oliva-suave": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "oli oliva -verge -orujo -sansa",
+    "candidatos": [
+      {
+        "product_id": "14736",
+        "name": "COOSUR Oli d'oliva intens",
+        "packaging": null,
+        "price": 16.75,
+        "ref_price": 3.35,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14736"
+      },
+      {
+        "product_id": "84472",
+        "name": "BONPREU Oli d'oliva sabor suau",
+        "packaging": null,
+        "price": 3.6,
+        "ref_price": 3.6,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/84472"
+      },
+      {
+        "product_id": "45283",
+        "name": "BONPREU Oli d'oliva suau",
+        "packaging": null,
+        "price": 7.19,
+        "ref_price": 3.6,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/45283"
+      }
+    ],
+    "elegido": "14736",
+    "nuevo_pin": "14736"
   },
   "curcuma": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "curcuma -infusio",
+    "candidatos": [
+      {
+        "product_id": "03056",
+        "name": "LA COLLITA Cúrcuma ecològica en terrina de 125 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 15.92,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03056"
+      },
+      {
+        "product_id": "10498",
+        "name": "BONPREU Cúrcuma molta",
+        "packaging": null,
+        "price": 0.95,
+        "ref_price": 21.11,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10498"
+      },
+      {
+        "product_id": "19420",
+        "name": "ECOBASICS Cúrcuma en pols ecològica",
+        "packaging": null,
+        "price": 2.55,
+        "ref_price": 31.88,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/19420"
+      }
+    ],
+    "elegido": "03056",
+    "nuevo_pin": "03056"
   },
   "pan-barra": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "barra pa -integral -cereals",
+    "candidatos": [
+      {
+        "product_id": "14481",
+        "name": " Barra de pa",
+        "packaging": null,
+        "price": 0.79,
+        "ref_price": 2.63,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14481"
+      },
+      {
+        "product_id": "30006",
+        "name": " Barra de pa d'espiga",
+        "packaging": null,
+        "price": 0.99,
+        "ref_price": 3.14,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30006"
+      },
+      {
+        "product_id": "14359",
+        "name": " Barra de pa mediterrània",
+        "packaging": null,
+        "price": 0.95,
+        "ref_price": 3.17,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14359"
+      },
+      {
+        "product_id": "14339",
+        "name": " Barra de pa bretona",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": 3.75,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14339"
+      },
+      {
+        "product_id": "57648",
+        "name": " Barra de pa amb llavors (16%)",
+        "packaging": null,
+        "price": 0.99,
+        "ref_price": 4.5,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/57648"
+      }
+    ],
+    "elegido": "14481",
+    "nuevo_pin": "14481"
   },
   "pan-molde": {
     "modo": "omitido",
