@@ -2751,7 +2751,8 @@
           "url": "https://tienda.consum.es/es/p/menta-poleo-20-bolsitas/7342392",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/25420.jpg"
-        }
+        },
+        "bonpreu": null
       }
     },
     "tila": {
@@ -2781,7 +2782,8 @@
           "url": "https://tienda.consum.es/es/p/tila-20-bolsitas/7342413",
           "fetched": "2026-11-13T16:05:21+01:00",
           "image": "img/consum/25243.jpg"
-        }
+        },
+        "bonpreu": null
       }
     },
     "te-verde": {
@@ -4960,5 +4962,5 @@
       }
     }
   },
-  "updated": "2026-11-14T18:41:24+01:00"
+  "updated": "2026-11-14T18:52:00+01:00"
 }
