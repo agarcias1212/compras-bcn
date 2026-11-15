@@ -332,21 +332,8 @@
     "candidatos": []
   },
   "bolsas-reutilizables": {
-    "modo": "busqueda",
-    "query": "bossa reutilitzable",
-    "candidatos": [
-      {
-        "product_id": "30953",
-        "name": "NEXCARE Bossa de gel reutilitzable fred i calor",
-        "packaging": null,
-        "price": 9.95,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30953"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "bolsas-cierre": {
     "modo": "omitido",
@@ -373,8 +360,57 @@
     "candidatos": []
   },
   "papel-higienico": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "paper higienic -humit",
+    "candidatos": [
+      {
+        "product_id": "82027",
+        "name": "SCOTTEX Paper higiènic encoixinat 3 capes 8 un.",
+        "packaging": null,
+        "price": 3.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82027"
+      },
+      {
+        "product_id": "59049",
+        "name": "SCOTTEX Paper higiènic Megarotlle 2 capes 18 un.",
+        "packaging": null,
+        "price": 11.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59049"
+      },
+      {
+        "product_id": "07843",
+        "name": "SCOTTEX Paper higiènic Sensitive llet d'ametlles 3 capes 6 un.",
+        "packaging": null,
+        "price": 3.29,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07843"
+      },
+      {
+        "product_id": "32904",
+        "name": "BONPREU Paper higiènic compacte 2 capes 12 un.",
+        "packaging": null,
+        "price": 4.59,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/32904"
+      },
+      {
+        "product_id": "08673",
+        "name": "BONPREU Paper higiènic 2 capes 12 un.",
+        "packaging": null,
+        "price": 2.39,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08673"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "hamburguesa-vacuno": {
     "modo": "omitido",
