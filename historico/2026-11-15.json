@@ -3549,7 +3549,8 @@
           "ref_price": 2.15,
           "ref_unit": "kg",
           "url": "https://tienda.mercadona.es/product/3238/mandarina-pieza",
-          "fetched": "2026-11-15T09:17:05+01:00"
+          "fetched": "2026-11-15T09:17:05+01:00",
+          "image": "img/mercadona/3238.webp"
         },
         "aldi": {
           "product_id": "991000",
@@ -5132,5 +5133,5 @@
       }
     }
   },
-  "updated": "2026-11-15T09:17:05+01:00"
+  "updated": "2026-11-15T22:59:19+01:00"
 }
