@@ -244,30 +244,8 @@
     "candidatos": []
   },
   "alubia-negra": {
-    "modo": "busqueda",
-    "query": "mongeta negra -cuita",
-    "candidatos": [
-      {
-        "product_id": "02030",
-        "name": "TUGAS Brots de mongeta mungo bossa 200 g",
-        "packaging": null,
-        "price": 1.99,
-        "ref_price": 9.95,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02030"
-      },
-      {
-        "product_id": "17579",
-        "name": "CARLIT Faves estofades amb botifarra negra",
-        "packaging": null,
-        "price": 4.95,
-        "ref_price": 17.68,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/17579"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "jamon-iberico": {
     "modo": "omitido",
@@ -334,8 +312,57 @@
     "candidatos": []
   },
   "mayonesa-light": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "maionesa light",
+    "candidatos": [
+      {
+        "product_id": "05488",
+        "name": "HELLMANN'S Maionesa",
+        "packaging": null,
+        "price": 1.95,
+        "ref_price": 8.67,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05488"
+      },
+      {
+        "product_id": "01373",
+        "name": "BONPREU Maionesa",
+        "packaging": null,
+        "price": 1.35,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01373"
+      },
+      {
+        "product_id": "20407",
+        "name": "HELLMANN'S Maionesa",
+        "packaging": null,
+        "price": 3.49,
+        "ref_price": 8.12,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20407"
+      },
+      {
+        "product_id": "38304",
+        "name": "HEINZ Maionesa",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38304"
+      },
+      {
+        "product_id": "51303",
+        "name": "PRIMA Maionesa Original",
+        "packaging": null,
+        "price": 2.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/51303"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "mostaza": {
     "modo": "omitido",
