@@ -48,8 +48,21 @@
     "candidatos": []
   },
   "nuez-moscada": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "nou moscada molta",
+    "candidatos": [
+      {
+        "product_id": "18975",
+        "name": "BONPREU Nou moscada molta",
+        "packaging": null,
+        "price": 1.26,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18975"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "margarina": {
     "modo": "omitido",
@@ -352,21 +365,8 @@
     "candidatos": []
   },
   "panos-absorbentes": {
-    "modo": "busqueda",
-    "query": "baieta rotlle",
-    "candidatos": [
-      {
-        "product_id": "82085",
-        "name": "BONPREU Rotlle de baieta",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.meter",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82085"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "papel-cocina": {
     "modo": "omitido",
