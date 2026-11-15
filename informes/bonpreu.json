@@ -48,8 +48,21 @@
     "candidatos": []
   },
   "nuez-moscada": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "nou moscada molta",
+    "candidatos": [
+      {
+        "product_id": "18975",
+        "name": "BONPREU Nou moscada molta",
+        "packaging": null,
+        "price": 1.26,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18975"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "margarina": {
     "modo": "omitido",
@@ -352,78 +365,16 @@
     "candidatos": []
   },
   "panos-absorbentes": {
-    "modo": "busqueda",
-    "query": "baieta rotlle",
-    "candidatos": [
-      {
-        "product_id": "82085",
-        "name": "BONPREU Rotlle de baieta",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.meter",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82085"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "papel-cocina": {
     "modo": "omitido",
     "candidatos": []
   },
   "papel-higienico": {
-    "modo": "busqueda",
-    "query": "paper higienic -humit",
-    "candidatos": [
-      {
-        "product_id": "82027",
-        "name": "SCOTTEX Paper higiènic encoixinat 3 capes 8 un.",
-        "packaging": null,
-        "price": 3.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82027"
-      },
-      {
-        "product_id": "59049",
-        "name": "SCOTTEX Paper higiènic Megarotlle 2 capes 18 un.",
-        "packaging": null,
-        "price": 11.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59049"
-      },
-      {
-        "product_id": "07843",
-        "name": "SCOTTEX Paper higiènic Sensitive llet d'ametlles 3 capes 6 un.",
-        "packaging": null,
-        "price": 3.29,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07843"
-      },
-      {
-        "product_id": "32904",
-        "name": "BONPREU Paper higiènic compacte 2 capes 12 un.",
-        "packaging": null,
-        "price": 4.59,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/32904"
-      },
-      {
-        "product_id": "08673",
-        "name": "BONPREU Paper higiènic 2 capes 12 un.",
-        "packaging": null,
-        "price": 2.39,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08673"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "hamburguesa-vacuno": {
     "modo": "omitido",
