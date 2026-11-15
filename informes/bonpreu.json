@@ -48,21 +48,8 @@
     "candidatos": []
   },
   "nuez-moscada": {
-    "modo": "busqueda",
-    "query": "nou moscada molta",
-    "candidatos": [
-      {
-        "product_id": "18975",
-        "name": "BONPREU Nou moscada molta",
-        "packaging": null,
-        "price": 1.26,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18975"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "margarina": {
     "modo": "omitido",
@@ -149,8 +136,30 @@
     "candidatos": []
   },
   "comino": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "comi",
+    "candidatos": [
+      {
+        "product_id": "18933",
+        "name": "BONPREU Comí molt",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18933"
+      },
+      {
+        "product_id": "18932",
+        "name": "BONPREU Comí en gra",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18932"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "pimienta-negra": {
     "modo": "omitido",
@@ -169,8 +178,57 @@
     "candidatos": []
   },
   "ajo-polvo": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "all pols",
+    "candidatos": [
+      {
+        "product_id": "33958",
+        "name": "ZANETTI Formatge grana padano en pols",
+        "packaging": null,
+        "price": 1.85,
+        "ref_price": 18.5,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/33958"
+      },
+      {
+        "product_id": "81909",
+        "name": "BONPREU Drap de la pols",
+        "packaging": null,
+        "price": 0.89,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/81909"
+      },
+      {
+        "product_id": "70327",
+        "name": "ZANETTI Formatge Parmigiano Reggiano pols",
+        "packaging": null,
+        "price": 1.29,
+        "ref_price": 32.25,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/70327"
+      },
+      {
+        "product_id": "95888",
+        "name": "KADÔ Maquillatge en pols to fosc",
+        "packaging": null,
+        "price": 5.5,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/95888"
+      },
+      {
+        "product_id": "60755",
+        "name": "ROYAL Gasificant en pols",
+        "packaging": null,
+        "price": 2.25,
+        "ref_price": 28.13,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60755"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "romero": {
     "modo": "omitido",
