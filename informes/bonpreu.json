@@ -136,30 +136,8 @@
     "candidatos": []
   },
   "comino": {
-    "modo": "busqueda",
-    "query": "comi",
-    "candidatos": [
-      {
-        "product_id": "18933",
-        "name": "BONPREU Comí molt",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18933"
-      },
-      {
-        "product_id": "18932",
-        "name": "BONPREU Comí en gra",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18932"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "pimienta-negra": {
     "modo": "omitido",
@@ -222,12 +200,47 @@
     "candidatos": []
   },
   "infusion-manzana-canela": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "infusio poma canyella",
+    "candidatos": [
+      {
+        "product_id": "69420",
+        "name": "ALMA HOME Infusió rooibos amb canyella i menta ecològica",
+        "packaging": null,
+        "price": 4.69,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/69420"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "poleo-menta": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "poliol menta",
+    "candidatos": [
+      {
+        "product_id": "87717",
+        "name": "BONPREU Menta poliol",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87717"
+      },
+      {
+        "product_id": "62068",
+        "name": "HORNIMANS Menta poliol",
+        "packaging": null,
+        "price": 2.25,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62068"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "tila": {
     "modo": "omitido",
