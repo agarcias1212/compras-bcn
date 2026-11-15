@@ -1270,13 +1270,13 @@
         "url": "https://tienda.consum.es/es/p/molde-aluminio-rectangular-27-l/7409394"
       },
       {
-        "product_id": "30666",
-        "name": "Molde Aluminio Rectangular, 0,5 L 5 U",
+        "product_id": "30558",
+        "name": "Molde Aluminio Rectangular, 2,2 L 2 U",
         "packaging": null,
-        "price": 1.95,
+        "price": 2.25,
         "ref_price": null,
         "ref_unit": "1 U",
-        "url": "https://tienda.consum.es/es/p/molde-aluminio-rectangular-05-l/7409373"
+        "url": "https://tienda.consum.es/es/p/molde-aluminio-rectangular-22-l/7409386"
       }
     ],
     "elegido": null,
@@ -1431,8 +1431,7 @@
     "nuevo_pin": null
   },
   "hamburguesa-pollo": {
-    "modo": "busqueda",
-    "query": "hamburguesa pollo -vacuno -pan -cerdo",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "7610",
@@ -1443,9 +1442,7 @@
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/hamburguesa-pollo-y-espinacas/7224421"
       }
-    ],
-    "elegido": "7610",
-    "nuevo_pin": "7610"
+    ]
   },
   "patatas-paja": {
     "modo": "busqueda",
@@ -1455,8 +1452,7 @@
     "nuevo_pin": null
   },
   "aceite-oliva-virgen-extra": {
-    "modo": "busqueda",
-    "query": "aceite oliva virgen extra -spray -atun -sardina",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "14480",
@@ -1466,50 +1462,11 @@
         "ref_price": 3.75,
         "ref_unit": "L",
         "url": "https://tienda.consum.es/es/p/aceite-de-oliva-virgen-extra/7281074"
-      },
-      {
-        "product_id": "11369",
-        "name": "Aceite Oliva Virgen Extra Botella 1 L",
-        "packaging": null,
-        "price": 4.1,
-        "ref_price": 4.1,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/aceite-oliva-virgen-extra-botella/7265705"
-      },
-      {
-        "product_id": "44172",
-        "name": "Aceite de Oliva Virgen Extra 5 L",
-        "packaging": null,
-        "price": 23.45,
-        "ref_price": 4.69,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/aceite-de-oliva-virgen-extra/7463784"
-      },
-      {
-        "product_id": "8258",
-        "name": "Aceite Oliva Virgen Extra Botella 1 L",
-        "packaging": null,
-        "price": 5.49,
-        "ref_price": 5.49,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/aceite-oliva-virgen-extra-botella/880799"
-      },
-      {
-        "product_id": "29933",
-        "name": "Aceite de Oliva Virgen Extra Hojiblanca 1 L",
-        "packaging": null,
-        "price": 5.75,
-        "ref_price": 5.75,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/aceite-de-oliva-virgen-extra-hojiblanca/7404523"
       }
-    ],
-    "elegido": "14480",
-    "nuevo_pin": "14480"
+    ]
   },
   "aceite-oliva-suave": {
-    "modo": "busqueda",
-    "query": "aceite oliva -virgen -orujo -spray -atun -sardina -anchoa -bonito",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "32302",
@@ -1519,50 +1476,11 @@
         "ref_price": 3.48,
         "ref_unit": "L",
         "url": "https://tienda.consum.es/es/p/aceite-de-oliva-suave/7414808"
-      },
-      {
-        "product_id": "15691",
-        "name": "Aceite de Oliva Suave 1 L",
-        "packaging": null,
-        "price": 3.6,
-        "ref_price": 3.6,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/aceite-de-oliva-suave/7285240"
-      },
-      {
-        "product_id": "32301",
-        "name": "Aceite de Oliva Intenso 3 L",
-        "packaging": null,
-        "price": 10.85,
-        "ref_price": 3.62,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/aceite-de-oliva-intenso/7414803"
-      },
-      {
-        "product_id": "15820",
-        "name": "Aceite de Oliva Intenso 1 L",
-        "packaging": null,
-        "price": 3.8,
-        "ref_price": 3.8,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/aceite-de-oliva-intenso/7285190"
-      },
-      {
-        "product_id": "4961",
-        "name": "Aceite de Oliva 0,4º Botella 1 L",
-        "packaging": null,
-        "price": 3.95,
-        "ref_price": 3.95,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/aceite-de-oliva-04-botella/379271"
       }
-    ],
-    "elegido": "32302",
-    "nuevo_pin": "32302"
+    ]
   },
   "curcuma": {
-    "modo": "busqueda",
-    "query": "curcuma -infusion -te -bebida",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "35875",
@@ -1572,23 +1490,11 @@
         "ref_price": 21.67,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/curcuma/7435910"
-      },
-      {
-        "product_id": "10695",
-        "name": "Cúrcuma Frasco 37 Gr",
-        "packaging": null,
-        "price": 2.69,
-        "ref_price": 72.7,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/curcuma-frasco/7153872"
       }
-    ],
-    "elegido": "35875",
-    "nuevo_pin": "35875"
+    ]
   },
   "pan-barra": {
-    "modo": "busqueda",
-    "query": "barra pan -integral -cereales -gluten -rallado",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "25963",
@@ -1598,23 +1504,11 @@
         "ref_price": 2.0,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/barra-de-pan-/7370323"
-      },
-      {
-        "product_id": "17652",
-        "name": "Barra de Pan Masa Madre 250 Gr",
-        "packaging": null,
-        "price": 0.89,
-        "ref_price": 3.56,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/barra-de-pan-masa-madre/7303899"
       }
-    ],
-    "elegido": "25963",
-    "nuevo_pin": "25963"
+    ]
   },
   "pan-molde": {
-    "modo": "busqueda",
-    "query": "pan molde -integral -sin -brioche -hamburguesa -perrito",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "7067",
@@ -1624,50 +1518,11 @@
         "ref_price": 1.4,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/pan-molde-normal/7194884"
-      },
-      {
-        "product_id": "5841",
-        "name": "Pan de Molde Clasico 16 Rebanadas. 460 Gr",
-        "packaging": null,
-        "price": 0.8,
-        "ref_price": 1.74,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pan-de-molde-clasico-16-rebanadas/7069797"
-      },
-      {
-        "product_id": "34428",
-        "name": "Pan de Molde Rebanada Gruesa 820 Gr",
-        "packaging": null,
-        "price": 1.69,
-        "ref_price": 2.06,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pan-de-molde-rebanada-gruesa/7440654"
-      },
-      {
-        "product_id": "29891",
-        "name": "Pan Molde Cereales y Semillas 675 Gr",
-        "packaging": null,
-        "price": 1.5,
-        "ref_price": 2.22,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pan-molde-cereales-y-semillas/7403272"
-      },
-      {
-        "product_id": "47292",
-        "name": "Pan Molde 100% Natural + 120g 820 Gr",
-        "packaging": null,
-        "price": 1.99,
-        "ref_price": 2.43,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/pan-molde-100-natural-120g/7488369"
       }
-    ],
-    "elegido": "7067",
-    "nuevo_pin": "7067"
+    ]
   },
   "calamares-americana": {
-    "modo": "busqueda",
-    "query": "calamar salsa americana",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "5639",
@@ -1677,23 +1532,11 @@
         "ref_price": 15.25,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/trozos-de-calamar-en-salsa-americana-pack/7046063"
-      },
-      {
-        "product_id": "8829",
-        "name": "Calamar Salsa Americana Pack de 3 3 x 48 Gr",
-        "packaging": null,
-        "price": 3.45,
-        "ref_price": 23.96,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/calamar-salsa-americana-pack-de-3/7120025"
       }
-    ],
-    "elegido": "5639",
-    "nuevo_pin": "5639"
+    ]
   },
   "nata-cocinar": {
-    "modo": "busqueda",
-    "query": "nata cocinar",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "10260",
@@ -1703,50 +1546,11 @@
         "ref_price": 3.08,
         "ref_unit": "L",
         "url": "https://tienda.consum.es/es/p/nata-para-cocinar-minibrik-pack-de-3/7264096"
-      },
-      {
-        "product_id": "7528",
-        "name": "Nata para Cocinar Brik 500 ml",
-        "packaging": null,
-        "price": 1.55,
-        "ref_price": 3.1,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/nata-para-cocinar-brik/7219954"
-      },
-      {
-        "product_id": "5335",
-        "name": "Nata para Cocinar Brik 500 ml",
-        "packaging": null,
-        "price": 2.49,
-        "ref_price": 4.98,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/nata-para-cocinar-brik/4990735"
-      },
-      {
-        "product_id": "5130",
-        "name": "Nata para Cocinar Minibrik 200 ml",
-        "packaging": null,
-        "price": 1.19,
-        "ref_price": 5.95,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/nata-para-cocinar-minibrik/761239"
-      },
-      {
-        "product_id": "5564",
-        "name": "Nata para Cocinar Espesa Botella 500 ml",
-        "packaging": null,
-        "price": 3.59,
-        "ref_price": 7.18,
-        "ref_unit": "L",
-        "url": "https://tienda.consum.es/es/p/nata-para-cocinar-espesa-botella/7041762"
       }
-    ],
-    "elegido": "10260",
-    "nuevo_pin": "10260"
+    ]
   },
   "nachos": {
-    "modo": "busqueda",
-    "query": "nachos -salsa -queso",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "31241",
@@ -1756,50 +1560,11 @@
         "ref_price": 6.0,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/nachos-blancos-bolsa/7391829"
-      },
-      {
-        "product_id": "29346",
-        "name": "Nachos de Maíz Tex Mex Bolsa 150 Gr",
-        "packaging": null,
-        "price": 0.95,
-        "ref_price": 6.33,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/nachos-de-maiz-tex-mex-bolsa/7392780"
-      },
-      {
-        "product_id": "31193",
-        "name": "Nachos Mexican Bolsa 150 Gr",
-        "packaging": null,
-        "price": 0.95,
-        "ref_price": 6.33,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/nachos-mexican-bolsa/7391832"
-      },
-      {
-        "product_id": "20463",
-        "name": "Nachos de Maíz Fritos Sabor Natural 300 Gr",
-        "packaging": null,
-        "price": 2.65,
-        "ref_price": 8.83,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/nachos-de-maiz-fritos-sabor-natural/7327372"
-      },
-      {
-        "product_id": "19356",
-        "name": "Nachos con Chia Paquete 130 Gr",
-        "packaging": null,
-        "price": 1.23,
-        "ref_price": 9.46,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/nachos-con-chia-paquete/7320237"
       }
-    ],
-    "elegido": "31241",
-    "nuevo_pin": "31241"
+    ]
   },
   "garbanzos": {
-    "modo": "busqueda",
-    "query": "garbanzo -cocido -bote -tarro -hummus -crema",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "19845",
@@ -1809,50 +1574,11 @@
         "ref_price": 2.15,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/garbanzo-selecto-paquete/7316768"
-      },
-      {
-        "product_id": "19587",
-        "name": "Garbanzo Lechoso Paquete 1 Kg",
-        "packaging": null,
-        "price": 2.5,
-        "ref_price": 2.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/garbanzo-lechoso-paquete/7316763"
-      },
-      {
-        "product_id": "7516",
-        "name": "Garbanzos 400 Gr",
-        "packaging": null,
-        "price": 1.22,
-        "ref_price": 3.05,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/garbanzos/7219566"
-      },
-      {
-        "product_id": "28445",
-        "name": "Garbanzos con Chorizo Lata 420 Gr",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": 3.21,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/garbanzos-con-chorizo-lata/7384431"
-      },
-      {
-        "product_id": "16138",
-        "name": "Garbanzo Pedrosillano Paquete 500 Gr",
-        "packaging": null,
-        "price": 1.85,
-        "ref_price": 3.7,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/garbanzo-pedrosillano-paquete/7289791"
       }
-    ],
-    "elegido": "19845",
-    "nuevo_pin": "19845"
+    ]
   },
   "yogur-natural": {
-    "modo": "busqueda",
-    "query": "yogur natural -griego -bebible -liquido -azucarado -cabra -oveja -ecologico",
+    "modo": "fijado",
     "candidatos": [
       {
         "product_id": "7163",
@@ -1862,45 +1588,7 @@
         "ref_price": 1.43,
         "ref_unit": "kg",
         "url": "https://tienda.consum.es/es/p/yogur-natural-pack-de-12-unidades/7199636"
-      },
-      {
-        "product_id": "23824",
-        "name": "Yogur Natural Pack de 4 Unidades 4 x 125 Gr",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": 1.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/yogur-natural-pack-de-4-unidades/7340888"
-      },
-      {
-        "product_id": "25906",
-        "name": "Yogur Natural con Azúcar de Caña 4 x 125 Gr",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": 1.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/yogur-natural-con-azucar-de-cana/7354876"
-      },
-      {
-        "product_id": "23793",
-        "name": "Yogur 00% Natural Edulcorado 4 Unidades 4 x 125 Gr",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": 1.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/yogur-00-natural-edulcorado-4-unidades/7340867"
-      },
-      {
-        "product_id": "23755",
-        "name": "Yogur 00% Natural Pack de 4 Unidades 4 x 125 Gr",
-        "packaging": null,
-        "price": 0.75,
-        "ref_price": 1.5,
-        "ref_unit": "kg",
-        "url": "https://tienda.consum.es/es/p/yogur-00-natural-pack-de-4-unidades/7340870"
       }
-    ],
-    "elegido": "7163",
-    "nuevo_pin": "7163"
+    ]
   }
 }

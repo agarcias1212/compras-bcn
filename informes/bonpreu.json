@@ -236,41 +236,16 @@
     "candidatos": []
   },
   "alubia-roja": {
-    "modo": "busqueda",
-    "query": "mongeta vermella -cuita",
-    "candidatos": [],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "alubia-pinta": {
     "modo": "omitido",
     "candidatos": []
   },
   "alubia-negra": {
-    "modo": "busqueda",
-    "query": "mongeta negra -cuita",
-    "candidatos": [
-      {
-        "product_id": "02030",
-        "name": "TUGAS Brots de mongeta mungo bossa 200 g",
-        "packaging": null,
-        "price": 1.99,
-        "ref_price": 9.95,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/02030"
-      },
-      {
-        "product_id": "17579",
-        "name": "CARLIT Faves estofades amb botifarra negra",
-        "packaging": null,
-        "price": 4.95,
-        "ref_price": 17.68,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/17579"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "jamon-iberico": {
     "modo": "omitido",
@@ -285,8 +260,57 @@
     "candidatos": []
   },
   "tomate": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "tomaquet amanida",
+    "candidatos": [
+      {
+        "product_id": "00944",
+        "name": "LA COLLITA Tomàquet cirerol pera en safata de 250 g",
+        "packaging": null,
+        "price": 1.49,
+        "ref_price": 5.96,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/00944"
+      },
+      {
+        "product_id": "35281",
+        "name": " Tomàquet verd 1 u.",
+        "packaging": null,
+        "price": 0.54,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35281"
+      },
+      {
+        "product_id": "48199",
+        "name": " Tomàquet rosa de la reina 1 u.",
+        "packaging": null,
+        "price": 1.69,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/48199"
+      },
+      {
+        "product_id": "75358",
+        "name": "LA COLLITA Tomàquet rosa en safata de 600 grams",
+        "packaging": null,
+        "price": 2.89,
+        "ref_price": 4.82,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75358"
+      },
+      {
+        "product_id": "80106",
+        "name": " Tomàquet Monterosa 1 u.",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80106"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "zanahoria": {
     "modo": "omitido",
@@ -337,8 +361,57 @@
     "candidatos": []
   },
   "mayonesa-light": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "maionesa light",
+    "candidatos": [
+      {
+        "product_id": "05488",
+        "name": "HELLMANN'S Maionesa",
+        "packaging": null,
+        "price": 1.95,
+        "ref_price": 8.67,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05488"
+      },
+      {
+        "product_id": "01373",
+        "name": "BONPREU Maionesa",
+        "packaging": null,
+        "price": 1.35,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01373"
+      },
+      {
+        "product_id": "20407",
+        "name": "HELLMANN'S Maionesa",
+        "packaging": null,
+        "price": 3.49,
+        "ref_price": 8.12,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20407"
+      },
+      {
+        "product_id": "38304",
+        "name": "HEINZ Maionesa",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38304"
+      },
+      {
+        "product_id": "51303",
+        "name": "PRIMA Maionesa Original",
+        "packaging": null,
+        "price": 2.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/51303"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "mostaza": {
     "modo": "omitido",
@@ -349,8 +422,57 @@
     "candidatos": []
   },
   "lavavajillas-mano": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "rentavaixelles ma",
+    "candidatos": [
+      {
+        "product_id": "92928",
+        "name": "FAIRY Rentavaixelles Maxi Poder",
+        "packaging": null,
+        "price": 3.85,
+        "ref_price": 8.56,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/92928"
+      },
+      {
+        "product_id": "19261",
+        "name": "BONPREU Rentavaixelles fruites vermelles",
+        "packaging": null,
+        "price": 1.45,
+        "ref_price": 1.45,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/19261"
+      },
+      {
+        "product_id": "06075",
+        "name": "FINISH Abrillantador per a rentavaixelles",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 9.9,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/06075"
+      },
+      {
+        "product_id": "01313",
+        "name": "SOMAT Abrillantador per a rentavaixelles",
+        "packaging": null,
+        "price": 3.99,
+        "ref_price": 7.98,
+        "ref_unit": "L",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01313"
+      },
+      {
+        "product_id": "28874",
+        "name": "FINISH ULTIMATE Detergent rentavaixelles de 32 dosis",
+        "packaging": null,
+        "price": 9.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/28874"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "bolsas-basura": {
     "modo": "omitido",
