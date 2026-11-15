@@ -204,16 +204,90 @@
     "candidatos": []
   },
   "poleo-menta": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "poliol menta",
+    "candidatos": [
+      {
+        "product_id": "87717",
+        "name": "BONPREU Menta poliol",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87717"
+      },
+      {
+        "product_id": "62068",
+        "name": "HORNIMANS Menta poliol",
+        "packaging": null,
+        "price": 2.25,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62068"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "tila": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "til la",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "te-verde": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "te verd -beguda",
+    "candidatos": [
+      {
+        "product_id": "34667",
+        "name": "BONPREU Te verd ecològic",
+        "packaging": null,
+        "price": 1.35,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34667"
+      },
+      {
+        "product_id": "49112",
+        "name": "FLOR DEL PIRINEO Te verd",
+        "packaging": null,
+        "price": 2.49,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49112"
+      },
+      {
+        "product_id": "87714",
+        "name": "BONPREU Te verd",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87714"
+      },
+      {
+        "product_id": "03914",
+        "name": "HORNIMANS Te verd  pur",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03914"
+      },
+      {
+        "product_id": "35385",
+        "name": "HORNIMANS Te verd llimona",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35385"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "rooibos": {
     "modo": "omitido",
