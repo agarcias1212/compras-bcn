@@ -48,8 +48,21 @@
     "candidatos": []
   },
   "nuez-moscada": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "nou moscada molta",
+    "candidatos": [
+      {
+        "product_id": "18975",
+        "name": "BONPREU Nou moscada molta",
+        "packaging": null,
+        "price": 1.26,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18975"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "margarina": {
     "modo": "omitido",
@@ -120,16 +133,78 @@
     "candidatos": []
   },
   "cappuccino": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "cafe soluble capuccino",
+    "candidatos": [
+      {
+        "product_id": "59577",
+        "name": "NESCAFÉ Cafè soluble Cappuccino",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 19.8,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59577"
+      },
+      {
+        "product_id": "04764",
+        "name": "NESCAFÉ Cafè soluble descafeïnat Cappuccino",
+        "packaging": null,
+        "price": 4.95,
+        "ref_price": 19.8,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04764"
+      },
+      {
+        "product_id": "88195",
+        "name": "MARCILLA Cafè soluble Cappuccino Milka",
+        "packaging": null,
+        "price": 3.45,
+        "ref_price": 21.56,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88195"
+      },
+      {
+        "product_id": "66321",
+        "name": "MARCILLA Cafè soluble Cappuccino Original",
+        "packaging": null,
+        "price": 3.45,
+        "ref_price": 19.6,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/66321"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "salchichas-frankfurt": {
     "modo": "omitido",
     "candidatos": []
   },
   "clavo": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "clau olor",
+    "candidatos": [
+      {
+        "product_id": "18931",
+        "name": "BONPREU Clau en gra",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18931"
+      },
+      {
+        "product_id": "76142",
+        "name": "MARNYS Oli essencial de Clau",
+        "packaging": null,
+        "price": 10.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.litre",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/76142"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "canela-rama": {
     "modo": "omitido",
@@ -332,21 +407,8 @@
     "candidatos": []
   },
   "bolsas-reutilizables": {
-    "modo": "busqueda",
-    "query": "bossa reutilitzable",
-    "candidatos": [
-      {
-        "product_id": "30953",
-        "name": "NEXCARE Bossa de gel reutilitzable fred i calor",
-        "packaging": null,
-        "price": 9.95,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30953"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "bolsas-cierre": {
     "modo": "omitido",
@@ -365,21 +427,8 @@
     "candidatos": []
   },
   "panos-absorbentes": {
-    "modo": "busqueda",
-    "query": "baieta rotlle",
-    "candidatos": [
-      {
-        "product_id": "82085",
-        "name": "BONPREU Rotlle de baieta",
-        "packaging": null,
-        "price": 1.4,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.meter",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82085"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "papel-cocina": {
     "modo": "omitido",
@@ -430,8 +479,21 @@
     "candidatos": []
   },
   "nachos": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "nachos -salsa",
+    "candidatos": [
+      {
+        "product_id": "49306",
+        "name": "TGT Formatge ratllat especial nachos",
+        "packaging": null,
+        "price": 2.35,
+        "ref_price": 15.67,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49306"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "garbanzos": {
     "modo": "omitido",
