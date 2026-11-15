@@ -236,11 +236,8 @@
     "candidatos": []
   },
   "alubia-roja": {
-    "modo": "busqueda",
-    "query": "mongeta vermella -cuita",
-    "candidatos": [],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "alubia-pinta": {
     "modo": "omitido",
