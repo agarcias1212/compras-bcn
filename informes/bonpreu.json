@@ -216,8 +216,57 @@
     "candidatos": []
   },
   "rooibos": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "rooibos",
+    "candidatos": [
+      {
+        "product_id": "31948",
+        "name": "BONPREU Infusió ecològica rooibos",
+        "packaging": null,
+        "price": 1.69,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/31948"
+      },
+      {
+        "product_id": "80844",
+        "name": "HORNIMANS Infusió rooibos",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80844"
+      },
+      {
+        "product_id": "49107",
+        "name": "FLOR DEL PIRINEO Infusió rooibos",
+        "packaging": null,
+        "price": 2.89,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49107"
+      },
+      {
+        "product_id": "69420",
+        "name": "ALMA HOME Infusió rooibos amb canyella i menta ecològica",
+        "packaging": null,
+        "price": 4.69,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/69420"
+      },
+      {
+        "product_id": "27559",
+        "name": "YOGI TEA Infusió de rooibos",
+        "packaging": null,
+        "price": 4.19,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27559"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "infusion-frutos-rojos": {
     "modo": "omitido",
@@ -228,16 +277,32 @@
     "candidatos": []
   },
   "chia": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "chia -pa -iogurt -beguda",
+    "candidatos": [
+      {
+        "product_id": "61174",
+        "name": "GULLÓN Galetes salades amb quinoa i chia",
+        "packaging": null,
+        "price": 2.15,
+        "ref_price": 8.6,
+        "ref_unit": "kg",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/61174"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "sesamo": {
     "modo": "omitido",
     "candidatos": []
   },
   "alubia-roja": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "mongeta vermella -cuita",
+    "candidatos": [],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "alubia-pinta": {
     "modo": "omitido",
