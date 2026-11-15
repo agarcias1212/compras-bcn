@@ -48,21 +48,8 @@
     "candidatos": []
   },
   "nuez-moscada": {
-    "modo": "busqueda",
-    "query": "nou moscada molta",
-    "candidatos": [
-      {
-        "product_id": "18975",
-        "name": "BONPREU Nou moscada molta",
-        "packaging": null,
-        "price": 1.26,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18975"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "margarina": {
     "modo": "omitido",
@@ -133,48 +120,8 @@
     "candidatos": []
   },
   "cappuccino": {
-    "modo": "busqueda",
-    "query": "cafe soluble capuccino",
-    "candidatos": [
-      {
-        "product_id": "59577",
-        "name": "NESCAFÉ Cafè soluble Cappuccino",
-        "packaging": null,
-        "price": 4.95,
-        "ref_price": 19.8,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59577"
-      },
-      {
-        "product_id": "04764",
-        "name": "NESCAFÉ Cafè soluble descafeïnat Cappuccino",
-        "packaging": null,
-        "price": 4.95,
-        "ref_price": 19.8,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/04764"
-      },
-      {
-        "product_id": "88195",
-        "name": "MARCILLA Cafè soluble Cappuccino Milka",
-        "packaging": null,
-        "price": 3.45,
-        "ref_price": 21.56,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88195"
-      },
-      {
-        "product_id": "66321",
-        "name": "MARCILLA Cafè soluble Cappuccino Original",
-        "packaging": null,
-        "price": 3.45,
-        "ref_price": 19.6,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/66321"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "salchichas-frankfurt": {
     "modo": "omitido",
@@ -413,57 +360,8 @@
     "candidatos": []
   },
   "papel-higienico": {
-    "modo": "busqueda",
-    "query": "paper higienic -humit",
-    "candidatos": [
-      {
-        "product_id": "82027",
-        "name": "SCOTTEX Paper higiènic encoixinat 3 capes 8 un.",
-        "packaging": null,
-        "price": 3.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82027"
-      },
-      {
-        "product_id": "59049",
-        "name": "SCOTTEX Paper higiènic Megarotlle 2 capes 18 un.",
-        "packaging": null,
-        "price": 11.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59049"
-      },
-      {
-        "product_id": "07843",
-        "name": "SCOTTEX Paper higiènic Sensitive llet d'ametlles 3 capes 6 un.",
-        "packaging": null,
-        "price": 3.29,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07843"
-      },
-      {
-        "product_id": "32904",
-        "name": "BONPREU Paper higiènic compacte 2 capes 12 un.",
-        "packaging": null,
-        "price": 4.59,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/32904"
-      },
-      {
-        "product_id": "08673",
-        "name": "BONPREU Paper higiènic 2 capes 12 un.",
-        "packaging": null,
-        "price": 2.39,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.each",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08673"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "hamburguesa-vacuno": {
     "modo": "omitido",
@@ -506,21 +404,8 @@
     "candidatos": []
   },
   "nachos": {
-    "modo": "busqueda",
-    "query": "nachos -salsa",
-    "candidatos": [
-      {
-        "product_id": "49306",
-        "name": "TGT Formatge ratllat especial nachos",
-        "packaging": null,
-        "price": 2.35,
-        "ref_price": 15.67,
-        "ref_unit": "kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49306"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "garbanzos": {
     "modo": "omitido",
