@@ -312,57 +312,8 @@
     "candidatos": []
   },
   "mayonesa-light": {
-    "modo": "busqueda",
-    "query": "maionesa light",
-    "candidatos": [
-      {
-        "product_id": "05488",
-        "name": "HELLMANN'S Maionesa",
-        "packaging": null,
-        "price": 1.95,
-        "ref_price": 8.67,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05488"
-      },
-      {
-        "product_id": "01373",
-        "name": "BONPREU Maionesa",
-        "packaging": null,
-        "price": 1.35,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01373"
-      },
-      {
-        "product_id": "20407",
-        "name": "HELLMANN'S Maionesa",
-        "packaging": null,
-        "price": 3.49,
-        "ref_price": 8.12,
-        "ref_unit": "L",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20407"
-      },
-      {
-        "product_id": "38304",
-        "name": "HEINZ Maionesa",
-        "packaging": null,
-        "price": 2.99,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/38304"
-      },
-      {
-        "product_id": "51303",
-        "name": "PRIMA Maionesa Original",
-        "packaging": null,
-        "price": 2.19,
-        "ref_price": null,
-        "ref_unit": "fop.price.per.kg",
-        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/51303"
-      }
-    ],
-    "elegido": null,
-    "nuevo_pin": null
+    "modo": "omitido",
+    "candidatos": []
   },
   "mostaza": {
     "modo": "omitido",
@@ -381,8 +332,21 @@
     "candidatos": []
   },
   "bolsas-reutilizables": {
-    "modo": "omitido",
-    "candidatos": []
+    "modo": "busqueda",
+    "query": "bossa reutilitzable",
+    "candidatos": [
+      {
+        "product_id": "30953",
+        "name": "NEXCARE Bossa de gel reutilitzable fred i calor",
+        "packaging": null,
+        "price": 9.95,
+        "ref_price": null,
+        "ref_unit": "fop.price.per.each",
+        "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30953"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
   },
   "bolsas-cierre": {
     "modo": "omitido",
