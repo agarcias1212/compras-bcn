@@ -45,7 +45,9 @@ def normaliza(texto):
 
 def singular(w):
     """Plural simple: 'pechugas' -> 'pechuga', 'huevos' -> 'huevo'. Se aplica igual a consulta y nombre."""
-    return w[:-1] if len(w) > 3 and w.endswith("s") else w
+    w = w[:-1] if len(w) > 3 and w.endswith("s") else w
+    # catalán: 'bossa'/'bosses', 'mongeta'/'mongetes' -> misma raíz (también 'tomate'/'tomates')
+    return w[:-1] if len(w) > 3 and w[-1] in "ae" else w
 
 
 def palabras(texto):

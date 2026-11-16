@@ -10,7 +10,7 @@ import time
 import urllib.request
 from urllib.parse import quote
 
-from comun import UA, get_json, get_text, a_float, describe_error, elegir, redondea, conteo
+from comun import UA, get_json, get_text, a_float, describe_error, elegir, redondea, conteo, puntuacion, al_inicio
 
 BASE = "https://www.compraonline.bonpreuesclat.cat"
 PRODUCTO = BASE + "/api/webproductpagews/v5/products/bop?retailerProductId={id}"
@@ -124,6 +124,11 @@ def leer_por_id(pid, unidad):
         f = _ficha(p["retailerProductId"], p.get("name"), (p.get("price") or {}).get("amount"),
                    (up.get("price") or {}).get("amount"), up.get("unit"), unidad)
         f["packaging"] = p.get("packSizeDescription")
+        if f["ref_price"] is None and unidad in ("ud", "lavado", "m") and f["price"]:
+            # el número de unidades no está en el nombre: se busca en el formato ("15 unitats")
+            n = conteo(f["packaging"] or "", unidad)
+            if n:
+                f["ref_price"], f["ref_unit"] = redondea(f["price"] / n, unidad), unidad
         src = (p.get("image") or {}).get("src")
         if src:   # dirección de la miniatura, para scraper/imagenes.py
             f["image_url"] = src.replace("300x300", "150x150").rsplit(".", 1)[0] + ".webp"
@@ -154,8 +159,12 @@ def buscar(query, unidad):
     for p in entidades:
         pr = p.get("price") or {}
         un = pr.get("unit") or {}
-        fichas.append(_ficha(p["retailerProductId"], p.get("name"), (pr.get("current") or {}).get("amount"),
-                             (un.get("current") or {}).get("amount"), un.get("label"), unidad))
+        f = _ficha(p["retailerProductId"], p.get("name"), (pr.get("current") or {}).get("amount"),
+                   (un.get("current") or {}).get("amount"), un.get("label"), unidad)
+        src = (p.get("image") or {}).get("src") if isinstance(p.get("image"), dict) else None
+        if src and "300x300" in src:   # miniatura, si la búsqueda la trae
+            f["image_url"] = src.replace("300x300", "150x150").rsplit(".", 1)[0] + ".webp"
+        fichas.append(f)
     return fichas
 
 
@@ -233,7 +242,20 @@ def _emparejar_uno(prod, rebuscar, resultados, informe):
             informe[prod["id"]] = {"modo": "omitido", "candidatos": []}
             return
         try:
-            elegido, candidatos = elegir(query, buscar(query, unidad), unidad)
+            fichas = buscar(query, unidad)
+            elegido, candidatos = elegir(query, fichas, unidad)
+            if not elegido:
+                # La búsqueda de Bonpreu a menudo no trae el precio por kg/L/ud: se leen por ID
+                # las 2 mejores coincidencias sin él, donde sí viene (o viene el formato).
+                for f in [f for f in fichas if f["ref_price"] is None and puntuacion(query, f["name"] or "") == 1.0
+                          and al_inicio(query, f["name"] or "")][:2]:
+                    try:
+                        g, _ = leer_por_id(f["product_id"], unidad)
+                    except (Bloqueado, Agotado):
+                        break
+                    if g:
+                        fichas.append(g)
+                elegido, candidatos = elegir(query, [f for f in fichas if f["ref_price"] is not None] or fichas, unidad)
         except (Bloqueado, Agotado):
             raise
         except SinRespuesta:

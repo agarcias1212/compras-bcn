@@ -51,6 +51,10 @@ def url_consum(pid, entrada):
     return fotos[0]["url"] if fotos else (p.get("productData") or {}).get("imageURL")
 
 
+def url_caprabo(pid, entrada):
+    return f"https://www.capraboacasa.com/images/{pid}.jpg"   # miniatura de unos 5 KB
+
+
 def url_dia(pid, entrada):
     return f"https://www.dia.es/product_images/{pid}/{pid}_ISO_0_ES.jpg?imwidth=176"
 
@@ -106,7 +110,7 @@ def main(argv):
                     url = url_aldi(pid, dato, productos.get(pid_app, {}))
                 else:
                     url = {"mercadona": url_mercadona, "consum": url_consum, "dia": url_dia,
-                           "bonpreu": url_bonpreu}[super_](pid, dato)
+                           "bonpreu": url_bonpreu, "caprabo": url_caprabo}[super_](pid, dato)
                 if not url:
                     raise RuntimeError("sin URL de imagen")
                 ruta, peso = descargar(url, RAIZ / "img" / super_ / str(pid))

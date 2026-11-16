@@ -1,0 +1,1724 @@
+{
+  "leche-entera": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26084350",
+        "name": "Leche entera BOMILK, brik 1 litro",
+        "packaging": null,
+        "price": 0.96,
+        "ref_price": 0.96,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/26084350-p/",
+        "image_url": "https://www.capraboacasa.com/images/26084350.jpg"
+      }
+    ]
+  },
+  "huevos": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19550037",
+        "name": "Huevo fresco L suelo Cataluña EROSKI, cartón 1 docena",
+        "packaging": null,
+        "price": 3.05,
+        "ref_price": 3.05,
+        "ref_unit": "docena",
+        "url": "https://www.capraboacasa.com/es/productdetail/19550037-p/",
+        "image_url": "https://www.capraboacasa.com/images/19550037.jpg"
+      }
+    ]
+  },
+  "arroz": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "302489",
+        "name": "Arroz redondo LA FALLERA, paquete 1 kg",
+        "packaging": null,
+        "price": 1.69,
+        "ref_price": 1.69,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/302489-p/",
+        "image_url": "https://www.capraboacasa.com/images/302489.jpg"
+      }
+    ]
+  },
+  "azucar": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26913889",
+        "name": "Azúcar blanco EROSKI, paquete 1 kg",
+        "packaging": null,
+        "price": 0.9,
+        "ref_price": 0.9,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/26913889-p/",
+        "image_url": "https://www.capraboacasa.com/images/26913889.jpg"
+      }
+    ]
+  },
+  "sal": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "917372",
+        "name": "Sal marina fina EROSKI BASIC, paquete 1 kg",
+        "packaging": null,
+        "price": 0.45,
+        "ref_price": 0.45,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/917372-p/",
+        "image_url": "https://www.capraboacasa.com/images/917372.jpg"
+      }
+    ]
+  },
+  "ternera": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26536045",
+        "name": "Picada de vacuno burger meat EROSKI, bandeja 2x250 g",
+        "packaging": null,
+        "price": 5.49,
+        "ref_price": 10.98,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/26536045-p/",
+        "image_url": "https://www.capraboacasa.com/images/26536045.jpg"
+      }
+    ]
+  },
+  "pollo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19230572",
+        "name": "Pechugas enteras pollo formato ahorro XXL EROSKI, bandeja aprox. 950 g",
+        "packaging": null,
+        "price": 5.6,
+        "ref_price": 5.89,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/19230572-p/",
+        "image_url": "https://www.capraboacasa.com/images/19230572.jpg"
+      }
+    ]
+  },
+  "cerdo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "6833388",
+        "name": "Lomo de cerdo trozo XXL EROSKI, bandeja aprox. 1.2 kg",
+        "packaging": null,
+        "price": 5.4,
+        "ref_price": 4.5,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/6833388-p/",
+        "image_url": "https://www.capraboacasa.com/images/6833388.jpg"
+      }
+    ]
+  },
+  "leche-sin-lactosa": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "18843334",
+        "name": "Leche entera sin lactosa EROSKI, brik 1 litro",
+        "packaging": null,
+        "price": 1.03,
+        "ref_price": 1.03,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/18843334-p/",
+        "image_url": "https://www.capraboacasa.com/images/18843334.jpg"
+      }
+    ]
+  },
+  "patatas-fritas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "10874733",
+        "name": "Patatas fritas estilo caseras EROSKI, bolsa 300 g",
+        "packaging": null,
+        "price": 1.8,
+        "ref_price": 6.0,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/10874733-p/",
+        "image_url": "https://www.capraboacasa.com/images/10874733.jpg"
+      }
+    ]
+  },
+  "batido-chocolate": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "23183304",
+        "name": "Batido de chocolate COLA CAO Energy, pack 3x200 ml",
+        "packaging": null,
+        "price": 2.25,
+        "ref_price": 3.75,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/23183304-p/",
+        "image_url": "https://www.capraboacasa.com/images/23183304.jpg"
+      }
+    ]
+  },
+  "atun-natural": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "21789656",
+        "name": "Atún claro al natural EROSKI, pack 6x56 g",
+        "packaging": null,
+        "price": 4.2,
+        "ref_price": 12.5,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/21789656-p/",
+        "image_url": "https://www.capraboacasa.com/images/21789656.jpg"
+      }
+    ]
+  },
+  "nuez-moscada": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "308981",
+        "name": "Nuez moscada molida DUCROS, frasco 32 g",
+        "packaging": null,
+        "price": 3.19,
+        "ref_price": 99.69,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/308981-p/",
+        "image_url": "https://www.capraboacasa.com/images/308981.jpg"
+      }
+    ]
+  },
+  "margarina": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "22516678",
+        "name": "Margarina de maíz ARTUA, tarrina 500 g",
+        "packaging": null,
+        "price": 3.09,
+        "ref_price": 6.18,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/22516678-p/",
+        "image_url": "https://www.capraboacasa.com/images/22516678.jpg"
+      }
+    ]
+  },
+  "tortilla-patata": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27019272",
+        "name": "Tortilla de patatas con cebolla caramelizada EROSKI, 1 ud, 600 g",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": 4.98,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27019272-p/",
+        "image_url": "https://www.capraboacasa.com/images/27019272.jpg"
+      }
+    ]
+  },
+  "aceite-girasol": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "322859",
+        "name": "Aceite de girasol EROSKI, garrafa 5 litros",
+        "packaging": null,
+        "price": 8.6,
+        "ref_price": 1.72,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/322859-p/",
+        "image_url": "https://www.capraboacasa.com/images/322859.jpg"
+      }
+    ]
+  },
+  "vinagre-balsamico": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26204784",
+        "name": "Vinagre balsámico de Módena EROSKI, botella 250 ml",
+        "packaging": null,
+        "price": 1.15,
+        "ref_price": 4.6,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/26204784-p/",
+        "image_url": "https://www.capraboacasa.com/images/26204784.jpg"
+      }
+    ]
+  },
+  "zumo-limon": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "23627474",
+        "name": "Zumo de limón exprimido EROSKI, botella 250 ml",
+        "packaging": null,
+        "price": 1.25,
+        "ref_price": 5.0,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/23627474-p/",
+        "image_url": "https://www.capraboacasa.com/images/23627474.jpg"
+      }
+    ]
+  },
+  "servilletas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "8336265",
+        "name": "Servilleta blanca 1 capa 30x30 EROSKI BASIC, paquete 200 uds",
+        "packaging": null,
+        "price": 1.2,
+        "ref_price": 0.006,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/8336265-p/",
+        "image_url": "https://www.capraboacasa.com/images/8336265.jpg"
+      }
+    ]
+  },
+  "kefir": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "23633118",
+        "name": "Kéfir natural cuchara EROSKI, tarrina 500 g",
+        "packaging": null,
+        "price": 1.1,
+        "ref_price": 2.2,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/23633118-p/",
+        "image_url": "https://www.capraboacasa.com/images/23633118.jpg"
+      }
+    ]
+  },
+  "arroz-vaporizado": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "4374153",
+        "name": "Arroz vaporizado EROSKI, paquete 1 kg",
+        "packaging": null,
+        "price": 1.55,
+        "ref_price": 1.55,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/4374153-p/",
+        "image_url": "https://www.capraboacasa.com/images/4374153.jpg"
+      }
+    ]
+  },
+  "alubias-blancas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25946732",
+        "name": "Alubia blanca larga EROSKI, paquete 500 g",
+        "packaging": null,
+        "price": 1.25,
+        "ref_price": 2.5,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/25946732-p/",
+        "image_url": "https://www.capraboacasa.com/images/25946732.jpg"
+      }
+    ]
+  },
+  "yogur-liquido-0": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "21812557",
+        "name": "Yogur líquido 00% sabor fresa EROSKI, botella 1 kg",
+        "packaging": null,
+        "price": 1.5,
+        "ref_price": 1.5,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/21812557-p/",
+        "image_url": "https://www.capraboacasa.com/images/21812557.jpg"
+      }
+    ]
+  },
+  "mostaza-dijon": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "382226",
+        "name": "Mostaza de Dijon MAILLE, frasco 215 g",
+        "packaging": null,
+        "price": 3.65,
+        "ref_price": 16.98,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/382226-p/",
+        "image_url": "https://www.capraboacasa.com/images/382226.jpg"
+      }
+    ]
+  },
+  "jengibre-molido": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27221647",
+        "name": "Jengibre molido EROSKI, frasco 50 g",
+        "packaging": null,
+        "price": 1.6,
+        "ref_price": 32.0,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27221647-p/",
+        "image_url": "https://www.capraboacasa.com/images/27221647.jpg"
+      }
+    ]
+  },
+  "canela-molida": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27221456",
+        "name": "Canela molida EROSKI, frasco 45 g",
+        "packaging": null,
+        "price": 0.85,
+        "ref_price": 18.89,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27221456-p/",
+        "image_url": "https://www.capraboacasa.com/images/27221456.jpg"
+      }
+    ]
+  },
+  "queso-brie": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "6818090",
+        "name": "Queso Brie EROSKI, cuña 200 g",
+        "packaging": null,
+        "price": 1.65,
+        "ref_price": 8.25,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/6818090-p/",
+        "image_url": "https://www.capraboacasa.com/images/6818090.jpg"
+      }
+    ]
+  },
+  "leche-evaporada": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27682723",
+        "name": "Leche evaporada LA ASTURIANA, brik 345 g",
+        "packaging": null,
+        "price": 1.45,
+        "ref_price": 4.2,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27682723-p/",
+        "image_url": "https://www.capraboacasa.com/images/27682723.jpg"
+      }
+    ]
+  },
+  "patatas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "7114903",
+        "name": "Patata común EROSKI, malla 5 kg",
+        "packaging": null,
+        "price": 5.3,
+        "ref_price": 1.06,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/7114903-p/",
+        "image_url": "https://www.capraboacasa.com/images/7114903.jpg"
+      }
+    ]
+  },
+  "detergente-marsella": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26886523",
+        "name": "Detergente líquido Marsella EROSKI, garrafa 50 dosis",
+        "packaging": null,
+        "price": 3.5,
+        "ref_price": 0.07,
+        "ref_unit": "lavado",
+        "url": "https://www.capraboacasa.com/es/productdetail/26886523-p/",
+        "image_url": "https://www.capraboacasa.com/images/26886523.jpg"
+      }
+    ]
+  },
+  "cappuccino": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "7124795",
+        "name": "Café Capuccino NESCAFÉ GOLD, bote 250 g",
+        "packaging": null,
+        "price": 5.29,
+        "ref_price": 21.16,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/7124795-p/",
+        "image_url": "https://www.capraboacasa.com/images/7124795.jpg"
+      }
+    ]
+  },
+  "salchichas-frankfurt": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "17779620",
+        "name": "Salchichas Frankfurt EROSKI basic, pack 4x160 g",
+        "packaging": null,
+        "price": 1.64,
+        "ref_price": 2.56,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/17779620-p/",
+        "image_url": "https://www.capraboacasa.com/images/17779620.jpg"
+      }
+    ]
+  },
+  "clavo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27221654",
+        "name": "Clavo entero EROSKI, frasco 40 g",
+        "packaging": null,
+        "price": 1.65,
+        "ref_price": 41.25,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27221654-p/",
+        "image_url": "https://www.capraboacasa.com/images/27221654.jpg"
+      }
+    ]
+  },
+  "canela-rama": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27221795",
+        "name": "Canela en rama Ceylan EROSKI, frasco 18 g",
+        "packaging": null,
+        "price": 1.4,
+        "ref_price": 77.78,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27221795-p/",
+        "image_url": "https://www.capraboacasa.com/images/27221795.jpg"
+      }
+    ]
+  },
+  "comino": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27221514",
+        "name": "Comino molido EROSKI, frasco 60 g",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": 19.83,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27221514-p/",
+        "image_url": "https://www.capraboacasa.com/images/27221514.jpg"
+      }
+    ]
+  },
+  "pimienta-negra": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27221464",
+        "name": "Pimienta negra molida EROSKI, frasco 65 g",
+        "packaging": null,
+        "price": 1.2,
+        "ref_price": 18.46,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27221464-p/",
+        "image_url": "https://www.capraboacasa.com/images/27221464.jpg"
+      }
+    ]
+  },
+  "pimenton-picante": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27015098",
+        "name": "Pimenton de la Vera picante D.O.P. EROSKI, lata 75 g",
+        "packaging": null,
+        "price": 1.95,
+        "ref_price": 26.0,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27015098-p/",
+        "image_url": "https://www.capraboacasa.com/images/27015098.jpg"
+      }
+    ]
+  },
+  "cilantro": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "14198048",
+        "name": "Cilantro DUCROS, frasco 7 g",
+        "packaging": null,
+        "price": 3.09,
+        "ref_price": 441.43,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/14198048-p/",
+        "image_url": "https://www.capraboacasa.com/images/14198048.jpg"
+      }
+    ]
+  },
+  "oregano": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27221423",
+        "name": "Orégano EROSKI, frasco 18 g",
+        "packaging": null,
+        "price": 0.69,
+        "ref_price": 38.33,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27221423-p/",
+        "image_url": "https://www.capraboacasa.com/images/27221423.jpg"
+      }
+    ]
+  },
+  "ajo-polvo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27221415",
+        "name": "Ajo molido EROSKI, frasco 85 g",
+        "packaging": null,
+        "price": 0.9,
+        "ref_price": 10.59,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27221415-p/",
+        "image_url": "https://www.capraboacasa.com/images/27221415.jpg"
+      }
+    ]
+  },
+  "romero": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "309104",
+        "name": "Romero para sazonar DUCROS, frasco 23 g",
+        "packaging": null,
+        "price": 2.49,
+        "ref_price": 108.26,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/309104-p/",
+        "image_url": "https://www.capraboacasa.com/images/309104.jpg"
+      }
+    ]
+  },
+  "miel-flores": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27073980",
+        "name": "Miel mil flores EROSKI, frasco 1 kg",
+        "packaging": null,
+        "price": 5.0,
+        "ref_price": 5.0,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27073980-p/",
+        "image_url": "https://www.capraboacasa.com/images/27073980.jpg"
+      }
+    ]
+  },
+  "aceite-sesamo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25272618",
+        "name": "Aceite de sésamo LA ESPAÑOLA SOY PLUS, botella 250 ml",
+        "packaging": null,
+        "price": 3.95,
+        "ref_price": 15.8,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/25272618-p/",
+        "image_url": "https://www.capraboacasa.com/images/25272618.jpg"
+      }
+    ]
+  },
+  "salsa-soja": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19511138",
+        "name": "Salsa de soja con menos sal SAKURA, frasco 150 ml",
+        "packaging": null,
+        "price": 1.95,
+        "ref_price": 13.0,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/19511138-p/",
+        "image_url": "https://www.capraboacasa.com/images/19511138.jpg"
+      }
+    ]
+  },
+  "ajo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "15380470",
+        "name": "Ajo blanco EROSKI, malla 400 g",
+        "packaging": null,
+        "price": 2.29,
+        "ref_price": 5.73,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/15380470-p/",
+        "image_url": "https://www.capraboacasa.com/images/15380470.jpg"
+      }
+    ]
+  },
+  "espaguetis": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "70565",
+        "name": "Spaguetti EROSKI BASIC, paquete 1 kg",
+        "packaging": null,
+        "price": 1.2,
+        "ref_price": 1.2,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/70565-p/",
+        "image_url": "https://www.capraboacasa.com/images/70565.jpg"
+      }
+    ]
+  },
+  "fideos": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "349167",
+        "name": "Fideo Cabellín EROSKI basic, paquete 1 kg",
+        "packaging": null,
+        "price": 1.58,
+        "ref_price": 1.58,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/349167-p/",
+        "image_url": "https://www.capraboacasa.com/images/349167.jpg"
+      }
+    ]
+  },
+  "copos-avena": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26747618",
+        "name": "Copos de avena integrales suaves EROSKI, paquete 500 g",
+        "packaging": null,
+        "price": 0.85,
+        "ref_price": 1.7,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/26747618-p/",
+        "image_url": "https://www.capraboacasa.com/images/26747618.jpg"
+      }
+    ]
+  },
+  "lentejas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25948399",
+        "name": "Lenteja roja variedad crimson EROSKI, paquete 1 kg",
+        "packaging": null,
+        "price": 1.65,
+        "ref_price": 1.65,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/25948399-p/",
+        "image_url": "https://www.capraboacasa.com/images/25948399.jpg"
+      }
+    ]
+  },
+  "manzanilla": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19729466",
+        "name": "Manzanilla EROSKI, caja 25 sobres",
+        "packaging": null,
+        "price": 0.81,
+        "ref_price": 0.032,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/19729466-p/",
+        "image_url": "https://www.capraboacasa.com/images/19729466.jpg"
+      }
+    ]
+  },
+  "infusion-manzana-canela": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "11026531",
+        "name": "Infusión sabor manzana-canela HORNIMANS, caja 20 sobres",
+        "packaging": null,
+        "price": 3.25,
+        "ref_price": 0.163,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/11026531-p/",
+        "image_url": "https://www.capraboacasa.com/images/11026531.jpg"
+      }
+    ]
+  },
+  "poleo-menta": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19729490",
+        "name": "Menta poleo EROSKI, caja 25 sobres",
+        "packaging": null,
+        "price": 0.94,
+        "ref_price": 0.038,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/19729490-p/",
+        "image_url": "https://www.capraboacasa.com/images/19729490.jpg"
+      }
+    ]
+  },
+  "tila": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19729474",
+        "name": "Tila EROSKI, caja 25 sobres",
+        "packaging": null,
+        "price": 1.06,
+        "ref_price": 0.042,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/19729474-p/",
+        "image_url": "https://www.capraboacasa.com/images/19729474.jpg"
+      }
+    ]
+  },
+  "te-verde": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "5954227",
+        "name": "Té verde EROSKI, caja 20 sobres",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": 0.037,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/5954227-p/",
+        "image_url": "https://www.capraboacasa.com/images/5954227.jpg"
+      }
+    ]
+  },
+  "rooibos": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25951252",
+        "name": "Rooibos vainilla EROSKI, caja 20 uds",
+        "packaging": null,
+        "price": 1.15,
+        "ref_price": 0.057,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/25951252-p/",
+        "image_url": "https://www.capraboacasa.com/images/25951252.jpg"
+      }
+    ]
+  },
+  "infusion-frutos-rojos": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26220699",
+        "name": "Infusión fría de frutos rojos POMPADOUR, caja 20 uds",
+        "packaging": null,
+        "price": 3.09,
+        "ref_price": 0.154,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/26220699-p/",
+        "image_url": "https://www.capraboacasa.com/images/26220699.jpg"
+      }
+    ]
+  },
+  "maiz-palomitas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25616483",
+        "name": "Maíz palomitas EROSKI, paquete 250 g",
+        "packaging": null,
+        "price": 0.89,
+        "ref_price": 3.56,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/25616483-p/",
+        "image_url": "https://www.capraboacasa.com/images/25616483.jpg"
+      }
+    ]
+  },
+  "chia": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "23157563",
+        "name": "Semillas de chia EROSKI BIO, bolsa 250 g",
+        "packaging": null,
+        "price": 2.09,
+        "ref_price": 8.36,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/23157563-p/",
+        "image_url": "https://www.capraboacasa.com/images/23157563.jpg"
+      }
+    ]
+  },
+  "sesamo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "16074858",
+        "name": "Sésamo crudo VERITAS, bolsa 500 g",
+        "packaging": null,
+        "price": 5.05,
+        "ref_price": 10.1,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/16074858-p/",
+        "image_url": "https://www.capraboacasa.com/images/16074858.jpg"
+      }
+    ]
+  },
+  "alubia-roja": {
+    "modo": "busqueda",
+    "query": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060030-legumbres: alubia roja -cocida",
+    "candidatos": [
+      {
+        "product_id": "15933138",
+        "name": "Alubia blanca selecta LUENGO, paquete 500 g",
+        "packaging": null,
+        "price": 2.15,
+        "ref_price": 4.3,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/15933138-p/",
+        "image_url": "https://www.capraboacasa.com/images/15933138.jpg"
+      },
+      {
+        "product_id": "14708085",
+        "name": "Alubia negrita LUENGO, paquete 500 g",
+        "packaging": null,
+        "price": 1.69,
+        "ref_price": 3.38,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/14708085-p/",
+        "image_url": "https://www.capraboacasa.com/images/14708085.jpg"
+      },
+      {
+        "product_id": "23466204",
+        "name": "Lenteja roja pelada LUENGO, bolsa 400 g",
+        "packaging": null,
+        "price": 2.65,
+        "ref_price": 6.63,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/23466204-p/",
+        "image_url": "https://www.capraboacasa.com/images/23466204.jpg"
+      },
+      {
+        "product_id": "20065355",
+        "name": "Alubia blanca riñón I.G.P. Bañeza EROSKI SELEQTIA, caja 500 g",
+        "packaging": null,
+        "price": 2.35,
+        "ref_price": 4.7,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/20065355-p/",
+        "image_url": "https://www.capraboacasa.com/images/20065355.jpg"
+      },
+      {
+        "product_id": "18503847",
+        "name": "Alubia pinta LUENGO, paquete 500 g",
+        "packaging": null,
+        "price": 1.99,
+        "ref_price": 3.98,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/18503847-p/",
+        "image_url": "https://www.capraboacasa.com/images/18503847.jpg"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "alubia-pinta": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26016709",
+        "name": "Alubia pinta EROSKI, paquete 500 g",
+        "packaging": null,
+        "price": 1.15,
+        "ref_price": 2.3,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/26016709-p/",
+        "image_url": "https://www.capraboacasa.com/images/26016709.jpg"
+      }
+    ]
+  },
+  "alubia-negra": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "14708085",
+        "name": "Alubia negrita LUENGO, paquete 500 g",
+        "packaging": null,
+        "price": 1.69,
+        "ref_price": 3.38,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/14708085-p/",
+        "image_url": "https://www.capraboacasa.com/images/14708085.jpg"
+      }
+    ]
+  },
+  "jamon-iberico": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "23053408",
+        "name": "Jamón ibérico de cebo 50% raza ibérica IGLESIAS, sobre 100 g",
+        "packaging": null,
+        "price": 6.49,
+        "ref_price": 64.9,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/23053408-p/",
+        "image_url": "https://www.capraboacasa.com/images/23053408.jpg"
+      }
+    ]
+  },
+  "tomate-frito": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "12771838",
+        "name": "Tomate frito EROSKI basic, pack 3x390 g",
+        "packaging": null,
+        "price": 1.35,
+        "ref_price": 1.15,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/12771838-p/",
+        "image_url": "https://www.capraboacasa.com/images/12771838.jpg"
+      }
+    ]
+  },
+  "ketchup-sin-azucar": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25589862",
+        "name": "Ketchup zero sin sal ni azúcares añadidos HEINZ, bocabajo 425 g",
+        "packaging": null,
+        "price": 3.65,
+        "ref_price": 8.59,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/25589862-p/",
+        "image_url": "https://www.capraboacasa.com/images/25589862.jpg"
+      }
+    ]
+  },
+  "tomate": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "17506619",
+        "name": "Tomate Bola, al peso, compra mínima 500 g",
+        "packaging": null,
+        "price": 1.25,
+        "ref_price": 2.5,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/17506619-p/",
+        "image_url": "https://www.capraboacasa.com/images/17506619.jpg"
+      }
+    ]
+  },
+  "zanahoria": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "4501508",
+        "name": "Zanahoria EROSKI, bolsa 1 kg",
+        "packaging": null,
+        "price": 1.2,
+        "ref_price": 1.2,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/4501508-p/",
+        "image_url": "https://www.capraboacasa.com/images/4501508.jpg"
+      }
+    ]
+  },
+  "lechuga": {
+    "modo": "busqueda",
+    "query": "2059698-frescos/2059710-verduras-y-hortalizas/2059716-lechuga-pepino-y-otros: lechuga iceberg",
+    "candidatos": [
+      {
+        "product_id": "71126",
+        "name": "Lechuga Iceberg EROSKI, unidad",
+        "packaging": null,
+        "price": 1.05,
+        "ref_price": null,
+        "ref_unit": null,
+        "url": "https://www.capraboacasa.com/es/productdetail/71126-p/",
+        "image_url": "https://www.capraboacasa.com/images/71126.jpg"
+      },
+      {
+        "product_id": "71332",
+        "name": "Lechuga Romana EROSKI, unidad",
+        "packaging": null,
+        "price": 1.18,
+        "ref_price": null,
+        "ref_unit": null,
+        "url": "https://www.capraboacasa.com/es/productdetail/71332-p/",
+        "image_url": "https://www.capraboacasa.com/images/71332.jpg"
+      },
+      {
+        "product_id": "536250",
+        "name": "Lechuga Trocadero de Galicia, unidad, aprox. 200 g",
+        "packaging": null,
+        "price": 1.75,
+        "ref_price": 8.75,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/536250-p/",
+        "image_url": "https://www.capraboacasa.com/images/536250.jpg"
+      },
+      {
+        "product_id": "22894984",
+        "name": "Lechuga hoja roure, 1u",
+        "packaging": null,
+        "price": 1.75,
+        "ref_price": null,
+        "ref_unit": null,
+        "url": "https://www.capraboacasa.com/es/productdetail/22894984-p/",
+        "image_url": "https://www.capraboacasa.com/images/22894984.jpg"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "calabacin": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26794016",
+        "name": "Calabacín verde, al peso, compra mínima 500 g",
+        "packaging": null,
+        "price": 0.85,
+        "ref_price": 1.7,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/26794016-p/",
+        "image_url": "https://www.capraboacasa.com/images/26794016.jpg"
+      }
+    ]
+  },
+  "uva": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "12523650",
+        "name": "Uva blanca, al peso, compra mínima 500 g",
+        "packaging": null,
+        "price": 1.93,
+        "ref_price": 3.86,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/12523650-p/",
+        "image_url": "https://www.capraboacasa.com/images/12523650.jpg"
+      }
+    ]
+  },
+  "mandarina": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "6155",
+        "name": "Mandarina, malla 1 kg",
+        "packaging": null,
+        "price": 2.15,
+        "ref_price": 2.15,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/6155-p/",
+        "image_url": "https://www.capraboacasa.com/images/6155.jpg"
+      }
+    ]
+  },
+  "lima": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "56515",
+        "name": "Lima, al peso, compra mínima 500 g",
+        "packaging": null,
+        "price": 2.5,
+        "ref_price": 5.0,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/56515-p/",
+        "image_url": "https://www.capraboacasa.com/images/56515.jpg"
+      }
+    ]
+  },
+  "pera": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "17533",
+        "name": "Pera Conferencia, cubeta 1 kg",
+        "packaging": null,
+        "price": 2.49,
+        "ref_price": 2.49,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/17533-p/",
+        "image_url": "https://www.capraboacasa.com/images/17533.jpg"
+      }
+    ]
+  },
+  "manzana": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "24918351",
+        "name": "Manzana Roja, bolsa 1,5 kg",
+        "packaging": null,
+        "price": 2.7,
+        "ref_price": 1.8,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/24918351-p/",
+        "image_url": "https://www.capraboacasa.com/images/24918351.jpg"
+      }
+    ]
+  },
+  "platano": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "12069175",
+        "name": "Plátano de Canarias IGP EROSKI, al peso, compra mínima 1 kg",
+        "packaging": null,
+        "price": 3.2,
+        "ref_price": 3.2,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/12069175-p/",
+        "image_url": "https://www.capraboacasa.com/images/12069175.jpg"
+      }
+    ]
+  },
+  "guacamole": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "6686711",
+        "name": "Salsa guacamole OLD EL PASO, frasco 320 g",
+        "packaging": null,
+        "price": 3.15,
+        "ref_price": 9.84,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/6686711-p/",
+        "image_url": "https://www.capraboacasa.com/images/6686711.jpg"
+      }
+    ]
+  },
+  "mantequilla": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "15636475",
+        "name": "Mantequilla EROSKI, pastilla 250 g",
+        "packaging": null,
+        "price": 2.05,
+        "ref_price": 8.2,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/15636475-p/",
+        "image_url": "https://www.capraboacasa.com/images/15636475.jpg"
+      }
+    ]
+  },
+  "zumo-lima": {
+    "modo": "busqueda",
+    "query": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059994-vinagres-especiales | 2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059995-vinagre | 2059806-alimentacion/2060056-salsas-y-especias/2060062-otras-salsas-frias | 2060211-bebidas/2060243-zumos-y-nectar/4000006-zumos-y-nectares: zumo lima",
+    "candidatos": [
+      {
+        "product_id": "11639101",
+        "name": "Zumo de limón exprimido SOLIMON, botellín 28 cl",
+        "packaging": null,
+        "price": 1.45,
+        "ref_price": 5.18,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/11639101-p/",
+        "image_url": "https://www.capraboacasa.com/images/11639101.jpg"
+      },
+      {
+        "product_id": "23627474",
+        "name": "Zumo de limón exprimido EROSKI, botella 250 ml",
+        "packaging": null,
+        "price": 1.25,
+        "ref_price": 5.0,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/23627474-p/",
+        "image_url": "https://www.capraboacasa.com/images/23627474.jpg"
+      },
+      {
+        "product_id": "12750808",
+        "name": "Zumo de naranja 100% Premium GRANINI, botella 1 litro",
+        "packaging": null,
+        "price": 3.3,
+        "ref_price": 3.3,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/12750808-p/",
+        "image_url": "https://www.capraboacasa.com/images/12750808.jpg"
+      },
+      {
+        "product_id": "19539220",
+        "name": "Zumo de piña, manzana y uva EROSKI, brik 1 litro",
+        "packaging": null,
+        "price": 1.2,
+        "ref_price": 1.2,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/19539220-p/",
+        "image_url": "https://www.capraboacasa.com/images/19539220.jpg"
+      },
+      {
+        "product_id": "449603",
+        "name": "Zumo de manzana 100% Premium GRANINI, botella 1 litro",
+        "packaging": null,
+        "price": 2.99,
+        "ref_price": 2.99,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/449603-p/",
+        "image_url": "https://www.capraboacasa.com/images/449603.jpg"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "mayonesa-light": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26144147",
+        "name": "Salsa ligera EROSKI, frasco 450 ml",
+        "packaging": null,
+        "price": 1.2,
+        "ref_price": 2.67,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/26144147-p/",
+        "image_url": "https://www.capraboacasa.com/images/26144147.jpg"
+      }
+    ]
+  },
+  "mostaza": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "24157844",
+        "name": "Mostaza EROSKI, bote 320 g",
+        "packaging": null,
+        "price": 1.03,
+        "ref_price": 3.22,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/24157844-p/",
+        "image_url": "https://www.capraboacasa.com/images/24157844.jpg"
+      }
+    ]
+  },
+  "salsa-barbacoa": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25557208",
+        "name": "Salsa barbacoa EROSKI, bote 320 g",
+        "packaging": null,
+        "price": 1.05,
+        "ref_price": 3.28,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/25557208-p/",
+        "image_url": "https://www.capraboacasa.com/images/25557208.jpg"
+      }
+    ]
+  },
+  "lavavajillas-mano": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26264739",
+        "name": "Lavavajillas a mano diluído EROSKI BASIC, botella 1,3 litros",
+        "packaging": null,
+        "price": 1.15,
+        "ref_price": 0.88,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/26264739-p/",
+        "image_url": "https://www.capraboacasa.com/images/26264739.jpg"
+      }
+    ]
+  },
+  "bolsas-basura": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25325010",
+        "name": "Bolsa de basura con cierre 30 l. EROSKI, paquete 40 uds",
+        "packaging": null,
+        "price": 1.8,
+        "ref_price": 0.045,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/25325010-p/",
+        "image_url": "https://www.capraboacasa.com/images/25325010.jpg"
+      }
+    ]
+  },
+  "bolsas-reutilizables": {
+    "modo": "busqueda",
+    "query": "2060538-limpieza/2060601-conservacion-alimentos/2060604-bolsas-de-conservacion: bolsa reutilizable",
+    "candidatos": [
+      {
+        "product_id": "16963266",
+        "name": "Bolsa para congelar ziploc ALBAL, caja 20 uds",
+        "packaging": null,
+        "price": 4.85,
+        "ref_price": 0.242,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/16963266-p/",
+        "image_url": "https://www.capraboacasa.com/images/16963266.jpg"
+      },
+      {
+        "product_id": "27197615",
+        "name": "Bolsa para congelar mediana EROSKI, caja 40 uds",
+        "packaging": null,
+        "price": 0.88,
+        "ref_price": 0.022,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/27197615-p/",
+        "image_url": "https://www.capraboacasa.com/images/27197615.jpg"
+      },
+      {
+        "product_id": "27197672",
+        "name": "Bolsa para congelar grande con cierre zip EROSKI, caja 10 uds",
+        "packaging": null,
+        "price": 0.87,
+        "ref_price": 0.087,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/27197672-p/",
+        "image_url": "https://www.capraboacasa.com/images/27197672.jpg"
+      },
+      {
+        "product_id": "16963001",
+        "name": "Bolsa multiuso zipper 1 litro ALBAL, caja 12 uds",
+        "packaging": null,
+        "price": 3.46,
+        "ref_price": 0.288,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/16963001-p/",
+        "image_url": "https://www.capraboacasa.com/images/16963001.jpg"
+      },
+      {
+        "product_id": "27197656",
+        "name": "Bolsas de congelacion c/ cierre zip pequeñas EROSKI, caja 20 uds",
+        "packaging": null,
+        "price": 1.24,
+        "ref_price": 0.062,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/27197656-p/",
+        "image_url": "https://www.capraboacasa.com/images/27197656.jpg"
+      }
+    ],
+    "elegido": null,
+    "nuevo_pin": null
+  },
+  "bolsas-cierre": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27197656",
+        "name": "Bolsas de congelacion c/ cierre zip pequeñas EROSKI, caja 20 uds",
+        "packaging": null,
+        "price": 1.24,
+        "ref_price": 0.062,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/27197656-p/",
+        "image_url": "https://www.capraboacasa.com/images/27197656.jpg"
+      }
+    ]
+  },
+  "film": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "24728230",
+        "name": "Film transparente EROSKI, caja 80 metros",
+        "packaging": null,
+        "price": 1.85,
+        "ref_price": 0.023,
+        "ref_unit": "m",
+        "url": "https://www.capraboacasa.com/es/productdetail/24728230-p/",
+        "image_url": "https://www.capraboacasa.com/images/24728230.jpg"
+      }
+    ]
+  },
+  "aluminio": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26399204",
+        "name": "Papel de aluminio 50 metros EROSKI, caja 1 ud",
+        "packaging": null,
+        "price": 3.5,
+        "ref_price": 0.07,
+        "ref_unit": "m",
+        "url": "https://www.capraboacasa.com/es/productdetail/26399204-p/",
+        "image_url": "https://www.capraboacasa.com/images/26399204.jpg"
+      }
+    ]
+  },
+  "bayetas": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "15933492",
+        "name": "Bayeta de colores EROSKI basic, pack 9 uds",
+        "packaging": null,
+        "price": 1.2,
+        "ref_price": 0.133,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/15933492-p/",
+        "image_url": "https://www.capraboacasa.com/images/15933492.jpg"
+      }
+    ]
+  },
+  "panos-absorbentes": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "26335141",
+        "name": "Bayeta de microfibra en rollo BAYECO, rollo 30 uds",
+        "packaging": null,
+        "price": 3.49,
+        "ref_price": 0.116,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/26335141-p/",
+        "image_url": "https://www.capraboacasa.com/images/26335141.jpg"
+      }
+    ]
+  },
+  "papel-cocina": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "14335889",
+        "name": "Papel de cocina 3 capas FOXY TORNADO AZUL, paquete 1=15 rollos",
+        "packaging": null,
+        "price": 5.29,
+        "ref_price": 0.353,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/14335889-p/",
+        "image_url": "https://www.capraboacasa.com/images/14335889.jpg"
+      }
+    ]
+  },
+  "papel-higienico": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "10512",
+        "name": "Papel higiénico 2 capas EROSKI BASIC, paquete 12 rollos",
+        "packaging": null,
+        "price": 2.4,
+        "ref_price": 0.2,
+        "ref_unit": "ud",
+        "url": "https://www.capraboacasa.com/es/productdetail/10512-p/",
+        "image_url": "https://www.capraboacasa.com/images/10512.jpg"
+      }
+    ]
+  },
+  "hamburguesa-vacuno": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27008697",
+        "name": "Hamburguesa de vacuno EROSKI, 6 uds, bandeja 540 g",
+        "packaging": null,
+        "price": 5.9,
+        "ref_price": 10.93,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/27008697-p/",
+        "image_url": "https://www.capraboacasa.com/images/27008697.jpg"
+      }
+    ]
+  },
+  "hamburguesa-pollo": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "22396832",
+        "name": "Hamburguesa de pollo EROSKI, bandeja 360 g",
+        "packaging": null,
+        "price": 2.53,
+        "ref_price": 7.03,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/22396832-p/",
+        "image_url": "https://www.capraboacasa.com/images/22396832.jpg"
+      }
+    ]
+  },
+  "patatas-paja": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "22457345",
+        "name": "Patatas paja EROSKI, bolsa 100 g",
+        "packaging": null,
+        "price": 0.75,
+        "ref_price": 7.5,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/22457345-p/",
+        "image_url": "https://www.capraboacasa.com/images/22457345.jpg"
+      }
+    ]
+  },
+  "aceite-oliva-virgen-extra": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "3854569",
+        "name": "Aceite de oliva virgen extra EROSKI, garrafa 3 litros",
+        "packaging": null,
+        "price": 11.25,
+        "ref_price": 3.75,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/3854569-p/",
+        "image_url": "https://www.capraboacasa.com/images/3854569.jpg"
+      }
+    ]
+  },
+  "aceite-oliva-suave": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "366666",
+        "name": "Aceite de oliva suave EROSKI, garrafa 5 litros",
+        "packaging": null,
+        "price": 16.75,
+        "ref_price": 3.35,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/366666-p/",
+        "image_url": "https://www.capraboacasa.com/images/366666.jpg"
+      }
+    ]
+  },
+  "curcuma": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "14197248",
+        "name": "Cúrcuma DUCROS, frasco 37 g",
+        "packaging": null,
+        "price": 2.69,
+        "ref_price": 72.7,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/14197248-p/",
+        "image_url": "https://www.capraboacasa.com/images/14197248.jpg"
+      }
+    ]
+  },
+  "pan-barra": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "19603349",
+        "name": "Barra baguette pack ahorro, 3 uds., bandeja 630 g",
+        "packaging": null,
+        "price": 1.19,
+        "ref_price": 1.89,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/19603349-p/",
+        "image_url": "https://www.capraboacasa.com/images/19603349.jpg"
+      }
+    ]
+  },
+  "pan-molde": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "17946732",
+        "name": "Pan de molde con corteza EROSKI basic, paquete 820 g",
+        "packaging": null,
+        "price": 1.15,
+        "ref_price": 1.4,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/17946732-p/",
+        "image_url": "https://www.capraboacasa.com/images/17946732.jpg"
+      }
+    ]
+  },
+  "calamares-americana": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "134023",
+        "name": "Calamares en salsa americana CALVO, pack 3x80 g",
+        "packaging": null,
+        "price": 3.99,
+        "ref_price": 16.63,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/134023-p/",
+        "image_url": "https://www.capraboacasa.com/images/134023.jpg"
+      }
+    ]
+  },
+  "nata-cocinar": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "27368190",
+        "name": "Nata para cocinar textura espesa ASTURIANA, brik 500 ml",
+        "packaging": null,
+        "price": 2.69,
+        "ref_price": 5.38,
+        "ref_unit": "L",
+        "url": "https://www.capraboacasa.com/es/productdetail/27368190-p/",
+        "image_url": "https://www.capraboacasa.com/images/27368190.jpg"
+      }
+    ]
+  },
+  "nachos": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "24551996",
+        "name": "Nachos naturales EROSKI, bolsa 150 g",
+        "packaging": null,
+        "price": 0.9,
+        "ref_price": 6.0,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/24551996-p/",
+        "image_url": "https://www.capraboacasa.com/images/24551996.jpg"
+      }
+    ]
+  },
+  "garbanzos": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "25946740",
+        "name": "Garbanzo extra EROSKI, paquete 500 g",
+        "packaging": null,
+        "price": 1.1,
+        "ref_price": 2.2,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/25946740-p/",
+        "image_url": "https://www.capraboacasa.com/images/25946740.jpg"
+      }
+    ]
+  },
+  "yogur-natural": {
+    "modo": "fijado",
+    "candidatos": [
+      {
+        "product_id": "4810149",
+        "name": "Yogur natural EROSKI BASIC, pack 8x125 g",
+        "packaging": null,
+        "price": 1.33,
+        "ref_price": 1.36,
+        "ref_unit": "kg",
+        "url": "https://www.capraboacasa.com/es/productdetail/4810149-p/",
+        "image_url": "https://www.capraboacasa.com/images/4810149.jpg"
+      }
+    ]
+  }
+}

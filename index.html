@@ -30,6 +30,7 @@
   --aldi: #1B4F9C;
   --dia: #C4007A;
   --consum: #E06A00;
+  --caprabo: #00737C;
   --focus: #1B4F9C;
   --radius-row: 14px;
   --radius-tag: 4px;
@@ -40,13 +41,13 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #121614; --surface: #1B201D; --ink: #E9EDEA; --muted: #9AA39E; --line: #2B322E;
-    --tag: #F2C230; --tag-ink: #1C2321; --mercadona: #3DBB78; --bonpreu: #F0555B; --aldi: #6E9BE0; --dia: #F05AAE; --consum: #FF9A3D; --focus: #6E9BE0;
+    --tag: #F2C230; --tag-ink: #1C2321; --mercadona: #3DBB78; --bonpreu: #F0555B; --aldi: #6E9BE0; --dia: #F05AAE; --consum: #FF9A3D; --caprabo: #3CC2CA; --focus: #6E9BE0;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #121614; --surface: #1B201D; --ink: #E9EDEA; --muted: #9AA39E; --line: #2B322E;
-  --tag: #F2C230; --tag-ink: #1C2321; --mercadona: #3DBB78; --bonpreu: #F0555B; --aldi: #6E9BE0; --dia: #F05AAE; --consum: #FF9A3D; --focus: #6E9BE0;
+  --tag: #F2C230; --tag-ink: #1C2321; --mercadona: #3DBB78; --bonpreu: #F0555B; --aldi: #6E9BE0; --dia: #F05AAE; --consum: #FF9A3D; --caprabo: #3CC2CA; --focus: #6E9BE0;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -89,10 +90,10 @@ nav.views button[aria-pressed="true"] { background: var(--ink); color: var(--bg)
 .search input::placeholder { color: var(--muted); }
 
 /* Cabecera de columnas de súper */
-.cols { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 4px; padding: 0 13px 6px; font-size: 11.5px; color: var(--muted); }
+.cols { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 4px; padding: 0 13px 6px; font-size: 10.5px; color: var(--muted); }
 .cols .store-name { display: block; padding-bottom: 3px; border-bottom: 3px solid; text-overflow: ellipsis; letter-spacing: -.01em; }
 .cols .store-name .dot { display: none; }
-.cols .mercadona { border-color: var(--mercadona); } .cols .bonpreu { border-color: var(--bonpreu); } .cols .aldi { border-color: var(--aldi); } .cols .dia { border-color: var(--dia); } .cols .consum { border-color: var(--consum); }
+.cols .mercadona { border-color: var(--mercadona); } .cols .bonpreu { border-color: var(--bonpreu); } .cols .aldi { border-color: var(--aldi); } .cols .dia { border-color: var(--dia); } .cols .consum { border-color: var(--consum); } .cols .caprabo { border-color: var(--caprabo); }
 .store-name { display: inline-flex; align-items: center; gap: 4px; font-weight: 600; color: var(--ink); min-width: 0; overflow: hidden; white-space: nowrap; }
 .dot { width: 9px; height: 9px; border-radius: 50%; flex: none; }
 .dot.mercadona { background: var(--mercadona); }
@@ -100,6 +101,7 @@ nav.views button[aria-pressed="true"] { background: var(--ink); color: var(--bg)
 .dot.aldi { background: var(--aldi); }
 .dot.dia { background: var(--dia); }
 .dot.consum { background: var(--consum); }
+.dot.caprabo { background: var(--caprabo); }
 
 /* Filas de producto */
 ul.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
@@ -107,8 +109,10 @@ ul.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
 .row > button { width: 100%; border: 0; background: transparent; text-align: left; padding: 12px 12px 10px; cursor: pointer; border-radius: var(--radius-row); }
 .row-top { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin-bottom: 8px; }
 .pname { font-weight: 600; font-size: 17px; line-height: 1.25; }
-.verdict { font-size: 13px; color: var(--muted); white-space: nowrap; }
-.prices { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 4px; }
+.verdict { font-size: 13px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; flex-shrink: 1; }
+.pname { flex-shrink: 0; max-width: 62%; }
+.row { min-width: 0; }
+.prices { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 4px; }
 
 /* La etiqueta de precio: el elemento protagonista */
 .tag {
@@ -116,9 +120,10 @@ ul.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
   display: flex; flex-direction: column; justify-content: center;
   border: 1px solid var(--line);
 }
-.tag .v { font: 700 21px/1 var(--num); font-variant-numeric: tabular-nums; letter-spacing: -.005em; }
+.tag .v { font: 700 18px/1 var(--num); font-variant-numeric: tabular-nums; letter-spacing: -.005em; }
 .tag .u { font: 500 11px/1.1 var(--num); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--muted); letter-spacing: .02em; }
 .tag.none .v { font-size: 14px; font-weight: 500; color: var(--muted); }
+.tag.none .u { font-size: 9.5px; letter-spacing: 0; }
 /* El más barato se pinta con el color de su súper (mismo tono en modo claro y oscuro, texto blanco) */
 .tag.best { color: #fff; }
 .tag.best .u { color: rgba(255, 255, 255, .85); }
@@ -127,6 +132,7 @@ ul.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
 .tag.best.aldi { background: #1B4F9C; border-color: #1B4F9C; }
 .tag.best.dia { background: #C4007A; border-color: #C4007A; }
 .tag.best.consum { background: #D45F00; border-color: #D45F00; }
+.tag.best.caprabo { background: #00737C; border-color: #00737C; }
 .tag .s { display: none; }
 
 /* Detalle desplegado */
@@ -153,6 +159,7 @@ ul.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
 .pick button.aldi[aria-pressed="true"] { color: var(--aldi); }
 .pick button.dia[aria-pressed="true"] { color: var(--dia); }
 .pick button.consum[aria-pressed="true"] { color: var(--consum); }
+.pick button.caprabo[aria-pressed="true"] { color: var(--caprabo); }
 section.group { margin-bottom: 22px; }
 section.group h2 { font: 700 21px/1.1 var(--num); margin: 0 0 4px; }
 section.group p.hint { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
@@ -160,6 +167,7 @@ section.group p.hint { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
 .srow .pname { font-size: 16px; }
 .srow .sub { color: var(--muted); font-size: 14px; grid-column: 1; }
 .srow .tag { grid-row: 1 / span 2; grid-column: 2; min-width: 86px; text-align: right; align-items: flex-end; }
+.srow .tag .v { font-size: 21px; }
 
 .empty, .error { color: var(--muted); padding: 28px 4px; text-align: center; }
 .error strong { color: var(--ink); display: block; margin-bottom: 6px; }
@@ -187,6 +195,7 @@ section.group p.hint { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
       <span class="store-name aldi"><span class="dot aldi"></span>Aldi</span>
       <span class="store-name dia"><span class="dot dia"></span>Dia</span>
       <span class="store-name consum"><span class="dot consum"></span>Consum</span>
+      <span class="store-name caprabo"><span class="dot caprabo"></span>Caprabo</span>
     </div>
     <ul class="list" id="list"></ul>
     <div class="empty" id="empty" hidden></div>
@@ -199,6 +208,7 @@ section.group p.hint { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
       <button class="aldi" data-store="aldi" aria-pressed="false"><span class="dot aldi"></span>Aldi</button>
       <button class="dia" data-store="dia" aria-pressed="false"><span class="dot dia"></span>Dia</button>
       <button class="consum" data-store="consum" aria-pressed="false"><span class="dot consum"></span>Consum</button>
+      <button class="caprabo" data-store="caprabo" aria-pressed="false"><span class="dot caprabo"></span>Caprabo</button>
     </div>
     <div id="groups"></div>
   </main>
@@ -221,6 +231,7 @@ const STORES = [
   { id: "aldi", name: "Aldi" },
   { id: "dia", name: "Dia" },
   { id: "consum", name: "Consum" },
+  { id: "caprabo", name: "Caprabo" },
 ];
 const STORE_NAME = Object.fromEntries(STORES.map(s => [s.id, s.name]));
 // Diferencia máxima para considerar que "da igual" (3 %).
@@ -264,7 +275,8 @@ function verdict(a) {
   if (a.available === 1) return "Solo en " + STORE_NAME[[...a.winners][0]];
   if (a.tie) return "Da igual";
   if (a.winners.size === 1) return "Mejor en " + STORE_NAME[[...a.winners][0]];
-  return "Mejor en " + [...a.winners].map(s => STORE_NAME[s]).join(" o ");
+  if (a.winners.size === 2) return "Mejor en " + [...a.winners].map(s => STORE_NAME[s]).join(" o ");
+  return "Igual en " + a.winners.size + " súper";
 }
 
 function priceTag(a, storeId, opts = {}) {
@@ -272,7 +284,7 @@ function priceTag(a, storeId, opts = {}) {
   const tag = el("div", "tag " + storeId);
   if (!d) {
     tag.classList.add("none");
-    tag.append(el("span", "v", "—"), el("span", "u", "sin precio"));
+    tag.append(el("span", "v", "—"), el("span", "u", "no hay"));
     tag.setAttribute("aria-label", STORE_NAME[storeId] + ": sin precio");
     return tag;
   }

@@ -11,14 +11,16 @@
         "bonpreu": "llet sencera -sense",
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche entera -sin",
         "dia": "leche entera -lactosa",
-        "consum": "leche entera -lactosa"
+        "consum": "leche entera -lactosa",
+        "caprabo": "2059806-alimentacion/2059807-leche-batidos-y-bebidas-vegetales/2059810-leche-entera: leche entera -sin -lactosa"
       },
       "pinned": {
         "mercadona": "10380",
         "bonpreu": "81177",
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/80000",
         "dia": "608",
-        "consum": "5931"
+        "consum": "5931",
+        "caprabo": "26084350"
       }
     },
     {
@@ -30,13 +32,15 @@
         "bonpreu": "ous L -ecologics",
         "aldi": "lacteos-y-huevos/huevos: huevos",
         "dia": "huevos grandes L",
-        "consum": "huevo L -ecologico"
+        "consum": "huevo L -ecologico",
+        "caprabo": "2059698-frescos/2059760-huevos/2059763-huevos-talla-l: huevo"
       },
       "pinned": {
         "mercadona": "31504",
         "bonpreu": "38974",
         "dia": "307884",
-        "consum": "6103"
+        "consum": "6103",
+        "caprabo": "19550037"
       }
     },
     {
@@ -48,14 +52,16 @@
         "bonpreu": "arròs rodó",
         "aldi": "despensa/arroz: arroz redondo -tarrina",
         "dia": "arroz redondo -vasos",
-        "consum": "arroz redondo"
+        "consum": "arroz redondo",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060032-arroz: arroz redondo"
       },
       "pinned": {
         "mercadona": "5044",
         "bonpreu": "00731",
         "aldi": "despensa/arroz/768700",
         "dia": "310496",
-        "consum": "5458"
+        "consum": "5458",
+        "caprabo": "302489"
       }
     },
     {
@@ -67,13 +73,15 @@
         "bonpreu": "sucre blanc",
         "aldi": "despensa/azucar-y-edulcorantes: azúcar",
         "dia": "azucar blanco",
-        "consum": "azucar blanco"
+        "consum": "azucar blanco",
+        "caprabo": "2060118-dulces-y-desayuno/2060182-azucar-y-edulcorante/2060183-azucar-paquete: azucar blanco"
       },
       "pinned": {
         "mercadona": "19897",
         "bonpreu": "37758",
         "dia": "81798",
-        "consum": "5245"
+        "consum": "5245",
+        "caprabo": "26913889"
       }
     },
     {
@@ -85,14 +93,16 @@
         "bonpreu": "sal fina",
         "aldi": "despensa/especias-y-condimentos: sal fina",
         "dia": "sal fina",
-        "consum": "sal fina"
+        "consum": "sal fina",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059996-sal: sal fina"
       },
       "pinned": {
         "mercadona": "19731",
         "aldi": "despensa/especias-y-condimentos/250600",
         "bonpreu": "00079",
         "dia": "419",
-        "consum": "5937"
+        "consum": "5937",
+        "caprabo": "917372"
       }
     },
     {
@@ -104,13 +114,15 @@
         "bonpreu": "picada vedella -porc -ecologica",
         "aldi": "carne/hamburguesas-y-carne-picada: picada vacuno -cerdo -pollo -ecologica",
         "dia": "carne picada vacuno -cerdo",
-        "consum": "picada vacuno -cerdo"
+        "consum": "picada vacuno -cerdo",
+        "caprabo": "2059698-frescos/2059746-carnes-y-aves/2059755-carne-picada-y-hamburguesas: picada vacuno -cerdo -pollo"
       },
       "pinned": {
         "mercadona": "3454",
         "bonpreu": "37398",
         "dia": "261240",
-        "consum": "5165"
+        "consum": "5165",
+        "caprabo": "26536045"
       }
     },
     {
@@ -122,14 +134,16 @@
         "bonpreu": "pit pollastre -marinat -arrebossat",
         "aldi": "carne/pollo-y-pavo: pechuga pollo",
         "dia": "pechuga pollo -lonchas -kebab -proteina -empanada -pavo",
-        "consum": "pechuga pollo -lonchas -kebab -proteina -empanada -pavo"
+        "consum": "pechuga pollo -lonchas -kebab -proteina -empanada -pavo",
+        "caprabo": "2059698-frescos/2059746-carnes-y-aves/2059753-pollo: pechuga pollo"
       },
       "pinned": {
         "mercadona": "30006",
         "aldi": "carne/pollo-y-pavo/746800",
         "bonpreu": "81579",
         "dia": "261371",
-        "consum": "4729"
+        "consum": "4729",
+        "caprabo": "19230572"
       }
     },
     {
@@ -141,13 +155,15 @@
         "bonpreu": "llom porc -marinat -adobat",
         "aldi": "carne/cerdo: lomo cerdo -iberico",
         "dia": "lomo cerdo -adobado -iberico -embuchado -curado",
-        "consum": "lomo cerdo -adobado -iberico -embuchado -curado"
+        "consum": "lomo cerdo -adobado -iberico -embuchado -curado",
+        "caprabo": "2059698-frescos/2059746-carnes-y-aves/2059750-cerdo-y-cerdo-iberico: lomo cerdo"
       },
       "pinned": {
         "mercadona": "4590",
         "bonpreu": "54981",
         "dia": "260899",
-        "consum": "8265"
+        "consum": "8265",
+        "caprabo": "6833388"
       }
     },
     {
@@ -159,14 +175,16 @@
         "bonpreu": "llet sencera sense lactosa",
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche entera sin lactosa",
         "dia": "leche entera sin lactosa",
-        "consum": "leche entera sin lactosa"
+        "consum": "leche entera sin lactosa",
+        "caprabo": "2059806-alimentacion/2059807-leche-batidos-y-bebidas-vegetales/2059815-leche-sin-lactosa-y-especiales: leche entera sin lactosa"
       },
       "pinned": {
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/872200",
         "bonpreu": "13326",
         "mercadona": "10699",
         "dia": "225278",
-        "consum": "15435"
+        "consum": "15435",
+        "caprabo": "18843334"
       }
     },
     {
@@ -178,14 +196,16 @@
         "bonpreu": "patates fregides paella",
         "aldi": "aperitivos/patatas-fritas-y-snacks: patatas fritas perol -oliva",
         "dia": "patatas fritas -horno -congeladas -ultracongeladas",
-        "consum": "patatas fritas -horno -congeladas -ultracongeladas"
+        "consum": "patatas fritas -horno -congeladas -ultracongeladas",
+        "caprabo": "2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060088-patatas-lisas-tradicionales | 2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060090-patatas-onduladas-tradicionales: patatas fritas"
       },
       "pinned": {
         "aldi": "aperitivos/patatas-fritas-y-snacks/61700",
         "bonpreu": "77957",
         "mercadona": "22245",
         "dia": "277827",
-        "consum": "5719"
+        "consum": "5719",
+        "caprabo": "10874733"
       }
     },
     {
@@ -197,14 +217,16 @@
         "bonpreu": "batut cacau",
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: batido chocolate",
         "dia": "batido chocolate -proteinas -0",
-        "consum": "batido chocolate -proteina -0"
+        "consum": "batido chocolate -proteina -0",
+        "caprabo": "2059806-alimentacion/2059807-leche-batidos-y-bebidas-vegetales/2059843-batido-de-cacao-y-chocolate-liquido: batido chocolate -proteina -0"
       },
       "pinned": {
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/601202000",
         "bonpreu": "85644",
         "mercadona": "10050",
         "dia": "296458",
-        "consum": "6152"
+        "consum": "6152",
+        "caprabo": "23183304"
       }
     },
     {
@@ -216,14 +238,16 @@
         "bonpreu": "tonyina clara natural",
         "aldi": "despensa/conservas-de-pescado: atun claro natural",
         "dia": "atun claro natural",
-        "consum": "atun claro natural"
+        "consum": "atun claro natural",
+        "caprabo": "2059806-alimentacion/2060015-conservas-de-pescado/2060018-atun-y-bonito-natural: atun claro natural"
       },
       "pinned": {
         "aldi": "despensa/conservas-de-pescado/547100",
         "bonpreu": "63001",
         "mercadona": "18018",
         "dia": "262439",
-        "consum": "25073"
+        "consum": "25073",
+        "caprabo": "21789656"
       }
     },
     {
@@ -235,13 +259,15 @@
         "bonpreu": "nou moscada molta",
         "aldi": "despensa/especias-y-condimentos: nuez moscada",
         "dia": "nuez moscada",
-        "consum": "nuez moscada"
+        "consum": "nuez moscada",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: nuez moscada"
       },
       "pinned": {
         "aldi": "despensa/especias-y-condimentos/601613500",
         "mercadona": "34173",
         "dia": "297207",
-        "consum": "35877"
+        "consum": "35877",
+        "caprabo": "308981"
       }
     },
     {
@@ -253,14 +279,16 @@
         "bonpreu": "margarina -lleugera",
         "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: margarina girasol",
         "dia": "margarina -ligera",
-        "consum": "margarina -ligera"
+        "consum": "margarina -ligera",
+        "caprabo": "2059806-alimentacion/2059851-mantequilla-nata-y-cremas/2059853-margarina: margarina -ligera"
       },
       "pinned": {
         "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/113000",
         "bonpreu": "87807",
         "mercadona": "20846",
         "dia": "55575",
-        "consum": "22664"
+        "consum": "22664",
+        "caprabo": "22516678"
       }
     },
     {
@@ -272,14 +300,16 @@
         "bonpreu": "truita patata",
         "aldi": "platos-preparados-y-pizza/platos-preparados-calientes: tortilla patata -preparado",
         "dia": "tortilla patata -chorizo -pincho -media -preparado",
-        "consum": "tortilla patata -chorizo -pincho -media -preparado"
+        "consum": "tortilla patata -chorizo -pincho -media -preparado",
+        "caprabo": "2059698-frescos/2059769-platos-preparados/6000931-tortillas: tortilla patata -chorizo -media -pincho"
       },
       "pinned": {
         "aldi": "platos-preparados-y-pizza/platos-preparados-calientes/601832200",
         "bonpreu": "24288",
         "mercadona": "80895",
         "dia": "262522",
-        "consum": "22986"
+        "consum": "22986",
+        "caprabo": "27019272"
       }
     },
     {
@@ -291,14 +321,16 @@
         "bonpreu": "oli refinat gira-sol -fregir",
         "aldi": "despensa/aceites-y-vinagres: aceite girasol",
         "dia": "aceite girasol",
-        "consum": "aceite girasol"
+        "consum": "aceite girasol",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059992-aceite-de-girasol: aceite girasol"
       },
       "pinned": {
         "aldi": "despensa/aceites-y-vinagres/111500",
         "bonpreu": "72143",
         "mercadona": "4041",
         "dia": "49894",
-        "consum": "15767"
+        "consum": "15767",
+        "caprabo": "322859"
       }
     },
     {
@@ -310,14 +342,16 @@
         "bonpreu": "vinagre balsamic modena -crema",
         "aldi": "despensa/aceites-y-vinagres: vinagre balsamico",
         "dia": "vinagre balsamico -crema",
-        "consum": "vinagre balsamico -crema"
+        "consum": "vinagre balsamico -crema",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059994-vinagres-especiales | 2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059995-vinagre: vinagre balsamico modena -crema"
       },
       "pinned": {
         "aldi": "despensa/aceites-y-vinagres/136400",
         "bonpreu": "80290",
         "mercadona": "26496",
         "dia": "106144",
-        "consum": "5685"
+        "consum": "5685",
+        "caprabo": "26204784"
       }
     },
     {
@@ -329,13 +363,15 @@
         "bonpreu": "suc llimona -llimonada -aigua",
         "aldi": "despensa/aceites-y-vinagres: zumo limon",
         "dia": "zumo limon",
-        "consum": "zumo limon -agua -kombucha -miel -limonada"
+        "consum": "zumo limon -agua -kombucha -miel -limonada",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059994-vinagres-especiales | 2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059995-vinagre | 2059806-alimentacion/2060056-salsas-y-especias/2060062-otras-salsas-frias | 2060211-bebidas/2060243-zumos-y-nectar/4000006-zumos-y-nectares: zumo limon"
       },
       "pinned": {
         "aldi": "despensa/aceites-y-vinagres/601494603",
         "bonpreu": "08907",
         "mercadona": "4903",
-        "consum": "6108"
+        "consum": "6108",
+        "caprabo": "23627474"
       }
     },
     {
@@ -347,14 +383,16 @@
         "bonpreu": "tovallons paper blancs",
         "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: servilletas",
         "dia": "servilletas -decoradas -cocktail",
-        "consum": "servilleta -decorada -cocktail"
+        "consum": "servilleta -decorada -cocktail",
+        "caprabo": "2060538-limpieza/2060597-papel-cocina-y-servilletas/2060599-servilletas-y-manteles: servilleta -decorada -cocktail"
       },
       "pinned": {
         "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa/410700",
         "bonpreu": "68635",
         "mercadona": "49544",
         "dia": "276692",
-        "consum": "6802"
+        "consum": "6802",
+        "caprabo": "8336265"
       }
     },
     {
@@ -366,14 +404,16 @@
         "bonpreu": "quefir natural",
         "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: kefir natural",
         "dia": "kefir natural",
-        "consum": "kefir natural 125"
+        "consum": "kefir natural 125",
+        "caprabo": "2059806-alimentacion/2059818-yogures/2059827-lcasei-y-probioticos | 2059806-alimentacion/2059818-yogures/2059829-salud-y-estetica | 2059806-alimentacion/2059818-yogures/2059822-yogur-ecologico-y-especiales | 2059806-alimentacion/2059818-yogures/2059826-yogur-liquido-y-otros: kefir"
       },
       "pinned": {
         "bonpreu": "67546",
         "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos/882601",
         "dia": "307309",
         "mercadona": "17927",
-        "consum": "45738"
+        "consum": "45738",
+        "caprabo": "23633118"
       }
     },
     {
@@ -385,14 +425,16 @@
         "bonpreu": "arros vaporitzat",
         "aldi": "despensa/arroz: arroz vaporizado",
         "dia": "arroz vaporizado",
-        "consum": "arroz vaporizado"
+        "consum": "arroz vaporizado",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060032-arroz: arroz vaporizado"
       },
       "pinned": {
         "aldi": "despensa/arroz/246500",
         "bonpreu": "14393",
         "mercadona": "5020",
         "dia": "28809",
-        "consum": "8731"
+        "consum": "8731",
+        "caprabo": "4374153"
       }
     },
     {
@@ -404,14 +446,16 @@
         "bonpreu": "mongetes blanques -cuites",
         "aldi": "despensa/legumbres-y-cereales: alubias blancas extra",
         "dia": "alubia blanca -cocida",
-        "consum": "alubia blanca -cocida"
+        "consum": "alubia blanca -cocida",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060030-legumbres: alubia blanca -cocida"
       },
       "pinned": {
         "aldi": "despensa/legumbres-y-cereales/500400",
         "bonpreu": "75912",
         "mercadona": "5124",
         "dia": "154",
-        "consum": "19630"
+        "consum": "19630",
+        "caprabo": "25946732"
       }
     },
     {
@@ -423,13 +467,15 @@
         "bonpreu": "iogurt liquid desnatat",
         "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur liquido",
         "dia": "yogur liquido",
-        "consum": "yogur liquido"
+        "consum": "yogur liquido",
+        "caprabo": "2059806-alimentacion/2059818-yogures/2059826-yogur-liquido-y-otros | 2059806-alimentacion/2059818-yogures/2059823-yogur-desnatado: yogur liquido"
       },
       "pinned": {
         "bonpreu": "87173",
         "mercadona": "15660",
         "dia": "306611",
-        "consum": "29541"
+        "consum": "29541",
+        "caprabo": "21812557"
       }
     },
     {
@@ -441,14 +487,16 @@
         "bonpreu": "mostassa dijon",
         "aldi": "despensa/tomates-y-salsas: mostaza dijon",
         "dia": "mostaza dijon",
-        "consum": "mostaza dijon"
+        "consum": "mostaza dijon",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060058-ketchup-y-mostaza: mostaza dijon"
       },
       "pinned": {
         "aldi": "despensa/tomates-y-salsas/256301",
         "mercadona": "17228",
         "dia": "139856",
         "consum": "4963",
-        "bonpreu": "02324"
+        "bonpreu": "02324",
+        "caprabo": "382226"
       }
     },
     {
@@ -460,13 +508,15 @@
         "bonpreu": "gingebre molt",
         "aldi": "despensa/especias-y-condimentos: jengibre -ecologico",
         "dia": "jengibre molido",
-        "consum": "jengibre molido"
+        "consum": "jengibre molido",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: jengibre"
       },
       "pinned": {
         "aldi": "despensa/especias-y-condimentos/601613200",
         "mercadona": "34149",
         "dia": "299135",
-        "bonpreu": "48893"
+        "bonpreu": "48893",
+        "caprabo": "27221647"
       }
     },
     {
@@ -478,14 +528,16 @@
         "bonpreu": "canyella molta",
         "aldi": "despensa/especias-y-condimentos: canela molida",
         "dia": "canela molida",
-        "consum": "canela molida -natillas"
+        "consum": "canela molida -natillas",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: canela molida"
       },
       "pinned": {
         "aldi": "despensa/especias-y-condimentos/125700",
         "mercadona": "34177",
         "dia": "299126",
         "consum": "35871",
-        "bonpreu": "18926"
+        "bonpreu": "18926",
+        "caprabo": "27221456"
       }
     },
     {
@@ -497,14 +549,16 @@
         "bonpreu": "formatge brie",
         "aldi": "quesos/queso-fresco-y-blando: queso brie",
         "dia": "queso brie",
-        "consum": "queso brie"
+        "consum": "queso brie",
+        "caprabo": "2059698-frescos/2059858-queso-y-membrillo/2059864-quesos-internacionales: queso brie"
       },
       "pinned": {
         "aldi": "quesos/queso-fresco-y-blando/740400",
         "mercadona": "50619",
         "dia": "11877",
         "consum": "7112",
-        "bonpreu": "48039"
+        "bonpreu": "48039",
+        "caprabo": "6818090"
       }
     },
     {
@@ -516,14 +570,16 @@
         "bonpreu": "llet evaporada -lactosa",
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales: leche evaporada",
         "dia": "leche evaporada",
-        "consum": "leche evaporada"
+        "consum": "leche evaporada",
+        "caprabo": "2059806-alimentacion/2059807-leche-batidos-y-bebidas-vegetales/2059817-leche-condensada | 2059806-alimentacion/2059807-leche-batidos-y-bebidas-vegetales/2059815-leche-sin-lactosa-y-especiales: leche evaporada"
       },
       "pinned": {
         "aldi": "lacteos-y-huevos/leche-y-bebidas-vegetales/828100",
         "mercadona": "15599",
         "dia": "163643",
         "consum": "6915",
-        "bonpreu": "81690"
+        "bonpreu": "81690",
+        "caprabo": "27682723"
       }
     },
     {
@@ -535,13 +591,15 @@
         "bonpreu": "patates -fregides -palla -xips -braves",
         "aldi": "fruta-y-verdura/verduras-y-hortalizas: patatas",
         "dia": "patatas -frita -congeladas -horno -guarnicion -vasos",
-        "consum": "patata -frita -congelada -horno -chips"
+        "consum": "patata -frita -congelada -horno -chips",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059711-patatas-y-zanahorias: patata malla -freir"
       },
       "pinned": {
         "dia": "296356",
         "consum": "10194",
         "aldi": "fruta-y-verdura/verduras-y-hortalizas/990900",
-        "bonpreu": "02473"
+        "bonpreu": "02473",
+        "caprabo": "7114903"
       }
     },
     {
@@ -553,14 +611,16 @@
         "bonpreu": "detergent liquid marsella -capsules",
         "aldi": "limpieza-y-hogar/cuidado-de-la-ropa: detergente marsella",
         "dia": "detergente liquido marsella",
-        "consum": "detergente liquido marsella"
+        "consum": "detergente liquido marsella",
+        "caprabo": "2060538-limpieza/2060539-detergente-jabon-y-suavizante/2060540-detergente-maquina-liquido: detergente marsella"
       },
       "pinned": {
         "aldi": "limpieza-y-hogar/cuidado-de-la-ropa/602140700",
         "mercadona": "86397",
         "dia": "273998",
         "consum": "45813",
-        "bonpreu": "74079"
+        "bonpreu": "74079",
+        "caprabo": "26886523"
       }
     },
     {
@@ -572,12 +632,14 @@
         "bonpreu": "cafe soluble capuccino",
         "aldi": "cafe-cacao-e-infusiones/cafe: cappuccino",
         "dia": "cappuccino -capsulas",
-        "consum": "capuccino -capsula"
+        "consum": "capuccino -capsula",
+        "caprabo": "2060118-dulces-y-desayuno/2060119-la-tienda-del-cafe/2060121-cafe-soluble: capuccino"
       },
       "pinned": {
         "aldi": "cafe-cacao-e-infusiones/cafe/411603",
         "mercadona": "23406",
-        "dia": "1533"
+        "dia": "1533",
+        "caprabo": "7124795"
       }
     },
     {
@@ -589,14 +651,16 @@
         "bonpreu": "salsitxes",
         "aldi": "charcuteria/bacon-y-salchichas: salchichas",
         "dia": "salchichas -queso",
-        "consum": "salchichas -queso"
+        "consum": "salchichas -queso",
+        "caprabo": "2059698-frescos/2059901-salchichas-pates-y-foie/2059902-salchichas-frankfurt | 2059698-frescos/2059901-salchichas-pates-y-foie/2059903-salchichas-viena: salchicha -queso"
       },
       "pinned": {
         "mercadona": "52096",
         "aldi": "charcuteria/bacon-y-salchichas/800800",
         "consum": "30171",
         "dia": "273442",
-        "bonpreu": "20315"
+        "bonpreu": "20315",
+        "caprabo": "17779620"
       }
     },
     {
@@ -608,12 +672,14 @@
         "bonpreu": "clau olor",
         "aldi": "despensa/especias-y-condimentos: clavo",
         "dia": "clavo -tomillo",
-        "consum": "clavo -tomillo"
+        "consum": "clavo -tomillo",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: clavo"
       },
       "pinned": {
         "dia": "178105",
         "mercadona": "34122",
-        "consum": "10591"
+        "consum": "10591",
+        "caprabo": "27221654"
       }
     },
     {
@@ -625,14 +691,16 @@
         "bonpreu": "canyella branca",
         "aldi": "despensa/especias-y-condimentos: canela rama",
         "dia": "canela rama",
-        "consum": "canela rama"
+        "consum": "canela rama",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: canela rama"
       },
       "pinned": {
         "dia": "299125",
         "mercadona": "52880",
         "aldi": "despensa/especias-y-condimentos/601612800",
         "consum": "39333",
-        "bonpreu": "80937"
+        "bonpreu": "80937",
+        "caprabo": "27221795"
       }
     },
     {
@@ -644,13 +712,15 @@
         "bonpreu": "comi",
         "aldi": "despensa/especias-y-condimentos: comino",
         "dia": "comino",
-        "consum": "comino"
+        "consum": "comino",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: comino"
       },
       "pinned": {
         "dia": "299132",
         "mercadona": "34120",
         "aldi": "despensa/especias-y-condimentos/897000",
-        "consum": "35872"
+        "consum": "35872",
+        "caprabo": "27221514"
       }
     },
     {
@@ -662,14 +732,16 @@
         "bonpreu": "pebre negre",
         "aldi": "despensa/especias-y-condimentos: pimienta negra -mousse -pato -pate",
         "dia": "pimienta negra -blanca -mezcla -mousse -pato -pate",
-        "consum": "pimienta negra -blanca -mezcla -mousse -pato -pate"
+        "consum": "pimienta negra -blanca -mezcla -mousse -pato -pate",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: pimienta negra -blanca -mezcla"
       },
       "pinned": {
         "dia": "299147",
         "mercadona": "34171",
         "aldi": "despensa/especias-y-condimentos/870700",
         "consum": "35918",
-        "bonpreu": "18978"
+        "bonpreu": "18978",
+        "caprabo": "27221464"
       }
     },
     {
@@ -681,14 +753,16 @@
         "bonpreu": "pebre vermell picant",
         "aldi": "despensa/especias-y-condimentos: pimenton picante",
         "dia": "pimenton picante",
-        "consum": "pimenton picante"
+        "consum": "pimenton picante",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: pimenton picante"
       },
       "pinned": {
         "dia": "297209",
         "mercadona": "34183",
         "aldi": "despensa/especias-y-condimentos/601613400",
         "consum": "39334",
-        "bonpreu": "62718"
+        "bonpreu": "62718",
+        "caprabo": "27015098"
       }
     },
     {
@@ -700,13 +774,15 @@
         "bonpreu": "coriandre",
         "aldi": "despensa/especias-y-condimentos: cilantro",
         "dia": "cilantro -fresco",
-        "consum": "cilantro -fresco"
+        "consum": "cilantro -fresco",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060065-perejil-y-oregano | 2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: cilantro"
       },
       "pinned": {
         "dia": "233088",
         "mercadona": "69690",
         "consum": "5398",
-        "bonpreu": "83042"
+        "bonpreu": "83042",
+        "caprabo": "14198048"
       }
     },
     {
@@ -718,14 +794,16 @@
         "bonpreu": "orenga",
         "aldi": "despensa/especias-y-condimentos: oregano -provolone -queso",
         "dia": "oregano -provolone -queso",
-        "consum": "oregano -provolone -queso"
+        "consum": "oregano -provolone -queso",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060065-perejil-y-oregano | 2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: oregano"
       },
       "pinned": {
         "dia": "1293",
         "mercadona": "5598",
         "aldi": "despensa/especias-y-condimentos/600719200",
         "consum": "35919",
-        "bonpreu": "05867"
+        "bonpreu": "05867",
+        "caprabo": "27221423"
       }
     },
     {
@@ -737,12 +815,14 @@
         "bonpreu": "all pols",
         "aldi": "despensa/especias-y-condimentos: ajo polvo",
         "dia": "ajo polvo",
-        "consum": "ajo polvo"
+        "consum": "ajo polvo",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: ajo -perejil"
       },
       "pinned": {
         "dia": "299121",
         "mercadona": "86656",
-        "aldi": "despensa/especias-y-condimentos/118800"
+        "aldi": "despensa/especias-y-condimentos/118800",
+        "caprabo": "27221415"
       }
     },
     {
@@ -754,13 +834,15 @@
         "bonpreu": "romani",
         "aldi": "despensa/especias-y-condimentos: romero -focaccia -crackers -pan -miel -queso",
         "dia": "romero -focaccia -crackers -pan -miel -queso",
-        "consum": "romero -focaccia -crackers -pan -miel -queso"
+        "consum": "romero -focaccia -crackers -pan -miel -queso",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060065-perejil-y-oregano | 2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: romero"
       },
       "pinned": {
         "dia": "305818",
         "mercadona": "14981",
         "consum": "35874",
-        "bonpreu": "36311"
+        "bonpreu": "36311",
+        "caprabo": "309104"
       }
     },
     {
@@ -772,14 +854,16 @@
         "bonpreu": "mel flors",
         "aldi": "desayuno/miel-y-sirope: miel flores",
         "dia": "miel flores",
-        "consum": "miel flores"
+        "consum": "miel flores",
+        "caprabo": "2060118-dulces-y-desayuno/2060173-miel-y-mermelada/2060179-miel-milflores: miel flores"
       },
       "pinned": {
         "dia": "297",
         "mercadona": "15436",
         "aldi": "desayuno/miel-y-sirope/600985400",
         "consum": "33522",
-        "bonpreu": "79510"
+        "bonpreu": "79510",
+        "caprabo": "27073980"
       }
     },
     {
@@ -791,11 +875,13 @@
         "bonpreu": "oli sesam",
         "aldi": "despensa/aceites-y-vinagres: aceite sesamo",
         "dia": "aceite sesamo",
-        "consum": "aceite sesamo"
+        "consum": "aceite sesamo",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059993-otros-aceites | 2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059989-aceite-de-oliva-virgen: aceite sesamo"
       },
       "pinned": {
         "consum": "31832",
-        "bonpreu": "29177"
+        "bonpreu": "29177",
+        "caprabo": "25272618"
       }
     },
     {
@@ -807,14 +893,16 @@
         "bonpreu": "salsa soja",
         "aldi": "despensa/tomates-y-salsas: salsa soja",
         "dia": "salsa soja",
-        "consum": "salsa soja"
+        "consum": "salsa soja",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060059-salsa-de-soja-picantes-y-otras: salsa soja"
       },
       "pinned": {
         "dia": "287019",
         "mercadona": "17360",
         "aldi": "despensa/tomates-y-salsas/481500",
         "consum": "45744",
-        "bonpreu": "21086"
+        "bonpreu": "21086",
+        "caprabo": "19511138"
       }
     },
     {
@@ -826,13 +914,15 @@
         "bonpreu": "all -pols -negre -julivert -salsa -oli",
         "aldi": "fruta-y-verdura/verduras-y-hortalizas: ajo -troceado -baguette -tierno",
         "dia": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado -baguette -tierno",
-        "consum": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado -baguette -tierno"
+        "consum": "ajo -polvo -granulado -picado -negro -perejil -salsa -aceite -sopa -mayonesa -troceado -baguette -tierno",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059712-ajos-y-cebollas: ajo -tierno -picado -negro"
       },
       "pinned": {
         "dia": "15437",
         "mercadona": "69297",
         "consum": "5251",
-        "bonpreu": "01200"
+        "bonpreu": "01200",
+        "caprabo": "15380470"
       }
     },
     {
@@ -844,12 +934,14 @@
         "bonpreu": "espaguetis -integrals",
         "aldi": "despensa/pasta: espagueti -integral -soja -ecologico",
         "dia": "espagueti -integral -sin -soja -ecologico",
-        "consum": "spaghetti -integral -soja -ecologico"
+        "consum": "spaghetti -integral -soja -ecologico",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060033-espagueti-tallarines-y-pasta-larga: spaguetti -huevo -tinta -integral"
       },
       "pinned": {
         "dia": "52208",
         "consum": "8529",
-        "bonpreu": "78267"
+        "bonpreu": "78267",
+        "caprabo": "70565"
       }
     },
     {
@@ -861,14 +953,16 @@
         "bonpreu": "fideus -integrals",
         "aldi": "despensa/pasta: fideo",
         "dia": "fideo -integral -oriental -arroz -sopa",
-        "consum": "fideo -integral -oriental -arroz -sopa"
+        "consum": "fideo -integral -oriental -arroz -sopa",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060036-fideos-y-pasta-sopa: fideo -integral -oriental -sopa"
       },
       "pinned": {
         "dia": "515",
         "mercadona": "13577",
         "aldi": "despensa/pasta/601230300",
         "consum": "5752",
-        "bonpreu": "29736"
+        "bonpreu": "29736",
+        "caprabo": "349167"
       }
     },
     {
@@ -880,14 +974,16 @@
         "bonpreu": "flocs civada -xocolata",
         "aldi": "desayuno/cereales: copos avena",
         "dia": "copos avena -chocolate -galleta",
-        "consum": "copos avena -chocolate -galleta"
+        "consum": "copos avena -chocolate -galleta",
+        "caprabo": "2060118-dulces-y-desayuno/5000189-cereales-y-barritas/2060148-cereales-fibra-linea-y-muesli: copos avena -chocolate"
       },
       "pinned": {
         "dia": "105429",
         "mercadona": "86341",
         "aldi": "desayuno/cereales/601491500",
         "consum": "33872",
-        "bonpreu": "07381"
+        "bonpreu": "07381",
+        "caprabo": "26747618"
       }
     },
     {
@@ -899,14 +995,16 @@
         "bonpreu": "llenties -cuites",
         "aldi": "despensa/legumbres-y-cereales: lentejas -cocidas",
         "dia": "lenteja -cocida -guisada -tarro -crema",
-        "consum": "lenteja -cocida -guisada -tarro -crema"
+        "consum": "lenteja -cocida -guisada -tarro -crema",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060030-legumbres: lenteja -cocida"
       },
       "pinned": {
         "dia": "158",
         "mercadona": "5330",
         "aldi": "despensa/legumbres-y-cereales/500200",
         "consum": "31696",
-        "bonpreu": "30064"
+        "bonpreu": "30064",
+        "caprabo": "25948399"
       }
     },
     {
@@ -918,12 +1016,14 @@
         "bonpreu": "camamilla -xampu",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: manzanilla",
         "dia": "manzanilla -aceituna -oliva -vino -champu -anchoa -relleno -gel",
-        "consum": "manzanilla -aceituna -oliva -vino -champu -anchoa -relleno -gel"
+        "consum": "manzanilla -aceituna -oliva -vino -champu -anchoa -relleno -gel",
+        "caprabo": "2060118-dulces-y-desayuno/4000095-infusiones/2060126-manzanilla: manzanilla"
       },
       "pinned": {
         "dia": "1527",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones/420000",
-        "consum": "25419"
+        "consum": "25419",
+        "caprabo": "19729466"
       }
     },
     {
@@ -935,9 +1035,12 @@
         "bonpreu": "infusio poma canyella",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: manzana canela",
         "dia": "infusion manzana canela",
-        "consum": "infusion manzana canela"
+        "consum": "infusion manzana canela",
+        "caprabo": "2060118-dulces-y-desayuno/4000095-infusiones/2060128-infusiones-saludables | 2060118-dulces-y-desayuno/4000095-infusiones/2060125-te: infusion manzana canela"
       },
-      "pinned": {}
+      "pinned": {
+        "caprabo": "11026531"
+      }
     },
     {
       "id": "poleo-menta",
@@ -948,11 +1051,13 @@
         "bonpreu": "poliol menta",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: poleo",
         "dia": "poleo menta",
-        "consum": "poleo menta"
+        "consum": "poleo menta",
+        "caprabo": "2060118-dulces-y-desayuno/4000095-infusiones/2060127-tila-y-poleo: poleo menta"
       },
       "pinned": {
         "dia": "295421",
-        "consum": "25420"
+        "consum": "25420",
+        "caprabo": "19729490"
       }
     },
     {
@@ -964,11 +1069,13 @@
         "bonpreu": "til la",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: tila",
         "dia": "tila -tilapia",
-        "consum": "tila -tilapia"
+        "consum": "tila -tilapia",
+        "caprabo": "2060118-dulces-y-desayuno/4000095-infusiones/2060127-tila-y-poleo: tila"
       },
       "pinned": {
         "dia": "295467",
-        "consum": "25243"
+        "consum": "25243",
+        "caprabo": "19729474"
       }
     },
     {
@@ -980,12 +1087,14 @@
         "bonpreu": "te verd -beguda",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: te verde",
         "dia": "te verde -matcha -bebida",
-        "consum": "te verde -matcha -bebida"
+        "consum": "te verde -matcha -bebida",
+        "caprabo": "2060118-dulces-y-desayuno/4000095-infusiones/2060125-te: te verde"
       },
       "pinned": {
         "dia": "295425",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones/421903",
-        "consum": "25127"
+        "consum": "25127",
+        "caprabo": "5954227"
       }
     },
     {
@@ -997,10 +1106,12 @@
         "bonpreu": "rooibos",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: rooibos",
         "dia": "rooibos",
-        "consum": "rooibos"
+        "consum": "rooibos",
+        "caprabo": "2060118-dulces-y-desayuno/4000095-infusiones/2060125-te | 2060118-dulces-y-desayuno/4000095-infusiones/2060128-infusiones-saludables: rooibos"
       },
       "pinned": {
-        "consum": "35475"
+        "consum": "35475",
+        "caprabo": "25951252"
       }
     },
     {
@@ -1012,9 +1123,12 @@
         "bonpreu": "infusio fruits vermells",
         "aldi": "cafe-cacao-e-infusiones/tes-e-infusiones: frutos rojos",
         "dia": "infusion frutos rojos",
-        "consum": "infusion frutos rojos"
+        "consum": "infusion frutos rojos",
+        "caprabo": "2060118-dulces-y-desayuno/4000095-infusiones/2060128-infusiones-saludables | 2060118-dulces-y-desayuno/4000095-infusiones/2060125-te: frutos rojos"
       },
-      "pinned": {}
+      "pinned": {
+        "caprabo": "26220699"
+      }
     },
     {
       "id": "maiz-palomitas",
@@ -1025,13 +1139,15 @@
         "bonpreu": "blat moro crispetes -microones",
         "aldi": "aperitivos/patatas-fritas-y-snacks: maiz palomitas",
         "dia": "maiz palomitas -microondas -caramelo",
-        "consum": "maiz palomitas -microondas -caramelo"
+        "consum": "maiz palomitas -microondas -caramelo",
+        "caprabo": "2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060080-cacahuetesmaiz-y-coktail | 2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060094-snack-y-otros-aperitivos: maiz palomitas -microondas"
       },
       "pinned": {
         "dia": "4670",
         "mercadona": "14347",
         "consum": "5725",
-        "bonpreu": "60734"
+        "bonpreu": "60734",
+        "caprabo": "25616483"
       }
     },
     {
@@ -1043,12 +1159,14 @@
         "bonpreu": "chia -pa -iogurt -beguda",
         "aldi": "aperitivos/frutos-secos-y-semillas: chia -arroz -muesli",
         "dia": "chia -pan -yogur -bebida -galleta -arroz -muesli",
-        "consum": "chia -pan -yogur -bebida -galleta -arroz -muesli"
+        "consum": "chia -pan -yogur -bebida -galleta -arroz -muesli",
+        "caprabo": "2059806-alimentacion/5000365-productos-de-dietetica/5000387-superalimentos | 2059806-alimentacion/5000364-productos-ecologicos/5000370-arroces-semillas-y-legumbres-eco: chia"
       },
       "pinned": {
         "dia": "284861",
         "mercadona": "24561",
-        "consum": "35667"
+        "consum": "35667",
+        "caprabo": "23157563"
       }
     },
     {
@@ -1060,13 +1178,15 @@
         "bonpreu": "sesam -oli -pa -galeta",
         "aldi": "aperitivos/frutos-secos-y-semillas: sesamo -aceite -crackers -fibra -hogaza -grissini",
         "dia": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza -grissini",
-        "consum": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza -grissini"
+        "consum": "sesamo -aceite -pan -galleta -barrita -tostada -pico -crackers -fibra -hogaza -grissini",
+        "caprabo": "2059806-alimentacion/5000365-productos-de-dietetica/5000387-superalimentos | 2059806-alimentacion/5000364-productos-ecologicos/5000370-arroces-semillas-y-legumbres-eco | 2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: sesamo"
       },
       "pinned": {
         "dia": "284859",
         "mercadona": "34964",
         "consum": "39675",
-        "bonpreu": "85325"
+        "bonpreu": "85325",
+        "caprabo": "16074858"
       }
     },
     {
@@ -1078,7 +1198,8 @@
         "bonpreu": "mongeta vermella -cuita",
         "aldi": "despensa/legumbres-y-cereales: alubias rojas -cocidas",
         "dia": "alubia roja -cocida",
-        "consum": "alubia roja -cocida"
+        "consum": "alubia roja -cocida",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060030-legumbres: alubia roja -cocida"
       },
       "pinned": {
         "mercadona": "67609",
@@ -1094,12 +1215,14 @@
         "bonpreu": "mongeta pinta -cuita",
         "aldi": "despensa/legumbres-y-cereales: alubias pintas -cocidas",
         "dia": "alubia pinta -cocida",
-        "consum": "alubia pinta -cocida"
+        "consum": "alubia pinta -cocida",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060030-legumbres: alubia pinta -cocida"
       },
       "pinned": {
         "dia": "156",
         "mercadona": "23453",
-        "consum": "19522"
+        "consum": "19522",
+        "caprabo": "26016709"
       }
     },
     {
@@ -1111,11 +1234,13 @@
         "bonpreu": "mongeta negra -cuita",
         "aldi": "despensa/legumbres-y-cereales: alubias negras -cocidas",
         "dia": "alubia negra -cocida",
-        "consum": "alubia negra -cocida"
+        "consum": "alubia negra -cocida",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060030-legumbres: alubia negrita -cocida"
       },
       "pinned": {
         "dia": "61318",
-        "mercadona": "67608"
+        "mercadona": "67608",
+        "caprabo": "14708085"
       }
     },
     {
@@ -1127,14 +1252,16 @@
         "bonpreu": "pernil iberic -espatlla -peca",
         "aldi": "charcuteria/embutidos-curados: jamon iberico -paleta",
         "dia": "jamon cebo iberico -paleta -pieza",
-        "consum": "jamon cebo iberico -pieza -paleta"
+        "consum": "jamon cebo iberico -pieza -paleta",
+        "caprabo": "2059698-frescos/2059894-ibericos/2059895-jamon-iberico: jamon cebo iberico"
       },
       "pinned": {
         "dia": "274057",
         "mercadona": "17798",
         "aldi": "charcuteria/embutidos-curados/601113700",
         "consum": "46902",
-        "bonpreu": "54730"
+        "bonpreu": "54730",
+        "caprabo": "23053408"
       }
     },
     {
@@ -1146,14 +1273,16 @@
         "bonpreu": "tomaquet fregit -sucre",
         "aldi": "despensa/tomates-y-salsas: tomate frito -azucar",
         "dia": "tomate frito -azucar -picante",
-        "consum": "tomate frito -azucar -picante"
+        "consum": "tomate frito -azucar -picante",
+        "caprabo": "2059806-alimentacion/2060001-conservas-vegetales/2060002-tomate-frito: tomate frito -azucar -picante"
       },
       "pinned": {
         "dia": "128657",
         "mercadona": "17132",
         "aldi": "despensa/tomates-y-salsas/506400",
         "consum": "15650",
-        "bonpreu": "01872"
+        "bonpreu": "01872",
+        "caprabo": "12771838"
       }
     },
     {
@@ -1165,9 +1294,12 @@
         "bonpreu": "ketchup sense sucre",
         "aldi": "despensa/tomates-y-salsas: ketchup sin azucar",
         "dia": "ketchup sin azucar",
-        "consum": "ketchup sin azucar"
+        "consum": "ketchup sin azucar",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060058-ketchup-y-mostaza: ketchup sin azucar"
       },
-      "pinned": {}
+      "pinned": {
+        "caprabo": "25589862"
+      }
     },
     {
       "id": "tomate",
@@ -1178,12 +1310,14 @@
         "bonpreu": "tomaquet amanida",
         "aldi": "fruta-y-verdura/verduras-y-hortalizas: tomate -cherry",
         "dia": "tomate ensalada",
-        "consum": "tomate ensalada"
+        "consum": "tomate ensalada",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059714-tomates-y-pimientos: tomate bola"
       },
       "pinned": {
         "dia": "110",
         "mercadona": "69937",
-        "consum": "4703"
+        "consum": "4703",
+        "caprabo": "17506619"
       }
     },
     {
@@ -1195,14 +1329,16 @@
         "bonpreu": "pastanaga -ratllada -suc",
         "aldi": "fruta-y-verdura/verduras-y-hortalizas: zanahoria",
         "dia": "zanahoria -rallada -baby -zumo -bebida -tarta",
-        "consum": "zanahoria -rallada -baby -zumo -bebida -tarta"
+        "consum": "zanahoria -rallada -baby -zumo -bebida -tarta",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059711-patatas-y-zanahorias: zanahoria"
       },
       "pinned": {
         "dia": "11421",
         "mercadona": "69586",
         "aldi": "fruta-y-verdura/verduras-y-hortalizas/981900",
         "consum": "5321",
-        "bonpreu": "07304"
+        "bonpreu": "07304",
+        "caprabo": "4501508"
       }
     },
     {
@@ -1214,7 +1350,8 @@
         "bonpreu": "enciam iceberg",
         "aldi": "fruta-y-verdura/lechuga-y-ensaladas: lechuga iceberg",
         "dia": "lechuga iceberg",
-        "consum": "lechuga iceberg"
+        "consum": "lechuga iceberg",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059716-lechuga-pepino-y-otros: lechuga iceberg"
       },
       "pinned": {
         "dia": "272828",
@@ -1232,13 +1369,15 @@
         "bonpreu": "carbasso -crema -espiral",
         "aldi": "fruta-y-verdura/verduras-y-hortalizas: calabacin",
         "dia": "calabacin -crema -espiral -tortilla -pure",
-        "consum": "calabacin -crema -espiral -tortilla -pure"
+        "consum": "calabacin -crema -espiral -tortilla -pure",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059717-berenjena-calabaza-y-calabacin: calabacin"
       },
       "pinned": {
         "dia": "93",
         "mercadona": "69338",
         "consum": "5355",
-        "bonpreu": "07315"
+        "bonpreu": "07315",
+        "caprabo": "26794016"
       }
     },
     {
@@ -1250,13 +1389,15 @@
         "bonpreu": "raim -pansa -suc",
         "aldi": "fruta-y-verdura/fruta: uva",
         "dia": "uva -pasa -zumo -mosto -gominola",
-        "consum": "uva -pasa -zumo -mosto -gominola"
+        "consum": "uva -pasa -zumo -mosto -gominola",
+        "caprabo": "2059698-frescos/2059699-frutas/2059706-ciruelas-y-uvas: uva"
       },
       "pinned": {
         "dia": "193538",
         "mercadona": "3321",
         "consum": "14336",
-        "bonpreu": "03945"
+        "bonpreu": "03945",
+        "caprabo": "12523650"
       }
     },
     {
@@ -1268,14 +1409,16 @@
         "bonpreu": "mandarina -suc",
         "aldi": "fruta-y-verdura/fruta: mandarina",
         "dia": "mandarina -zumo -gajos -yogur",
-        "consum": "mandarina -zumo -gajos -yogur"
+        "consum": "mandarina -zumo -gajos -yogur",
+        "caprabo": "2059698-frescos/2059699-frutas/2059700-naranjas-y-otros-citricos: mandarina"
       },
       "pinned": {
         "dia": "11464",
         "mercadona": "3238",
         "aldi": "fruta-y-verdura/fruta/991000",
         "consum": "33196",
-        "bonpreu": "09910"
+        "bonpreu": "09910",
+        "caprabo": "6155"
       }
     },
     {
@@ -1287,14 +1430,16 @@
         "bonpreu": "llima -suc -llimona -beguda",
         "aldi": "fruta-y-verdura/fruta: lima",
         "dia": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor",
-        "consum": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor"
+        "consum": "lima -zumo -limon -refresco -bebida -yogur -galleta -sabor",
+        "caprabo": "2059698-frescos/2059699-frutas/2059700-naranjas-y-otros-citricos: lima"
       },
       "pinned": {
         "dia": "244559",
         "mercadona": "3897",
         "aldi": "fruta-y-verdura/fruta/215200",
         "consum": "6791",
-        "bonpreu": "08870"
+        "bonpreu": "08870",
+        "caprabo": "56515"
       }
     },
     {
@@ -1306,14 +1451,16 @@
         "bonpreu": "pera -suc -tomaquet -compota",
         "aldi": "fruta-y-verdura/fruta: pera",
         "dia": "pera -zumo -tomate -compota -cuajada -yogur",
-        "consum": "pera -zumo -tomate -compota -cuajada -yogur"
+        "consum": "pera -zumo -tomate -compota -cuajada -yogur",
+        "caprabo": "2059698-frescos/2059699-frutas/2059701-manzanas-y-peras: pera"
       },
       "pinned": {
         "dia": "159310",
         "mercadona": "14470",
         "aldi": "fruta-y-verdura/fruta/984700",
         "consum": "4683",
-        "bonpreu": "90670"
+        "bonpreu": "90670",
+        "caprabo": "17533"
       }
     },
     {
@@ -1325,14 +1472,16 @@
         "bonpreu": "poma -suc -compota -infusio",
         "aldi": "fruta-y-verdura/fruta: manzana",
         "dia": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips",
-        "consum": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips"
+        "consum": "manzana -zumo -compota -infusion -tarta -canela -vinagre -sidra -yogur -chips",
+        "caprabo": "2059698-frescos/2059699-frutas/2059701-manzanas-y-peras: manzana"
       },
       "pinned": {
         "dia": "171233",
         "mercadona": "8280",
         "aldi": "fruta-y-verdura/fruta/43000",
         "consum": "47145",
-        "bonpreu": "49235"
+        "bonpreu": "49235",
+        "caprabo": "24918351"
       }
     },
     {
@@ -1344,13 +1493,15 @@
         "bonpreu": "platan -xips -batut -suc",
         "aldi": "fruta-y-verdura/fruta: platano -casei -bebida -freir",
         "dia": "platano -chips -batido -zumo -macho -yogur -casei -bebida -freir",
-        "consum": "platano -chips -batido -zumo -macho -yogur -casei -bebida -freir"
+        "consum": "platano -chips -batido -zumo -macho -yogur -casei -bebida -freir",
+        "caprabo": "2059698-frescos/2059699-frutas/2059702-platanos-y-kiwis: platano -macho"
       },
       "pinned": {
         "dia": "11468",
         "mercadona": "3819",
         "consum": "4687",
-        "bonpreu": "07722"
+        "bonpreu": "07722",
+        "caprabo": "12069175"
       }
     },
     {
@@ -1362,14 +1513,16 @@
         "bonpreu": "guacamole",
         "aldi": "platos-preparados-y-pizza/salsas-dips-y-untables: guacamole",
         "dia": "guacamole -nachos",
-        "consum": "guacamole -nachos"
+        "consum": "guacamole -nachos",
+        "caprabo": "2059698-frescos/2059901-salchichas-pates-y-foie/4000109-salsas-refrigeradas | 2059806-alimentacion/2060042-platos-preparados/2060051-comida-mejicana | 2059806-alimentacion/4000017-comida-internacional/4000018-comida-mexicana: guacamole"
       },
       "pinned": {
         "dia": "289183",
         "mercadona": "3840",
         "aldi": "platos-preparados-y-pizza/salsas-dips-y-untables/298802",
         "consum": "24230",
-        "bonpreu": "75594"
+        "bonpreu": "75594",
+        "caprabo": "6686711"
       }
     },
     {
@@ -1381,13 +1534,15 @@
         "bonpreu": "mantega -cacauet -galeta",
         "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: mantequilla -pan -brioche -ligera -rosquilla -ecologica",
         "dia": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera -rosquilla -ecologica",
-        "consum": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera -rosquilla -ecologica"
+        "consum": "mantequilla -galleta -croissant -sabor -cacahuete -palomitas -bizcocho -pan -brioche -ligera -rosquilla -ecologica",
+        "caprabo": "2059806-alimentacion/2059851-mantequilla-nata-y-cremas/2059852-mantequilla: mantequilla -ligera -sabor"
       },
       "pinned": {
         "dia": "268201",
         "mercadona": "20722",
         "consum": "6163",
-        "bonpreu": "10647"
+        "bonpreu": "10647",
+        "caprabo": "15636475"
       }
     },
     {
@@ -1399,7 +1554,8 @@
         "bonpreu": "suc llima",
         "aldi": "despensa/aceites-y-vinagres: zumo lima -mango",
         "dia": "zumo lima -mango",
-        "consum": "zumo lima -mango"
+        "consum": "zumo lima -mango",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059994-vinagres-especiales | 2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059995-vinagre | 2059806-alimentacion/2060056-salsas-y-especias/2060062-otras-salsas-frias | 2060211-bebidas/2060243-zumos-y-nectar/4000006-zumos-y-nectares: zumo lima"
       },
       "pinned": {
         "aldi": "despensa/aceites-y-vinagres/601494604",
@@ -1415,9 +1571,12 @@
         "bonpreu": "maionesa light",
         "aldi": "despensa/tomates-y-salsas: mayonesa light",
         "dia": "mayonesa light",
-        "consum": "mayonesa light"
+        "consum": "mayonesa light",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060057-mayonesa: salsa ligera"
       },
-      "pinned": {}
+      "pinned": {
+        "caprabo": "26144147"
+      }
     },
     {
       "id": "mostaza",
@@ -1428,13 +1587,15 @@
         "bonpreu": "mostassa -dijon -mel -antiga",
         "aldi": "despensa/tomates-y-salsas: mostaza -dijon -antigua",
         "dia": "mostaza -dijon -miel -antigua",
-        "consum": "mostaza -dijon -miel -antigua"
+        "consum": "mostaza -dijon -miel -antigua",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060058-ketchup-y-mostaza: mostaza -dijon -miel -antigua"
       },
       "pinned": {
         "dia": "56586",
         "mercadona": "23410",
         "consum": "18816",
-        "bonpreu": "27121"
+        "bonpreu": "27121",
+        "caprabo": "24157844"
       }
     },
     {
@@ -1446,13 +1607,15 @@
         "bonpreu": "salsa barbacoa",
         "aldi": "despensa/tomates-y-salsas: barbacoa",
         "dia": "salsa barbacoa",
-        "consum": "salsa barbacoa"
+        "consum": "salsa barbacoa",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060061-salsa-rosa-brava-y-barbacoa: salsa barbacoa"
       },
       "pinned": {
         "dia": "79155",
         "mercadona": "17346",
         "consum": "34982",
-        "bonpreu": "88768"
+        "bonpreu": "88768",
+        "caprabo": "25557208"
       }
     },
     {
@@ -1464,13 +1627,15 @@
         "bonpreu": "rentavaixelles ma",
         "aldi": "limpieza-y-hogar/lavavajillas: lavavajillas mano",
         "dia": "lavavajillas mano -maquina -pastilla -capsula",
-        "consum": "lavavajillas mano -maquina -pastilla -capsula"
+        "consum": "lavavajillas mano -maquina -pastilla -capsula",
+        "caprabo": "2060538-limpieza/2060564-lavavajillas/2060565-lavavajillas-mano: lavavajillas"
       },
       "pinned": {
         "dia": "298236",
         "mercadona": "42441",
         "aldi": "limpieza-y-hogar/lavavajillas/601226000",
-        "consum": "33328"
+        "consum": "33328",
+        "caprabo": "26264739"
       }
     },
     {
@@ -1482,13 +1647,15 @@
         "bonpreu": "bossa escombraries",
         "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas basura -perfumada -bano -mini -5l -cubo",
         "dia": "bolsa basura -perfumada -bano -mini -5l -cubo",
-        "consum": "bolsa basura -perfumada -bano -mini -5l -cubo"
+        "consum": "bolsa basura -perfumada -bano -mini -5l -cubo",
+        "caprabo": "2060538-limpieza/2060606-bolsas-de-basura/2060608-bolsas-30-l | 2060538-limpieza/2060606-bolsas-de-basura/2060609-bolsas-50-l: bolsa basura -perfumada"
       },
       "pinned": {
         "dia": "269323",
         "mercadona": "14466",
         "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601731100",
-        "consum": "14564"
+        "consum": "14564",
+        "caprabo": "25325010"
       }
     },
     {
@@ -1500,7 +1667,8 @@
         "bonpreu": "bossa reutilitzable",
         "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsa reutilizable -congelacion -zip -multiusos",
         "dia": "bolsa reutilizable -congelacion -zip -multiusos",
-        "consum": "bolsa reutilizable -congelacion -zip -multiusos"
+        "consum": "bolsa reutilizable -congelacion -zip -multiusos",
+        "caprabo": "2060538-limpieza/2060601-conservacion-alimentos/2060604-bolsas-de-conservacion: bolsa reutilizable"
       },
       "pinned": {}
     },
@@ -1513,9 +1681,12 @@
         "bonpreu": "bossa tancament",
         "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: bolsas cierre",
         "dia": "bolsa cierre -basura",
-        "consum": "bolsa cierre -basura"
+        "consum": "bolsa cierre -basura",
+        "caprabo": "2060538-limpieza/2060601-conservacion-alimentos/2060604-bolsas-de-conservacion: bolsa cierre"
       },
-      "pinned": {}
+      "pinned": {
+        "caprabo": "27197656"
+      }
     },
     {
       "id": "film",
@@ -1526,13 +1697,15 @@
         "bonpreu": "film transparent",
         "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: film",
         "dia": "film transparente",
-        "consum": "film transparente"
+        "consum": "film transparente",
+        "caprabo": "2060538-limpieza/2060601-conservacion-alimentos/2060603-film: film"
       },
       "pinned": {
         "dia": "310020",
         "mercadona": "60294",
         "consum": "23552",
-        "bonpreu": "86704"
+        "bonpreu": "86704",
+        "caprabo": "24728230"
       }
     },
     {
@@ -1544,13 +1717,15 @@
         "bonpreu": "paper alumini -safata",
         "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion: aluminio -bandeja",
         "dia": "papel aluminio -bandeja -recipiente",
-        "consum": "papel aluminio -bandeja -recipiente"
+        "consum": "papel aluminio -bandeja -recipiente",
+        "caprabo": "2060538-limpieza/2060601-conservacion-alimentos/2060602-aluminio: aluminio -bandeja -recipiente"
       },
       "pinned": {
         "dia": "269324",
         "mercadona": "49000",
         "aldi": "limpieza-y-hogar/bolsas-de-basura-conservacion-y-preparacion/601307700",
-        "bonpreu": "86650"
+        "bonpreu": "86650",
+        "caprabo": "26399204"
       }
     },
     {
@@ -1562,14 +1737,16 @@
         "bonpreu": "baieta -microfibra",
         "aldi": "limpieza-y-hogar/utensilios-de-limpieza: bayeta",
         "dia": "bayeta -microfibra -rollo",
-        "consum": "bayeta -microfibra -rollo"
+        "consum": "bayeta -microfibra -rollo",
+        "caprabo": "2060538-limpieza/2060572-utiles-limpieza/2060575-bayetas-: bayeta -microfibra -rollo"
       },
       "pinned": {
         "dia": "288573",
         "mercadona": "71044",
         "aldi": "limpieza-y-hogar/utensilios-de-limpieza/601307300",
         "consum": "7224",
-        "bonpreu": "72520"
+        "bonpreu": "72520",
+        "caprabo": "15933492"
       }
     },
     {
@@ -1581,10 +1758,12 @@
         "bonpreu": "baieta rotlle",
         "aldi": "limpieza-y-hogar/utensilios-de-limpieza: bayeta rollo",
         "dia": "bayeta rollo",
-        "consum": "bayeta rollo"
+        "consum": "bayeta rollo",
+        "caprabo": "2060538-limpieza/2060572-utiles-limpieza/2060575-bayetas-: bayeta rollo"
       },
       "pinned": {
-        "consum": "7169"
+        "consum": "7169",
+        "caprabo": "26335141"
       }
     },
     {
@@ -1596,12 +1775,14 @@
         "bonpreu": "paper cuina -alumini -forn",
         "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: papel cocina -gigante",
         "dia": "papel cocina -aluminio -horno -vegetal -gigante",
-        "consum": "papel cocina -aluminio -horno -vegetal -gigante"
+        "consum": "papel cocina -aluminio -horno -vegetal -gigante",
+        "caprabo": "2060538-limpieza/2060597-papel-cocina-y-servilletas/2060598-papel-cocina: papel cocina"
       },
       "pinned": {
         "dia": "292546",
         "consum": "6809",
-        "bonpreu": "34548"
+        "bonpreu": "34548",
+        "caprabo": "14335889"
       }
     },
     {
@@ -1613,11 +1794,13 @@
         "bonpreu": "paper higienic -humit",
         "aldi": "limpieza-y-hogar/papel-higienico-y-celulosa: papel higienico -humedo",
         "dia": "papel higienico -humedo",
-        "consum": "papel higienico -humedo"
+        "consum": "papel higienico -humedo",
+        "caprabo": "2060538-limpieza/2060592-papel-higienico-y-panuelos/2060593-papel-higienico: papel higienico -humedo"
       },
       "pinned": {
         "dia": "276676",
-        "mercadona": "47835"
+        "mercadona": "47835",
+        "caprabo": "10512"
       }
     },
     {
@@ -1629,11 +1812,13 @@
         "bonpreu": "hamburguesa vedella -pollastre -porc",
         "dia": "hamburguesa vacuno -pollo -cerdo -vegetal -pan -mixta",
         "consum": "hamburguesa vacuno -pollo -cerdo -vegetal -pan -mixta",
-        "aldi": "carne/hamburguesas-y-carne-picada: hamburguesa vacuno -cerdo -pollo"
+        "aldi": "carne/hamburguesas-y-carne-picada: hamburguesa vacuno -cerdo -pollo",
+        "caprabo": "2059698-frescos/2059746-carnes-y-aves/2059755-carne-picada-y-hamburguesas: hamburguesa vacuno -pollo -cerdo"
       },
       "pinned": {
         "mercadona": "35884",
-        "bonpreu": "76353"
+        "bonpreu": "76353",
+        "caprabo": "27008697"
       }
     },
     {
@@ -1645,12 +1830,14 @@
         "bonpreu": "hamburguesa pollastre",
         "dia": "hamburguesa pollo -vacuno -pan -cerdo",
         "consum": "hamburguesa pollo -vacuno -pan -cerdo",
-        "aldi": "carne/hamburguesas-y-carne-picada: hamburguesa pollo"
+        "aldi": "carne/hamburguesas-y-carne-picada: hamburguesa pollo",
+        "caprabo": "2059698-frescos/2059746-carnes-y-aves/2059755-carne-picada-y-hamburguesas: hamburguesa pollo -vacuno -cerdo"
       },
       "pinned": {
         "aldi": "carne/hamburguesas-y-carne-picada/600050900",
         "consum": "7610",
-        "bonpreu": "46916"
+        "bonpreu": "46916",
+        "caprabo": "22396832"
       }
     },
     {
@@ -1662,12 +1849,14 @@
         "bonpreu": "patates palla",
         "dia": "patatas paja",
         "consum": "patatas paja",
-        "aldi": "aperitivos/patatas-fritas-y-snacks: patatas paja"
+        "aldi": "aperitivos/patatas-fritas-y-snacks: patatas paja",
+        "caprabo": "2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060094-snack-y-otros-aperitivos | 2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060092-patatas-de-tubo | 2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060090-patatas-onduladas-tradicionales | 2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060088-patatas-lisas-tradicionales: patatas paja"
       },
       "pinned": {
         "dia": "277831",
         "mercadona": "24040",
-        "bonpreu": "34405"
+        "bonpreu": "34405",
+        "caprabo": "22457345"
       }
     },
     {
@@ -1679,14 +1868,16 @@
         "bonpreu": "oli oliva verge extra -esprai",
         "dia": "aceite oliva virgen extra -spray -atun -sardina",
         "consum": "aceite oliva virgen extra -spray -atun -sardina",
-        "aldi": "despensa/aceites-y-vinagres: aceite oliva virgen extra"
+        "aldi": "despensa/aceites-y-vinagres: aceite oliva virgen extra",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059989-aceite-de-oliva-virgen: aceite oliva virgen extra"
       },
       "pinned": {
         "dia": "266129",
         "mercadona": "4717",
         "aldi": "despensa/aceites-y-vinagres/662500",
         "consum": "14480",
-        "bonpreu": "26783"
+        "bonpreu": "26783",
+        "caprabo": "3854569"
       }
     },
     {
@@ -1698,14 +1889,16 @@
         "bonpreu": "oli oliva -verge -orujo -sansa",
         "dia": "aceite oliva -virgen -orujo -spray -atun -sardina -anchoa -bonito",
         "consum": "aceite oliva -virgen -orujo -spray -atun -sardina -anchoa -bonito",
-        "aldi": "despensa/aceites-y-vinagres: aceite oliva -virgen -orujo"
+        "aldi": "despensa/aceites-y-vinagres: aceite oliva -virgen -orujo",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059990-aceite-de-oliva-suave: aceite oliva -virgen -orujo"
       },
       "pinned": {
         "dia": "27768",
         "mercadona": "4241",
         "aldi": "despensa/aceites-y-vinagres/601186400",
         "consum": "32302",
-        "bonpreu": "14736"
+        "bonpreu": "14736",
+        "caprabo": "366666"
       }
     },
     {
@@ -1717,14 +1910,16 @@
         "bonpreu": "curcuma -infusio",
         "dia": "curcuma -infusion -te -bebida",
         "consum": "curcuma -infusion -te -bebida",
-        "aldi": "despensa/especias-y-condimentos: curcuma"
+        "aldi": "despensa/especias-y-condimentos: curcuma",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: curcuma -latte"
       },
       "pinned": {
         "dia": "297205",
         "mercadona": "34163",
         "aldi": "despensa/especias-y-condimentos/601613100",
         "consum": "35875",
-        "bonpreu": "03056"
+        "bonpreu": "03056",
+        "caprabo": "14197248"
       }
     },
     {
@@ -1736,14 +1931,16 @@
         "bonpreu": "barra pa -integral -cereals",
         "dia": "barra pan -integral -cereales -gluten -rallado",
         "consum": "barra pan -integral -cereales -gluten -rallado",
-        "aldi": "panaderia-y-bolleria/pan-de-horno: barra"
+        "aldi": "panaderia-y-bolleria/pan-de-horno: barra",
+        "caprabo": "2059698-frescos/2059783-panaderia-y-pasteleria/2059785-pan-blanco | 2059698-frescos/2059783-panaderia-y-pasteleria/2059786-pan-tradicional | 2059698-frescos/4000097-fet-a-la-botiga/4000104-panaderia: barra"
       },
       "pinned": {
         "dia": "38109",
         "mercadona": "83203.1",
         "aldi": "panaderia-y-bolleria/pan-de-horno/245300",
         "consum": "25963",
-        "bonpreu": "14481"
+        "bonpreu": "14481",
+        "caprabo": "19603349"
       }
     },
     {
@@ -1755,14 +1952,16 @@
         "bonpreu": "pa motlle -integral -sense",
         "dia": "pan molde -integral -sin -brioche -hamburguesa -perrito",
         "consum": "pan molde -integral -sin -brioche -hamburguesa -perrito",
-        "aldi": "panaderia-y-bolleria/pan-de-molde-y-otras-especialidades: pan molde -integral"
+        "aldi": "panaderia-y-bolleria/pan-de-molde-y-otras-especialidades: pan molde -integral",
+        "caprabo": "2060118-dulces-y-desayuno/2060149-pan-de-molde-y-tostado/2060152-pan-de-molde-con-corteza | 2060118-dulces-y-desayuno/2060149-pan-de-molde-y-tostado/2060153-pan-de-molde-con-corteza-rustica: pan molde -integral -sin"
       },
       "pinned": {
         "dia": "77955",
         "mercadona": "83867",
         "aldi": "panaderia-y-bolleria/pan-de-molde-y-otras-especialidades/249200",
         "consum": "7067",
-        "bonpreu": "21152"
+        "bonpreu": "21152",
+        "caprabo": "17946732"
       }
     },
     {
@@ -1774,13 +1973,15 @@
         "bonpreu": "calamars salsa americana",
         "dia": "calamar salsa americana",
         "consum": "calamar salsa americana",
-        "aldi": "despensa/conservas-de-pescado: calamares salsa americana"
+        "aldi": "despensa/conservas-de-pescado: calamares salsa americana",
+        "caprabo": "2059806-alimentacion/2060015-conservas-de-pescado/2060026-calamar-pulpo-y-chipiron: calamar americana"
       },
       "pinned": {
         "dia": "175329",
         "mercadona": "18713",
         "consum": "5639",
-        "bonpreu": "20322"
+        "bonpreu": "20322",
+        "caprabo": "134023"
       }
     },
     {
@@ -1792,14 +1993,16 @@
         "bonpreu": "nata cuinar",
         "dia": "nata cocinar",
         "consum": "nata cocinar",
-        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: nata cocinar"
+        "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata: nata cocinar",
+        "caprabo": "2059806-alimentacion/2059851-mantequilla-nata-y-cremas/2059854-nata-para-cocinar: nata cocinar"
       },
       "pinned": {
         "dia": "145042",
         "mercadona": "10199",
         "aldi": "lacteos-y-huevos/mantequilla-margarina-y-nata/809800",
         "consum": "10260",
-        "bonpreu": "16527"
+        "bonpreu": "16527",
+        "caprabo": "27368190"
       }
     },
     {
@@ -1811,13 +2014,15 @@
         "bonpreu": "nachos -salsa",
         "dia": "nachos -salsa -queso",
         "consum": "nachos -salsa -queso",
-        "aldi": "aperitivos/patatas-fritas-y-snacks: nachos"
+        "aldi": "aperitivos/patatas-fritas-y-snacks: nachos",
+        "caprabo": "2059806-alimentacion/2060076-frutos-secos-patatas-y-snacks/2060094-snack-y-otros-aperitivos | 2059806-alimentacion/4000017-comida-internacional/4000018-comida-mexicana | 2059806-alimentacion/2060042-platos-preparados/2060051-comida-mejicana: nachos -salsa -queso"
       },
       "pinned": {
         "dia": "313573",
         "mercadona": "17754",
         "aldi": "aperitivos/patatas-fritas-y-snacks/455800",
-        "consum": "31241"
+        "consum": "31241",
+        "caprabo": "24551996"
       }
     },
     {
@@ -1829,14 +2034,16 @@
         "bonpreu": "cigrons -cuits -hummus",
         "dia": "garbanzo -cocido -bote -tarro -hummus -crema",
         "consum": "garbanzo -cocido -bote -tarro -hummus -crema",
-        "aldi": "despensa/legumbres-y-cereales: garbanzos -cocidos"
+        "aldi": "despensa/legumbres-y-cereales: garbanzos -cocidos",
+        "caprabo": "2059806-alimentacion/2060029-legumbres-arroz-y-pasta/2060030-legumbres: garbanzo -cocido"
       },
       "pinned": {
         "dia": "194830",
         "mercadona": "5202",
         "aldi": "despensa/legumbres-y-cereales/500000",
         "consum": "19845",
-        "bonpreu": "74267"
+        "bonpreu": "74267",
+        "caprabo": "25946740"
       }
     },
     {
@@ -1848,14 +2055,16 @@
         "bonpreu": "iogurt natural -grec -liquid -ensucrat",
         "dia": "yogur natural -griego -bebible -liquido -azucarado -cabra -oveja -ecologico",
         "consum": "yogur natural -griego -bebible -liquido -azucarado -cabra -oveja -ecologico",
-        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur natural -griego -ecologico"
+        "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos: yogur natural -griego -ecologico",
+        "caprabo": "2059806-alimentacion/2059818-yogures/2059819-yogur-natural: yogur natural -griego -azucarado"
       },
       "pinned": {
         "dia": "310847",
         "mercadona": "22313",
         "aldi": "lacteos-y-huevos/yogures-y-postres-lacteos/952000",
         "consum": "7163",
-        "bonpreu": "90812"
+        "bonpreu": "90812",
+        "caprabo": "4810149"
       }
     }
   ]

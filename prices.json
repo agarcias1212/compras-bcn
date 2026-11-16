@@ -58,6 +58,18 @@
           "url": "https://tienda.consum.es/es/p/leche-entera-brik/7080596",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/5931.jpg"
+        },
+        "caprabo": {
+          "product_id": "26084350",
+          "name": "Leche entera BOMILK, brik 1 litro",
+          "packaging": null,
+          "price": 0.96,
+          "ref_price": 0.96,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/26084350-p/",
+          "image_url": "https://www.capraboacasa.com/images/26084350.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26084350.jpg"
         }
       }
     },
@@ -109,6 +121,18 @@
           "url": "https://tienda.consum.es/es/p/huevos-l-grandes-docena/7098395",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/6103.jpg"
+        },
+        "caprabo": {
+          "product_id": "19550037",
+          "name": "Huevo fresco L suelo Cataluña EROSKI, cartón 1 docena",
+          "packaging": null,
+          "price": 3.05,
+          "ref_price": 3.05,
+          "ref_unit": "docena",
+          "url": "https://www.capraboacasa.com/es/productdetail/19550037-p/",
+          "image_url": "https://www.capraboacasa.com/images/19550037.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/19550037.jpg"
         }
       }
     },
@@ -169,6 +193,18 @@
           "url": "https://tienda.consum.es/es/p/arroz-redondo-extra-origen-espana/7022762",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/5458.jpg"
+        },
+        "caprabo": {
+          "product_id": "302489",
+          "name": "Arroz redondo LA FALLERA, paquete 1 kg",
+          "packaging": null,
+          "price": 1.69,
+          "ref_price": 1.69,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/302489-p/",
+          "image_url": "https://www.capraboacasa.com/images/302489.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/302489.jpg"
         }
       }
     },
@@ -219,6 +255,18 @@
           "url": "https://tienda.consum.es/es/p/azucar-blanco-paquete/2453884",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/5245.jpg"
+        },
+        "caprabo": {
+          "product_id": "26913889",
+          "name": "Azúcar blanco EROSKI, paquete 1 kg",
+          "packaging": null,
+          "price": 0.9,
+          "ref_price": 0.9,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/26913889-p/",
+          "image_url": "https://www.capraboacasa.com/images/26913889.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26913889.jpg"
         }
       }
     },
@@ -279,6 +327,18 @@
           "url": "https://tienda.consum.es/es/p/sal-fina-bolsa/7080745",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/5937.jpg"
+        },
+        "caprabo": {
+          "product_id": "917372",
+          "name": "Sal marina fina EROSKI BASIC, paquete 1 kg",
+          "packaging": null,
+          "price": 0.45,
+          "ref_price": 0.45,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/917372-p/",
+          "image_url": "https://www.capraboacasa.com/images/917372.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/917372.jpg"
         }
       }
     },
@@ -329,6 +389,18 @@
           "url": "https://tienda.consum.es/es/p/preparado-picada-de-vacuno/922823",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/5165.jpg"
+        },
+        "caprabo": {
+          "product_id": "26536045",
+          "name": "Picada de vacuno burger meat EROSKI, bandeja 2x250 g",
+          "packaging": null,
+          "price": 5.49,
+          "ref_price": 10.98,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/26536045-p/",
+          "image_url": "https://www.capraboacasa.com/images/26536045.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26536045.jpg"
         }
       }
     },
@@ -389,6 +461,18 @@
           "url": "https://tienda.consum.es/es/p/pechuga-de-pollo/140814",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/4729.jpg"
+        },
+        "caprabo": {
+          "product_id": "19230572",
+          "name": "Pechugas enteras pollo formato ahorro XXL EROSKI, bandeja aprox. 950 g",
+          "packaging": null,
+          "price": 5.6,
+          "ref_price": 5.89,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/19230572-p/",
+          "image_url": "https://www.capraboacasa.com/images/19230572.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/19230572.jpg"
         }
       }
     },
@@ -439,6 +523,18 @@
           "url": "https://tienda.consum.es/es/p/cabeza-lomo-de-cerdo/3347531",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/8265.jpg"
+        },
+        "caprabo": {
+          "product_id": "6833388",
+          "name": "Lomo de cerdo trozo XXL EROSKI, bandeja aprox. 1.2 kg",
+          "packaging": null,
+          "price": 5.4,
+          "ref_price": 4.5,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/6833388-p/",
+          "image_url": "https://www.capraboacasa.com/images/6833388.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/6833388.jpg"
         }
       }
     },
@@ -499,6 +595,18 @@
           "url": "https://tienda.consum.es/es/p/leche-sin-lactosa-entera-brik/7260409",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/15435.jpg"
+        },
+        "caprabo": {
+          "product_id": "18843334",
+          "name": "Leche entera sin lactosa EROSKI, brik 1 litro",
+          "packaging": null,
+          "price": 1.03,
+          "ref_price": 1.03,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/18843334-p/",
+          "image_url": "https://www.capraboacasa.com/images/18843334.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/18843334.jpg"
         }
       }
     },
@@ -559,6 +667,18 @@
           "url": "https://tienda.consum.es/es/p/patatas-fritas-lisas-bolsa-papel/7056406",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/5719.jpg"
+        },
+        "caprabo": {
+          "product_id": "10874733",
+          "name": "Patatas fritas estilo caseras EROSKI, bolsa 300 g",
+          "packaging": null,
+          "price": 1.8,
+          "ref_price": 6.0,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/10874733-p/",
+          "image_url": "https://www.capraboacasa.com/images/10874733.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/10874733.jpg"
         }
       }
     },
@@ -619,6 +739,18 @@
           "url": "https://tienda.consum.es/es/p/batido-de-chocolate-minibrik-pack-de-6/7103208",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/6152.jpg"
+        },
+        "caprabo": {
+          "product_id": "23183304",
+          "name": "Batido de chocolate COLA CAO Energy, pack 3x200 ml",
+          "packaging": null,
+          "price": 2.25,
+          "ref_price": 3.75,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/23183304-p/",
+          "image_url": "https://www.capraboacasa.com/images/23183304.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/23183304.jpg"
         }
       }
     },
@@ -679,6 +811,18 @@
           "url": "https://tienda.consum.es/es/p/atun-claro-natural-pack-de-6/7358620",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/25073.jpg"
+        },
+        "caprabo": {
+          "product_id": "21789656",
+          "name": "Atún claro al natural EROSKI, pack 6x56 g",
+          "packaging": null,
+          "price": 4.2,
+          "ref_price": 12.5,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/21789656-p/",
+          "image_url": "https://www.capraboacasa.com/images/21789656.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/21789656.jpg"
         }
       }
     },
@@ -730,6 +874,18 @@
           "url": "https://tienda.consum.es/es/p/nuez-moscada-molida/7435923",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/35877.jpg"
+        },
+        "caprabo": {
+          "product_id": "308981",
+          "name": "Nuez moscada molida DUCROS, frasco 32 g",
+          "packaging": null,
+          "price": 3.19,
+          "ref_price": 99.69,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/308981-p/",
+          "image_url": "https://www.capraboacasa.com/images/308981.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/308981.jpg"
         }
       }
     },
@@ -792,6 +948,18 @@
           "url": "https://tienda.consum.es/es/p/margarina-vegetal-tarrina/7333065",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/22664.jpg"
+        },
+        "caprabo": {
+          "product_id": "22516678",
+          "name": "Margarina de maíz ARTUA, tarrina 500 g",
+          "packaging": null,
+          "price": 3.09,
+          "ref_price": 6.18,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/22516678-p/",
+          "image_url": "https://www.capraboacasa.com/images/22516678.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/22516678.jpg"
         }
       }
     },
@@ -854,6 +1022,18 @@
           "url": "https://tienda.consum.es/es/p/tortilla-de-patata-fresca-sin-cebolla/7342579",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/22986.jpg"
+        },
+        "caprabo": {
+          "product_id": "27019272",
+          "name": "Tortilla de patatas con cebolla caramelizada EROSKI, 1 ud, 600 g",
+          "packaging": null,
+          "price": 2.99,
+          "ref_price": 4.98,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27019272-p/",
+          "image_url": "https://www.capraboacasa.com/images/27019272.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27019272.jpg"
         }
       }
     },
@@ -916,6 +1096,18 @@
           "url": "https://tienda.consum.es/es/p/aceite-de-girasol-botella/7285179",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/15767.jpg"
+        },
+        "caprabo": {
+          "product_id": "322859",
+          "name": "Aceite de girasol EROSKI, garrafa 5 litros",
+          "packaging": null,
+          "price": 8.6,
+          "ref_price": 1.72,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/322859-p/",
+          "image_url": "https://www.capraboacasa.com/images/322859.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/322859.jpg"
         }
       }
     },
@@ -978,6 +1170,18 @@
           "url": "https://tienda.consum.es/es/p/vinagre-balsamico-de-modena/7050680",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/5685.jpg"
+        },
+        "caprabo": {
+          "product_id": "26204784",
+          "name": "Vinagre balsámico de Módena EROSKI, botella 250 ml",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 4.6,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/26204784-p/",
+          "image_url": "https://www.capraboacasa.com/images/26204784.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26204784.jpg"
         }
       }
     },
@@ -1030,6 +1234,18 @@
           "url": "https://tienda.consum.es/es/p/zumo-de-limon-exprimido/7098718",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/6108.jpg"
+        },
+        "caprabo": {
+          "product_id": "23627474",
+          "name": "Zumo de limón exprimido EROSKI, botella 250 ml",
+          "packaging": null,
+          "price": 1.25,
+          "ref_price": 5.0,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/23627474-p/",
+          "image_url": "https://www.capraboacasa.com/images/23627474.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/23627474.jpg"
         }
       }
     },
@@ -1092,6 +1308,18 @@
           "url": "https://tienda.consum.es/es/p/servilleta-1-capa-blanca-30x30-200unidad/7177681",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/6802.jpg"
+        },
+        "caprabo": {
+          "product_id": "8336265",
+          "name": "Servilleta blanca 1 capa 30x30 EROSKI BASIC, paquete 200 uds",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 0.006,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/8336265-p/",
+          "image_url": "https://www.capraboacasa.com/images/8336265.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/8336265.jpg"
         }
       }
     },
@@ -1154,6 +1382,18 @@
           "url": "https://tienda.consum.es/es/p/kefir-natural/7476716",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/45738.jpg"
+        },
+        "caprabo": {
+          "product_id": "23633118",
+          "name": "Kéfir natural cuchara EROSKI, tarrina 500 g",
+          "packaging": null,
+          "price": 1.1,
+          "ref_price": 2.2,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/23633118-p/",
+          "image_url": "https://www.capraboacasa.com/images/23633118.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/23633118.jpg"
         }
       }
     },
@@ -1216,6 +1456,18 @@
           "url": "https://tienda.consum.es/es/p/arroz-vaporizado/7022726",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/8731.jpg"
+        },
+        "caprabo": {
+          "product_id": "4374153",
+          "name": "Arroz vaporizado EROSKI, paquete 1 kg",
+          "packaging": null,
+          "price": 1.55,
+          "ref_price": 1.55,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/4374153-p/",
+          "image_url": "https://www.capraboacasa.com/images/4374153.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/4374153.jpg"
         }
       }
     },
@@ -1278,6 +1530,18 @@
           "url": "https://tienda.consum.es/es/p/alubia-blanca-paquete/7316755",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/19630.jpg"
+        },
+        "caprabo": {
+          "product_id": "25946732",
+          "name": "Alubia blanca larga EROSKI, paquete 500 g",
+          "packaging": null,
+          "price": 1.25,
+          "ref_price": 2.5,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/25946732-p/",
+          "image_url": "https://www.capraboacasa.com/images/25946732.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25946732.jpg"
         }
       }
     },
@@ -1330,6 +1594,18 @@
           "url": "https://tienda.consum.es/es/p/yogur-liquido-con-frutas-del-bosque/7394851",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/29541.jpg"
+        },
+        "caprabo": {
+          "product_id": "21812557",
+          "name": "Yogur líquido 00% sabor fresa EROSKI, botella 1 kg",
+          "packaging": null,
+          "price": 1.5,
+          "ref_price": 1.5,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/21812557-p/",
+          "image_url": "https://www.capraboacasa.com/images/21812557.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/21812557.jpg"
         }
       }
     },
@@ -1390,6 +1666,18 @@
           "url": "https://tienda.consum.es/es/p/mostaza-dijon-originale-frasco/382226",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/4963.jpg"
+        },
+        "caprabo": {
+          "product_id": "382226",
+          "name": "Mostaza de Dijon MAILLE, frasco 215 g",
+          "packaging": null,
+          "price": 3.65,
+          "ref_price": 16.98,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/382226-p/",
+          "image_url": "https://www.capraboacasa.com/images/382226.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/382226.jpg"
         }
       }
     },
@@ -1440,7 +1728,19 @@
           "fetched": "2026-11-13T00:17:38+00:00",
           "image": "img/dia/299135.webp"
         },
-        "consum": null
+        "consum": null,
+        "caprabo": {
+          "product_id": "27221647",
+          "name": "Jengibre molido EROSKI, frasco 50 g",
+          "packaging": null,
+          "price": 1.6,
+          "ref_price": 32.0,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27221647-p/",
+          "image_url": "https://www.capraboacasa.com/images/27221647.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27221647.jpg"
+        }
       }
     },
     "canela-molida": {
@@ -1500,6 +1800,18 @@
           "url": "https://tienda.consum.es/es/p/canela-molida/7435845",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/35871.jpg"
+        },
+        "caprabo": {
+          "product_id": "27221456",
+          "name": "Canela molida EROSKI, frasco 45 g",
+          "packaging": null,
+          "price": 0.85,
+          "ref_price": 18.89,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27221456-p/",
+          "image_url": "https://www.capraboacasa.com/images/27221456.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27221456.jpg"
         }
       }
     },
@@ -1560,6 +1872,18 @@
           "url": "https://tienda.consum.es/es/p/queso-brie-punta/7197051",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/7112.jpg"
+        },
+        "caprabo": {
+          "product_id": "6818090",
+          "name": "Queso Brie EROSKI, cuña 200 g",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 8.25,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/6818090-p/",
+          "image_url": "https://www.capraboacasa.com/images/6818090.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/6818090.jpg"
         }
       }
     },
@@ -1620,6 +1944,18 @@
           "url": "https://tienda.consum.es/es/p/leche-evaporada-brik/7184497",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/6915.jpg"
+        },
+        "caprabo": {
+          "product_id": "27682723",
+          "name": "Leche evaporada LA ASTURIANA, brik 345 g",
+          "packaging": null,
+          "price": 1.45,
+          "ref_price": 4.2,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27682723-p/",
+          "image_url": "https://www.capraboacasa.com/images/27682723.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27682723.jpg"
         }
       }
     },
@@ -1670,6 +2006,18 @@
           "url": "https://tienda.consum.es/es/p/patata-todo-uso-culinario/7194165",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/10194.jpg"
+        },
+        "caprabo": {
+          "product_id": "7114903",
+          "name": "Patata común EROSKI, malla 5 kg",
+          "packaging": null,
+          "price": 5.3,
+          "ref_price": 1.06,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/7114903-p/",
+          "image_url": "https://www.capraboacasa.com/images/7114903.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/7114903.jpg"
         }
       }
     },
@@ -1730,6 +2078,18 @@
           "url": "https://tienda.consum.es/es/p/detergente-liquido-marsella/7468317",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/45813.jpg"
+        },
+        "caprabo": {
+          "product_id": "26886523",
+          "name": "Detergente líquido Marsella EROSKI, garrafa 50 dosis",
+          "packaging": null,
+          "price": 3.5,
+          "ref_price": 0.07,
+          "ref_unit": "lavado",
+          "url": "https://www.capraboacasa.com/es/productdetail/26886523-p/",
+          "image_url": "https://www.capraboacasa.com/images/26886523.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26886523.jpg"
         }
       }
     },
@@ -1771,7 +2131,19 @@
           "fetched": "2026-11-13T00:17:38+00:00",
           "image": "img/dia/1533.webp"
         },
-        "consum": null
+        "consum": null,
+        "caprabo": {
+          "product_id": "7124795",
+          "name": "Café Capuccino NESCAFÉ GOLD, bote 250 g",
+          "packaging": null,
+          "price": 5.29,
+          "ref_price": 21.16,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/7124795-p/",
+          "image_url": "https://www.capraboacasa.com/images/7124795.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/7124795.jpg"
+        }
       }
     },
     "salchichas-frankfurt": {
@@ -1831,6 +2203,18 @@
           "url": "https://tienda.consum.es/es/p/salchichas-frankfurt-sabor-ahumado/7404408",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/30171.jpg"
+        },
+        "caprabo": {
+          "product_id": "17779620",
+          "name": "Salchichas Frankfurt EROSKI basic, pack 4x160 g",
+          "packaging": null,
+          "price": 1.64,
+          "ref_price": 2.56,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/17779620-p/",
+          "image_url": "https://www.capraboacasa.com/images/17779620.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/17779620.jpg"
         }
       }
     },
@@ -1872,7 +2256,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/10591.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "27221654",
+          "name": "Clavo entero EROSKI, frasco 40 g",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 41.25,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27221654-p/",
+          "image_url": "https://www.capraboacasa.com/images/27221654.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27221654.jpg"
+        }
       }
     },
     "canela-rama": {
@@ -1932,6 +2328,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/80937",
           "fetched": "2026-11-14T01:02:05+01:00"
+        },
+        "caprabo": {
+          "product_id": "27221795",
+          "name": "Canela en rama Ceylan EROSKI, frasco 18 g",
+          "packaging": null,
+          "price": 1.4,
+          "ref_price": 77.78,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27221795-p/",
+          "image_url": "https://www.capraboacasa.com/images/27221795.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27221795.jpg"
         }
       }
     },
@@ -1983,7 +2391,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/35872.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "27221514",
+          "name": "Comino molido EROSKI, frasco 60 g",
+          "packaging": null,
+          "price": 1.19,
+          "ref_price": 19.83,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27221514-p/",
+          "image_url": "https://www.capraboacasa.com/images/27221514.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27221514.jpg"
+        }
       }
     },
     "pimienta-negra": {
@@ -2043,6 +2463,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/18978",
           "fetched": "2026-11-14T17:19:53+01:00"
+        },
+        "caprabo": {
+          "product_id": "27221464",
+          "name": "Pimienta negra molida EROSKI, frasco 65 g",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 18.46,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27221464-p/",
+          "image_url": "https://www.capraboacasa.com/images/27221464.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27221464.jpg"
         }
       }
     },
@@ -2103,6 +2535,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/62718",
           "fetched": "2026-11-14T01:07:33+01:00"
+        },
+        "caprabo": {
+          "product_id": "27015098",
+          "name": "Pimenton de la Vera picante D.O.P. EROSKI, lata 75 g",
+          "packaging": null,
+          "price": 1.95,
+          "ref_price": 26.0,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27015098-p/",
+          "image_url": "https://www.capraboacasa.com/images/27015098.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27015098.jpg"
         }
       }
     },
@@ -2153,6 +2597,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/83042",
           "fetched": "2026-11-14T17:19:53+01:00"
+        },
+        "caprabo": {
+          "product_id": "14198048",
+          "name": "Cilantro DUCROS, frasco 7 g",
+          "packaging": null,
+          "price": 3.09,
+          "ref_price": 441.43,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/14198048-p/",
+          "image_url": "https://www.capraboacasa.com/images/14198048.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/14198048.jpg"
         }
       }
     },
@@ -2213,6 +2669,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/05867",
           "fetched": "2026-11-14T20:02:56+01:00"
+        },
+        "caprabo": {
+          "product_id": "27221423",
+          "name": "Orégano EROSKI, frasco 18 g",
+          "packaging": null,
+          "price": 0.69,
+          "ref_price": 38.33,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27221423-p/",
+          "image_url": "https://www.capraboacasa.com/images/27221423.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27221423.jpg"
         }
       }
     },
@@ -2254,7 +2722,19 @@
           "image": "img/dia/299121.webp"
         },
         "consum": null,
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "27221415",
+          "name": "Ajo molido EROSKI, frasco 85 g",
+          "packaging": null,
+          "price": 0.9,
+          "ref_price": 10.59,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27221415-p/",
+          "image_url": "https://www.capraboacasa.com/images/27221415.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27221415.jpg"
+        }
       }
     },
     "romero": {
@@ -2304,6 +2784,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/36311",
           "fetched": "2026-11-14T18:20:48+01:00"
+        },
+        "caprabo": {
+          "product_id": "309104",
+          "name": "Romero para sazonar DUCROS, frasco 23 g",
+          "packaging": null,
+          "price": 2.49,
+          "ref_price": 108.26,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/309104-p/",
+          "image_url": "https://www.capraboacasa.com/images/309104.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/309104.jpg"
         }
       }
     },
@@ -2364,6 +2856,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/79510",
           "fetched": "2026-11-14T18:20:48+01:00"
+        },
+        "caprabo": {
+          "product_id": "27073980",
+          "name": "Miel mil flores EROSKI, frasco 1 kg",
+          "packaging": null,
+          "price": 5.0,
+          "ref_price": 5.0,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27073980-p/",
+          "image_url": "https://www.capraboacasa.com/images/27073980.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27073980.jpg"
         }
       }
     },
@@ -2394,6 +2898,18 @@
           "ref_unit": "L",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29177",
           "fetched": "2026-11-14T01:18:27+01:00"
+        },
+        "caprabo": {
+          "product_id": "25272618",
+          "name": "Aceite de sésamo LA ESPAÑOLA SOY PLUS, botella 250 ml",
+          "packaging": null,
+          "price": 3.95,
+          "ref_price": 15.8,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/25272618-p/",
+          "image_url": "https://www.capraboacasa.com/images/25272618.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25272618.jpg"
         }
       }
     },
@@ -2454,6 +2970,18 @@
           "ref_unit": "L",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/21086",
           "fetched": "2026-11-14T18:20:48+01:00"
+        },
+        "caprabo": {
+          "product_id": "19511138",
+          "name": "Salsa de soja con menos sal SAKURA, frasco 150 ml",
+          "packaging": null,
+          "price": 1.95,
+          "ref_price": 13.0,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/19511138-p/",
+          "image_url": "https://www.capraboacasa.com/images/19511138.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/19511138.jpg"
         }
       }
     },
@@ -2504,6 +3032,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01200",
           "fetched": "2026-11-14T18:20:48+01:00"
+        },
+        "caprabo": {
+          "product_id": "15380470",
+          "name": "Ajo blanco EROSKI, malla 400 g",
+          "packaging": null,
+          "price": 2.29,
+          "ref_price": 5.73,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/15380470-p/",
+          "image_url": "https://www.capraboacasa.com/images/15380470.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/15380470.jpg"
         }
       }
     },
@@ -2544,6 +3084,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/78267",
           "fetched": "2026-11-14T01:23:54+01:00"
+        },
+        "caprabo": {
+          "product_id": "70565",
+          "name": "Spaguetti EROSKI BASIC, paquete 1 kg",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 1.2,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/70565-p/",
+          "image_url": "https://www.capraboacasa.com/images/70565.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/70565.jpg"
         }
       }
     },
@@ -2604,6 +3156,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29736",
           "fetched": "2026-11-14T01:23:54+01:00"
+        },
+        "caprabo": {
+          "product_id": "349167",
+          "name": "Fideo Cabellín EROSKI basic, paquete 1 kg",
+          "packaging": null,
+          "price": 1.58,
+          "ref_price": 1.58,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/349167-p/",
+          "image_url": "https://www.capraboacasa.com/images/349167.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/349167.jpg"
         }
       }
     },
@@ -2664,6 +3228,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07381",
           "fetched": "2026-11-14T18:41:24+01:00"
+        },
+        "caprabo": {
+          "product_id": "26747618",
+          "name": "Copos de avena integrales suaves EROSKI, paquete 500 g",
+          "packaging": null,
+          "price": 0.85,
+          "ref_price": 1.7,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/26747618-p/",
+          "image_url": "https://www.capraboacasa.com/images/26747618.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26747618.jpg"
         }
       }
     },
@@ -2724,6 +3300,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/30064",
           "fetched": "2026-11-14T18:41:24+01:00"
+        },
+        "caprabo": {
+          "product_id": "25948399",
+          "name": "Lenteja roja variedad crimson EROSKI, paquete 1 kg",
+          "packaging": null,
+          "price": 1.65,
+          "ref_price": 1.65,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/25948399-p/",
+          "image_url": "https://www.capraboacasa.com/images/25948399.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25948399.jpg"
         }
       }
     },
@@ -2765,7 +3353,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/25419.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "19729466",
+          "name": "Manzanilla EROSKI, caja 25 sobres",
+          "packaging": null,
+          "price": 0.81,
+          "ref_price": 0.032,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/19729466-p/",
+          "image_url": "https://www.capraboacasa.com/images/19729466.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/19729466.jpg"
+        }
       }
     },
     "infusion-manzana-canela": {
@@ -2776,7 +3376,19 @@
         "aldi": null,
         "dia": null,
         "consum": null,
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "11026531",
+          "name": "Infusión sabor manzana-canela HORNIMANS, caja 20 sobres",
+          "packaging": null,
+          "price": 3.25,
+          "ref_price": 0.163,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/11026531-p/",
+          "image_url": "https://www.capraboacasa.com/images/11026531.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/11026531.jpg"
+        }
       }
     },
     "poleo-menta": {
@@ -2807,7 +3419,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/25420.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "19729490",
+          "name": "Menta poleo EROSKI, caja 25 sobres",
+          "packaging": null,
+          "price": 0.94,
+          "ref_price": 0.038,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/19729490-p/",
+          "image_url": "https://www.capraboacasa.com/images/19729490.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/19729490.jpg"
+        }
       }
     },
     "tila": {
@@ -2838,7 +3462,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/25243.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "19729474",
+          "name": "Tila EROSKI, caja 25 sobres",
+          "packaging": null,
+          "price": 1.06,
+          "ref_price": 0.042,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/19729474-p/",
+          "image_url": "https://www.capraboacasa.com/images/19729474.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/19729474.jpg"
+        }
       }
     },
     "te-verde": {
@@ -2879,7 +3515,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/25127.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "5954227",
+          "name": "Té verde EROSKI, caja 20 sobres",
+          "packaging": null,
+          "price": 0.75,
+          "ref_price": 0.037,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/5954227-p/",
+          "image_url": "https://www.capraboacasa.com/images/5954227.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/5954227.jpg"
+        }
       }
     },
     "rooibos": {
@@ -2900,7 +3548,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/35475.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "25951252",
+          "name": "Rooibos vainilla EROSKI, caja 20 uds",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 0.057,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/25951252-p/",
+          "image_url": "https://www.capraboacasa.com/images/25951252.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25951252.jpg"
+        }
       }
     },
     "infusion-frutos-rojos": {
@@ -2910,7 +3570,19 @@
         "mercadona": null,
         "aldi": null,
         "dia": null,
-        "consum": null
+        "consum": null,
+        "caprabo": {
+          "product_id": "26220699",
+          "name": "Infusión fría de frutos rojos POMPADOUR, caja 20 uds",
+          "packaging": null,
+          "price": 3.09,
+          "ref_price": 0.154,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/26220699-p/",
+          "image_url": "https://www.capraboacasa.com/images/26220699.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26220699.jpg"
+        }
       }
     },
     "maiz-palomitas": {
@@ -2960,6 +3632,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/60734",
           "fetched": "2026-11-14T14:06:10+01:00"
+        },
+        "caprabo": {
+          "product_id": "25616483",
+          "name": "Maíz palomitas EROSKI, paquete 250 g",
+          "packaging": null,
+          "price": 0.89,
+          "ref_price": 3.56,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/25616483-p/",
+          "image_url": "https://www.capraboacasa.com/images/25616483.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25616483.jpg"
         }
       }
     },
@@ -3001,7 +3685,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/35667.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "23157563",
+          "name": "Semillas de chia EROSKI BIO, bolsa 250 g",
+          "packaging": null,
+          "price": 2.09,
+          "ref_price": 8.36,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/23157563-p/",
+          "image_url": "https://www.capraboacasa.com/images/23157563.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/23157563.jpg"
+        }
       }
     },
     "sesamo": {
@@ -3051,6 +3747,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85325",
           "fetched": "2026-11-14T19:07:54+01:00"
+        },
+        "caprabo": {
+          "product_id": "16074858",
+          "name": "Sésamo crudo VERITAS, bolsa 500 g",
+          "packaging": null,
+          "price": 5.05,
+          "ref_price": 10.1,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/16074858-p/",
+          "image_url": "https://www.capraboacasa.com/images/16074858.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/16074858.jpg"
         }
       }
     },
@@ -3082,7 +3790,8 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/30970.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": null
       }
     },
     "alubia-pinta": {
@@ -3122,6 +3831,18 @@
           "url": "https://tienda.consum.es/es/p/alubia-pinta-paquete/7316750",
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/19522.jpg"
+        },
+        "caprabo": {
+          "product_id": "26016709",
+          "name": "Alubia pinta EROSKI, paquete 500 g",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 2.3,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/26016709-p/",
+          "image_url": "https://www.capraboacasa.com/images/26016709.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26016709.jpg"
         }
       }
     },
@@ -3153,7 +3874,19 @@
           "image": "img/dia/61318.webp"
         },
         "consum": null,
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "14708085",
+          "name": "Alubia negrita LUENGO, paquete 500 g",
+          "packaging": null,
+          "price": 1.69,
+          "ref_price": 3.38,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/14708085-p/",
+          "image_url": "https://www.capraboacasa.com/images/14708085.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/14708085.jpg"
+        }
       }
     },
     "jamon-iberico": {
@@ -3213,6 +3946,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/54730",
           "fetched": "2026-11-14T19:13:31+01:00"
+        },
+        "caprabo": {
+          "product_id": "23053408",
+          "name": "Jamón ibérico de cebo 50% raza ibérica IGLESIAS, sobre 100 g",
+          "packaging": null,
+          "price": 6.49,
+          "ref_price": 64.9,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/23053408-p/",
+          "image_url": "https://www.capraboacasa.com/images/23053408.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/23053408.jpg"
         }
       }
     },
@@ -3273,6 +4018,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01872",
           "fetched": "2026-11-14T20:25:01+01:00"
+        },
+        "caprabo": {
+          "product_id": "12771838",
+          "name": "Tomate frito EROSKI basic, pack 3x390 g",
+          "packaging": null,
+          "price": 1.35,
+          "ref_price": 1.15,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/12771838-p/",
+          "image_url": "https://www.capraboacasa.com/images/12771838.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/12771838.jpg"
         }
       }
     },
@@ -3283,7 +4040,19 @@
         "mercadona": null,
         "aldi": null,
         "dia": null,
-        "consum": null
+        "consum": null,
+        "caprabo": {
+          "product_id": "25589862",
+          "name": "Ketchup zero sin sal ni azúcares añadidos HEINZ, bocabajo 425 g",
+          "packaging": null,
+          "price": 3.65,
+          "ref_price": 8.59,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/25589862-p/",
+          "image_url": "https://www.capraboacasa.com/images/25589862.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25589862.jpg"
+        }
       }
     },
     "tomate": {
@@ -3324,7 +4093,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/4703.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "17506619",
+          "name": "Tomate Bola, al peso, compra mínima 500 g",
+          "packaging": null,
+          "price": 1.25,
+          "ref_price": 2.5,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/17506619-p/",
+          "image_url": "https://www.capraboacasa.com/images/17506619.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/17506619.jpg"
+        }
       }
     },
     "zanahoria": {
@@ -3384,6 +4165,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07304",
           "fetched": "2026-11-14T14:33:08+01:00"
+        },
+        "caprabo": {
+          "product_id": "4501508",
+          "name": "Zanahoria EROSKI, bolsa 1 kg",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 1.2,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/4501508-p/",
+          "image_url": "https://www.capraboacasa.com/images/4501508.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/4501508.jpg"
         }
       }
     },
@@ -3434,7 +4227,8 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/12891",
           "fetched": "2026-11-14T14:33:08+01:00"
-        }
+        },
+        "caprabo": null
       }
     },
     "calabacin": {
@@ -3484,6 +4278,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07315",
           "fetched": "2026-11-14T14:33:08+01:00"
+        },
+        "caprabo": {
+          "product_id": "26794016",
+          "name": "Calabacín verde, al peso, compra mínima 500 g",
+          "packaging": null,
+          "price": 0.85,
+          "ref_price": 1.7,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/26794016-p/",
+          "image_url": "https://www.capraboacasa.com/images/26794016.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26794016.jpg"
         }
       }
     },
@@ -3534,6 +4340,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03945",
           "fetched": "2026-11-14T14:33:08+01:00"
+        },
+        "caprabo": {
+          "product_id": "12523650",
+          "name": "Uva blanca, al peso, compra mínima 500 g",
+          "packaging": null,
+          "price": 1.93,
+          "ref_price": 3.86,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/12523650-p/",
+          "image_url": "https://www.capraboacasa.com/images/12523650.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/12523650.jpg"
         }
       }
     },
@@ -3594,6 +4412,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/09910",
           "fetched": "2026-11-14T14:38:44+01:00"
+        },
+        "caprabo": {
+          "product_id": "6155",
+          "name": "Mandarina, malla 1 kg",
+          "packaging": null,
+          "price": 2.15,
+          "ref_price": 2.15,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/6155-p/",
+          "image_url": "https://www.capraboacasa.com/images/6155.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/6155.jpg"
         }
       }
     },
@@ -3654,6 +4484,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/08870",
           "fetched": "2026-11-14T21:35:51+01:00"
+        },
+        "caprabo": {
+          "product_id": "56515",
+          "name": "Lima, al peso, compra mínima 500 g",
+          "packaging": null,
+          "price": 2.5,
+          "ref_price": 5.0,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/56515-p/",
+          "image_url": "https://www.capraboacasa.com/images/56515.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/56515.jpg"
         }
       }
     },
@@ -3714,6 +4556,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/90670",
           "fetched": "2026-11-14T20:30:37+01:00"
+        },
+        "caprabo": {
+          "product_id": "17533",
+          "name": "Pera Conferencia, cubeta 1 kg",
+          "packaging": null,
+          "price": 2.49,
+          "ref_price": 2.49,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/17533-p/",
+          "image_url": "https://www.capraboacasa.com/images/17533.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/17533.jpg"
         }
       }
     },
@@ -3774,6 +4628,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/49235",
           "fetched": "2026-11-14T14:44:11+01:00"
+        },
+        "caprabo": {
+          "product_id": "24918351",
+          "name": "Manzana Roja, bolsa 1,5 kg",
+          "packaging": null,
+          "price": 2.7,
+          "ref_price": 1.8,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/24918351-p/",
+          "image_url": "https://www.capraboacasa.com/images/24918351.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/24918351.jpg"
         }
       }
     },
@@ -3824,6 +4690,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07722",
           "fetched": "2026-11-14T14:44:11+01:00"
+        },
+        "caprabo": {
+          "product_id": "12069175",
+          "name": "Plátano de Canarias IGP EROSKI, al peso, compra mínima 1 kg",
+          "packaging": null,
+          "price": 3.2,
+          "ref_price": 3.2,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/12069175-p/",
+          "image_url": "https://www.capraboacasa.com/images/12069175.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/12069175.jpg"
         }
       }
     },
@@ -3884,6 +4762,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/75594",
           "fetched": "2026-11-14T14:44:11+01:00"
+        },
+        "caprabo": {
+          "product_id": "6686711",
+          "name": "Salsa guacamole OLD EL PASO, frasco 320 g",
+          "packaging": null,
+          "price": 3.15,
+          "ref_price": 9.84,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/6686711-p/",
+          "image_url": "https://www.capraboacasa.com/images/6686711.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/6686711.jpg"
         }
       }
     },
@@ -3934,6 +4824,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/10647",
           "fetched": "2026-11-14T19:24:24+01:00"
+        },
+        "caprabo": {
+          "product_id": "15636475",
+          "name": "Mantequilla EROSKI, pastilla 250 g",
+          "packaging": null,
+          "price": 2.05,
+          "ref_price": 8.2,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/15636475-p/",
+          "image_url": "https://www.capraboacasa.com/images/15636475.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/15636475.jpg"
         }
       }
     },
@@ -3964,7 +4866,8 @@
           "ref_unit": "L",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/87516",
           "fetched": "2026-11-14T14:49:46+01:00"
-        }
+        },
+        "caprabo": null
       }
     },
     "mayonesa-light": {
@@ -3975,7 +4878,19 @@
         "aldi": null,
         "dia": null,
         "consum": null,
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "26144147",
+          "name": "Salsa ligera EROSKI, frasco 450 ml",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 2.67,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/26144147-p/",
+          "image_url": "https://www.capraboacasa.com/images/26144147.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26144147.jpg"
+        }
       }
     },
     "mostaza": {
@@ -4025,6 +4940,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/27121",
           "fetched": "2026-11-14T21:35:51+01:00"
+        },
+        "caprabo": {
+          "product_id": "24157844",
+          "name": "Mostaza EROSKI, bote 320 g",
+          "packaging": null,
+          "price": 1.03,
+          "ref_price": 3.22,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/24157844-p/",
+          "image_url": "https://www.capraboacasa.com/images/24157844.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/24157844.jpg"
         }
       }
     },
@@ -4075,6 +5002,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/88768",
           "fetched": "2026-11-14T14:55:13+01:00"
+        },
+        "caprabo": {
+          "product_id": "25557208",
+          "name": "Salsa barbacoa EROSKI, bote 320 g",
+          "packaging": null,
+          "price": 1.05,
+          "ref_price": 3.28,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/25557208-p/",
+          "image_url": "https://www.capraboacasa.com/images/25557208.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25557208.jpg"
         }
       }
     },
@@ -4126,7 +5065,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/33328.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "26264739",
+          "name": "Lavavajillas a mano diluído EROSKI BASIC, botella 1,3 litros",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 0.88,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/26264739-p/",
+          "image_url": "https://www.capraboacasa.com/images/26264739.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26264739.jpg"
+        }
       }
     },
     "bolsas-basura": {
@@ -4177,7 +5128,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/14564.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "25325010",
+          "name": "Bolsa de basura con cierre 30 l. EROSKI, paquete 40 uds",
+          "packaging": null,
+          "price": 1.8,
+          "ref_price": 0.045,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/25325010-p/",
+          "image_url": "https://www.capraboacasa.com/images/25325010.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25325010.jpg"
+        }
       }
     },
     "bolsas-reutilizables": {
@@ -4188,7 +5151,8 @@
         "aldi": null,
         "dia": null,
         "consum": null,
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": null
       }
     },
     "bolsas-cierre": {
@@ -4198,7 +5162,19 @@
         "mercadona": null,
         "aldi": null,
         "dia": null,
-        "consum": null
+        "consum": null,
+        "caprabo": {
+          "product_id": "27197656",
+          "name": "Bolsas de congelacion c/ cierre zip pequeñas EROSKI, caja 20 uds",
+          "packaging": null,
+          "price": 1.24,
+          "ref_price": 0.062,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/27197656-p/",
+          "image_url": "https://www.capraboacasa.com/images/27197656.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27197656.jpg"
+        }
       }
     },
     "film": {
@@ -4248,6 +5224,18 @@
           "ref_unit": "m",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/86704",
           "fetched": "2026-11-14T20:41:39+01:00"
+        },
+        "caprabo": {
+          "product_id": "24728230",
+          "name": "Film transparente EROSKI, caja 80 metros",
+          "packaging": null,
+          "price": 1.85,
+          "ref_price": 0.023,
+          "ref_unit": "m",
+          "url": "https://www.capraboacasa.com/es/productdetail/24728230-p/",
+          "image_url": "https://www.capraboacasa.com/images/24728230.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/24728230.jpg"
         }
       }
     },
@@ -4298,6 +5286,18 @@
           "ref_unit": "m",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/86650",
           "fetched": "2026-11-14T15:11:07+01:00"
+        },
+        "caprabo": {
+          "product_id": "26399204",
+          "name": "Papel de aluminio 50 metros EROSKI, caja 1 ud",
+          "packaging": null,
+          "price": 3.5,
+          "ref_price": 0.07,
+          "ref_unit": "m",
+          "url": "https://www.capraboacasa.com/es/productdetail/26399204-p/",
+          "image_url": "https://www.capraboacasa.com/images/26399204.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26399204.jpg"
         }
       }
     },
@@ -4358,6 +5358,18 @@
           "ref_unit": "ud",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/72520",
           "fetched": "2026-11-14T15:11:07+01:00"
+        },
+        "caprabo": {
+          "product_id": "15933492",
+          "name": "Bayeta de colores EROSKI basic, pack 9 uds",
+          "packaging": null,
+          "price": 1.2,
+          "ref_price": 0.133,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/15933492-p/",
+          "image_url": "https://www.capraboacasa.com/images/15933492.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/15933492.jpg"
         }
       }
     },
@@ -4379,7 +5391,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/7169.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "26335141",
+          "name": "Bayeta de microfibra en rollo BAYECO, rollo 30 uds",
+          "packaging": null,
+          "price": 3.49,
+          "ref_price": 0.116,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/26335141-p/",
+          "image_url": "https://www.capraboacasa.com/images/26335141.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/26335141.jpg"
+        }
       }
     },
     "papel-cocina": {
@@ -4419,6 +5443,18 @@
           "ref_unit": "ud",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34548",
           "fetched": "2026-11-14T15:11:07+01:00"
+        },
+        "caprabo": {
+          "product_id": "14335889",
+          "name": "Papel de cocina 3 capas FOXY TORNADO AZUL, paquete 1=15 rollos",
+          "packaging": null,
+          "price": 5.29,
+          "ref_price": 0.353,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/14335889-p/",
+          "image_url": "https://www.capraboacasa.com/images/14335889.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/14335889.jpg"
         }
       }
     },
@@ -4450,7 +5486,19 @@
           "image": "img/dia/276676.webp"
         },
         "consum": null,
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "10512",
+          "name": "Papel higiénico 2 capas EROSKI BASIC, paquete 12 rollos",
+          "packaging": null,
+          "price": 2.4,
+          "ref_price": 0.2,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/10512-p/",
+          "image_url": "https://www.capraboacasa.com/images/10512.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/10512.jpg"
+        }
       }
     },
     "patatas-paja": {
@@ -4490,6 +5538,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/34405",
           "fetched": "2026-11-14T22:12:04+01:00"
+        },
+        "caprabo": {
+          "product_id": "22457345",
+          "name": "Patatas paja EROSKI, bolsa 100 g",
+          "packaging": null,
+          "price": 0.75,
+          "ref_price": 7.5,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/22457345-p/",
+          "image_url": "https://www.capraboacasa.com/images/22457345.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/22457345.jpg"
         }
       }
     },
@@ -4550,6 +5610,18 @@
           "ref_unit": "L",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/26783",
           "fetched": "2026-11-14T15:47:20+01:00"
+        },
+        "caprabo": {
+          "product_id": "3854569",
+          "name": "Aceite de oliva virgen extra EROSKI, garrafa 3 litros",
+          "packaging": null,
+          "price": 11.25,
+          "ref_price": 3.75,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/3854569-p/",
+          "image_url": "https://www.capraboacasa.com/images/3854569.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/3854569.jpg"
         }
       }
     },
@@ -4610,6 +5682,18 @@
           "ref_unit": "L",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14736",
           "fetched": "2026-11-14T15:47:20+01:00"
+        },
+        "caprabo": {
+          "product_id": "366666",
+          "name": "Aceite de oliva suave EROSKI, garrafa 5 litros",
+          "packaging": null,
+          "price": 16.75,
+          "ref_price": 3.35,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/366666-p/",
+          "image_url": "https://www.capraboacasa.com/images/366666.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/366666.jpg"
         }
       }
     },
@@ -4670,6 +5754,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/03056",
           "fetched": "2026-11-14T15:47:20+01:00"
+        },
+        "caprabo": {
+          "product_id": "14197248",
+          "name": "Cúrcuma DUCROS, frasco 37 g",
+          "packaging": null,
+          "price": 2.69,
+          "ref_price": 72.7,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/14197248-p/",
+          "image_url": "https://www.capraboacasa.com/images/14197248.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/14197248.jpg"
         }
       }
     },
@@ -4730,6 +5826,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/14481",
           "fetched": "2026-11-14T15:47:20+01:00"
+        },
+        "caprabo": {
+          "product_id": "19603349",
+          "name": "Barra baguette pack ahorro, 3 uds., bandeja 630 g",
+          "packaging": null,
+          "price": 1.19,
+          "ref_price": 1.89,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/19603349-p/",
+          "image_url": "https://www.capraboacasa.com/images/19603349.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/19603349.jpg"
         }
       }
     },
@@ -4790,6 +5898,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/21152",
           "fetched": "2026-11-14T15:57:56+01:00"
+        },
+        "caprabo": {
+          "product_id": "17946732",
+          "name": "Pan de molde con corteza EROSKI basic, paquete 820 g",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 1.4,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/17946732-p/",
+          "image_url": "https://www.capraboacasa.com/images/17946732.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/17946732.jpg"
         }
       }
     },
@@ -4840,6 +5960,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/20322",
           "fetched": "2026-11-14T15:57:56+01:00"
+        },
+        "caprabo": {
+          "product_id": "134023",
+          "name": "Calamares en salsa americana CALVO, pack 3x80 g",
+          "packaging": null,
+          "price": 3.99,
+          "ref_price": 16.63,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/134023-p/",
+          "image_url": "https://www.capraboacasa.com/images/134023.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/134023.jpg"
         }
       }
     },
@@ -4900,6 +6032,18 @@
           "ref_unit": "L",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/16527",
           "fetched": "2026-11-14T15:57:56+01:00"
+        },
+        "caprabo": {
+          "product_id": "27368190",
+          "name": "Nata para cocinar textura espesa ASTURIANA, brik 500 ml",
+          "packaging": null,
+          "price": 2.69,
+          "ref_price": 5.38,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/27368190-p/",
+          "image_url": "https://www.capraboacasa.com/images/27368190.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27368190.jpg"
         }
       }
     },
@@ -4951,7 +6095,19 @@
           "fetched": "2026-11-15T09:17:05+01:00",
           "image": "img/consum/31241.jpg"
         },
-        "bonpreu": null
+        "bonpreu": null,
+        "caprabo": {
+          "product_id": "24551996",
+          "name": "Nachos naturales EROSKI, bolsa 150 g",
+          "packaging": null,
+          "price": 0.9,
+          "ref_price": 6.0,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/24551996-p/",
+          "image_url": "https://www.capraboacasa.com/images/24551996.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/24551996.jpg"
+        }
       }
     },
     "garbanzos": {
@@ -5011,6 +6167,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/74267",
           "fetched": "2026-11-14T16:03:32+01:00"
+        },
+        "caprabo": {
+          "product_id": "25946740",
+          "name": "Garbanzo extra EROSKI, paquete 500 g",
+          "packaging": null,
+          "price": 1.1,
+          "ref_price": 2.2,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/25946740-p/",
+          "image_url": "https://www.capraboacasa.com/images/25946740.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/25946740.jpg"
         }
       }
     },
@@ -5071,6 +6239,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/90812",
           "fetched": "2026-11-14T19:46:34+01:00"
+        },
+        "caprabo": {
+          "product_id": "4810149",
+          "name": "Yogur natural EROSKI BASIC, pack 8x125 g",
+          "packaging": null,
+          "price": 1.33,
+          "ref_price": 1.36,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/4810149-p/",
+          "image_url": "https://www.capraboacasa.com/images/4810149.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/4810149.jpg"
         }
       }
     },
@@ -5100,6 +6280,18 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/76353",
           "fetched": "2026-11-14T20:47:05+01:00"
+        },
+        "caprabo": {
+          "product_id": "27008697",
+          "name": "Hamburguesa de vacuno EROSKI, 6 uds, bandeja 540 g",
+          "packaging": null,
+          "price": 5.9,
+          "ref_price": 10.93,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27008697-p/",
+          "image_url": "https://www.capraboacasa.com/images/27008697.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/27008697.jpg"
         }
       }
     },
@@ -5129,9 +6321,21 @@
           "ref_unit": "kg",
           "url": "https://www.compraonline.bonpreuesclat.cat/products/x/46916",
           "fetched": "2026-11-14T19:41:07+01:00"
+        },
+        "caprabo": {
+          "product_id": "22396832",
+          "name": "Hamburguesa de pollo EROSKI, bandeja 360 g",
+          "packaging": null,
+          "price": 2.53,
+          "ref_price": 7.03,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/22396832-p/",
+          "image_url": "https://www.capraboacasa.com/images/22396832.jpg",
+          "fetched": "2026-11-16T10:05:08+01:00",
+          "image": "img/caprabo/22396832.jpg"
         }
       }
     }
   },
-  "updated": "2026-11-15T22:59:19+01:00"
+  "updated": "2026-11-16T10:05:08+01:00"
 }
