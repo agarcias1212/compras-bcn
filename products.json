@@ -1567,15 +1567,18 @@
       "name": "Mayonesa light",
       "unit": "L",
       "queries": {
-        "mercadona": "mayonesa ligera",
-        "bonpreu": "maionesa light",
+        "mercadona": "salsa light",
+        "bonpreu": "salsa lleugera",
         "aldi": "despensa/tomates-y-salsas: mayonesa light",
-        "dia": "mayonesa light",
-        "consum": "mayonesa light",
+        "dia": "salsa ligera",
+        "consum": "salsa ligera",
         "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060057-mayonesa: salsa ligera"
       },
       "pinned": {
-        "caprabo": "26144147"
+        "caprabo": "26144147",
+        "mercadona": "15793",
+        "bonpreu": "85917",
+        "dia": "148579"
       }
     },
     {
@@ -2065,6 +2068,238 @@
         "consum": "7163",
         "bonpreu": "90812",
         "caprabo": "4810149"
+      }
+    },
+    {
+      "id": "pimiento-rojo",
+      "name": "Pimiento rojo",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "pimiento rojo -asado -tiras -piquillo -ultracongelado -relleno",
+        "bonpreu": "pebrot vermell -tires -escalivat -ecologic",
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: pimiento rojo",
+        "dia": "pimiento rojo -asado -tiras -piquillo -diamir",
+        "consum": "pimiento rojo -asado -tiras -piquillo -lata -pate",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059714-tomates-y-pimientos: pimiento rojo"
+      },
+      "pinned": {
+        "mercadona": "69310",
+        "bonpreu": "07313",
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas/981100",
+        "dia": "74",
+        "consum": "4708",
+        "caprabo": "26794008"
+      }
+    },
+    {
+      "id": "pimientos-tricolor",
+      "name": "Pimientos tricolor (pack 3 colores)",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "pimientos tricolor",
+        "bonpreu": "pebrot tricolor -escalivat",
+        "aldi": "fruta-y-verdura/verduras-y-hortalizas: pimientos tricolor",
+        "dia": "pimientos tricolor",
+        "consum": "pimiento tricolor",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059714-tomates-y-pimientos: pimiento mezcla"
+      },
+      "pinned": {
+        "mercadona": "69495",
+        "bonpreu": "01786",
+        "dia": "102283",
+        "consum": "12407",
+        "caprabo": "13118591"
+      }
+    },
+    {
+      "id": "vinagre-blanco",
+      "name": "Vinagre de vino blanco",
+      "unit": "L",
+      "queries": {
+        "mercadona": "vinagre vino blanco",
+        "bonpreu": "vinagre vi blanc -balsamic",
+        "aldi": "despensa/aceites-y-vinagres: vinagre vino blanco",
+        "dia": "vinagre vino blanco",
+        "consum": "vinagre vino blanco",
+        "caprabo": "2059806-alimentacion/2059988-aceite-vinagre-sal-harina-y-pan-rallado/2059995-vinagre: vinagre vino blanco"
+      },
+      "pinned": {
+        "mercadona": "4940",
+        "bonpreu": "59900",
+        "aldi": "despensa/aceites-y-vinagres/250000",
+        "dia": "422",
+        "consum": "5676",
+        "caprabo": "318410"
+      }
+    },
+    {
+      "id": "queso-untar",
+      "name": "Queso de untar natural",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "queso untar suave -hierbas -azul",
+        "bonpreu": "formatge untar natural",
+        "aldi": "quesos/queso-de-untar: queso cremoso untar -cabra",
+        "dia": "queso untar natural",
+        "consum": "queso untar natural",
+        "caprabo": "2059698-frescos/2059858-queso-y-membrillo/2059868-queso-tarrina: queso untar natural"
+      },
+      "pinned": {
+        "mercadona": "51203",
+        "bonpreu": "35341",
+        "aldi": "quesos/queso-de-untar/737700",
+        "dia": "263518",
+        "consum": "9666",
+        "caprabo": "27617760"
+      }
+    },
+    {
+      "id": "perejil",
+      "name": "Perejil fresco",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "perejil troceado",
+        "bonpreu": "julivert picat -all",
+        "dia": "perejil manojo",
+        "consum": "perejil bolsa",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059721-salsas-hierbas-y-especias: perejil -ajo"
+      },
+      "pinned": {
+        "mercadona": "69701",
+        "bonpreu": "43575",
+        "dia": "191539",
+        "consum": "5919",
+        "caprabo": "25579160"
+      }
+    },
+    {
+      "id": "cebolla-crujiente",
+      "name": "Cebolla frita crujiente",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "cebolla frita crujiente",
+        "bonpreu": "ceba fregida",
+        "aldi": "despensa/especias-y-condimentos: cebolla frita",
+        "dia": "cebolla frita",
+        "consum": "cebolla crujiente",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: cebolla frita"
+      },
+      "pinned": {
+        "mercadona": "34208",
+        "bonpreu": "82539",
+        "aldi": "despensa/especias-y-condimentos/601150500",
+        "dia": "307870",
+        "consum": "7105",
+        "caprabo": "25980467"
+      }
+    },
+    {
+      "id": "chili-con-carne",
+      "name": "Chili con carne",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "chili con carne",
+        "bonpreu": "bitxo amb carn",
+        "dia": "chili con carne",
+        "consum": "chili con carne",
+        "caprabo": "2059806-alimentacion/2060042-platos-preparados/2060051-comida-mejicana: chili carne"
+      },
+      "pinned": {
+        "mercadona": "23137",
+        "bonpreu": "29031",
+        "consum": "10282",
+        "caprabo": "122903"
+      }
+    },
+    {
+      "id": "sazonador-pollo",
+      "name": "Sazonador para pollo y carne",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "sazonador pollo carne",
+        "aldi": "despensa/especias-y-condimentos: sazonador pollo",
+        "dia": "sazonador pollo -maggi",
+        "consum": "sazonador pollo",
+        "caprabo": "2059806-alimentacion/2060056-salsas-y-especias/2060066-otras-especias: sazonador pollo -airfry"
+      },
+      "pinned": {
+        "mercadona": "86808",
+        "aldi": "despensa/especias-y-condimentos/601001401",
+        "dia": "307108",
+        "consum": "10764",
+        "caprabo": "23541477"
+      }
+    },
+    {
+      "id": "panecillos",
+      "name": "Panecillos para bocadillo",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "panecillos -integrales -tostado -queso",
+        "dia": "panecillos unidades -tostados",
+        "consum": "panecillo unidades"
+      },
+      "pinned": {
+        "mercadona": "40339",
+        "dia": "309605",
+        "consum": "22687"
+      }
+    },
+    {
+      "id": "compresas-noche",
+      "name": "Toallitas de noche con alas",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "compresa noche alas -incontinencia -classic",
+        "bonpreu": "compresa nit ales",
+        "dia": "compresas noche con alas",
+        "consum": "compresa noche alas",
+        "caprabo": "2060401-higiene-y-belleza/2060487-higiene-intima-/2060488-compresas: compresa noche alas"
+      },
+      "pinned": {
+        "mercadona": "14321",
+        "bonpreu": "59167",
+        "dia": "283819",
+        "consum": "30942",
+        "caprabo": "688622"
+      }
+    },
+    {
+      "id": "compresas-normal",
+      "name": "Toallitas normales con alas",
+      "unit": "ud",
+      "queries": {
+        "mercadona": "compresa normal alas -cotton -sin",
+        "bonpreu": "compresa normal ales",
+        "aldi": "cuidado-personal/higiene-intima: compresa normal alas",
+        "dia": "compresas normal con alas",
+        "consum": "compresa normal alas -s",
+        "caprabo": "2060401-higiene-y-belleza/2060487-higiene-intima-/2060488-compresas: compresa normal alas"
+      },
+      "pinned": {
+        "mercadona": "14316",
+        "bonpreu": "59098",
+        "aldi": "cuidado-personal/higiene-intima/601586401",
+        "dia": "283817",
+        "consum": "31068",
+        "caprabo": "15049745"
+      }
+    },
+    {
+      "id": "apio",
+      "name": "Apio verde",
+      "unit": "kg",
+      "queries": {
+        "mercadona": "apio verde",
+        "dia": "apio",
+        "consum": "apio verde manojo",
+        "caprabo": "2059698-frescos/2059710-verduras-y-hortalizas/2059716-lechuga-pepino-y-otros: apio verde manojo"
+      },
+      "pinned": {
+        "mercadona": "69275",
+        "dia": "21242",
+        "consum": "5319",
+        "caprabo": "15712136"
       }
     }
   ]

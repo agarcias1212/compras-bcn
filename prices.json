@@ -4874,11 +4874,41 @@
       "name": "Mayonesa light",
       "unit": "L",
       "stores": {
-        "mercadona": null,
+        "mercadona": {
+          "product_id": "15793",
+          "name": "Salsa Light Hacendado, tarro 500 ml",
+          "packaging": "Tarro",
+          "price": 1.2,
+          "ref_price": 2.4,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/15793/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/15793.webp"
+        },
         "aldi": null,
-        "dia": null,
+        "dia": {
+          "product_id": "148579",
+          "name": "Salsa ligera Dia Salseo 450 ml",
+          "packaging": null,
+          "price": 1.24,
+          "ref_price": 2.76,
+          "ref_unit": "L",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/ketchup-mayonesa-y-mostaza/p/148579",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
         "consum": null,
-        "bonpreu": null,
+        "bonpreu": {
+          "product_id": "85917",
+          "name": "IFA Salsa lleugera",
+          "packaging": null,
+          "price": 1.19,
+          "ref_price": 2.64,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/85917",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/78260122-b43a-4614-83c4-006ffe78d9e4/150x150.webp",
+          "image": "img/bonpreu/85917.webp"
+        },
         "caprabo": {
           "product_id": "26144147",
           "name": "Salsa ligera EROSKI, frasco 450 ml",
@@ -6333,6 +6363,769 @@
           "image_url": "https://www.capraboacasa.com/images/22396832.jpg",
           "fetched": "2026-11-16T10:05:08+01:00",
           "image": "img/caprabo/22396832.jpg"
+        }
+      }
+    },
+    "pimiento-rojo": {
+      "name": "Pimiento rojo",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69310",
+          "name": "Pimiento rojo",
+          "packaging": "Pieza",
+          "price": 0.93,
+          "ref_price": 2.9,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image": "img/mercadona/69310.webp"
+        },
+        "bonpreu": {
+          "product_id": "07313",
+          "name": "Pebrot dolç vermell 1 u.",
+          "packaging": null,
+          "price": 1.08,
+          "ref_price": 2.99,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/07313",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/8d581689-a480-4cc6-9fae-d5ab77f54949/150x150.webp",
+          "image": "img/bonpreu/07313.webp"
+        },
+        "aldi": {
+          "product_id": "981100",
+          "name": "Pimiento dulce rojo",
+          "packaging": "precio kg (a granel)",
+          "price": 2.69,
+          "ref_price": 2.69,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/productos/fruta-y-verdura/verduras-y-hortalizas.html",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image": "img/aldi/981100.webp"
+        },
+        "dia": {
+          "product_id": "74",
+          "name": "Pimiento rojo unidad 350 g aprox.",
+          "packaging": null,
+          "price": 1.29,
+          "ref_price": 3.69,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/verduras/tomates-pimientos-y-pepinos/p/74",
+          "fetched": "2026-11-17T12:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "4708",
+          "name": "Pimiento Rojo",
+          "packaging": null,
+          "price": 1.12,
+          "ref_price": 3.49,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/s/pimiento%20rojo",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image": "img/consum/4708.jpg"
+        },
+        "caprabo": {
+          "product_id": "26794008",
+          "name": "Pimiento lamuyo rojo, al peso, compra mínima 500 g",
+          "packaging": null,
+          "price": 1.8,
+          "ref_price": 3.6,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/26794008-p/",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/26794008.jpg",
+          "image": "img/caprabo/26794008.jpg"
+        }
+      }
+    },
+    "pimientos-tricolor": {
+      "name": "Pimientos tricolor (pack 3 colores)",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69495",
+          "name": "Pimientos tricolor",
+          "packaging": null,
+          "price": 2.48,
+          "ref_price": 3.5,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69495/pimientos-tricolor",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image": "img/mercadona/69495.webp"
+        },
+        "bonpreu": {
+          "product_id": "01786",
+          "name": "LA COLLITA Pebrot dolç tricolor en bossa de 500 g",
+          "packaging": null,
+          "price": 2.15,
+          "ref_price": 4.3,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/01786",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/36370f76-b49f-4aae-a72c-62918d73cae0/150x150.webp",
+          "image": "img/bonpreu/01786.webp"
+        },
+        "aldi": null,
+        "dia": {
+          "product_id": "102283",
+          "name": "Pimientos tricolor 500 g",
+          "packaging": null,
+          "price": 2.5,
+          "ref_price": 5.0,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/verduras/tomates-pimientos-y-pepinos/p/102283",
+          "fetched": "2026-11-17T12:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "12407",
+          "name": "Pimiento Tricolor",
+          "packaging": null,
+          "price": 2.35,
+          "ref_price": 4.7,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/s/pimiento%20tricolor",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image": "img/consum/12407.jpg"
+        },
+        "caprabo": {
+          "product_id": "13118591",
+          "name": "Pimiento dulce mezcla, bolsa 500 g",
+          "packaging": null,
+          "price": 2.15,
+          "ref_price": 4.3,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/13118591-p/",
+          "fetched": "2026-11-17T12:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/13118591.jpg",
+          "image": "img/caprabo/13118591.jpg"
+        }
+      }
+    },
+    "vinagre-blanco": {
+      "name": "Vinagre de vino blanco",
+      "unit": "L",
+      "stores": {
+        "mercadona": {
+          "product_id": "4940",
+          "name": "Vinagre de vino blanco Hacendado",
+          "packaging": "Botella 1 L",
+          "price": 0.65,
+          "ref_price": 0.65,
+          "ref_unit": "L",
+          "url": "https://tienda.mercadona.es/product/4940/vinagre-vino-blanco-hacendado-botella",
+          "fetched": "2026-11-17T12:45:00+01:00",
+          "image": "img/mercadona/4940.webp"
+        },
+        "bonpreu": {
+          "product_id": "59900",
+          "name": "BONPREU Vinagre de vi blanc (2 L)",
+          "packaging": null,
+          "price": 1.24,
+          "ref_price": 0.62,
+          "ref_unit": "L",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59900",
+          "fetched": "2026-11-17T12:45:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/c3f3d926-2205-40c6-87ca-ff10c43f91bd/150x150.webp",
+          "image": "img/bonpreu/59900.webp"
+        },
+        "aldi": {
+          "product_id": "250000",
+          "name": "Vinagre de vino blanco",
+          "packaging": "1 l unidad",
+          "price": 0.62,
+          "ref_price": 0.62,
+          "ref_unit": "L",
+          "url": "https://www.aldi.es/producto/vinagre-de-vino-blanco-250000.html",
+          "fetched": "2026-11-17T12:45:00+01:00",
+          "image": "img/aldi/250000.webp"
+        },
+        "dia": {
+          "product_id": "422",
+          "name": "Vinagre de vino blanco Aliña tu Dia 1 L",
+          "packaging": null,
+          "price": 0.65,
+          "ref_price": 0.65,
+          "ref_unit": "L",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/422",
+          "fetched": "2026-11-17T12:45:00+01:00"
+        },
+        "consum": {
+          "product_id": "5676",
+          "name": "Vinagre de Vino Blanco Consum 1 L",
+          "packaging": null,
+          "price": 0.65,
+          "ref_price": 0.65,
+          "ref_unit": "L",
+          "url": "https://tienda.consum.es/es/s/vinagre%20vino%20blanco",
+          "fetched": "2026-11-17T12:45:00+01:00",
+          "image": "img/consum/5676.jpg"
+        },
+        "caprabo": {
+          "product_id": "318410",
+          "name": "Vinagre de vino blanco EROSKI basic, botella 1 litro",
+          "packaging": null,
+          "price": 0.65,
+          "ref_price": 0.65,
+          "ref_unit": "L",
+          "url": "https://www.capraboacasa.com/es/productdetail/318410-p/",
+          "fetched": "2026-11-17T12:45:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/318410.jpg",
+          "image": "img/caprabo/318410.jpg"
+        }
+      }
+    },
+    "queso-untar": {
+      "name": "Queso de untar natural",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "51203",
+          "name": "Queso untar suave de vaca Hacendado 300 g",
+          "packaging": null,
+          "price": 1.4,
+          "ref_price": 4.67,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/51203/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/51203.webp"
+        },
+        "bonpreu": {
+          "product_id": "35341",
+          "name": "IFA Formatge per untar natural",
+          "packaging": null,
+          "price": 1.35,
+          "ref_price": 5.4,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/35341",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/aecb3079-e525-4371-9bb4-97f7e3492e6f/150x150.webp",
+          "image": "img/bonpreu/35341.webp"
+        },
+        "aldi": {
+          "product_id": "737700",
+          "name": "Queso cremoso para untar 300 g",
+          "packaging": null,
+          "price": 1.35,
+          "ref_price": 4.5,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/queso-cremoso-para-untar-737700.html",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/aldi/737700.webp"
+        },
+        "dia": {
+          "product_id": "263518",
+          "name": "Queso de untar natural Dia Láctea 250 g",
+          "packaging": null,
+          "price": 1.17,
+          "ref_price": 4.68,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/quesos/untable-y-en-porciones/p/263518",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "9666",
+          "name": "Queso Untar Natural Tarrina Consum 250 g",
+          "packaging": null,
+          "price": 1.28,
+          "ref_price": 5.12,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/s/queso%20untar",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/9666.jpg"
+        },
+        "caprabo": {
+          "product_id": "27617760",
+          "name": "Queso para untar natural EROSKI, tarrina 300 g",
+          "packaging": null,
+          "price": 1.4,
+          "ref_price": 4.67,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/27617760-p/",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/27617760.jpg",
+          "image": "img/caprabo/27617760.jpg"
+        }
+      }
+    },
+    "perejil": {
+      "name": "Perejil fresco",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69701",
+          "name": "Perejil troceado lavado 40 g",
+          "packaging": null,
+          "price": 0.95,
+          "ref_price": 23.75,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69701/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/69701.webp"
+        },
+        "bonpreu": {
+          "product_id": "43575",
+          "name": "LA COLLITA Julivert picat terrina 100 g",
+          "packaging": null,
+          "price": 0.89,
+          "ref_price": 8.9,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/43575",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/21fcdcde-fba0-43c6-9bea-1be20683dbe5/150x150.webp",
+          "image": "img/bonpreu/43575.webp"
+        },
+        "aldi": null,
+        "dia": {
+          "product_id": "191539",
+          "name": "Perejil manojo 50 g",
+          "packaging": null,
+          "price": 1.0,
+          "ref_price": 20.0,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/verduras/hierbas-aromaticas/p/191539",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "5919",
+          "name": "Perejil Bolsa 150 g",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 7.67,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/s/perejil",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/5919.jpg"
+        },
+        "caprabo": {
+          "product_id": "25579160",
+          "name": "Perejil CONCA, bolsa 150 g",
+          "packaging": null,
+          "price": 1.09,
+          "ref_price": 7.27,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/25579160-p/",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/25579160.jpg",
+          "image": "img/caprabo/25579160.jpg"
+        }
+      }
+    },
+    "cebolla-crujiente": {
+      "name": "Cebolla frita crujiente",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "34208",
+          "name": "Cebolla frita crujiente Hacendado 150 g",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 7.67,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/34208/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/34208.webp"
+        },
+        "bonpreu": {
+          "product_id": "82539",
+          "name": "BONPREU Ceba fregida cruixent",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 11.5,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/82539",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/42d51cfb-248c-4cda-bb87-ee46a64794f8/150x150.webp",
+          "image": "img/bonpreu/82539.webp"
+        },
+        "aldi": {
+          "product_id": "601150500",
+          "name": "Cebolla frita 150 g",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 7.67,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/cebolla-frita-601150500.html",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/aldi/601150500.webp"
+        },
+        "dia": {
+          "product_id": "307870",
+          "name": "Cebolla frita Toptaste 150 g",
+          "packaging": null,
+          "price": 1.29,
+          "ref_price": 8.6,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/verduras/ajos-cebollas-y-puerros/p/307870",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "7105",
+          "name": "Cebolla Crujiente Argente 100 g",
+          "packaging": null,
+          "price": 1.59,
+          "ref_price": 15.9,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/s/cebolla%20crujiente",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/7105.jpg"
+        },
+        "caprabo": {
+          "product_id": "25980467",
+          "name": "Cebolla frita crujiente CHIQUILÍN, tarrina 130 g",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 8.85,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/25980467-p/",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/25980467.jpg",
+          "image": "img/caprabo/25980467.jpg"
+        }
+      }
+    },
+    "chili-con-carne": {
+      "name": "Chili con carne",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "23137",
+          "name": "Chili con carne Hacendado 420 g",
+          "packaging": null,
+          "price": 2.8,
+          "ref_price": 6.67,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/23137/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/23137.webp"
+        },
+        "bonpreu": {
+          "product_id": "29031",
+          "name": "ZANUY Bitxo amb carn",
+          "packaging": null,
+          "price": 2.95,
+          "ref_price": 7.11,
+          "ref_unit": "kg",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/29031",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/8d73fcc4-ba53-4547-ae44-a8e8ebeed150/150x150.webp",
+          "image": "img/bonpreu/29031.webp"
+        },
+        "aldi": null,
+        "dia": null,
+        "consum": {
+          "product_id": "10282",
+          "name": "Chili con Carne Old El Paso 418 g",
+          "packaging": null,
+          "price": 4.79,
+          "ref_price": 11.46,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/s/chili",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/10282.jpg"
+        },
+        "caprabo": {
+          "product_id": "122903",
+          "name": "Chili con carne OLD EL PASO, lata 418 g",
+          "packaging": null,
+          "price": 4.79,
+          "ref_price": 11.46,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/122903-p/",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/122903.jpg",
+          "image": "img/caprabo/122903.jpg"
+        }
+      }
+    },
+    "sazonador-pollo": {
+      "name": "Sazonador para pollo y carne",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "86808",
+          "name": "Sazonador pollo y carne Hacendado 76 g",
+          "packaging": null,
+          "price": 1.4,
+          "ref_price": 18.42,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/86808/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/86808.webp"
+        },
+        "bonpreu": null,
+        "aldi": {
+          "product_id": "601001401",
+          "name": "Sazonador para pollo 79 g",
+          "packaging": null,
+          "price": 2.49,
+          "ref_price": 31.52,
+          "ref_unit": "kg",
+          "url": "https://www.aldi.es/producto/sazonador-para-pollo-601001401.html",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/aldi/601001401.webp"
+        },
+        "dia": {
+          "product_id": "307108",
+          "name": "Sazonador pollo Dia Vegecampo 110 g",
+          "packaging": null,
+          "price": 1.99,
+          "ref_price": 18.09,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/aceites-salsas-y-especias/sazonadores/p/307108",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "10764",
+          "name": "Sazonador Pollo Ducros 75 g",
+          "packaging": null,
+          "price": 2.99,
+          "ref_price": 39.87,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/s/sazonador",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/10764.jpg"
+        },
+        "caprabo": {
+          "product_id": "23541477",
+          "name": "Sazonador de pollo DUCROS, frasco 50 g",
+          "packaging": null,
+          "price": 2.99,
+          "ref_price": 59.8,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/23541477-p/",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/23541477.jpg",
+          "image": "img/caprabo/23541477.jpg"
+        }
+      }
+    },
+    "panecillos": {
+      "name": "Panecillos para bocadillo",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "40339",
+          "name": "11 Panecillos (495 g)",
+          "packaging": null,
+          "price": 1.14,
+          "ref_price": 0.104,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/40339/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/40339.webp"
+        },
+        "bonpreu": null,
+        "aldi": null,
+        "dia": {
+          "product_id": "309605",
+          "name": "Panecillos 8 unidades El Molino de Dia 360 g",
+          "packaging": null,
+          "price": 1.0,
+          "ref_price": 0.125,
+          "ref_unit": "ud",
+          "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/309605",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "22687",
+          "name": "Panecillo 10 Unidades 450 g",
+          "packaging": null,
+          "price": 1.15,
+          "ref_price": 0.115,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/s/panecillo",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/22687.jpg"
+        },
+        "caprabo": null
+      }
+    },
+    "compresas-noche": {
+      "name": "Toallitas de noche con alas",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "14321",
+          "name": "Compresa noche Deliplus con alas, 10 ud",
+          "packaging": null,
+          "price": 1.3,
+          "ref_price": 0.13,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/14321/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/14321.webp"
+        },
+        "bonpreu": {
+          "product_id": "59167",
+          "name": "BONPREU Compresa de nit ultra súper amb ales, 10 u",
+          "packaging": null,
+          "price": 1.19,
+          "ref_price": 0.119,
+          "ref_unit": "ud",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59167",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/59a31dac-ecb0-4318-9761-e3d62ea40722/150x150.webp",
+          "image": "img/bonpreu/59167.webp"
+        },
+        "aldi": null,
+        "dia": {
+          "product_id": "283819",
+          "name": "Compresas ultrafina noche con alas Esos Dias 10 unidades",
+          "packaging": null,
+          "price": 1.3,
+          "ref_price": 0.13,
+          "ref_unit": "ud",
+          "url": "https://www.dia.es/higiene-y-cuidado-del-cuerpo/compresas-e-higiene-intima/p/283819",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "30942",
+          "name": "Compresas Ultra Noche Con Alas Kyrey 10 U",
+          "packaging": null,
+          "price": 1.29,
+          "ref_price": 0.129,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/s/compresas",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/30942.jpg"
+        },
+        "caprabo": {
+          "product_id": "688622",
+          "name": "Compresas de noche con alas EROSKI, paquete 10 uds",
+          "packaging": null,
+          "price": 1.3,
+          "ref_price": 0.13,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/688622-p/",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/688622.jpg",
+          "image": "img/caprabo/688622.jpg"
+        }
+      }
+    },
+    "compresas-normal": {
+      "name": "Toallitas normales con alas",
+      "unit": "ud",
+      "stores": {
+        "mercadona": {
+          "product_id": "14316",
+          "name": "Compresa normal Deliplus con alas, 32 ud",
+          "packaging": null,
+          "price": 2.35,
+          "ref_price": 0.073,
+          "ref_unit": "ud",
+          "url": "https://tienda.mercadona.es/product/14316/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/14316.webp"
+        },
+        "bonpreu": {
+          "product_id": "59098",
+          "name": "BONPREU Compresa ultra normal amb ales, 14 u",
+          "packaging": null,
+          "price": 0.99,
+          "ref_price": 0.071,
+          "ref_unit": "ud",
+          "url": "https://www.compraonline.bonpreuesclat.cat/products/x/59098",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.compraonline.bonpreuesclat.cat/images-v3/dcbcfd72-cf23-44a2-8e14-8a38edd645a3/e88e35e6-df99-4b64-a648-4b47392f3cbe/150x150.webp",
+          "image": "img/bonpreu/59098.webp"
+        },
+        "aldi": {
+          "product_id": "601586401",
+          "name": "Compresa normal con alas, 32 unidades",
+          "packaging": null,
+          "price": 4.35,
+          "ref_price": 0.136,
+          "ref_unit": "ud",
+          "url": "https://www.aldi.es/productos/cuidado-personal/higiene-intima.html",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/aldi/601586401.webp"
+        },
+        "dia": {
+          "product_id": "283817",
+          "name": "Compresas ultrafinas normal con alas Esos Dias 16 unidades",
+          "packaging": null,
+          "price": 1.18,
+          "ref_price": 0.074,
+          "ref_unit": "ud",
+          "url": "https://www.dia.es/higiene-y-cuidado-del-cuerpo/compresas-e-higiene-intima/p/283817",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "31068",
+          "name": "Compresa Normal Alas Dry Kyrey 16 U",
+          "packaging": null,
+          "price": 1.29,
+          "ref_price": 0.081,
+          "ref_unit": "ud",
+          "url": "https://tienda.consum.es/es/s/compresas",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/31068.jpg"
+        },
+        "caprabo": {
+          "product_id": "15049745",
+          "name": "Compresa ultra alas normal EROSKI basic, paquete 14 uds.",
+          "packaging": null,
+          "price": 1.0,
+          "ref_price": 0.071,
+          "ref_unit": "ud",
+          "url": "https://www.capraboacasa.com/es/productdetail/15049745-p/",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/15049745.jpg",
+          "image": "img/caprabo/15049745.jpg"
+        }
+      }
+    },
+    "apio": {
+      "name": "Apio verde",
+      "unit": "kg",
+      "stores": {
+        "mercadona": {
+          "product_id": "69275",
+          "name": "Apio verde, manojo (aprox. 660 g)",
+          "packaging": null,
+          "price": 1.45,
+          "ref_price": 2.2,
+          "ref_unit": "kg",
+          "url": "https://tienda.mercadona.es/product/69275/x",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/mercadona/69275.webp"
+        },
+        "bonpreu": null,
+        "aldi": null,
+        "dia": {
+          "product_id": "21242",
+          "name": "Apio 500 g",
+          "packaging": null,
+          "price": 1.09,
+          "ref_price": 2.18,
+          "ref_unit": "kg",
+          "url": "https://www.dia.es/verduras/lechugas-y-hojas-verdes/p/21242",
+          "fetched": "2026-11-20T15:40:00+01:00"
+        },
+        "consum": {
+          "product_id": "5319",
+          "name": "Apio Verde Manojo (aprox. 600 g)",
+          "packaging": null,
+          "price": 1.4,
+          "ref_price": 2.33,
+          "ref_unit": "kg",
+          "url": "https://tienda.consum.es/es/s/apio",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image": "img/consum/5319.jpg"
+        },
+        "caprabo": {
+          "product_id": "15712136",
+          "name": "Apio verde manojo",
+          "packaging": null,
+          "price": 1.99,
+          "ref_price": 1.33,
+          "ref_unit": "kg",
+          "url": "https://www.capraboacasa.com/es/productdetail/15712136-p/",
+          "fetched": "2026-11-20T15:40:00+01:00",
+          "image_url": "https://www.capraboacasa.com/images/15712136.jpg",
+          "image": "img/caprabo/15712136.jpg"
         }
       }
     }

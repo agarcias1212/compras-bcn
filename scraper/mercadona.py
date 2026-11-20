@@ -41,6 +41,9 @@ def ficha(p, unidad):
     fmt = pi.get("reference_format") or ""
     factor = CONVERSION.get((fmt.lower(), unidad))
     ref = a_float(pi.get("reference_price"))
+    if unidad == "ud" and a_float(pi.get("total_units")) and a_float(pi.get("unit_price")):
+        # Mercadona redondea el precio por unidad (0,07 €/compresa): mejor precio / unidades del paquete
+        ref, factor = a_float(pi.get("unit_price")) / a_float(pi.get("total_units")), 1
     if not factor and unidad in ("ud", "lavado", "m"):
         n = conteo(p.get("display_name"), unidad) or conteo(p.get("packaging"), unidad)
         precio = a_float(pi.get("unit_price"))

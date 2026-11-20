@@ -125,7 +125,7 @@ def redondea(valor, unidad):
 
 
 _CONTEO = {
-    "ud": re.compile(r"(\d+)\s*(?:unidades|unitats|uds?\.?|u|rollos?|rotllos?|bolsas?|bosses|bolsitas?|sobres?|filtros?|bayetas?|bayetes|pa[ñn]os|draps)\b", re.I),
+    "ud": re.compile(r"(\d+)\s*(?:unidades|unitats|uds?\.?|u|rollos?|rotllos?|bolsas?|bosses|bolsitas?|sobres?|filtros?|bayetas?|bayetes|pa[ñn]os|draps|panecillos?|panets?)\b", re.I),
     "m": re.compile(r"(\d+(?:[.,]\d+)?)\s*(?:m|metros?|metres?|mts?)\b", re.I),
     "lavado": re.compile(r"(\d+)\s*(?:lavados|dosis|rentats|renta(?:des)?|lv)\b", re.I),
 }
